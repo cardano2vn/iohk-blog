@@ -21,7 +21,7 @@ Hôm nay (Thứ Hai, ngày 20 tháng 6) là ngày mới nhất mà chúng tôi c
 The IOG engineering team is extremely close to finalizing the core work, with just seven bugs still outstanding to complete the hard fork work, with none currently ranked as ‘severe’. After some consideration, we have agreed NOT to send the hard fork update proposal to the testnet today to allow more time for testing.
 
 Nhóm IOG Engineering rất gần để hoàn thiện công việc cốt lõi, chỉ với bảy lỗi vẫn còn nổi bật để hoàn thành công việc khó khăn, không có công việc nào được xếp hạng là ’nghiêm trọng.
-Sau khi xem xét, chúng tôi đã đồng ý không gửi đề xuất cập nhật hard fork cho TestNet ngay hôm nay để cho phép nhiều thời gian hơn để thử nghiệm.
+Sau một số xem xét, chúng tôi đã đồng ý không gửi đề xuất cập nhật hard fork cho testnet ngay hôm nay để cho phép nhiều thời gian hơn để thử nghiệm.
 
 To date, we’ve managed to get through the majority (approx 95%) of our [Plutus V2 test scripts](https://github.com/input-output-hk/cardano-node-tests/issues/1079). However, we still have a few outstanding items that we need to run to confirm everything is working as expected. We have determined we'll need a few more days for this. This puts us behind schedule on our previously communicated target date of June 29 for a mainnet hard fork.
 
