@@ -81,7 +81,7 @@ const config = {
             label: 'Docs',
           },
           
-		  {to: '/docs1/2021/01/2021-01-04-the-final-days-of-christmas', label: 'Blog-iohk', position: 'left'},
+		  {to: '/docs1/intro', label: 'Blog-iohk', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
