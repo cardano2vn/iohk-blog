@@ -1,9 +1,9 @@
 # Cardano at Consensus: a look ahead
 ### **It’s one of the premier blockchain industry events of the year. And IOG is going to be there. Here's what’s happening…**
-![](img/2022-06-06-cardano-at-consensus-a-look-ahead.002.png) 6 June 2022![](img/2022-06-06-cardano-at-consensus-a-look-ahead.002.png)[ Fernando Sanchez](tmp//en/blog/authors/fernando-sanchez/page-1/)![](img/2022-06-06-cardano-at-consensus-a-look-ahead.003.png) 3 mins read
+![](img/2022-06-06-cardano-at-consensus-a-look-ahead.002.png) 6 June 2022![](img/2022-06-06-cardano-at-consensus-a-look-ahead.002.png)[ Fernando Sanchez](/en/blog/authors/fernando-sanchez/page-1/)![](img/2022-06-06-cardano-at-consensus-a-look-ahead.003.png) 3 mins read
 
-![Fernando Sanchez](img/2022-06-06-cardano-at-consensus-a-look-ahead.004.png)[](tmp//en/blog/authors/fernando-sanchez/page-1/)
-### [**Fernando Sanchez**](tmp//en/blog/authors/fernando-sanchez/page-1/)
+![Fernando Sanchez](img/2022-06-06-cardano-at-consensus-a-look-ahead.004.png)[](/en/blog/authors/fernando-sanchez/page-1/)
+### [**Fernando Sanchez**](/en/blog/authors/fernando-sanchez/page-1/)
 Technical Writer
 
 Marketing and Communications

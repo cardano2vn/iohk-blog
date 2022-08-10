@@ -1,9 +1,9 @@
 # Plutus Community Docs: a new documentation site for devs, by devs
 ### **As Plutus matures, a new community-driven documentation site will offer a valuable source of documentation from devs building on Cardano**
-![](img/2022-06-08-plutus-community-docs-a-new-documentation-site-for-devs-by-devs.002.png) 8 June 2022![](img/2022-06-08-plutus-community-docs-a-new-documentation-site-for-devs-by-devs.002.png)[ Ignacio Calderon de la Barca](tmp//en/blog/authors/gonzalo-ignacio-calderon-de-la-barca-rodo/page-1/)![](img/2022-06-08-plutus-community-docs-a-new-documentation-site-for-devs-by-devs.003.png) 4 mins read
+![](img/2022-06-08-plutus-community-docs-a-new-documentation-site-for-devs-by-devs.002.png) 8 June 2022![](img/2022-06-08-plutus-community-docs-a-new-documentation-site-for-devs-by-devs.002.png)[ Ignacio Calderon de la Barca](/en/blog/authors/gonzalo-ignacio-calderon-de-la-barca-rodo/page-1/)![](img/2022-06-08-plutus-community-docs-a-new-documentation-site-for-devs-by-devs.003.png) 4 mins read
 
-![Ignacio Calderon de la Barca](img/2022-06-08-plutus-community-docs-a-new-documentation-site-for-devs-by-devs.004.png)[](tmp//en/blog/authors/gonzalo-ignacio-calderon-de-la-barca-rodo/page-1/)
-### [**Ignacio Calderon de la Barca**](tmp//en/blog/authors/gonzalo-ignacio-calderon-de-la-barca-rodo/page-1/)
+![Ignacio Calderon de la Barca](img/2022-06-08-plutus-community-docs-a-new-documentation-site-for-devs-by-devs.004.png)[](/en/blog/authors/gonzalo-ignacio-calderon-de-la-barca-rodo/page-1/)
+### [**Ignacio Calderon de la Barca**](/en/blog/authors/gonzalo-ignacio-calderon-de-la-barca-rodo/page-1/)
 Technical Community Manager - Plutus
 
 Marketing & Communication

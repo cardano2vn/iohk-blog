@@ -1,9 +1,9 @@
 # Vasil upgrade - the state of play
 ### **Very close but a little further still to go. Here’s an update on the progress towards the Vasil upgrade** 
-![](img/2022-06-20-vasil-upgrade-the-state-of-play.002.png) 20 June 2022![](img/2022-06-20-vasil-upgrade-the-state-of-play.002.png)[ Nigel Hemsley](tmp//en/blog/authors/nigel-hemsley/page-1/)![](img/2022-06-20-vasil-upgrade-the-state-of-play.003.png) 4 mins read
+![](img/2022-06-20-vasil-upgrade-the-state-of-play.002.png) 20 June 2022![](img/2022-06-20-vasil-upgrade-the-state-of-play.002.png)[ Nigel Hemsley](/en/blog/authors/nigel-hemsley/page-1/)![](img/2022-06-20-vasil-upgrade-the-state-of-play.003.png) 4 mins read
 
-![Nigel Hemsley](img/2022-06-20-vasil-upgrade-the-state-of-play.004.png)[](tmp//en/blog/authors/nigel-hemsley/page-1/)
-### [**Nigel Hemsley**](tmp//en/blog/authors/nigel-hemsley/page-1/)
+![Nigel Hemsley](img/2022-06-20-vasil-upgrade-the-state-of-play.004.png)[](/en/blog/authors/nigel-hemsley/page-1/)
+### [**Nigel Hemsley**](/en/blog/authors/nigel-hemsley/page-1/)
 Head of Delivery and Projects
 
 Operations

@@ -64,6 +64,9 @@ const config = {
       },
     ],
   ],
+  
+  plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
+  
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -81,7 +84,7 @@ const config = {
             label: 'Docs',
           },
           
-		  {to: '/docs1/intro', label: 'Blog-iohk', position: 'left'},
+	  {to: '/docs1/intro', label: 'Blog-iohk', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',

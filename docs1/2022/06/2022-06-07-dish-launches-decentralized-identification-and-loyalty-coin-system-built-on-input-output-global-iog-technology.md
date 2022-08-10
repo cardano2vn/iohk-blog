@@ -1,9 +1,9 @@
 # DISH launches decentralized identification and loyalty coin system built on Input Output Global (IOG) technology
 ### **The initiative is part of a long-term collaboration between DISH and IOG to create innovative blockchain solutions to drive adoption of decentralized technologies into the DISH ecosystem**
-![](img/2022-06-07-dish-launches-decentralized-identification-and-loyalty-coin-system-built-on-input-output-global-iog-technology.002.png) 7 June 2022![](img/2022-06-07-dish-launches-decentralized-identification-and-loyalty-coin-system-built-on-input-output-global-iog-technology.002.png)[ Fernando Sanchez](tmp//en/blog/authors/fernando-sanchez/page-1/)![](img/2022-06-07-dish-launches-decentralized-identification-and-loyalty-coin-system-built-on-input-output-global-iog-technology.003.png) 4 mins read
+![](img/2022-06-07-dish-launches-decentralized-identification-and-loyalty-coin-system-built-on-input-output-global-iog-technology.002.png) 7 June 2022![](img/2022-06-07-dish-launches-decentralized-identification-and-loyalty-coin-system-built-on-input-output-global-iog-technology.002.png)[ Fernando Sanchez](/en/blog/authors/fernando-sanchez/page-1/)![](img/2022-06-07-dish-launches-decentralized-identification-and-loyalty-coin-system-built-on-input-output-global-iog-technology.003.png) 4 mins read
 
-![Fernando Sanchez](img/2022-06-07-dish-launches-decentralized-identification-and-loyalty-coin-system-built-on-input-output-global-iog-technology.004.png)[](tmp//en/blog/authors/fernando-sanchez/page-1/)
-### [**Fernando Sanchez**](tmp//en/blog/authors/fernando-sanchez/page-1/)
+![Fernando Sanchez](img/2022-06-07-dish-launches-decentralized-identification-and-loyalty-coin-system-built-on-input-output-global-iog-technology.004.png)[](/en/blog/authors/fernando-sanchez/page-1/)
+### [**Fernando Sanchez**](/en/blog/authors/fernando-sanchez/page-1/)
 Technical Writer
 
 Marketing and Communications

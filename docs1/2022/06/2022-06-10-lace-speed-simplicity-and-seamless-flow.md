@@ -1,9 +1,9 @@
 # Lace: speed, simplicity, and seamless flow
 ### **IOG’s new light wallet – now in development – will help drive adoption by offering enhanced capability and ease of use to crypto users**
-![](img/2022-06-10-lace-speed-simplicity-and-seamless-flow.002.png) 10 June 2022![](img/2022-06-10-lace-speed-simplicity-and-seamless-flow.002.png)[ Olga Hryniuk](tmp//en/blog/authors/olga-hryniuk/page-1/)![](img/2022-06-10-lace-speed-simplicity-and-seamless-flow.003.png) 3 mins read
+![](img/2022-06-10-lace-speed-simplicity-and-seamless-flow.002.png) 10 June 2022![](img/2022-06-10-lace-speed-simplicity-and-seamless-flow.002.png)[ Olga Hryniuk](/en/blog/authors/olga-hryniuk/page-1/)![](img/2022-06-10-lace-speed-simplicity-and-seamless-flow.003.png) 3 mins read
 
-![Olga Hryniuk](img/2022-06-10-lace-speed-simplicity-and-seamless-flow.004.png)[](tmp//en/blog/authors/olga-hryniuk/page-1/)
-### [**Olga Hryniuk**](tmp//en/blog/authors/olga-hryniuk/page-1/)
+![Olga Hryniuk](img/2022-06-10-lace-speed-simplicity-and-seamless-flow.004.png)[](/en/blog/authors/olga-hryniuk/page-1/)
+### [**Olga Hryniuk**](/en/blog/authors/olga-hryniuk/page-1/)
 Technical Writer
 
 Marketing & Communications
