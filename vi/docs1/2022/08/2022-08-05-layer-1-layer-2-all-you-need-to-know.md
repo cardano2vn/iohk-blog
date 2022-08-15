@@ -1,6 +1,6 @@
 # Lớp 1 &amp; Lớp 2: tất cả những gì bạn cần biết
 
-### **When discussing blockchain architecture, the terms 'layer 1' and 'layer 2' are frequently mentioned. These are important concepts that serve two purposes: explain how a blockchain network is built, and provide an easy-to-understand visual representation of what a blockchain network looks like. Let's break these ideas down**
+### **Khi thảo luận về kiến trúc blockchain, các thuật ngữ 'lớp 1' và 'lớp 2' thường được đề cập. Đây là những khái niệm quan trọng phục vụ hai mục đích: giải thích cách mạng lưới blockchain được xây dựng và cung cấp hình ảnh trực quan dễ hiểu về mạng lưới blockchain trông như thế nào. Hãy cùng khám phá chúng nhé.**
 
 ![](img/2022-08-05-layer-1-layer-2-all-you-need-to-know.002.png) 5 tháng 8 năm 2022![](img/2022-08-05-layer-1-layer-2-all-you-need-to-know.002.png) [Fernando Sanchez](/en/blog/authors/fernando-sanchez/page-1/)![](img/2022-08-05-layer-1-layer-2-all-you-need-to-know.003.png) 13 phút đọc
 
@@ -19,7 +19,7 @@ Tiếp thị và Truyền thông
 
 Lớp 1: định nghĩa
 
-Imagine a wedding cake, with different tiers -layers, if you will-, and the figurine of a couple on top. That beautiful cake rests on a solid stand, the base. For all intents and purposes, that robust and solid cake stand is the first layer (layer 1) that supports the cake infrastructure. You can probably see where this is going. In a blockchain, layer 1 is the base network upon which rest layer 2 solutions.
+Hãy tưởng tượng một chiếc bánh cưới, với các tầng khác nhau - các lớp, nếu bạn muốn -, và bức tượng nhỏ của một cặp đôi ở trên cùng. Chiếc bánh xinh đẹp ấy nằm trên một giá đỡ, chân đế vững chắc. Đối với tất cả các mục đích và mục đích, đế bánh chắc chắn và vững chắc đó là lớp đầu tiên (lớp 1) hỗ trợ cơ sở hạ tầng của bánh. Bạn có thể thấy điều này sẽ như thế nào. Trong blockchain, lớp 1 là mạng cơ sở mà trên đó các giải pháp lớp 2 được thiết lập trên đó.
 
 ![](img/2022-08-05-layer-1-layer-2-all-you-need-to-know.008.jpeg)
 
@@ -57,13 +57,13 @@ Nhìn chung, ba lớp này tạo thành giải pháp lớp 1 là Cardano.
 
 ## **Lớp 1: khả năng mở rộng**
 
-Look at that wedding cake again. It's big, isn't it, with all those tiers stacked on top of one another. But look at the base, the cake stand. That first layer has certain dimensions and cannot be any bigger. Equally, it needs to be big enough to support the tiers that sit above it. The stuff that rests on it can only be of a certain size, and this is exactly the reason why wedding cakes have multiple tiers. Every tier (think layer) adds something to the base. A new filling, frosting, decoration, etc. In other words, every tier scales the base layer up.
+Hãy nhìn chiếc bánh cưới một lần nữa. Nó lớn, phải không? với tất cả các tầng xếp chồng lên nhau. Nhưng hãy nhìn vào phần đế, phần đế bánh. Lớp đầu tiên đó có kích thước nhất định và không thể lớn hơn nữa. Tương tự, nó cần phải đủ lớn để hỗ trợ các tầng nằm phía trên nó. Những thứ nằm trên đó chỉ có thể có kích thước nhất định, và đây chính xác là lý do tại sao bánh cưới có nhiều tầng. Mỗi tầng ( suy nghĩ về tầng) thêm một cái gì đó vào cơ sở. Một lớp trám mới, phủ sương, trang trí, v.v ... Nói cách khác, mỗi lớp sẽ làm lớp nền tăng lên.
 
 Các mạng công cộng phi tập trung cũng gặp phải vấn đề tương tự. Cũng giống như một đế bánh chỉ có thể chứa được một lượng lát bánh hữu hạn, phần đế (lớp 1) chỉ có thể xử lý một lượng giao dịch nhất định. Nếu bạn cố gắng thêm nhiều lát hơn số lượng bánh đứng, chúng sẽ bắt đầu rơi ra khỏi mép và sự lộn xộn sẽ phá hỏng ngày trọng đại của ai đó. Tương tự, các nút trong mạng lớp 1 chỉ có thể xử lý rất nhiều giao dịch trước khi xảy ra tắc nghẽn. Khi cơ sở người dùng phát triển, nhu cầu về nhiều nút hơn để xử lý giao dịch cũng vậy. Để giải quyết vấn đề này, mạng cần phải mở rộng quy mô, nếu không, các giao dịch sẽ bắt đầu tụt dốc, có thể nói như vậy.
 
 Có nhiều cách để mở rộng quy mô mạng lớp 1. Ví dụ: tăng kích thước khối để các khối mang nhiều dữ liệu giao dịch hơn. Kích thước khối gần đây đã tăng 8KB lên 72KB (tăng 12,5%). Đây là một trong những cách Cardano sẽ mở rộng quy mô vào năm 2022.
 
-Returning to our wedding cake visual, adding tiers not only makes the cake bigger, it also introduces a very useful feature: the ability to make every tier different to the base. We can add different flavors, fillings, designs, and so on, independently of the first layer. To cater for different â€˜guestsâ€™ and different preferences. In blockchain, adding a new layer (layer 2) not only allows the layer 1 to scale, it also enables transactions and processes to happen independently of the main chain (layer 1).
+Quay trở lại hình ảnh về chiếc bánh cưới của chúng ta, việc thêm các tầng không chỉ làm cho chiếc bánh lớn hơn mà còn giới thiệu một tính năng rất hữu ích: khả năng làm cho mọi tầng khác nhau cho phần đế. Chúng ta có thể thêm các hương vị, nhân, kiểu dáng khác nhau, v.v., độc lập với lớp đầu tiên. Để phục vụ cho các khách hàng khác nhau và các sở thích khác nhau. Trong blockchain, việc thêm một lớp mới (lớp 2) không chỉ cho phép lớp 1 mở rộng quy mô mà còn cho phép các giao dịch và quy trình diễn ra độc lập với chuỗi chính (lớp 1).
 
 ### **Các giải pháp khả năng mở rộng lớp 1 trong Cardano**
 
@@ -75,7 +75,7 @@ Khối càng lớn thì càng có nhiều giao dịch. Khối đầu tiên đư�
 
 **Pipelining**
 
-Improves block propagation times by coalescing validation and propagation. The goal is for blocks to be propagated to at least 95% of peers within five seconds by reducing the â€˜dead timeâ€™ between blocks (the block propagation overhead). This provides the headroom to make more aggressive scaling changes, such as increasing block size/increasing Plutus parameter limits.
+Cải thiện thời gian lan truyền khối bằng cách kết hợp xác thực và lan truyền. Mục tiêu là để các khối được truyền tải tới ít nhất 95% đối tượng ngang hàng trong vòng năm giây bằng cách giảm thời gian chết giữa các khối (chi phí truyền khối). Điều này cung cấp khoảng không để thực hiện các thay đổi tỷ lệ tích cực hơn, chẳng hạn như tăng kích thước khối / tăng giới hạn tham số Plutus.
 
 **Người xác nhận đầu vào**
 
@@ -95,9 +95,9 @@ Sử dụng hiệu quả hơn nữa mô hình EUTxO mạnh mẽ thông qua tối
 
 **Cải tiến nút**
 
-Improvements to the node will help even distribution of stake and reward computations across the epochs, thus providing greater headroom for block size increases. Also, memory usage is now more efficient. Memory compaction reduces RSS footprint, and memory sharing means we need less data instantiated. Node version 1.34.1, from March 2022, reduces peak load at critical points, including the epoch boundary.
+Các cải tiến đối với nút sẽ giúp phân bổ đồng đều các phép tính tiền cọc và phần thưởng trên các kỷ nguyên, do đó cung cấp khoảng trống lớn hơn để tăng kích thước khối. Ngoài ra, việc sử dụng bộ nhớ giờ đây hiệu quả hơn. Nén bộ nhớ làm giảm dấu chân RSS và chia sẻ bộ nhớ có nghĩa là chúng ta cần ít dữ liệu được khởi tạo hơn. Phiên bản Node 1.34.1, từ tháng 3 năm 2022, giảm tải cao điểm tại các điểm quan trọng, bao gồm cả ranh giới kỷ nguyên.
 
-**On-disk storage**
+**Lưu trữ trên đĩa**
 
 Bằng cách lưu trữ các phần của trạng thái giao thức trên đĩa, các nút sẽ cần ít bộ nhớ hơn, có nghĩa là các hệ thống hạn chế RAM sẽ có thể chạy các nút miễn là chúng có đủ dung lượng lưu trữ và bộ nhớ sẽ không gây tắc nghẽn đối với khả năng mở rộng. Điều này sẽ cho phép tăng trưởng đáng kể trong trạng thái blockchain.
 
@@ -105,11 +105,11 @@ Bằng cách lưu trữ các phần của trạng thái giao thức trên đĩa,
 
 Khả năng mở rộng của một hệ thống phân tán - chẳng hạn như một chuỗi khối - là một vấn đề phức tạp.
 
-There is a general consensus that a 'proper' blockchain system must have three properties: scalability, security, and decentralization. But an equally widespread belief is the so-called trilemma, which dictates that decentralized systems can only provide two of these properties, while sacrificing the third. First postulated by Ethereum creator Vitalik Buterin, the trilemma suggests that developers must always accept a compromise, or a trade-off, when designing blockchain networks. This compromise means one property must 'suffer', for the other two to be possible.
+Có một sự đồng thuận chung rằng một hệ thống blockchain 'phù hợp' phải có ba thuộc tính: khả năng mở rộng, bảo mật và phân tán. Nhưng một niềm tin phổ biến không kém đó là cái gọi là bộ ba, cho rằng các hệ thống phi tập trung chỉ có thể cung cấp hai trong số các thuộc tính này, trong khi hy sinh thứ ba. Đầu tiên được công nhận bởi người sáng tạo Ethereum, Vitalik Buterin, bộ ba này cho thấy rằng các nhà phát triển phải luôn chấp nhận thỏa hiệp, hoặc đánh đổi, khi thiết kế mạng blockchain. Sự thỏa hiệp này có nghĩa là một tài sản phải 'chịu đựng', đối với hai tài sản còn lại là khả thi.
 
 Ví dụ: mạng càng có nhiều nút thì mạng càng trở nên phi tập trung hơn, nhưng điều đó cũng có nghĩa là càng cần nhiều nút đáng tin cậy để duy trì bảo mật. Để duy trì bảo mật, các khoản phí phải được áp dụng khiến chi phí của một cuộc tấn công tiềm ẩn cao đến mức nghiêm trọng. Tuy nhiên, một mạng phải khuyến khích sự tham gia, vì vậy chi phí cho mỗi nút phải tương đối thấp. Ngoài ra, đặc điểm của tính bất biến ngụ ý rằng dữ liệu blockchain sẽ được thêm vào miễn là blockchain tồn tại, nhưng không bao giờ bị xóa, có nghĩa là blockchain sẽ tiếp tục phát triển. Mạng lớn hơn có nghĩa là cần nhiều tài nguyên tính toán hơn để duy trì hiệu suất. Hiệu suất tốt hơn cần phần cứng tốt hơn, có nghĩa là phần thưởng phải đủ để khiến khoản đầu tư trở nên đáng giá. Và như thế.
 
-### **Vertical and horizontal scaling**
+### **Nâng cấp theo chiều dọc và ngang**
 
 Giải quyết vấn đề nan giải này đòi hỏi một cách tiếp cận thận trọng và cân bằng, để cả ba yếu tố này luôn ở trạng thái cân bằng.
 
@@ -117,13 +117,13 @@ Về lý thuyết, một hệ thống blockchain sẽ tiếp tục phát triển
 
 Hai tùy chọn tỷ lệ tồn tại: dọc và ngang.
 
-**Vertical scaling**
+**Nâng cấp theo chiều dọc**
 
 Kỹ thuật này liên quan đến việc mở rộng khả năng tính toán của các nút riêng lẻ bằng cách thêm nhiều bộ nhớ hơn và các thành phần tốt hơn. Nói cách khác, hãy nâng cấp phần cứng của mạng để đạt được hiệu suất tổng thể tốt hơn.
 
 Ví dụ, có một mạng bao gồm các nút hiệu suất cao hỗ trợ kích thước khối lớn hơn và khuếch tán khối nhanh hơn. Nhưng nhược điểm là sự phân quyền sẽ bị hạn chế, do chi phí vận hành cao, điều này sẽ khiến các nhà khai thác nút mới phải suy nghĩ kỹ về việc tham gia và do đó hạn chế sự mở rộng của mạng. Ngoài ra, một mạng như vậy sẽ mang lại chi phí cao hơn cho các nút xác nhận.
 
-**Horizontal scaling**
+**Nâng cấp theo chiều ngang**
 
 Ngược lại với tỷ lệ theo chiều dọc, tỷ lệ theo chiều ngang có thể đạt được theo hai cách. Một, đơn giản bằng cách thêm nhiều máy tính (nút) vào mạng hiện có. Lý do ở đây là, bằng cách thêm các nút bổ sung, mạng sẽ có khả năng xử lý nhiều giao dịch hơn.
 
@@ -141,7 +141,7 @@ Một giao thức ngoài chuỗi bổ sung hoạt động trên lớp 1 của bl
 
 **Sidechains**
 
-A sidechain, defined as a way to enable multiple blockchains to communicate with each other and have one react to events in the other, is a separate blockchain connected to a main blockchain (the 'main' chain, also known as parent chain), through a two-way mechanism (the 'bridge') that enables tokens and other digital assets from one chain to be used in another and results returned to the original chain. Assets can be moved between chains as needed. One single parent chain can have multiple interoperable sidechains connected to it, which may operate in completely different ways. EVM sidechains on Cardano include [dcSparkâ€™s Milkomeda](https://www.milkomeda.com/) and IOGâ€™s [EVM sidechain project.](https://iohk.io/en/blog/posts/2022/07/06/introducing-the-cardano-evm-sidechain/)
+Một sidechain, được định nghĩa là một cách cho phép nhiều blockchain giao tiếp với nhau và có một chuỗi phản ứng với các sự kiện trong đó, là một chuỗi khối riêng biệt được kết nối với một chuỗi khối chính (chuỗi 'chính', còn được gọi là chuỗi mẹ), thông qua cơ chế hai chiều ( gọi là 'cầu nối') cho phép mã thông báo và các tài sản kỹ thuật số khác từ một chuỗi này được sử dụng trong chuỗi khác và kết quả được trả về chuỗi ban đầu. Tài sản có thể được di chuyển giữa các chuỗi khi cần thiết. Một chuỗi cha duy nhất có thể có nhiều sidechains có thể tương tác được kết nối với nó, có thể hoạt động theo những cách hoàn toàn khác nhau. EVM sidechains trên Cardano bao gồm [Milkomeda của dcSpark](https://www.milkomeda.com/) và [dự án EVM sidechain của IOG.](https://iohk.io/en/blog/posts/2022/07/06/introducing-the-cardano-evm-sidechain/)
 
 **Hydra**
 
@@ -163,13 +163,13 @@ Giảm tải một số tính toán, ví dụ như với Thực thi hợp đồn
 
 Để đạt được khả năng mở rộng lớn hơn, cần phải giải quyết sự phức tạp của các hoạt động quan trọng phụ thuộc lôgarit vào số lượng người tham gia. [Mithril](https://iohk.io/en/blog/posts/2021/10/29/mithril-a-stronger-and-lighter-blockchain-for-better-efficiency/) là một giao thức do IOG phát triển, hoạt động như một sơ đồ chữ ký ngưỡng dựa trên cổ phần cho phép tận dụng cổ phần minh bạch, an toàn và nhẹ. Mithril sẽ cải thiện đồng bộ hóa chuỗi trong khi duy trì sự tin cậy. Kết quả là tổng hợp đa chữ ký nhanh chóng và hiệu quả mà không ảnh hưởng đến các tính năng bảo mật.
 
-## **Conclusion**
+## **Kết luận**
 
 Một mạng lưới blockchain hoạt động theo những cách bí ẩn và một số khái niệm xung quanh hệ sinh thái sổ cái phi tập trung có thể khó hiểu.
 
 Không phải như vậy lớp 1 và lớp 2, nếu bạn sử dụng hình ảnh lớp bánh được trình bày ở đây.
 
-- Layer 1 (the cake stand) = the robust and secure base network upon which rest layer 2 solutions
+- Lớp 1 (đế bánh) = mạng cơ sở mạnh mẽ và an toàn, dựa trên đó các giải pháp của lớp 2 được xây dựng lên trên.
 - Lớp 2 (các tầng bánh) = các giải pháp được xây dựng trên nền tảng để giải quyết các vấn đề về khả năng mở rộng vốn có
 
 Đây là cách đơn giản nhất để hình dung và hiểu lớp 1 và lớp 2 là gì.
