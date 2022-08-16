@@ -1,9 +1,9 @@
 # DeFi demystified
 ### **With the Cardano ecosystem set to grow exponentially in 2022, now is the time to get to grips with some of the prime principles – and jargon – behind DeFi** 
-![](img/2022-01-10-defi-demystified.002.png) 10 January 2022![](img/2022-01-10-defi-demystified.002.png)[ Olga Hryniuk](tmp//en/blog/authors/olga-hryniuk/page-1/)![](img/2022-01-10-defi-demystified.003.png) 11 mins read
+![](img/2022-01-10-defi-demystified.002.png) 10 January 2022![](img/2022-01-10-defi-demystified.002.png)[ Olga Hryniuk](/en/blog/authors/olga-hryniuk/page-1/)![](img/2022-01-10-defi-demystified.003.png) 11 mins read
 
-![Olga Hryniuk](img/2022-01-10-defi-demystified.004.png)[](tmp//en/blog/authors/olga-hryniuk/page-1/)
-### [**Olga Hryniuk**](tmp//en/blog/authors/olga-hryniuk/page-1/)
+![Olga Hryniuk](img/2022-01-10-defi-demystified.004.png)[](/en/blog/authors/olga-hryniuk/page-1/)
+### [**Olga Hryniuk**](/en/blog/authors/olga-hryniuk/page-1/)
 Technical Writer
 
 Marketing & Communications

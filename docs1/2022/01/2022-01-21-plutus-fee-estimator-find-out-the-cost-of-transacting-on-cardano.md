@@ -1,9 +1,9 @@
 # Plutus fee estimator: find out the cost of transacting on Cardano
 ### **Our new fee estimator – released today – will help developers estimate the cost of smart contract scripts for maximum efficiency and minimum cost** 
-![](img/2022-01-21-plutus-fee-estimator-find-out-the-cost-of-transacting-on-cardano.002.png) 21 January 2022![](img/2022-01-21-plutus-fee-estimator-find-out-the-cost-of-transacting-on-cardano.002.png)[ Kevin Hammond](tmp//en/blog/authors/kevin-hammond/page-1/)![](img/2022-01-21-plutus-fee-estimator-find-out-the-cost-of-transacting-on-cardano.003.png) 6 mins read
+![](img/2022-01-21-plutus-fee-estimator-find-out-the-cost-of-transacting-on-cardano.002.png) 21 January 2022![](img/2022-01-21-plutus-fee-estimator-find-out-the-cost-of-transacting-on-cardano.002.png)[ Kevin Hammond](/en/blog/authors/kevin-hammond/page-1/)![](img/2022-01-21-plutus-fee-estimator-find-out-the-cost-of-transacting-on-cardano.003.png) 6 mins read
 
-![Kevin Hammond](img/2022-01-21-plutus-fee-estimator-find-out-the-cost-of-transacting-on-cardano.004.png)[](tmp//en/blog/authors/kevin-hammond/page-1/)
-### [**Kevin Hammond**](tmp//en/blog/authors/kevin-hammond/page-1/)
+![Kevin Hammond](img/2022-01-21-plutus-fee-estimator-find-out-the-cost-of-transacting-on-cardano.004.png)[](/en/blog/authors/kevin-hammond/page-1/)
+### [**Kevin Hammond**](/en/blog/authors/kevin-hammond/page-1/)
 Software Engineer
 
 Engineering

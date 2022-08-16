@@ -1,9 +1,9 @@
 # The critical role of AI / blockchain synergy in humanity’s future
 ### **A guest blog post by AI and blockchain pioneer, SingularityNET’s Dr. Ben Goertzel**
-![](img/2022-03-30-the-critical-role-of-ai-blockchain-synergy-in-humanity-s-future.002.png) 30 March 2022![](img/2022-03-30-the-critical-role-of-ai-blockchain-synergy-in-humanity-s-future.002.png)[ Dr. Ben Goertzel](tmp//en/blog/authors/ben-goertzel/page-1/)![](img/2022-03-30-the-critical-role-of-ai-blockchain-synergy-in-humanity-s-future.003.png) 8 mins read
+![](img/2022-03-30-the-critical-role-of-ai-blockchain-synergy-in-humanity-s-future.002.png) 30 March 2022![](img/2022-03-30-the-critical-role-of-ai-blockchain-synergy-in-humanity-s-future.002.png)[ Dr. Ben Goertzel](/en/blog/authors/ben-goertzel/page-1/)![](img/2022-03-30-the-critical-role-of-ai-blockchain-synergy-in-humanity-s-future.003.png) 8 mins read
 
-![Dr. Ben Goertzel](img/2022-03-30-the-critical-role-of-ai-blockchain-synergy-in-humanity-s-future.004.png)[](tmp//en/blog/authors/ben-goertzel/page-1/)
-### [**Dr. Ben Goertzel**](tmp//en/blog/authors/ben-goertzel/page-1/)
+![Dr. Ben Goertzel](img/2022-03-30-the-critical-role-of-ai-blockchain-synergy-in-humanity-s-future.004.png)[](/en/blog/authors/ben-goertzel/page-1/)
+### [**Dr. Ben Goertzel**](/en/blog/authors/ben-goertzel/page-1/)
 CEO and Chief Scientist at SingularityNET
 
 Guest author

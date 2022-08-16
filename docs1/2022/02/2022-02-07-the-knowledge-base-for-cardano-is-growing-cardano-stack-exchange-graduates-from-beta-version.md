@@ -1,9 +1,9 @@
 # The knowledge base for Cardano is growing: Cardano Stack Exchange graduates from Beta version
 ### **A fresh Q&A site will facilitate knowledge-sharing for all Cardano related topics**
-![](img/2022-02-07-the-knowledge-base-for-cardano-is-growing-cardano-stack-exchange-graduates-from-beta-version.002.png) 7 February 2022![](img/2022-02-07-the-knowledge-base-for-cardano-is-growing-cardano-stack-exchange-graduates-from-beta-version.002.png)[ Ignacio Calderon de la Barca](tmp//en/blog/authors/gonzalo-ignacio-calderon-de-la-barca-rodo/page-1/)![](img/2022-02-07-the-knowledge-base-for-cardano-is-growing-cardano-stack-exchange-graduates-from-beta-version.003.png) 4 mins read
+![](img/2022-02-07-the-knowledge-base-for-cardano-is-growing-cardano-stack-exchange-graduates-from-beta-version.002.png) 7 February 2022![](img/2022-02-07-the-knowledge-base-for-cardano-is-growing-cardano-stack-exchange-graduates-from-beta-version.002.png)[ Ignacio Calderon de la Barca](/en/blog/authors/gonzalo-ignacio-calderon-de-la-barca-rodo/page-1/)![](img/2022-02-07-the-knowledge-base-for-cardano-is-growing-cardano-stack-exchange-graduates-from-beta-version.003.png) 4 mins read
 
-![Ignacio Calderon de la Barca](img/2022-02-07-the-knowledge-base-for-cardano-is-growing-cardano-stack-exchange-graduates-from-beta-version.004.png)[](tmp//en/blog/authors/gonzalo-ignacio-calderon-de-la-barca-rodo/page-1/)
-### [**Ignacio Calderon de la Barca**](tmp//en/blog/authors/gonzalo-ignacio-calderon-de-la-barca-rodo/page-1/)
+![Ignacio Calderon de la Barca](img/2022-02-07-the-knowledge-base-for-cardano-is-growing-cardano-stack-exchange-graduates-from-beta-version.004.png)[](/en/blog/authors/gonzalo-ignacio-calderon-de-la-barca-rodo/page-1/)
+### [**Ignacio Calderon de la Barca**](/en/blog/authors/gonzalo-ignacio-calderon-de-la-barca-rodo/page-1/)
 Technical Community Manager - Plutus
 
 Marketing & Communication

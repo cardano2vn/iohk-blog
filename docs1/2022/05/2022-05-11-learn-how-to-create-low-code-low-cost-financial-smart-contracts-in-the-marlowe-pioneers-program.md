@@ -1,9 +1,9 @@
 # Learn how to create low-code, low-cost financial smart contracts in the Marlowe Pioneers Program
 ### **Join our new Marlowe training program to discover how to easily build financial smart contacts using drag and drop**
-![](img/2022-05-11-learn-how-to-create-low-code-low-cost-financial-smart-contracts-in-the-marlowe-pioneers-program.002.png) 11 May 2022![](img/2022-05-11-learn-how-to-create-low-code-low-cost-financial-smart-contracts-in-the-marlowe-pioneers-program.002.png)[ Niamh Ahern](tmp//en/blog/authors/niamh-ahern/page-1/)![](img/2022-05-11-learn-how-to-create-low-code-low-cost-financial-smart-contracts-in-the-marlowe-pioneers-program.003.png) 4 mins read
+![](img/2022-05-11-learn-how-to-create-low-code-low-cost-financial-smart-contracts-in-the-marlowe-pioneers-program.002.png) 11 May 2022![](img/2022-05-11-learn-how-to-create-low-code-low-cost-financial-smart-contracts-in-the-marlowe-pioneers-program.002.png)[ Niamh Ahern](/en/blog/authors/niamh-ahern/page-1/)![](img/2022-05-11-learn-how-to-create-low-code-low-cost-financial-smart-contracts-in-the-marlowe-pioneers-program.003.png) 4 mins read
 
-![Niamh Ahern](img/2022-05-11-learn-how-to-create-low-code-low-cost-financial-smart-contracts-in-the-marlowe-pioneers-program.004.png)[](tmp//en/blog/authors/niamh-ahern/page-1/)
-### [**Niamh Ahern**](tmp//en/blog/authors/niamh-ahern/page-1/)
+![Niamh Ahern](img/2022-05-11-learn-how-to-create-low-code-low-cost-financial-smart-contracts-in-the-marlowe-pioneers-program.004.png)[](/en/blog/authors/niamh-ahern/page-1/)
+### [**Niamh Ahern**](/en/blog/authors/niamh-ahern/page-1/)
 Education Manager
 
 Education

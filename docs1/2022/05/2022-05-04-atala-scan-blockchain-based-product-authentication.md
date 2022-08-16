@@ -1,9 +1,9 @@
 # Atala SCAN: Blockchain-based product authentication
 ### **How a smart microchip can work with an advanced blockchain to defeat product counterfeiters**
-![](img/2022-05-04-atala-scan-blockchain-based-product-authentication.002.png) 4 May 2022![](img/2022-05-04-atala-scan-blockchain-based-product-authentication.002.png)[ Neil Burgess](tmp//en/blog/authors/neil-burgess/page-1/)![](img/2022-05-04-atala-scan-blockchain-based-product-authentication.003.png) 6 mins read
+![](img/2022-05-04-atala-scan-blockchain-based-product-authentication.002.png) 4 May 2022![](img/2022-05-04-atala-scan-blockchain-based-product-authentication.002.png)[ Neil Burgess](/en/blog/authors/neil-burgess/page-1/)![](img/2022-05-04-atala-scan-blockchain-based-product-authentication.003.png) 6 mins read
 
-![Neil Burgess](img/2022-05-04-atala-scan-blockchain-based-product-authentication.004.png)[](tmp//en/blog/authors/neil-burgess/page-1/)
-### [**Neil Burgess**](tmp//en/blog/authors/neil-burgess/page-1/)
+![Neil Burgess](img/2022-05-04-atala-scan-blockchain-based-product-authentication.004.png)[](/en/blog/authors/neil-burgess/page-1/)
+### [**Neil Burgess**](/en/blog/authors/neil-burgess/page-1/)
 Technical Writer
 
 Marketing & Communications

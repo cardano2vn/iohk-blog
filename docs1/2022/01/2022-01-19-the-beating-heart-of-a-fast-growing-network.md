@@ -1,18 +1,17 @@
 # The beating heart of a fast-growing network
 ### **At the core of the Cardano network lies the node. Here’s how this integral technology will play its part as we scale Cardano during 2022**
-![](img/2022-01-19-the-beating-heart-of-a-fast-growing-network.002.png) 19 January 2022![](img/2022-01-19-the-beating-heart-of-a-fast-growing-network.002.png)[ John Woods](tmp//en/blog/authors/john-woods/page-1/)![](img/2022-01-19-the-beating-heart-of-a-fast-growing-network.003.png) 5 mins read
+![](img/2022-01-19-the-beating-heart-of-a-fast-growing-network.002.png) 19 January 2022![](img/2022-01-19-the-beating-heart-of-a-fast-growing-network.002.png)[ John Woods](/en/blog/authors/john-woods/page-1/)![](img/2022-01-19-the-beating-heart-of-a-fast-growing-network.003.png) 5 mins read
 
-![John Woods](img/2022-01-19-the-beating-heart-of-a-fast-growing-network.004.png)[](tmp//en/blog/authors/john-woods/page-1/)
-### [**John Woods**](tmp//en/blog/authors/john-woods/page-1/)
+![John Woods](img/2022-01-19-the-beating-heart-of-a-fast-growing-network.004.png)[](/en/blog/authors/john-woods/page-1/)
+### [**John Woods**](/en/blog/authors/john-woods/page-1/)
 Director of Cardano Architecture
 
 Engineering
 
-- ![](img/2022-01-19-the-beating-heart-of-a-fast-growing-network.005.png)[](mailto:john.woods@iohk.io "Email")
-- ![](img/2022-01-19-the-beating-heart-of-a-fast-growing-network.006.png)[](https://www.linkedin.com/in/johnalanwoods/ "LinkedIn")
-- ![](img/2022-01-19-the-beating-heart-of-a-fast-growing-network.007.png)[](https://github.com/johnalanwoods "GitHub")
+- ![](img/2022-01-19-the-beating-heart-of-a-fast-growing-network.005.png)[](https://www.linkedin.com/in/johnalanwoods/ "LinkedIn")
+- ![](img/2022-01-19-the-beating-heart-of-a-fast-growing-network.006.png)[](https://github.com/johnalanwoods "GitHub")
 
-![The beating heart of a fast-growing network](img/2022-01-19-the-beating-heart-of-a-fast-growing-network.008.jpeg)
+![The beating heart of a fast-growing network](img/2022-01-19-the-beating-heart-of-a-fast-growing-network.007.jpeg)
 
 In a [recent post](https://iohk.io/en/blog/posts/2021/11/22/slow-and-steady-wins-the-race-network-evolution-for-network-growth/), we discussed our methodical approach to preparing Cardano for its expected growth over the coming weeks and months. As more and more decentralized applications make Cardano their home, and as the decentralized finance (DeFi) and ‘[RealFi](https://iohk.io/en/blog/posts/2021/11/25/welcome-to-the-age-of-realfi/)’ ecosystem expands and evolves, the blockchain needs to be able to perform accordingly.
 

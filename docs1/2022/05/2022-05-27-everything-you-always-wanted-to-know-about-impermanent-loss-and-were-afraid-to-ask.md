@@ -1,9 +1,9 @@
 # Everything you always wanted to know about impermanent loss and were afraid to ask
 ### **How the EUTxO model is better for the predictability of impermanent loss than Accounts-based chains**
-![](img/2022-05-27-everything-you-always-wanted-to-know-about-impermanent-loss-and-were-afraid-to-ask.002.png) 27 May 2022![](img/2022-05-27-everything-you-always-wanted-to-know-about-impermanent-loss-and-were-afraid-to-ask.002.png)[ Fernando Sanchez](tmp//en/blog/authors/fernando-sanchez/page-1/)![](img/2022-05-27-everything-you-always-wanted-to-know-about-impermanent-loss-and-were-afraid-to-ask.003.png) 9 mins read
+![](img/2022-05-27-everything-you-always-wanted-to-know-about-impermanent-loss-and-were-afraid-to-ask.002.png) 27 May 2022![](img/2022-05-27-everything-you-always-wanted-to-know-about-impermanent-loss-and-were-afraid-to-ask.002.png)[ Fernando Sanchez](/en/blog/authors/fernando-sanchez/page-1/)![](img/2022-05-27-everything-you-always-wanted-to-know-about-impermanent-loss-and-were-afraid-to-ask.003.png) 9 mins read
 
-![Fernando Sanchez](img/2022-05-27-everything-you-always-wanted-to-know-about-impermanent-loss-and-were-afraid-to-ask.004.png)[](tmp//en/blog/authors/fernando-sanchez/page-1/)
-### [**Fernando Sanchez**](tmp//en/blog/authors/fernando-sanchez/page-1/)
+![Fernando Sanchez](img/2022-05-27-everything-you-always-wanted-to-know-about-impermanent-loss-and-were-afraid-to-ask.004.png)[](/en/blog/authors/fernando-sanchez/page-1/)
+### [**Fernando Sanchez**](/en/blog/authors/fernando-sanchez/page-1/)
 Technical Writer
 
 Marketing and Communications

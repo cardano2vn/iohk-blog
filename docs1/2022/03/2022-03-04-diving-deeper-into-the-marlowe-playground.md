@@ -1,9 +1,9 @@
 # Diving deeper into the Marlowe Playground
 ### **Learn how to make your own templates from Marlowe contracts and provide hints to users using custom metadata**
-![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.002.png) 4 March 2022![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.002.png)[ Pablo Lamela](tmp//en/blog/authors/pablo-lamela-seijas/page-1/)![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.003.png) 7 mins read
+![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.002.png) 4 March 2022![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.002.png)[ Pablo Lamela](/en/blog/authors/pablo-lamela-seijas/page-1/)![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.003.png) 7 mins read
 
-![Pablo Lamela](img/2022-03-04-diving-deeper-into-the-marlowe-playground.004.png)[](tmp//en/blog/authors/pablo-lamela-seijas/page-1/)
-### [**Pablo Lamela**](tmp//en/blog/authors/pablo-lamela-seijas/page-1/)
+![Pablo Lamela](img/2022-03-04-diving-deeper-into-the-marlowe-playground.004.png)[](/en/blog/authors/pablo-lamela-seijas/page-1/)
+### [**Pablo Lamela**](/en/blog/authors/pablo-lamela-seijas/page-1/)
 Research Fellow
 
 Research

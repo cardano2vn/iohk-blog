@@ -1,9 +1,9 @@
 # From node enhancement to block leadership… Cardano’s February release
 ### **In 2022 we’re grouping multiple code releases to improve delivery predictability for the ecosystem. Here’s what’s coming in our first major update of 2022**
-![](img/2022-02-28-from-node-enhancement-to-block-leadership-cardano-s-february-release.002.png) 28 February 2022![](img/2022-02-28-from-node-enhancement-to-block-leadership-cardano-s-february-release.002.png)[ Tim Harrison](tmp//en/blog/authors/tim-harrison/page-1/)![](img/2022-02-28-from-node-enhancement-to-block-leadership-cardano-s-february-release.003.png) 4 mins read
+![](img/2022-02-28-from-node-enhancement-to-block-leadership-cardano-s-february-release.002.png) 28 February 2022![](img/2022-02-28-from-node-enhancement-to-block-leadership-cardano-s-february-release.002.png)[ Tim Harrison](/en/blog/authors/tim-harrison/page-1/)![](img/2022-02-28-from-node-enhancement-to-block-leadership-cardano-s-february-release.003.png) 4 mins read
 
-![Tim Harrison](img/2022-02-28-from-node-enhancement-to-block-leadership-cardano-s-february-release.004.png)[](tmp//en/blog/authors/tim-harrison/page-1/)
-### [**Tim Harrison**](tmp//en/blog/authors/tim-harrison/page-1/)
+![Tim Harrison](img/2022-02-28-from-node-enhancement-to-block-leadership-cardano-s-february-release.004.png)[](/en/blog/authors/tim-harrison/page-1/)
+### [**Tim Harrison**](/en/blog/authors/tim-harrison/page-1/)
 VP of Community & Ecosystem
 
 Communications

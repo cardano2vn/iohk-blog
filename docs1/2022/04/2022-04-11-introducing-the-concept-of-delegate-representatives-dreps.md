@@ -1,9 +1,9 @@
 # Introducing the Concept of Delegate Representatives (dReps)
 ### **dReps will vote on the vast majority of proposals within Project Catalyst and enhance the quality of decision making within each Fund**
-![](img/2022-04-11-introducing-the-concept-of-delegate-representatives-dreps.002.png) 11 April 2022![](img/2022-04-11-introducing-the-concept-of-delegate-representatives-dreps.002.png)[ Jack Briggs](tmp//en/blog/authors/jack-briggs/page-1/)![](img/2022-04-11-introducing-the-concept-of-delegate-representatives-dreps.003.png) 2 mins read
+![](img/2022-04-11-introducing-the-concept-of-delegate-representatives-dreps.002.png) 11 April 2022![](img/2022-04-11-introducing-the-concept-of-delegate-representatives-dreps.002.png)[ Jack Briggs](/en/blog/authors/jack-briggs/page-1/)![](img/2022-04-11-introducing-the-concept-of-delegate-representatives-dreps.003.png) 2 mins read
 
-![Jack Briggs](img/2022-04-11-introducing-the-concept-of-delegate-representatives-dreps.004.png)[](tmp//en/blog/authors/jack-briggs/page-1/)
-### [**Jack Briggs**](tmp//en/blog/authors/jack-briggs/page-1/)
+![Jack Briggs](img/2022-04-11-introducing-the-concept-of-delegate-representatives-dreps.004.png)[](/en/blog/authors/jack-briggs/page-1/)
+### [**Jack Briggs**](/en/blog/authors/jack-briggs/page-1/)
 Product Marketing Lead
 
 Product

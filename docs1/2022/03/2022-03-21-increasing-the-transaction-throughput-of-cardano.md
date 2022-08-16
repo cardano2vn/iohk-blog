@@ -1,9 +1,9 @@
 # Increasing the transaction throughput of Cardano
 ### **Diffusion pipelining - scheduled for this summer - will increase the budget for block propagation and validation times, allowing for larger blocks and increased transaction throughput. Here’s a technical research perspective. (Along with an introduction to AV, its even more performant sibling…)**
-![](img/2022-03-21-increasing-the-transaction-throughput-of-cardano.002.png) 21 March 2022![](img/2022-03-21-increasing-the-transaction-throughput-of-cardano.002.png)[ Matthias Fitzi](tmp//en/blog/authors/matthias-fitzi/page-1/)![](img/2022-03-21-increasing-the-transaction-throughput-of-cardano.003.png) 10 mins read
+![](img/2022-03-21-increasing-the-transaction-throughput-of-cardano.002.png) 21 March 2022![](img/2022-03-21-increasing-the-transaction-throughput-of-cardano.002.png)[ Matthias Fitzi](/en/blog/authors/matthias-fitzi/page-1/)![](img/2022-03-21-increasing-the-transaction-throughput-of-cardano.003.png) 10 mins read
 
-![Matthias Fitzi](img/2022-03-21-increasing-the-transaction-throughput-of-cardano.004.png)[](tmp//en/blog/authors/matthias-fitzi/page-1/)
-### [**Matthias Fitzi**](tmp//en/blog/authors/matthias-fitzi/page-1/)
+![Matthias Fitzi](img/2022-03-21-increasing-the-transaction-throughput-of-cardano.004.png)[](/en/blog/authors/matthias-fitzi/page-1/)
+### [**Matthias Fitzi**](/en/blog/authors/matthias-fitzi/page-1/)
 Research Fellow
 
 Academic Research

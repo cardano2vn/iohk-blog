@@ -1,9 +1,9 @@
 # Simple property-based tests for Plutus validators
 ### **How to write off-chain code with the 'cooked-validators' library and get property-based tests for free**
-![](img/2022-01-27-simple-property-based-tests-for-plutus-validators.002.png) 27 January 2022![](img/2022-01-27-simple-property-based-tests-for-plutus-validators.002.png)[ Victor Cacciari Miraldo](tmp//en/blog/authors/victor-miraldo/page-1/)![](img/2022-01-27-simple-property-based-tests-for-plutus-validators.003.png) 8 mins read
+![](img/2022-01-27-simple-property-based-tests-for-plutus-validators.002.png) 27 January 2022![](img/2022-01-27-simple-property-based-tests-for-plutus-validators.002.png)[ Victor Cacciari Miraldo](/en/blog/authors/victor-miraldo/page-1/)![](img/2022-01-27-simple-property-based-tests-for-plutus-validators.003.png) 8 mins read
 
-![Victor Cacciari Miraldo](img/2022-01-27-simple-property-based-tests-for-plutus-validators.004.jpeg)[](tmp//en/blog/authors/victor-miraldo/page-1/)
-### [**Victor Cacciari Miraldo**](tmp//en/blog/authors/victor-miraldo/page-1/)
+![Victor Cacciari Miraldo](img/2022-01-27-simple-property-based-tests-for-plutus-validators.004.jpeg)[](/en/blog/authors/victor-miraldo/page-1/)
+### [**Victor Cacciari Miraldo**](/en/blog/authors/victor-miraldo/page-1/)
 Software Engineer
 
 ![Simple property-based tests for Plutus validators](img/2022-01-27-simple-property-based-tests-for-plutus-validators.005.jpeg)

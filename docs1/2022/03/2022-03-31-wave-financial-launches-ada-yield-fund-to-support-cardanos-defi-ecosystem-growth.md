@@ -1,9 +1,9 @@
 # Wave Financial launches ada yield fund to support Cardano's DeFi ecosystem growth
 ### **The ada yield fund aims to provide liquidity and other resources to Cardano’s rapidly expanding DeFi platform startups**
-![](img/2022-03-31-wave-financial-launches-ada-yield-fund-to-support-cardanos-defi-ecosystem-growth.002.png) 31 March 2022![](img/2022-03-31-wave-financial-launches-ada-yield-fund-to-support-cardanos-defi-ecosystem-growth.002.png)[ Fernando Sanchez](tmp//en/blog/authors/fernando-sanchez/page-1/)![](img/2022-03-31-wave-financial-launches-ada-yield-fund-to-support-cardanos-defi-ecosystem-growth.003.png) 4 mins read
+![](img/2022-03-31-wave-financial-launches-ada-yield-fund-to-support-cardanos-defi-ecosystem-growth.002.png) 31 March 2022![](img/2022-03-31-wave-financial-launches-ada-yield-fund-to-support-cardanos-defi-ecosystem-growth.002.png)[ Fernando Sanchez](/en/blog/authors/fernando-sanchez/page-1/)![](img/2022-03-31-wave-financial-launches-ada-yield-fund-to-support-cardanos-defi-ecosystem-growth.003.png) 4 mins read
 
-![Fernando Sanchez](img/2022-03-31-wave-financial-launches-ada-yield-fund-to-support-cardanos-defi-ecosystem-growth.004.png)[](tmp//en/blog/authors/fernando-sanchez/page-1/)
-### [**Fernando Sanchez**](tmp//en/blog/authors/fernando-sanchez/page-1/)
+![Fernando Sanchez](img/2022-03-31-wave-financial-launches-ada-yield-fund-to-support-cardanos-defi-ecosystem-growth.004.png)[](/en/blog/authors/fernando-sanchez/page-1/)
+### [**Fernando Sanchez**](/en/blog/authors/fernando-sanchez/page-1/)
 Technical Writer
 
 Marketing and Communications

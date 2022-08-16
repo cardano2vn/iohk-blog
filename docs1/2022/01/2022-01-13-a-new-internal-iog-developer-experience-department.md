@@ -1,9 +1,9 @@
 # A new internal IOG Developer Experience department will improve development agility
 ### **Starting with our internal processes, we are committed to building better solutions and the optimization of the Cardano development experience**
-![](img/2022-01-13-a-new-internal-iog-developer-experience-department.002.png) 13 January 2022![](img/2022-01-13-a-new-internal-iog-developer-experience-department.002.png)[ Olga Hryniuk](tmp//en/blog/authors/olga-hryniuk/page-1/)![](img/2022-01-13-a-new-internal-iog-developer-experience-department.003.png) 4 mins read
+![](img/2022-01-13-a-new-internal-iog-developer-experience-department.002.png) 13 January 2022![](img/2022-01-13-a-new-internal-iog-developer-experience-department.002.png)[ Olga Hryniuk](/en/blog/authors/olga-hryniuk/page-1/)![](img/2022-01-13-a-new-internal-iog-developer-experience-department.003.png) 4 mins read
 
-![Olga Hryniuk](img/2022-01-13-a-new-internal-iog-developer-experience-department.004.png)[](tmp//en/blog/authors/olga-hryniuk/page-1/)
-### [**Olga Hryniuk**](tmp//en/blog/authors/olga-hryniuk/page-1/)
+![Olga Hryniuk](img/2022-01-13-a-new-internal-iog-developer-experience-department.004.png)[](/en/blog/authors/olga-hryniuk/page-1/)
+### [**Olga Hryniuk**](/en/blog/authors/olga-hryniuk/page-1/)
 Technical Writer
 
 Marketing & Communications

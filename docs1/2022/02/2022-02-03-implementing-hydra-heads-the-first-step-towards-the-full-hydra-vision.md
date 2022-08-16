@@ -1,9 +1,9 @@
 # Implementing Hydra Heads: the first step towards the full Hydra vision
 ### **The Hydra Head, the first in a suite of protocols, is an important element of Cardano’s scaling journey. Let’s see how it fits into the bigger picture. And maybe bust some myths** 
-![](img/2022-02-03-implementing-hydra-heads-the-first-step-towards-the-full-hydra-vision.002.png) 3 February 2022![](img/2022-02-03-implementing-hydra-heads-the-first-step-towards-the-full-hydra-vision.002.png)[ Matthias Benkort](tmp//en/blog/authors/matthias-benkort/page-1/)![](img/2022-02-03-implementing-hydra-heads-the-first-step-towards-the-full-hydra-vision.003.png) 12 mins read
+![](img/2022-02-03-implementing-hydra-heads-the-first-step-towards-the-full-hydra-vision.002.png) 3 February 2022![](img/2022-02-03-implementing-hydra-heads-the-first-step-towards-the-full-hydra-vision.002.png)[ Matthias Benkort](/en/blog/authors/matthias-benkort/page-1/)![](img/2022-02-03-implementing-hydra-heads-the-first-step-towards-the-full-hydra-vision.003.png) 12 mins read
 
-![Matthias Benkort](img/2022-02-03-implementing-hydra-heads-the-first-step-towards-the-full-hydra-vision.004.png)[](tmp//en/blog/authors/matthias-benkort/page-1/)
-### [**Matthias Benkort**](tmp//en/blog/authors/matthias-benkort/page-1/)
+![Matthias Benkort](img/2022-02-03-implementing-hydra-heads-the-first-step-towards-the-full-hydra-vision.004.png)[](/en/blog/authors/matthias-benkort/page-1/)
+### [**Matthias Benkort**](/en/blog/authors/matthias-benkort/page-1/)
 Software Engineering Lead
 
 Engineering

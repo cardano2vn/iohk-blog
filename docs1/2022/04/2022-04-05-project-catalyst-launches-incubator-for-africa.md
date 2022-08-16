@@ -1,9 +1,9 @@
 # Project Catalyst launches incubator for Africa
 ### **Ariob will help drive innovation and tackle everyday challenges across the continent**
-![](img/2022-04-05-project-catalyst-launches-incubator-for-africa.002.png) 5 April 2022![](img/2022-04-05-project-catalyst-launches-incubator-for-africa.002.png)[ Tim Richmond](tmp//en/blog/authors/tim-richmond/page-1/)![](img/2022-04-05-project-catalyst-launches-incubator-for-africa.003.png) 6 mins read
+![](img/2022-04-05-project-catalyst-launches-incubator-for-africa.002.png) 5 April 2022![](img/2022-04-05-project-catalyst-launches-incubator-for-africa.002.png)[ Tim Richmond](/en/blog/authors/tim-richmond/page-1/)![](img/2022-04-05-project-catalyst-launches-incubator-for-africa.003.png) 6 mins read
 
-![Tim Richmond](img/2022-04-05-project-catalyst-launches-incubator-for-africa.004.png)[](tmp//en/blog/authors/tim-richmond/page-1/)
-### [**Tim Richmond**](tmp//en/blog/authors/tim-richmond/page-1/)
+![Tim Richmond](img/2022-04-05-project-catalyst-launches-incubator-for-africa.004.png)[](/en/blog/authors/tim-richmond/page-1/)
+### [**Tim Richmond**](/en/blog/authors/tim-richmond/page-1/)
 Marketing and Communications Manager
 
 Marketing & Communications

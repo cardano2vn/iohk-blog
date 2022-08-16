@@ -1,9 +1,9 @@
 # Guest blog: collaborating on Cardano interoperability
 ### **Today we’re announcing new interoperability solutions between Cardano and EVM blockchains**
-![](img/2022-04-27-guest-blog-collaborating-on-cardano-interoperability.002.png) 27 April 2022![](img/2022-04-27-guest-blog-collaborating-on-cardano-interoperability.002.png)[ Temujin Louie](tmp//en/blog/authors/temujin-louie/page-1/)![](img/2022-04-27-guest-blog-collaborating-on-cardano-interoperability.003.png) 2 mins read
+![](img/2022-04-27-guest-blog-collaborating-on-cardano-interoperability.002.png) 27 April 2022![](img/2022-04-27-guest-blog-collaborating-on-cardano-interoperability.002.png)[ Temujin Louie](/en/blog/authors/temujin-louie/page-1/)![](img/2022-04-27-guest-blog-collaborating-on-cardano-interoperability.003.png) 2 mins read
 
-![Temujin Louie](img/2022-04-27-guest-blog-collaborating-on-cardano-interoperability.004.jpeg)[](tmp//en/blog/authors/temujin-louie/page-1/)
-### [**Temujin Louie**](tmp//en/blog/authors/temujin-louie/page-1/)
+![Temujin Louie](img/2022-04-27-guest-blog-collaborating-on-cardano-interoperability.004.jpeg)[](/en/blog/authors/temujin-louie/page-1/)
+### [**Temujin Louie**](/en/blog/authors/temujin-louie/page-1/)
 Director of Marketing, Wanchain
 
 Guest author

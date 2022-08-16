@@ -1,10 +1,10 @@
 # Project Catalyst, Cardano’s innovation engine, launches Fund8!
 ### **Project Catalyst is a turbo-charged engine for Cardano, accelerating the ecosystem’s growth and making dreams come true**
-![](img/2022-03-02-project-catalyst-cardano-s-innovation-engine-launches-fund8.002.png) 2 March 2022![](img/2022-03-02-project-catalyst-cardano-s-innovation-engine-launches-fund8.002.png)[ Kriss Baird](tmp//en/blog/authors/kriss-braid/page-1/)![](img/2022-03-02-project-catalyst-cardano-s-innovation-engine-launches-fund8.003.png) 4 mins read
+![](img/2022-03-02-project-catalyst-cardano-s-innovation-engine-launches-fund8.002.png) 2 March 2022![](img/2022-03-02-project-catalyst-cardano-s-innovation-engine-launches-fund8.002.png)[ Kriss Baird](/en/blog/authors/kriss-baird/page-1/)![](img/2022-03-02-project-catalyst-cardano-s-innovation-engine-launches-fund8.003.png) 4 mins read
 
-![Kriss Baird](img/2022-03-02-project-catalyst-cardano-s-innovation-engine-launches-fund8.004.png)[](tmp//en/blog/authors/kriss-braid/page-1/)
-### [**Kriss Baird**](tmp//en/blog/authors/kriss-braid/page-1/)
-Product Owner
+![Kriss Baird](img/2022-03-02-project-catalyst-cardano-s-innovation-engine-launches-fund8.004.png)[](/en/blog/authors/kriss-baird/page-1/)
+### [**Kriss Baird**](/en/blog/authors/kriss-baird/page-1/)
+Product Manager
 
 Commercial
 

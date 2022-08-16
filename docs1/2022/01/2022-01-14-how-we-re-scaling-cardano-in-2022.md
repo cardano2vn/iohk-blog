@@ -1,9 +1,9 @@
 # How we’re scaling Cardano in 2022
 ### **With core smart contract capability now deployed, the next phase for Cardano focuses on performance optimization and scaling. And it starts right here…**
-![](img/2022-01-14-how-we-re-scaling-cardano-in-2022.002.png) 14 January 2022![](img/2022-01-14-how-we-re-scaling-cardano-in-2022.002.png)[ Tim Harrison](tmp//en/blog/authors/tim-harrison/page-1/)![](img/2022-01-14-how-we-re-scaling-cardano-in-2022.003.png) 5 mins read
+![](img/2022-01-14-how-we-re-scaling-cardano-in-2022.002.png) 14 January 2022![](img/2022-01-14-how-we-re-scaling-cardano-in-2022.002.png)[ Tim Harrison](/en/blog/authors/tim-harrison/page-1/)![](img/2022-01-14-how-we-re-scaling-cardano-in-2022.003.png) 5 mins read
 
-![Tim Harrison](img/2022-01-14-how-we-re-scaling-cardano-in-2022.004.png)[](tmp//en/blog/authors/tim-harrison/page-1/)
-### [**Tim Harrison**](tmp//en/blog/authors/tim-harrison/page-1/)
+![Tim Harrison](img/2022-01-14-how-we-re-scaling-cardano-in-2022.004.png)[](/en/blog/authors/tim-harrison/page-1/)
+### [**Tim Harrison**](/en/blog/authors/tim-harrison/page-1/)
 VP of Community & Ecosystem
 
 Communications

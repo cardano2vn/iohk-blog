@@ -1,18 +1,17 @@
 # Introducing pipelining: Cardano's consensus layer scaling solution
 ### **Pipelining is one of the key scaling improvements to be deployed in 2022. Here’s how it works and why it matters**
-![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.002.png) 1 February 2022![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.002.png)[ John Woods](tmp//en/blog/authors/john-woods/page-1/)![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.003.png) 4 mins read
+![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.002.png) 1 February 2022![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.002.png)[ John Woods](/en/blog/authors/john-woods/page-1/)![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.003.png) 4 mins read
 
-![John Woods](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.004.png)[](tmp//en/blog/authors/john-woods/page-1/)
-### [**John Woods**](tmp//en/blog/authors/john-woods/page-1/)
+![John Woods](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.004.png)[](/en/blog/authors/john-woods/page-1/)
+### [**John Woods**](/en/blog/authors/john-woods/page-1/)
 Director of Cardano Architecture
 
 Engineering
 
-- ![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.005.png)[](mailto:john.woods@iohk.io "Email")
-- ![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.006.png)[](https://www.linkedin.com/in/johnalanwoods/ "LinkedIn")
-- ![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.007.png)[](https://github.com/johnalanwoods "GitHub")
+- ![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.005.png)[](https://www.linkedin.com/in/johnalanwoods/ "LinkedIn")
+- ![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.006.png)[](https://github.com/johnalanwoods "GitHub")
 
-![Introducing pipelining: Cardano's consensus layer scaling solution](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.008.jpeg)
+![Introducing pipelining: Cardano's consensus layer scaling solution](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.007.jpeg)
 
 You’d be forgiven for thinking that pipelining sounds like a remodelling procedure a plumber might employ. In a way, this isn’t too far from the truth. Pipelining is, effectively, an evolution in Cardano’s ‘plumbing’. It is a key element in our scaling plan this year, one in the series of [published steps](https://iohk.io/en/blog/posts/2022/01/14/how-we-re-scaling-cardano-in-2022/#modal=https://ucarecdn.com/fc644130-c13d-43f9-a966-14290687d190/) covering our methodical approach to flex Cardano’s capacity as the ecosystem grows.
 
@@ -39,7 +38,7 @@ A block’s journey is a very serialized one. All steps happen in the same seque
 
 Diffusion pipelining overlays some of those steps on top of each other so they happen concurrently. This saves time and increases throughput.
 
-![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.009.png) The time saving afforded by this technique will lead to even more headroom to further scale Cardano, including changes to: 
+![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.008.png) The time saving afforded by this technique will lead to even more headroom to further scale Cardano, including changes to: 
 
 - Block size - the bigger the block, the more transactions and scripts it can carry
 - Plutus memory limits - the amount of memory available for a Plutus script to run
@@ -51,6 +50,6 @@ The key change introduced by pipelining is the ability to pre-notify peers and g
 ## **In conclusion**
 Pipelining is just one of the pillars supporting Cardano's scaling this year. Combined, all these changes will lead Cardano to a position where it is faster than its competitors, and a highly competitive platform for decentralized finance (DeFi) this year.
 ## **Key takeaways**
-![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.010.png)
+![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.009.png)
 
 ***Fernando Sanchez contributed to this article.***

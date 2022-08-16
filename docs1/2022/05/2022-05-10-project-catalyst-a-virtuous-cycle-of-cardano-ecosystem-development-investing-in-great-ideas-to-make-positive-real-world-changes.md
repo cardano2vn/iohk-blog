@@ -1,9 +1,9 @@
 # Project Catalyst - A virtuous cycle of Cardano ecosystem development
 ### **Project Catalyst is Cardano’s turbo-charged innovation engine and one of the largest decentralized innovation funds in the world. It is a focal point for ecosystem development and innovation, driven by the Cardano community**
-![](img/2022-05-10-project-catalyst-a-virtuous-cycle-of-cardano-ecosystem-development-investing-in-great-ideas-to-make-positive-real-world-changes.002.png) 10 May 2022![](img/2022-05-10-project-catalyst-a-virtuous-cycle-of-cardano-ecosystem-development-investing-in-great-ideas-to-make-positive-real-world-changes.002.png)[ Tim Richmond](tmp//en/blog/authors/tim-richmond/page-1/)![](img/2022-05-10-project-catalyst-a-virtuous-cycle-of-cardano-ecosystem-development-investing-in-great-ideas-to-make-positive-real-world-changes.003.png) 4 mins read
+![](img/2022-05-10-project-catalyst-a-virtuous-cycle-of-cardano-ecosystem-development-investing-in-great-ideas-to-make-positive-real-world-changes.002.png) 10 May 2022![](img/2022-05-10-project-catalyst-a-virtuous-cycle-of-cardano-ecosystem-development-investing-in-great-ideas-to-make-positive-real-world-changes.002.png)[ Tim Richmond](/en/blog/authors/tim-richmond/page-1/)![](img/2022-05-10-project-catalyst-a-virtuous-cycle-of-cardano-ecosystem-development-investing-in-great-ideas-to-make-positive-real-world-changes.003.png) 4 mins read
 
-![Tim Richmond](img/2022-05-10-project-catalyst-a-virtuous-cycle-of-cardano-ecosystem-development-investing-in-great-ideas-to-make-positive-real-world-changes.004.png)[](tmp//en/blog/authors/tim-richmond/page-1/)
-### [**Tim Richmond**](tmp//en/blog/authors/tim-richmond/page-1/)
+![Tim Richmond](img/2022-05-10-project-catalyst-a-virtuous-cycle-of-cardano-ecosystem-development-investing-in-great-ideas-to-make-positive-real-world-changes.004.png)[](/en/blog/authors/tim-richmond/page-1/)
+### [**Tim Richmond**](/en/blog/authors/tim-richmond/page-1/)
 Marketing and Communications Manager
 
 Marketing & Communications

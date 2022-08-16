@@ -1,9 +1,9 @@
 # Introducing the new command line interface tool for Marlowe
 ### **Learn how to submit transactions and interact with Marlowe contracts from the CLI**
-![](img/2022-04-19-introducing-the-new-command-line-interface-tool-for-marlowe.002.png) 19 April 2022![](img/2022-04-19-introducing-the-new-command-line-interface-tool-for-marlowe.002.png)[ Niamh Ahern](tmp//en/blog/authors/niamh-ahern/page-1/)![](img/2022-04-19-introducing-the-new-command-line-interface-tool-for-marlowe.003.png) 5 mins read
+![](img/2022-04-19-introducing-the-new-command-line-interface-tool-for-marlowe.002.png) 19 April 2022![](img/2022-04-19-introducing-the-new-command-line-interface-tool-for-marlowe.002.png)[ Niamh Ahern](/en/blog/authors/niamh-ahern/page-1/)![](img/2022-04-19-introducing-the-new-command-line-interface-tool-for-marlowe.003.png) 5 mins read
 
-![Niamh Ahern](img/2022-04-19-introducing-the-new-command-line-interface-tool-for-marlowe.004.png)[](tmp//en/blog/authors/niamh-ahern/page-1/)
-### [**Niamh Ahern**](tmp//en/blog/authors/niamh-ahern/page-1/)
+![Niamh Ahern](img/2022-04-19-introducing-the-new-command-line-interface-tool-for-marlowe.004.png)[](/en/blog/authors/niamh-ahern/page-1/)
+### [**Niamh Ahern**](/en/blog/authors/niamh-ahern/page-1/)
 Education Manager
 
 Education
