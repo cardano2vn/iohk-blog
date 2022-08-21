@@ -1,6 +1,6 @@
 # Trái tim đang đập của một mạng lưới đang phát triển nhanh chóng
 
-### **At the core of the Cardano network lies the node. Here’s how this integral technology will play its part as we scale Cardano during 2022**
+### **Cốt lõi của mạng lưới Cardano là dựa vào node. Khi chúng ta mở rộng quy mô Cardano trong năm 2022, công nghệ tích hợp này sẽ phát huy vai trò của nó.**
 
 ![](img/2022-01-19-the-beating-heart-of-a-fast-growing-network.002.png) 19 tháng 1 năm 2022 ![](img/2022-01-19-the-beating-heart-of-a-fast-growing-network.002.png) [John Woods](/en/blog/authors/john-woods/page-1/) ![](img/2022-01-19-the-beating-heart-of-a-fast-growing-network.003.png) 5 phút đọc
 
@@ -10,7 +10,7 @@
 
 Giám đốc Cardano Architecture
 
-Engineering
+Kỹ thuật
 
 - ![](img/2022-01-19-the-beating-heart-of-a-fast-growing-network.005.png)[](https://www.linkedin.com/in/johnalanwoods/ "LinkedIn")
 - ![](img/2022-01-19-the-beating-heart-of-a-fast-growing-network.006.png)[](https://github.com/johnalanwoods "GitHub")
@@ -19,70 +19,70 @@ Engineering
 
 In a [recent post](https://iohk.io/en/blog/posts/2021/11/22/slow-and-steady-wins-the-race-network-evolution-for-network-growth/), we discussed our methodical approach to preparing Cardano for its expected growth over the coming weeks and months. As more and more decentralized applications make Cardano their home, and as the decentralized finance (DeFi) and ‘[RealFi](https://iohk.io/en/blog/posts/2021/11/25/welcome-to-the-age-of-realfi/)’ ecosystem expands and evolves, the blockchain needs to be able to perform accordingly.
 
-Cardano is entering the Basho phase with a focus on [optimization, scaling, and network growth](https://iohk.io/en/blog/posts/2022/01/14/how-we-re-scaling-cardano-in-2022/). We anticipate a significant increase in transactional traffic over the months ahead, and here’s where we start the process of flexing to meet this. Improvements to the core node are part of this and we have packed node v1.33.0 full of new features and improvements to existing elements, upping Cardano’s expressiveness and the chain’s ability to do more.
+Cardano đang bước vào giai đoạn Basho với trọng tâm là [tối ưu hóa, mở rộng quy mô và phát triển mạng lưới](https://iohk.io/en/blog/posts/2022/01/14/how-we-re-scaling-cardano-in-2022/) . Chúng tôi dự đoán lưu lượng giao dịch sẽ tăng đáng kể trong những tháng tới và đây là lúc chúng tôi bắt đầu quy trình linh hoạt để đáp ứng điều này. Trong đó có việc cải tiến node cốt lõi. Chúng tôi đã hoàn thành node v1.33.0 với đầy đủ các tỉnh năng và cải tiến các thành phần hiện có, nâng cao khả năng diễn đạt của Cardano và khả năng của chuỗi để làm được nhiều điều hơn.
 
-## **What's in a node?**
+## **Node có những gì?**
 
 Node v1.33.0 – released in early January and now running on circa 80% of SPO systems – has been designed with elegance and efficiency in mind. The improvements made are designed to reduce block propagation time, so we get greater headroom to make the changes we need to accommodate DApps, decentralized exchanges (DEXs), DeFi environments, and so on.
 
-Following the implementation of the version of the node, blocks now propagate faster. This gives us extra time that we can use to implement other enhancements.
+Sau khi triển khai phiên bản của node, các khối giờ đây lưu truyền nhanh hơn. Điều này cho chúng tôi thêm thời gian mà chúng tôi có thể sử dụng để triển khai các cải tiến khác.
 
 Technical improvements included in node v1.33.0 can be broadly categorized in **RAM usage optimization** and **efficiency upgrades**.
 
-**RAM usage optimization**
+**Sử dụng RAM một cách tối ưu**
 
-The new node supports a significant drop in memory usage because of two factors: memory compaction and more efficient memory sharing (rather than multiple instances of the same object, now multiple flows within the system will use the same object.)
+Kể từ node mới, việc sử dụng bộ nhớ được giảm đáng kể nhờ hai yếu tố: nén bộ nhớ và chia sẻ chúng hiệu quả hơn (thay vì chia nhiều phiên bản từ cùng một đối tượng, thì hệ thống sẽ phân ra làm nhiều luồng để cùng dùng chung đối tượng đó.)
 
-Specifically, there are memory improvements in Unspent Transaction Output (UTXO) handling, stake distribution, live stake distribution and pools, and hash representation.
+Cụ thể là những cải tiến về bộ nhớ trong việc xử lý đầu ra của giao dịch chưa thanh toán(UTXO), phân chia cổ phần, phân chia cổ phần trực tiếp của các pool, và trình bày hàm băm.
 
-These improvements are:
+Những cải tiến này bao gồm:
 
 - Xử lý UTXO
 
-Node v1.33.0 uses fewer words for transaction inputs.
+Node v1.33.0 sử dụng ít từ ngữ hơn cho các đầu vào giao dịch.
 
-- Stake distribution
+- Phân chia cổ phần
 
 Stake distribution snapshots represent 35% of total live data. The new node achieves a reduction by a factor of eight by sharing and changing representation.
 
-- Live stake distribution
+- Phân chia cổ phần trực tiếp
 
-Live stake distribution accounts for 22% of total live data within the system.
+Phân chia cổ phần trực tiếp chiếm 22% tổng số dữ liệu trực tiếp trong hệ thống.
 
 Node v1.33.0 tiết kiệm bộ nhớ theo hai cách:
 
-Sharing by combining multiple maps that are keyed on stake addresses (a saving of 11 words per stake address for each map combined), and sharing of stake pool IDs (5 words).
+Chia sẻ bằng cách kết hợp nhiều sơ đồ được khóa trên địa chỉ cổ phần (mỗi sơ đồ kết hợp giúp tiết kiệm 11 từ cho mỗi địa chỉ cổ phần) và chia sẻ ID của nhóm cổ phần (5 từ).
 
-- Hash representation
+- Trình bày hàm băm
 
-Hash representation now uses 5 words instead of 6. Since hashes are ubiquitous in the system, this change, while apparently insignificant, will lead to considerable improvements in efficiency.
+Trình bày hằm băm bây giờ sử dụng 5 thay vì 6 từ. Mặc dù thay đổi này có vẻ không đáng kể, nhưng sẽ dẫn đến những cải thiện lớn về hiệu quả vì hàm băm rất phổ biến trong hệ thống.
 
-**Key facts about RAM memory usage optimization**
+**Thực tế về việc sử dụng RAM một cách tối ưu**
 
-The new node enables great savings in live data due to compaction and sharing.
+Node mới cho phép tiết kiệm đáng kể dữ liệu trực tiếp do nén và chia sẻ.
 
 **Efficiency upgrades**
 
-Apart from making memory usage far more efficient than in previous versions, node v1.33.0 includes changes to the algorithms that Cardano uses to calculate rewards and stake distribution.
+Ngoài việc làm cho việc sử dụng bộ nhớ hiệu quả hơn nhiều so với các phiên bản trước, node v1.33.0 còn bao gồm các thay đổi đối với các thuật toán mà Cardano sử dụng để tính toán phần thưởng và phân chia tiền cược.
 
-The rationale for these changes is to address the uneven network performance that occurred when calculating rewards, which led to spikes in network load. The new reward calculation algorithm is now in place, so these spikes will not happen anymore.
+Cơ sở lý luận cho những thay đổi này là để giải quyết hiệu suất mạng thay đổi đã xảy ra khi tính toán phần thưởng, dẫn đến tăng đột biến tải mạng. Thuật toán tính toán phần thưởng mới hiện đã được áp dụng, vì vậy những việc tăng đột biến này sẽ không xảy ra nữa.
 
-The algorithm to calculate the rewards has changed from “column-major” over 4,000 pools, to a “row-major” over ~1m stake addresses. This allows spreading the calculation over 3 days, instead of 1 day (4,000 blocks).
+Thuật toán để tính toán phần thưởng đã thay đổi từ "cột chính" trên 4.000 pool, thành "hàng chính" trên ~ 1 triệu địa chỉ ủy thác. Điều này cho phép tính toán dàn trải trong 3 ngày, thay vì 1 ngày (4.000 khối).
 
-We have also made changes to make the calculation of stake distribution more efficient.
+Chúng tôi cũng đã thực hiện các thay đổi để làm cho việc tính toán phân chia ủy thác hiệu quả hơn.
 
-**Pipelining**
+**Quy trình Pipelining**
 
-Later this year, we’ll make further significant improvements to the node. A node does a lot of work processing a block, then waits for another block to come along, etc. In between, the node is not so busy. This block propagation overhead (that is, the time interval where the node is relatively idle, often called 'dead space') can be reduced through certain techniques to make good use of that otherwise 'dead' time. This is where pipelining comes in.
+Cuối năm nay, chúng tôi sẽ thực hiện những cải tiến quan trọng hơn nữa cho node. Một node thực hiện rất nhiều công việc xử lý từ khối này đến khối khác. Tuy nhiên node lại nhàn rỗi ở thời gian đợi giữa mỗi khối (khoảng thời gian nhàn rỗi này thường được gọi là 'không gian chết'). Chi phí lan truyền khối này có thể được giảm bớt thông qua các kỹ thuật nhất định để tận dụng tốt thời gian 'chết' đó. Đây là lúc kỹ thuật Pipelining xuất hiện.
 
-This technique coalesces the validation and propagation of blocks. Now, instead of following the process of getting a header, validate it, then get its corresponding block, validate, and then send it to peer, now we get a header, validate, and send it to the peer, without validating the block. This streamlining will give the network even more headroom to make more changes.
+Kỹ thuật này kết hợp việc xác nhận và truyền các khối. Bây giờ, thay vì thực hiện theo quy trình lấy tiêu đề, xác thực tiêu đề, lấy khối tương ứng tiêu đề, xác thực và sau đó gửi đến ngang hàng, bây giờ chúng ta sẽ nhận một tiêu đề, xác thực và gửi tiêu đề đến ngang hàng mà không cần xác thực cả khối. Việc tinh giản này sẽ mang lại cho mạng nhiều khoảng trống hơn để thực hiện nhiều thay đổi hơn.
 
-Pipelining will significantly increase the scope/headroom we have to make further improvements to the network by reducing the block propagation overhead ('dead time').
+Bằng cách giảm chi phí lan truyền khối (thời gian chết), kỹ thuật Pipelining sẽ giúp gia tăng đáng kể phạm vi và nhiều khoảng không hơn cho việc thực hiện các cải tiến hơn cho mạng lưới.
 
-## **Looking ahead**
+## **Nhìn về tương lai**
 
 Dự án Cardano luôn cam kết xây dựng một mạng lưới an toàn, đàn hồi và phi tập trung cao có thể đáp ứng nhu cầu của thập kỷ tới và hơn thế nữa. Và thực hiện một cách tiếp cận dài hạn có phương pháp, có trách nhiệm là trọng tâm của vấn đề này. Như câu nói, "Đo hai lần, cắt một lần."
 
-With the launch of many exciting new projects on Cardano, the ecosystem will see explosive growth. Inevitably, short-term capacity will not always keep pace with demand and periods of heavy congestion will occur. This is a journey that every new chain goes through. But with careful monitoring throughout, we’ll continue to work to increase Cardano’s efficiency, throughput, and capability over the weeks and months ahead. While maintaining the considered, safe approach that has served us well to date.
+Với sự ra mắt của nhiều dự án mới thú vị trên Cardano, hệ sinh thái sẽ chứng kiến sự phát triển bùng nổ. Tất nhiên, sức chứa trong ngắn hạn sẽ không theo kịp nhu cầu và sẽ xảy ra tình trạng tắc nghẽn nghiêm trọng. Nhưng đây là một quá trình mà mọi chuỗi mới đều phải trải qua. Với sự giám sát cẩn thận xuyên suốt, chúng ta sẽ tiếp tục làm việc để tăng hiệu quả, thông lượng và khả năng của Cardano trong những tuần và tháng tới. Trong đó, việc duy trì phương pháp tiếp cận một cách an toàn và được cân nhắc đã giúp đỡ chúng tôi từ đó đến nay.
 
 ##### **Fernando Sanchez contributed to this article.**
