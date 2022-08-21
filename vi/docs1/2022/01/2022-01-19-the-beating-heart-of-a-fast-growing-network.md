@@ -17,17 +17,17 @@ Kỹ thuật
 
 ![Nhịp đập từ mạng lưới đang phát triển nhanh chóng](img/2022-01-19-the-beating-heart-of-a-fast-growing-network.007.jpeg)
 
-In a [recent post](https://iohk.io/en/blog/posts/2021/11/22/slow-and-steady-wins-the-race-network-evolution-for-network-growth/), we discussed our methodical approach to preparing Cardano for its expected growth over the coming weeks and months. As more and more decentralized applications make Cardano their home, and as the decentralized finance (DeFi) and ‘[RealFi](https://iohk.io/en/blog/posts/2021/11/25/welcome-to-the-age-of-realfi/)’ ecosystem expands and evolves, the blockchain needs to be able to perform accordingly.
+Trong một [bài viết gần đây](https://iohk.io/en/blog/posts/2021/11/22/slow-and-steady-wins-the-race-network-evolution-for-network-growth/), chúng tôi đã thảo luận về phương pháp tiếp cận chuẩn bị cho sự tăng trưởng của Cardano được dự kiến trong vài tuần đến vài tháng sắp tới. Hiện nay, ngày càng nhiều ứng dụng phi tập trung (dApp) tham gia, giúp cho Cardano như một miến đất hứa, đồng thời là sự mở rộng và phát triển của hệ sinh thái tài chính phi tập trung (DeFi) cùng "RealFi", do đó Blockchain cũng cần mở rộng khả năng hoạt động của nó.
 
 Cardano đang bước vào giai đoạn Basho với trọng tâm là [tối ưu hóa, mở rộng quy mô và phát triển mạng lưới](https://iohk.io/en/blog/posts/2022/01/14/how-we-re-scaling-cardano-in-2022/) . Chúng tôi dự đoán lưu lượng giao dịch sẽ tăng đáng kể trong những tháng tới và đây là lúc chúng tôi bắt đầu quy trình linh hoạt để đáp ứng điều này. Trong đó có việc cải tiến node cốt lõi. Chúng tôi đã hoàn thành node v1.33.0 với đầy đủ các tỉnh năng và cải tiến các thành phần hiện có, nâng cao khả năng diễn đạt của Cardano và khả năng của chuỗi để làm được nhiều điều hơn.
 
 ## **Node có những gì?**
 
-Node v1.33.0 – released in early January and now running on circa 80% of SPO systems – has been designed with elegance and efficiency in mind. The improvements made are designed to reduce block propagation time, so we get greater headroom to make the changes we need to accommodate DApps, decentralized exchanges (DEXs), DeFi environments, and so on.
+Node v1.33.0 – được tung ra vào đầu tháng 1 và hiện đang chạy 80% hệ thống SPO - được thiết kế từ đầu một cách chỉnh chu và hiệu quả. Các cải tiến này nhằm giảm thời gian truyền của khối, vì thế chúng ta có nhiều khoảng trống hơn để tạo ra những thay đổi cần thiết cho DApps, Sàn phi tập trung (DEXs), các môi trường DeFi, vân vân.
 
 Sau khi triển khai phiên bản của node, các khối giờ đây lưu truyền nhanh hơn. Điều này cho chúng tôi thêm thời gian mà chúng tôi có thể sử dụng để triển khai các cải tiến khác.
 
-Technical improvements included in node v1.33.0 can be broadly categorized in **RAM usage optimization** and **efficiency upgrades**.
+Các cải tiến kỹ thuật có trong node v1.33.0 có thể được phân loại rộng rãi trong việc **sử dụng RAM một cách tối ưu** và **những nâng cấp hiệu quả** .
 
 **Sử dụng RAM một cách tối ưu**
 
@@ -43,7 +43,7 @@ Node v1.33.0 sử dụng ít từ ngữ hơn cho các đầu vào giao dịch.
 
 - Phân chia cổ phần
 
-Stake distribution snapshots represent 35% of total live data. The new node achieves a reduction by a factor of eight by sharing and changing representation.
+Ảnh chụp nhanh về phân tán cổ phần sẽ thay mặt cho 35% tổng số dữ liệu trực tiếp. Node mới đã đạt được mức giảm 8 hệ số bằng cách chia sẻ và thay đổi cách trình bày.
 
 - Phân chia cổ phần trực tiếp
 
@@ -61,7 +61,7 @@ Trình bày hằm băm bây giờ sử dụng 5 thay vì 6 từ. Mặc dù thay 
 
 Node mới cho phép tiết kiệm đáng kể dữ liệu trực tiếp do nén và chia sẻ.
 
-**Efficiency upgrades**
+**Những Nâng cấp hiệu quả**
 
 Ngoài việc làm cho việc sử dụng bộ nhớ hiệu quả hơn nhiều so với các phiên bản trước, node v1.33.0 còn bao gồm các thay đổi đối với các thuật toán mà Cardano sử dụng để tính toán phần thưởng và phân chia tiền cược.
 
@@ -85,4 +85,4 @@ Dự án Cardano luôn cam kết xây dựng một mạng lưới an toàn, đà
 
 Với sự ra mắt của nhiều dự án mới thú vị trên Cardano, hệ sinh thái sẽ chứng kiến sự phát triển bùng nổ. Tất nhiên, sức chứa trong ngắn hạn sẽ không theo kịp nhu cầu và sẽ xảy ra tình trạng tắc nghẽn nghiêm trọng. Nhưng đây là một quá trình mà mọi chuỗi mới đều phải trải qua. Với sự giám sát cẩn thận xuyên suốt, chúng ta sẽ tiếp tục làm việc để tăng hiệu quả, thông lượng và khả năng của Cardano trong những tuần và tháng tới. Trong đó, việc duy trì phương pháp tiếp cận một cách an toàn và được cân nhắc đã giúp đỡ chúng tôi từ đó đến nay.
 
-##### **Fernando Sanchez contributed to this article.**
+##### **Fernando Sanchez đã đóng góp cho bài viết này.<br><br>Bài này được dịch bởi Hoang Tran. Xem bài viết gốc [tại đây]( https://iohk.io/en/blog/posts/2022/01/19/the-bating-heart-of-a-fast-growing-network)/<br><br><br>*Dự án này được tài trợ bới Catalyst***
