@@ -49,4 +49,8 @@ Trong khi thiết kế được đề xuất chủ yếu là lý thuyết, Kachi
 
 Để biết thêm chi tiết, ví dụ và mẫu hợp đồng, hãy đọc ‘[Kachina – Foundations of Private Smart Contracts](https://iohk.io/en/research/library/papers/kachina-foundations-of-private-smart-contracts/)’.
 
-*Tôi muốn cảm ơn [Thomas Kerber](https://iohk.io/en/team/thomas-kerber) đã đóng góp ý kiến ​​và hỗ trợ trong việc chuẩn bị bài blog này.<br><br><br>Bài này được dịch bởi Lê Nguyên. <a class="_active_edit_href" href="https://iohk.io/en/blog/posts/2022/08/05/kachina-privacy-preserving-smart-contracts/">với bài gốc</a><br><em>Dự án này được tài trợ bới Catalyst</em>*
+*Tôi muốn cảm ơn [Thomas Kerber](https://iohk.io/en/team/thomas-kerber) đã đóng góp ý kiến ​​và hỗ trợ trong việc chuẩn bị bài blog này.
+
+Bài này được dịch bởi Lê Nguyên với ngồn [tại đây](https://iohk.io/en/blog/posts/2022/08/05/kachina-privacy-preserving-smart-contracts/) 
+
+*Dự án này được tài trợ bới Catalyst*
