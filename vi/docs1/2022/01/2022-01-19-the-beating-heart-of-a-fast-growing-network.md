@@ -85,4 +85,8 @@ Dự án Cardano luôn cam kết xây dựng một mạng lưới an toàn, đà
 
 Với sự ra mắt của nhiều dự án mới thú vị trên Cardano, hệ sinh thái sẽ chứng kiến sự phát triển bùng nổ. Tất nhiên, sức chứa trong ngắn hạn sẽ không theo kịp nhu cầu và sẽ xảy ra tình trạng tắc nghẽn nghiêm trọng. Nhưng đây là một quá trình mà mọi chuỗi mới đều phải trải qua. Với sự giám sát cẩn thận xuyên suốt, chúng ta sẽ tiếp tục làm việc để tăng hiệu quả, thông lượng và khả năng của Cardano trong những tuần và tháng tới. Trong đó, việc duy trì phương pháp tiếp cận một cách an toàn và được cân nhắc đã giúp đỡ chúng tôi từ đó đến nay.
 
-##### **Fernando Sanchez đã đóng góp cho bài viết này.<br><br>Bài này được dịch bởi Hoang Tran. Xem bài viết gốc [tại đây]( https://iohk.io/en/blog/posts/2022/01/19/the-bating-heart-of-a-fast-growing-network)/<br><br><br>*Dự án này được tài trợ bới Catalyst***
+##### **Fernando Sanchez đã đóng góp cho bài viết này**.
+
+Bài này được dịch bởi Hoang Tran. Xem bài viết gốc [tại đây]( https://iohk.io/en/blog/posts/2022/01/19/the-bating-heart-of-a-fast-growing-network)
+
+*Dự án này được tài trợ bới Catalyst*
