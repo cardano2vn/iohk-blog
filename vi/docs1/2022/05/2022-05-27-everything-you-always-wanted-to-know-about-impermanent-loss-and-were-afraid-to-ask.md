@@ -15,7 +15,7 @@ Tiếp thị &amp; Truyền thông
 - ![](img/2022-05-27-everything-you-always-wanted-to-know-about-impermanent-loss-and-were-afraid-to-ask.005.png)[](mailto:fernando.sanchez@iohk.io "Email")
 - ![](img/2022-05-27-everything-you-always-wanted-to-know-about-impermanent-loss-and-were-afraid-to-ask.006.png)[](https://www.linkedin.com/in/linkedinsanchezf/ "LinkedIn")
 
-![Everything you always wanted to know about impermanent loss and were afraid to ask](img/2022-05-27-everything-you-always-wanted-to-know-about-impermanent-loss-and-were-afraid-to-ask.007.jpeg)
+![Những điều mà bạn luôn muốn biết mà ngại đặt câu hỏi về *Tổn thất tạm thời*](img/2022-05-27-everything-you-always-wanted-to-know-about-impermanent-loss-and-were-afraid-to-ask.007.jpeg)
 
 **Tuyên bố từ chối trách nhiệm** : *Nội dung của bài viết này không phải là lời khuyên về tài chính, đầu tư, pháp lý hoặc thuế. Input Output Global không chịu trách nhiệm về việc bạn sử dụng hoặc phụ thuộc vào bất kỳ thông tin nào trong bài viết này.*
 
