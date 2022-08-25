@@ -27,7 +27,7 @@ Bất chấp sự gia tăng này đối với Cardano, mức độ hiểu biết
 
 Vì vậy, chúng tôi sẽ cố gắng giải thích sự phức tạp của một số khái niệm mà chúng tôi thường đọc về blockchain. Các thuật ngữ như DeFi, RealFi, DApp, DEX, liquidity, v.v. đi đôi với các sản phẩm blockchain mới nhất. Chúng ta hãy xem những thuật ngữ này có nghĩa là gì và hãy bắt đầu với các thành phần cơ bản.
 
-## **Where does DeFi start?**
+## **DeFi bắt đầu từ đâu?**
 
 Tất cả đều bắt đầu với [blockchain](https://docs.cardano.org/new-to-cardano/what-is-a-blockchain) . Vì vậy, nói một cách đơn giản, blockchain là một 'cuốn sổ' kỹ thuật số gồm các bản ghi - cái mà các kế toán viên gọi là *sổ cái* - về các giao dịch. Điều đặc biệt về cuốn sổ này là nó không được kiểm soát bởi một cá nhân, công ty hoặc quan chức chính phủ nào. Thay vào đó, các bản ghi được thực hiện theo cách *phi* tập trung. Với phi tập trung, chúng tôi muốn nói rằng hàng nghìn máy tính của mọi người giao tiếp với nhau để thống nhất xem một giao dịch có hợp lệ hay không. Họ đạt được sự đồng thuận này dựa trên các quy tắc được tích hợp trong blockchain mà họ đang chạy. Dữ liệu trên blockchain không thể thay đổi và có thể được kiểm tra bởi tất cả mọi người - Nó không thể xóa một giao dịch, giả mạo số tiền hoặc ẩn bất kỳ chi tiết nào trong hồ sơ. Tính năng này đảm bảo sự minh bạch và tin cậy giữa người dùng. Điều thú vị là mặc dù blockchain hiển thị thông tin như vậy, nhưng người dùng được 'hiển thị' dưới dạng địa chỉ. Vì vậy, mặc dù bất kỳ ai cũng có thể xem những giao dịch nào đã được thực hiện đến và đi từ một địa chỉ kể từ khi blockchain đã bắt đầu, nhưng không ai có thể xác định được người ở địa chỉ blockchain đó.
 
