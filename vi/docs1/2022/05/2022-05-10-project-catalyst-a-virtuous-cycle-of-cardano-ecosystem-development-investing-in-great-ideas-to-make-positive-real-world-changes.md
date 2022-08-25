@@ -15,7 +15,7 @@ Tiếp thị &amp; Truyền thông
 - ![](img/2022-05-10-project-catalyst-a-virtuous-cycle-of-cardano-ecosystem-development-investing-in-great-ideas-to-make-positive-real-world-changes.005.png)[](mailto:tim.richmond@iohk.io "Email")
 - ![](img/2022-05-10-project-catalyst-a-virtuous-cycle-of-cardano-ecosystem-development-investing-in-great-ideas-to-make-positive-real-world-changes.006.png)[](https://www.linkedin.com/in/tim--richmond/ "LinkedIn")
 
-![Project Catalyst - A virtuous cycle of Cardano ecosystem development](img/2022-05-10-project-catalyst-a-virtuous-cycle-of-cardano-ecosystem-development-investing-in-great-ideas-to-make-positive-real-world-changes.007.jpeg)
+![Project Catalyst - Một chu trình phát triển hệ sinh thái Cardano chuẩn](img/2022-05-10-project-catalyst-a-virtuous-cycle-of-cardano-ecosystem-development-investing-in-great-ideas-to-make-positive-real-world-changes.007.jpeg)
 
 Project Catalyst hướng đến mục tiêu xây dựng các hệ thống cho phép blockchain Cardano tự duy trì hoạt động bằng cách tạo ra một hệ sinh thái tăng trưởng và phát triển. Trọng tâm của vấn đề này là ý tưởng quản trị phi tập trung, theo đó cộng đồng Cardano lựa chọn các ý tưởng được đề xuất và ưu tiên để cấp vốn, tạo thành một chu kỳ tăng trưởng bền vững và minh bạch.
 
