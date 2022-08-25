@@ -35,7 +35,7 @@ Những ưu điểm của hệ thống phi tập trung được tóm tắt trong
 
 Nhưng làm thế nào để chúng ta sử dụng blockchain trong cuộc sống hàng ngày, và tại sao nó lại quan trọng? Câu trả lời là blockchain là về giao dịch hoặc trao đổi tiền trong các điều kiện cụ thể, cho một số lượng ứng dụng có thể là vô hạn. Các công ty trong lĩnh vực chăm sóc sức khỏe, nghệ thuật, bán lẻ, thu thập, đồ uống, quần áo thể thao và game đã sử dụng công nghệ blockchain.
 
-![Decentralized v traditional finance](img/2022-01-10-defi-demystified.008.png)
+![Tài chính phi tập trung với tài chính truyền thống](img/2022-01-10-defi-demystified.008.png)
 
 Hình 1. Tài chính phi tập trung với tài chính truyền thống
 
