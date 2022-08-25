@@ -1,6 +1,6 @@
 # Học cách tạo hợp đồng thông minh cho lĩnh vực tài chính với chi phí thấp và giảm thiểu viết code trong Chương trình tiên phong của Marlowe
 
-### **Join our new Marlowe training program to discover how to easily build financial smart contacts using drag and drop**
+### **Tham gia chương trình đào tạo Marlowe mới của chúng tôi để khám phá cách thức để dễ dàng xây dựng các hợp đồng thông minh cho lĩnh vực tài chính bằng cách kéo và thả**
 
 ![](img/2022-05-11-learn-how-to-create-low-code-low-cost-financial-smart-contracts-in-the-marlowe-pioneers-program.002.png) 11 tháng 5 năm 2022 ![](img/2022-05-11-learn-how-to-create-low-code-low-cost-financial-smart-contracts-in-the-marlowe-pioneers-program.002.png) [Niamh Ahern](/en/blog/authors/niamh-ahern/page-1/) ![](img/2022-05-11-learn-how-to-create-low-code-low-cost-financial-smart-contracts-in-the-marlowe-pioneers-program.003.png) 4 phút đọc
 
@@ -33,15 +33,15 @@ Phiên bản đầu tiên của chương trình mới bắt đầu vào tuần s
 
 Khóa học sẽ dạy cho bạn các nguyên tắc cốt lõi của Marlowe và cách viết các hợp đồng thông minh cho thế giới tài chính. Các mô-đun khóa học sẽ bao gồm các khối xây dựng của ngôn ngữ, sử dụng [công cụ Marlowe CLI](https://iohk.io/en/blog/posts/2022/04/19/introducing-the-new-command-line-interface-tool-for-marlowe/) , [Sân chơi Marlowe](https://iohk.io/en/blog/posts/2022/03/04/diving-deeper-into-the-marlowe-playground/) , cũng như một số nghiên cứu điển hình và bài tập thực hành.
 
-The course will follow a modular approach and will be highly interactive. Each week we will be releasing new teaching videos from both our Marlowe product and development team and director of education, Lars BrÃ¼njes, along with a set of practical exercises to complete during the week as part of each module. We will also be holding regular interactive Q&amp;A sessions. In addition, you will have access to a dedicated community channel on Discord, created especially to help you to connect with other course participants as you learn.
+Khóa học sẽ tiếp cận theo mô-đun và có tính tương tác cao. Mỗi tuần, chúng tôi sẽ phát hành các video giảng dạy mới của chúng tôi từ cả nhóm phát triển sản phẩm Marlowe và giám đốc giáo dục, Lars Bryan, cùng với một loạt các bài tập thực hành để hoàn thành trong tuần như một phần của mỗi mô-đun. Chúng tôi cũng sẽ tổ chức các phiên Hỏi &amp; Đáp tương tác thường xuyên. Ngoài ra, khi học bạn sẽ có quyền truy cập vào một kênh cộng đồng dành riêng trên Discord, được tạo riêng để giúp bạn kết nối với những người khác cùng tham gia khóa học.
 
-Outside the exercises and videos, students will be encouraged to learn at a pace that is right for them and to collaborate with each other. We recommend all students invest a minimum of 8-10 hours of their time per week. As with all learning experiences, the more you put in, the more you will get out! We encourage all participants to *engage with each other* and *work collaboratively* to answer questions and solve problems.
+Ngoài các bài tập và video, học viên sẽ được khuyến khích học với tốc độ phù hợp với mỗi người và tương tác với nhau. Chúng tôi khuyến nghị tất cả học viên đầu tư tối thiểu 8-10 giờ mỗi tuần. Kinh nghiệm cho thấy bạn càng đầu tư nhiều thời gian, bạn sẽ càng nắm bắt nhiều hơn! Chúng tôi khuyến khích tất cả những người tham gia *tương tác với nhau* và *hợp tác * để trả lời câu hỏi và giải quyết vấn đề.
 
 Chúng tôi sẽ có một nhóm nhỏ trợ giảng sẽ hỗ trợ điểm danh. Họ cũng có thể giúp phân loại các vấn đề hoặc câu hỏi có thể nảy sinh trong quá trình học của bạn trong tuần. Vào cuối mỗi tuần, chúng tôi sẽ tham gia trực tiếp với nhóm để giải quyết các câu hỏi kỹ thuật phức tạp hơn và cung cấp phản hồi về chủ đề được đề cập trong tuần đó.
 
-## **Prior experience**
+## **Kinh nghiệm**
 
-As Marlowe is a low code solution, it is not necessary to have programming experience to join this course. However, some knowledge of Haskell and JavaScript would be beneficial, as well as a general understanding of blockchain technology and financial products. You should be as keen to learn as to help us; while we have run a number of successful Pioneer Programs already for both Plutus and Atala, this is the first time we have challenged ourselves to teach Marlowe at this scale. So be prepared for road bumps along the way as we learn and improve, too!
+Marlowe là công cụ trực quan nên không cần thiết phải có kinh nghiệm lập trình để tham gia khóa học này. Tuy nhiên sẽ tốt hơn hơn khi biết một số kiến thức về Haskell và JavaScript, cũng như hiểu biết chung về công nghệ blockchain và các sản phẩm tài chính. Chúng tôi đã thực hiện một số Chương trình Tiên phong thành công cho cả Plutus và Atala, đây là lần đầu tiên chúng tôi thử thách bản thân để dạy Marlowe ở quy mô này. Vì vậy, hãy chuẩn bị cho những thử thách khi chúng ta học hỏi và cải thiện!
 
 ## **Khi nào thì khóa học bắt đầu?**
 
