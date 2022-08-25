@@ -1,6 +1,6 @@
 # Tìm hiểu sâu hơn về Sân chơi Marlowe
 
-### **Learn how to make your own templates from Marlowe contracts and provide hints to users using custom metadata**
+### **Học cách tạo các mẫu hợp đồng của riêng bạn từ Marlowe và cung cấp gợi ý cho người dùng bằng siêu dữ liệu tùy chỉnh**
 
 ![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.002.png) 4 tháng 3 năm 2022 ![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.002.png) [Pablo Lamela](/en/blog/authors/pablo-lamela-seijas/page-1/) ![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.003.png) 7 phút đọc
 
@@ -28,7 +28,7 @@ Với sự ra đời của Marlowe Run, chúng tôi đã mở rộng Sân chơi 
 
 Marlowe mở rộng cung cấp tính linh hoạt cao hơn Marlowe đơn thuần (hoặc Core Marlowe). Các hợp đồng rất cụ thể được mặc định thời gian timeouts (thời gian chờ) theo giá trị tuyệt đối, ban đầu thông qua slot numbers (số lượng khung giờ) và gần đây hơn là sử dụng timestamps (dấu thời gian) chuẩn (thời gian POSIX).
 
-Additionally, Marlowe Values are typically hardcoded in Marlowe, except those passed as Inputs. For example, you can implement a loan for â‚³100 or one that asks the user how much to lend through a Choice in a When construct, but we could not have a reusable Marlowe contract that could be deployed at any time and with any given parameters. Extended Marlowe addresses these limitations by adding the option to include contract parameters. Currently, extended Marlowe is practically identical to plain Marlowe except in that it includes two extra constructors that represent *parameters* of the *template*:
+Ngoài ra, các giá trị trong Marlowe thường là kiểu giá trị không đổi, ngoại trừ những giá trị đầu vào. Ví dụ: bạn có thể thực hiện một khoản vay với số tiền ₳100 hoặc một khoản vay yêu cầu người dùng cho vay lựa chọn khi xây dựng, nhưng chúng ta không có hợp đồng Marlowe được tái sử dụng để triển khai với bất kỳ thời gian và tham số nào. Marlowe phiên bản mở rộng giải quyết những hạn chế này bằng cách thêm tùy chọn cho các tham số hợp đồng. Hiện tại, Marlowe mở rộng thực tế giống với Marlowe thuần túy ngoại trừ việc nó có hai hàm số của *mẫu* đại diện cho *các tham số*  :
 
 - SlotParam - có thể được viết thay cho timeout (thời gian chờ) khi xây dựng
 - ConstantParam - là kiểu cấu trúc "Value"
