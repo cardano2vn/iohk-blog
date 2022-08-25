@@ -21,7 +21,7 @@ Project Catalyst hướng đến mục tiêu xây dựng các hệ thống cho p
 
 ![](img/2022-05-10-project-catalyst-a-virtuous-cycle-of-cardano-ecosystem-development-investing-in-great-ideas-to-make-positive-real-world-changes.008.jpeg)
 
-Every three months, Project Catalyst produces a fresh pipeline of technical, business, creative, and community-focused projects - funded to deliver their proposed ideas that have been voted for by the Cardano/Catalyst community.
+Project Catalyst được tổ chức ba tháng một lần, thu hút nhiều dự án về lĩnh vực kỹ thuật, kinh doanh, sáng tạo và các dự án tập trung vào cộng đồng - được tài trợ để triển khai các ý tưởng đề xuất của họ đã được cộng đồng Cardano / Catalyst bình chọn.
 
 Với mỗi vòng tài trợ, cộng đồng đưa ra những thách thức cho các dự án liên quan đến Cardano. Những thách thức này sau đó được phản hồi từ cộng đồng những người đề xuất đưa ra các giải pháp và kế hoạch thực hiện rõ ràng. Cộng đồng bình chọn các đề xuất và lựa chọn các dự án để nhận tài trợ.
 
@@ -41,7 +41,7 @@ Bạn có thể theo dõi tiến độ của từng quỹ và các dự án đã
 
 ![](img/2022-05-10-project-catalyst-a-virtuous-cycle-of-cardano-ecosystem-development-investing-in-great-ideas-to-make-positive-real-world-changes.009.jpeg)
 
-Pushing the boundaries and learning what does and doesn’t work is key to the foundation of both knowledge and success.
+Vượt qua giới hạn và học hỏi từ những gì làm được hoặc không làm được là chìa khóa cho nền tảng của cả kiến thức và thành công.
 
 Một văn hóa hòa nhập và chấp nhận những ý tưởng, khái niệm mới có thể trái ngược với ý kiến của mỗi người là rất quan trọng đối với sự thành công của dự án, nơi mà tinh thần cộng đồng, sự đổi mới, tôn trọng và cộng tác được đặt lên hàng đầu.
 
@@ -57,10 +57,10 @@ Quản trị là một vấn đề then chốt, không chỉ trong bối cảnh 
 
 Một khía cạnh quan trọng để thúc đẩy sự tin tưởng và tính toàn vẹn của Project Catalyst là tính minh bạch. Khuyến khích sự cởi mở giữa cộng đồng để đẩy nhanh hơn nữa sự hợp tác về ý tưởng của họ.
 
-All results and data relating to each and every funding round are published [here](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit#gid=938310766), along with a detailed breakdown of votes and financials. There are weekly sessions for the entire community, where plans are communicated to enable ada holders to voice their opinions and offer solutions to any perceived obstacles. Every voice is heard and counted.
+Tất cả kết quả và dữ liệu liên quan đến các vòng tài trợ đều được công bố [tại đây](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit#gid=938310766), cùng với bảng phân tích chi tiết về các phiếu bầu và tiền tài trợ. Hàng tuần có các buổi họp cho toàn bộ cộng đồng, nơi các kế hoạch được truyền đạt để cho phép những người nắm giữ ada nói lên ý kiến của họ và đưa ra giải pháp cho bất kỳ trở ngại nào được xác định. Mọi ý kiến đóng góp đều được lắng nghe và cân nhắc.
 
 ## **Làm thế nào để tham gia?**
 
-There are many ways to get involved with Project Catalyst. As an innovator, voter, commenter, proposer, proposal reviewer, community advisor, or even a mentor. The first step is [creating an account](https://cardano.ideascale.com/) on the Catalyst collaboration platform, Ideascale. Another way is to join the Project Catalyst community every Wednesday at TownHall, which is live-streamed on the Project Catalyst [YouTube Channel](https://www.youtube.com/playlist?list=PLnPTB0CuBOByRhpTUdALq4J89m_h7QqLk). If you have an idea or are just curious to explore what’s going on at the heart of Cardano, join the TownHall and become part of the Project Catalyst community.
+Có nhiều cách để tham gia với Project Catalyst. Là một người sáng tạo, người bình chọn, người bình luận, người đề xuất, người đánh giá đề xuất, cố vấn cộng đồng hoặc thậm chí là người cố vấn riêng. Bước đầu tiên là [tạo một tài khoản](https://cardano.ideascale.com/) trên nền tảng cộng tác Catalyst, Ideascale. Một cách khác là tham gia cộng đồng Project Catalyst vào Thứ Tư hàng tuần tại TownHall, được phát trực tiếp trên [Kênh YouTube](https://www.youtube.com/playlist?list=PLnPTB0CuBOByRhpTUdALq4J89m_h7QqLk) của Project Catalyst. Nếu bạn có ý tưởng hoặc chỉ tò mò muốn khám phá những gì đang diễn ra trong "trái tim" của Cardano, hãy tham gia TownHall và trở thành một phần của cộng đồng Project Catalyst.
 
 Để tìm hiểu thêm về [Project Catalyst](https://iohk.io/en/blog/posts/2021/02/12/our-million-dollar-baby-project-catalyst) hoặc tham gia và trả lời các thử thách do những người khác đăng thông qua Project Catalyst, vui lòng đăng ký vào [danh sách gửi thư](https://bit.ly/3dSZJvx) Catalyst và tham gia cộng đồng [Discord](https://discord.gg/2RnUtK8) và [Telegram](https://t.me/cardanocatalyst) .<br><br>Bài này được dịch bởi LinhPool [với bài gốc]<br>(https://iohk.io/en/blog/posts/2022/05/10/project-catalyst-a-virtuous-cycle-of-cardano-ecosystem-development-investing-in-great-ideas-to-make-positive-real-world-changes/)<br>*Dự án này được tài trợ bởi Catalyst*
