@@ -2,21 +2,21 @@
 
 ### **Learn how to make your own templates from Marlowe contracts and provide hints to users using custom metadata**
 
-![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.002.png) 4 March 2022![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.002.png)[ Pablo Lamela](/en/blog/authors/pablo-lamela-seijas/page-1/)![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.003.png) 7 mins read
+![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.002.png) 4 tháng 3 năm 2022 ![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.002.png) [Pablo Lamela](/en/blog/authors/pablo-lamela-seijas/page-1/) ![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.003.png) 7 phút đọc
 
 ![Pablo Lamela](img/2022-03-04-diving-deeper-into-the-marlowe-playground.004.png)[](/en/blog/authors/pablo-lamela-seijas/page-1/)
 
 ### [**Pablo Lamela**](/en/blog/authors/pablo-lamela-seijas/page-1/)
 
-Research Fellow
+Nhà nghiên cứu
 
-Research
+Nghiên cứu
 
-- ![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.005.png)[](mailto:pablo.lameja-seijas@iohk.io "Email")
+- ![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.005.png)[](mailto:pablo.lameja-seijas@iohk.io "E-mail")
 - ![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.006.png)[](https://www.linkedin.com/in/palas87/ "LinkedIn")
 - ![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.007.png)[](https://github.com/palas "GitHub")
 
-![Diving deeper into the Marlowe Playground](img/2022-03-04-diving-deeper-into-the-marlowe-playground.008.jpeg)
+![Tìm hiểu sâu hơn về Sân chơi Marlowe](img/2022-03-04-diving-deeper-into-the-marlowe-playground.008.jpeg)
 
 Marlowe là một ngôn ngữ miền chuyên biệt (DSL) được nhúng trong Haskell, cung cấp các hợp đồng tài chính cho blockchain mà mọi người đều có thể viết mã. Nó là một nền tảng cho tài chính phi tập trung (DeFi) hỗ trợ cho vay trực tiếp, ngang hàng, hợp đồng giao dịch phái sinh (CFD) và các công cụ tương tự khác. Marlowe cho phép người dùng áp dụng kiến thức chuyên môn riêng của họ để viết và quản lý các hợp đồng một cách thuận tiện mà không cần quá trình học tập phức tạp liên quan đến phát triển phần mềm, blockchain hoặc hợp đồng thông minh.
 
@@ -36,7 +36,7 @@ Additionally, Marlowe Values are typically hardcoded in Marlowe, except those pa
 Cả hai hàm này đều lấy làm tham số duy nhất, một string (chuỗi) đóng vai trò là mã định danh cho tham số, ví dụ:
 
 - SlotParam "Thời hạn thanh toán"
-- ConstantParam "Price"
+- ConstantParam "Giá"
 
 Hai tham số cùng kiểu (SlotParam hoặc ConstantParam) và có cùng số định dạng được coi là cùng một tham số, ngay cả khi chúng xuất hiện ở những nơi khác nhau.
 
@@ -44,25 +44,25 @@ Nếu hợp đồng chứa các tham số (hay được hiểu, nếu đó là m
 
 ![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.009.png)
 
-Figure 1. Simulation dialog
+Hình 1. Hộp thoại mô phỏng
 
 Lưu ý rằng đầu vào các tham số giá trị mẫu trong hình không chỉ là một trường nhập số nguyên. Thay vào đó, nó có thể là số thập phân và nó có nhãn với biểu tượng tiền tệ cho biết rằng số được nhập đại diện cho một lượng ada. Quy tắc này cũng đúng đối với các giá trị được yêu cầu lựa chọn khi xây dựng. Ngoài ra, các lựa chọn không cần phải đại diện cho số lượng ada. Chúng có thể đại diện cho bất kỳ thứ gì, chẳng hạn như một tỷ lệ, như sau:
 
 ![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.010.png)
 
-Figure 2. Actions dialog
+Hình 2. Hộp thoại thao tác
 
 Ngoài ra còn có các gợi ý cho từng tham số mà người dùng có thể hiển thị bằng cách nhấp vào dấu hỏi màu tím bên cạnh mỗi thuật ngữ. Văn bản trong gợi ý dành riêng cho mẫu hợp đồng và nó chứa nội dung được định dạng, ví dụ: **nội dung in đậm** , *nội dung in nghiêng* hoặc nội dung gạch chân.
 
 ![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.011.png)
 
-Figure 3. Parameter hints
+Hình 3. Gợi ý tham số
 
-User-defined contracts can customize all these details through the use of *metadata*. Letâ€™s take a look at how this is done.
+Các hợp đồng do người dùng xác định có thể tùy chỉnh tất cả các chi tiết này thông qua việc sử dụng *siêu dữ liệu* . Hãy xem cách này được thực hiện như thế nào.
 
-## **Customizing metadata**
+## **Tùy chỉnh siêu dữ liệu**
 
-There is a *Metadata* tab at the bottom of each of the editors in the Marlowe Playground. There, users can customize the metadata as needed. For example:
+Có một tab *Siêu dữ liệu* ở cuối mỗi trình chỉnh sửa trong Sân chơi Marlowe. Tại đó, người dùng có thể tùy chỉnh siêu dữ liệu khi cần thiết. Ví dụ:
 
 ![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.012.png)
 
@@ -77,11 +77,11 @@ Có một số siêu dữ liệu cơ bản mà mọi hợp đồng dự kiến s
 
 Lưu ý rằng văn bản trong mô tả hỗ trợ sử dụng một số chức năng định dạng có trong Markdown. Ví dụ: thêm hai dấu hoa thị vào trước và sau một phần của văn bản mô tả sẽ làm cho văn bản đó được in đậm khi mô phỏng hợp đồng, như chúng ta đã thấy trong phần trước. Theo cách này, văn bản thuần túy:
 
-Amount of **money** to pay
+Số tiền ** tiền ** phải trả
 
-will be rendered as
+sẽ được hiển thị dưới dạng
 
-Amount of **money** to pay
+Số **tiền** phải trả
 
 Chúng tôi khuyên bạn nên sử dụng chức năng này để làm nổi bật những từ khóa nào đại diện cho các thực thể có ý nghĩa đặc biệt trong ngữ cảnh của hợp đồng, chẳng hạn như tên của các roles hoặc choices.
 
@@ -106,11 +106,11 @@ Ngoài mô tả, trong các trường hợp tham số choices và value, ngườ
 
 ![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.015.png)
 
-Figure 7. Number formatting
+Hình 7. Định dạng số
 
 Cuối cùng, thứ tự của các tham số là quan trọng. Ví dụ: hãy tưởng tượng một số thông số slot để người dùng cuối chọn. Sẽ là hợp lý nếu hiển thị các thông số đó theo thứ tự thời gian.
 
-To arrange the metadata, drag entries into the desired order, for example:
+Để sắp xếp siêu dữ liệu, hãy kéo các mục nhập theo thứ tự mong muốn, ví dụ:
 
 ![](img/2022-03-04-diving-deeper-into-the-marlowe-playground.016.png)
 
@@ -120,8 +120,8 @@ Thứ tự của các tham số trong metadata sẽ được sử dụng để t
 
 # **Kết luận**
 
-With the new template and metadata extensions to Marlowe, contract developers can now provide hints and parameters to make it easier for end users to reuse the same contract in several circumstances, without having to understand the full implementation and the details of the contract.
+Với mẫu mới và tiện ích mở rộng siêu dữ liệu cho Marlowe, các nhà phát triển hợp đồng giờ đây có thể cung cấp các gợi ý và thông số để giúp người dùng cuối sử dụng lại hợp đồng đó dễ dàng hơn trong một số trường hợp mà không cần phải hiểu cách triển khai đầy đủ và chi tiết của hợp đồng.
 
-These are just some of the new improvements that the Marlowe team continues to work on, and we look forward to sharing the details of more enhancements soon.
+Đây chỉ là một số cải tiến mới mà nhóm Marlowe tiếp tục thực hiện và chúng tôi mong sớm được chia sẻ thông tin chi tiết về các cải tiến khác.
 
 *Để tìm hiểu thêm về các bản phát hành Marlowe sắp tới và các tính năng mới, hãy theo dõi các kênh truyền thông xã hội của chúng tôi hoặc kênh [Marlowe Discord mới](https://discord.com/channels/826816523368005654/936295815926927390/936316494042779698) để biết thêm thông tin. Ngoài ra, hãy theo dõi để biết thông tin chi tiết về chương trình Người tiên phong Marlowe đầu tiên của chúng tôi sẽ sớm ra mắt!<br><br>Bài này được dịch bởi LinhPool [với bài gốc]<br>(https://iohk.io/en/blog/posts/2022/03/04/diving-deeper-into-the-marlowe-playground/} <br>*Dự án này được tài trợ bởi Catalyst**
