@@ -53,4 +53,8 @@ Những cải tiến này cho phép các nhà phát triển không chỉ làm vi
 
 Khi Cardano tiếp tục phát triển như một mô hình cơ sở hạ tầng mở hoàn toàn trong năm 2022, chúng tôi hy vọng trong thời gian tới, những cải tiến này sẽ cung cấp cho đông đảo cộng đồng nhà phát triển công cụ tốt hơn để làm việc trên các dự án khác nhau và triển khai chúng trên Cardano.
 
-*Các đóng góp của DevX được bao gồm trên [nhiều kho dữ liệu của Input Output](https://github.com/input-output-hk) và bạn có thể xem tiến trình phát triển Haskell Nix trong [kho này](https://github.com/input-output-hk/haskell.nix) hoặc tìm hiểu thêm về quá trình phát triển của trình biên dịch Glasgow Haskell bằng cách truy cập [gitlab.haskell.org](https://gitlab.haskell.org/users/sign_in).<br><br><br>Bài này được dịch bởi Lê Nguyên. <a class="_active_edit_href" href="https://iohk.io/en/blog/posts/2022/01/13/a-new-internal-iog-developer-experience-department/">với bài gốc</a><br><em>Dự án này được tài trợ bởi Catalyst</em>*
+*Các đóng góp của DevX được bao gồm trên [nhiều kho dữ liệu của Input Output](https://github.com/input-output-hk) và bạn có thể xem tiến trình phát triển Haskell Nix trong [kho này](https://github.com/input-output-hk/haskell.nix) hoặc tìm hiểu thêm về quá trình phát triển của trình biên dịch Glasgow Haskell bằng cách truy cập [gitlab.haskell.org](https://gitlab.haskell.org/users/sign_in).
+
+Bài này được dịch bởi Lê Nguyên.Nguồn bài dịch t[ại đây](https://iohk.io/en/blog/posts/2022/01/13/a-new-internal-iog-developer-experience-department/)
+
+*Dự án này được tài trợ bởi Catalyst*
