@@ -19,7 +19,7 @@ Education
 
 ![Giới thiệu công cụ giao diện dòng lệnh mới cho Marlowe](img/2022-04-19-introducing-the-new-command-line-interface-tool-for-marlowe.009.jpeg)
 
-Marlowe is an open source, domain specific language (DSL) with a suite of products for the community that will catalyze the adoption of Cardano in finance. It is constantly being enhanced and updated, and a command line interface (CLI) is just something you can't do without. So, we created a more convenient way to interact with Marlowe using the new CLI tool. This new tool supports a straightforward workflow for users who want to run contracts from the command line. It lets you focus on the Marlowe contract itself, while the tool manages details of the input and state for the contract. Additionally, it automates many aspects of Plutus as well as interaction with the Cardano node itself to reduce the burden on users.
+Marlowe là ngôn ngữ chuyên biệt mã nguồn(DSL) với một bộ sản phẩm dành cho cộng đồng, sẽ thúc đẩy việc áp dụng Cardano trong lĩnh vực tài chính. Nó liên tục được nâng cao và cập nhật, và giao diện dòng lệnh (CLI) là thứ bạn không thể làm mà thiếu nó được. Vì vậy, chúng tôi đã tạo ra một cách thuận tiện hơn để tương tác với Marlowe bằng cách sử dụng công cụ CLI mới. Công cụ mới này hỗ trợ một quy trình làm việc đơn giản cho những người dùng muốn chạy các hợp đồng từ dòng lệnh. Nó cho phép bạn tập trung vào chính hợp đồng Marlowe, trong khi công cụ này quản lý chi tiết đầu vào và trạng thái của hợp đồng. Ngoài ra, nó tự động hóa nhiều khía cạnh của Plutus cũng như tương tác với Cardano node để giảm bớt gánh nặng cho người dùng.
 
 ### **Mục đích**
 
@@ -29,11 +29,11 @@ Công cụ [Marlowe CLI](https://github.com/input-output-hk/marlowe-cardano/blo
 
 Ngoài ra, công cụ CLI mới này sẽ trở thành một công cụ hữu ích để đào tạo người dùng về cách bắt kịp tốc độ sử dụng Marlowe. Chúng tôi sẽ trình bày cách sử dụng nó trong chương trình những người tiên phong sử dụng Marlowe sắp ra mắt trong vài tuần tới! Hãy theo dõi [ kênh Marlowe Discord](https://discord.com/channels/826816523368005654/936295815926927390/936316494042779698)  của chúng tôi để biết chi tiết về thời điểm bắt đầu khóa học này và cách bạn có thể tham gia.
 
-## **Running Marlowe contracts**
+## **Thực thi các hợp đồng Marlowe**
 
-The marlowe-cli command supports several fine-grained and high-level workflows for running Marlowe contracts, but here we will focus on a workflow that abstracts away the specifics of Marloweâ€™s use of the Plutus language. The tool is installed similarly to other Cardano tools, using standard Cabal or Nix commands. Basic use just involves a couple of commands:
+Lệnh marlowe-cli hỗ trợ một số quy trình công việc chi tiết và cấp cao để thực thi các hợp đồng Marlowe, nhưng ở đây chúng ta sẽ tập trung vào một quy trình làm việc tóm tắt các chi tiết cụ thể về việc sử dụng ngôn ngữ Plutus của Marlowe. Công cụ này được cài đặt tương tự như các công cụ Cardano khác, sử dụng các lệnh Cabal hoặc Nix tiêu chuẩn. Việc sử dụng cơ bản chỉ bao gồm một số lệnh:
 
-- Create an example contract from a template
+- Tạo một hợp đồng ví dụ từ một khuôn mẫu
 - Khởi tạo hợp đồng để có thể gửi giao dịch đã tạo
 -  Áp dụng đầu vào cho hợp đồng
 - Rút tiền từ hợp đồng
@@ -42,13 +42,13 @@ The marlowe-cli command supports several fine-grained and high-level workflows f
 
 ![](img/2022-04-19-introducing-the-new-command-line-interface-tool-for-marlowe.010.jpeg)
 
-Figure 1: High-level workflow for running Marlowe contracts at the command line. Each rectangle corresponds to running a marlowe-cli command.
+Hình 1: Quy trình công việc cấp cao để thực thi các hợp đồng Marlowe với dòng lệnh. Mỗi hình chữ nhật tương ứng với việc thực thi một lệnh marlowe-cli.
 
-There are several ways to design Marlowe contracts, but the easiest are to use the CLIâ€™s template command or the [Marlowe Playground](https://iohk.io/en/blog/posts/2022/03/04/diving-deeper-into-the-marlowe-playground/). One can also create contracts programmatically using Haskell, JavaScript, or any other language that can output the required JSON files that embody the contract and its initial state. The CLIâ€™s template command can generate simple test contracts, escrow contracts, zero-coupon bonds, token swaps, and covered calls. The Playground contains eight example contracts, but you can also design a custom Marlowe contract with it.
+Có một số cách để thiết kế hợp đồng Marlowe, nhưng cách dễ nhất là sử dụng khuôn mẫu CLI hoặc [Marlowe Playground](https://iohk.io/en/blog/posts/2022/03/04/diving-deeper-into-the-marlowe-playground/). Người ta cũng có thể tạo hợp đồng bằng cách lập trình với các ngôn ngữ Haskell, JavaScript hoặc bất kỳ ngôn ngữ nào khác có thể xuất ra các tệp JSON cần thiết thể hiện hợp đồng và trạng thái ban đầu của nó. Lệnh của CLI template có thể tạo các hợp đồng thử nghiệm đơn giản, hợp đồng ký quỹ, trái phiếu không giảm giá, hoán đổi token và các cuộc gọi được bảo hiểm. Playground chứa tám hợp đồng mẫu, nhưng bạn cũng có thể thiết kế một hợp đồng Marlowe tùy chỉnh với nó.
 
 Khi một hợp đồng đã được tạo và trạng thái bắt đầu của nó được xác định, lệnh initialize của CLI sẽ bó những thông tin đó lại cùng với các chi tiết của mạng Cardano nơi nó sẽ được chạy. Tệp kết quả .marlowe theo chuẩn JSON duy nhất chứa tất cả thông tin cần thiết để chạy hoặc nghiên cứu hợp đồng Marlowe. Ngoài hợp đồng và trạng thái hiện tại, nó còn chứa địa chỉ của trình xác thực Marlowe, bản sao trình tự hóa của tập lệnh Plutus và các chi tiết mạng. Việc kiểm tra và trích xuất thông tin từ tệp JSON này có thể hữu ích trong việc tìm hiểu về cách hoạt động của Marlowe, nhưng không cần thiết để chạy các hợp đồng Marlowe. Khi thông tin cần thiết này đã được đóng gói, CLI sẽ chạy lệnh execute gửi giao dịch Plutus thực tế đến blockchain Cardano, in số liệu thống kê về giao dịch và chờ xác nhận.
 
-Applying inputs to a contract follows a simpler process. The CLIâ€™s prepare command lets you set up a deposit of funds to the contract, make a choice in it, or notify it. This takes the previous .marlowe file as input and produces a new one as output, which you can submit with the execute command. The prepare command will warn you if the input is illegal or untimely.
+Việc áp dụng các yếu tố đầu vào cho một hợp đồng tuân theo một quy trình đơn giản hơn. Lệnh prepare của CLI cho phép bạn thiết lập một khoản tiền gửi vào hợp đồng, thực hiện lựa chọn hoặc thông báo cho hợp đồng đó. Điều này sẽ lấy tệp .marlowe trước đó dưới dạng đầu vào và tạo một tệp mới dưới dạng đầu ra từ đó bạn có thể gửi tệp này bằng lệnh thực thi. Lệnh prepare sẽ cảnh báo bạn nếu đầu vào là không hợp lệ hoặc không đúng thời gian.
 
 Việc rút tiền được thanh toán bằng hợp đồng Marlowe được thực hiện bằng lệnh withdraw, cho phép bạn chọn địa chỉ nhận tiền. Lựa chọn địa chỉ nhận tiền cung cấp sự linh hoạt trong việc giải ngân vốn, để các địa chỉ đầu ra không bị “mắc kẹt” vào chính hợp đồng.
 
@@ -58,7 +58,7 @@ Truy vấn lịch sử của hợp đồng cũng có thể được thực hiệ
 
 Công cụ dòng lệnh cũng cung cấp các tính năng nâng cao để tạo và thao tác các trình xác nhận, dữ liệu, trình xác nhận lại và hàm băm của Plutus liên quan đến hợp đồng Marlowe. Các hợp đồng cũng có thể được nén (sử dụng hàm băm Merkle), điều này giúp bạn có thể chạy các hợp đồng lớn hơn nhiều so với giới hạn của giao thức Cardano về kích thước giao dịch và bộ nhớ, điều này trái lại với việc cho phép. Bạn cũng có thể sử dụng CLI để chạy các hợp đồng Marlowe trên PAB, loại bỏ nhu cầu quản lý UTxO và thay vào đó là dùng ví  để quản lý điều đó.
 
-This CLI tool is periodically enhanced to meet developer needs as they emerge. In addition to further simplifying Marlowe workflows, the toolâ€™s contract-testing capabilities are being expanded.
+Công cụ CLI này được cải tiến định kỳ để đáp ứng những nhu cầu của nhà phát triển khi chúng ra mắt. Ngoài việc đơn giản hóa hơn nữa quy trình làm việc của Marlowe, khả năng kiểm tra hợp đồng của công cụ đang được mở rộng.
 
 *Hãy tham gia với chúng tôi trên [kênh Marlowe Discord](https://discord.com/channels/826816523368005654/936295815926927390/936316494042779698) để tham gia vào các cuộc thảo luận, đặt câu hỏi và nghe tin tức mới nhất về Marlowe.*
 
