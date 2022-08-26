@@ -35,17 +35,17 @@ Sau khi kết thúc sự kiện chính của hội nghị Consensus, IOG sẽ t�
 
 Sau những phiên họp buổi chiều, các nhà phát triển cũng sẽ có cơ hội kết nối với các thành viên khác trong cộng đồng, các dự án đang xây dựng trên Cardano và các thành viên của đội ngũ IOG.
 
-**DApp development track**
+**Tiêu điểm 1: Sự phát triển DApp (Ứng dụng phi tập trung)**
 
 Tham gia thảo luận với các thành viên của nhóm IOG và các thành viên cộng đồng về phát triển DApp. Tìm hiểu về những nền tảng của sự phát triển DApp ở Cardano, các khả năng mà tổ hợp sự kiện hard fork Vasil sẽ mở ra, kiểm tra và xác nhận,...
 
 Cuối ngày, IOG sẽ mời các nhà phát triển thảo luận về các dự án mà họ đang xây dựng trên Cardano.
 
-**Plutus challenge**
+**Tiêu điểm 2: Thử thách Plutus (Ngôn ngữ lập trình sử dụng để xây dựng Dapp trên Cardano)**
 
 Những người tham gia sẽ sử dụng khả năng sáng tạo của mình để giải quyết các thử thách về Plutus do nhóm IOG đưa ra. Sau đó, IOG sẽ tạo cơ hội cho các nhà phát triển trình bày dự án của họ với các thành viên trong cộng đồng.
 
-**Marlowe - Zero to hero**
+**Tiêu điểm 3: Marlowe - Từ cơ bản đến nâng cao**
 
 Đây là một sự kiện vừa học vừa làm, nơi người tham gia có thể học những kiến thức cơ bản về Marlowe, ngôn ngữ dành riêng cho Cardano. Sự kiện này sẽ bao gồm các thử thách và bài tập thực hành.
 
