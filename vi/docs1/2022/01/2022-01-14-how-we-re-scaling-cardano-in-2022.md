@@ -23,17 +23,17 @@ Sử dụng các phương pháp phát triển chính thức và ngôn ngữ lậ
 
 Một cộng đồng lớn đã phát triển đáng kinh ngạc nhờ những nỗ lực của chúng tôi và thông qua mạng lưới khoảng 3000 nhà vận hành pool ủy thác, chúng tôi hiện có một trong những mạng dPOS (bằng chứng cổ phần) phi tập trung lớn nhất trên thế giới. Kỷ nguyên phân quyền và pool ủy thác này được chúng tôi đặt tên là Shelley, theo tên nhà thơ và nhà chính trị cấp tiến, Percy Bysshe Shelley.
 
-Goguen (which included the Alonzo HFC event) brought with it core smart contract capability, paving the way for DeFi and DApps. With initial Plutus capability now deployed, we continue to evolve the expressiveness of the Plutus language and the overall proposition, in collaboration with a growing community of developers.
+Kỷ nguyên Goguen (bao gồm sự kiện Alonzo HFC) mang đến khả năng cho hợp đồng thông minh cốt lõi, mở đường cho DeFi và DApps. Chúng tôi tiếp tục phát triển ngôn ngữ Plutus (hiện đang được triển khai) và đề xuất tổng thể, phối hợp với cộng đồng các nhà phát triển đang lớn mạnh.
 
 Hiện nay, khi bước vào kỷ nguyên Basho, chúng tôi đang đầu tư thêm nguồn lực vào việc tối ưu hóa và mở rộng quy mô. Việc xây dựng được dựa trên những nền tảng này, đồng thời tăng đều đặn dung lượng và thông lượng để đáp ứng với sự phát triển trong hệ sinh thái DApp, trước hết là hàng trăm nghìn, sau đó là hàng triệu người dùng mới. Từ những người tham gia vào DeFi đến công dân của các quốc gia đang phát triển.
 
-During the course of this year, starting right now, we’ll be pursuing this next phase of our mission. Parameter adjustments, improvements, enhancements and other innovations will all play their part in steadily increasing Cardano’s capacity &amp; throughput during 2022. While maintaining the considered, safe approach that has served us to date. Yes, we anticipate periods of high demand, network congestion at times. We’re on an exciting journey and usage will be high. While we may at times feel impatient, this is the way. Here’s how we will optimize and scale as we grow.
+Trong năm nay, chúng tôi sẽ tiếp tục thực hiện sứ mệnh của mình. Các điều chỉnh về thông số, cải tiến, nâng cao và đổi mới đều sẽ góp phần để hiệu suất và thông lượng của Cardano được tăng lên đều đặn trong năm 2022. Chúng ta đang ở trong một hành trình thú vị khi vẫn duy trì phương pháp tiếp cận an toàn đã đồng hành cùng chúng tôi từ trước đến nay, chúng tôi dự đoán sẽ có các giai đoạn bị tắc nghẽn mạng do nhu cầu sử dụng cao. Mặc dù đôi khi chúng ta thấy mất kiên nhẫn, nhưng đây là cách chúng tôi tối ưu hóa và mở rộng quy mô để phát triển.
 
 ## **Các giải pháp On-chain**
 
 **Tăng kích thước khối (block size)**
 
-The bigger the block, the more transactions it can carry. Block size was recently increased by 8KB to 72KB (a 12.5% increase); further increases will be applied over time based on ongoing system monitoring and overall network health.
+Kích thước Block càng lớn thì càng có nhiều giao dịch. Kích thước block gần đây đã tăng thêm 8KB lên 72KB (tăng 12,5%); các mức tăng thêm sẽ được áp dụng theo thời gian dựa trên việc giám sát hệ thống đang diễn ra và tình trạng mạng tổng thể.
 
 **Pipelining**
 
@@ -41,9 +41,9 @@ Cải thiện thời gian truyền tải giữa các block bằng cách kết h�
 
 **Input Endorsers**
 
-Input endorsers improve block propagation times and throughput by allowing transactions to be separated into pre-constructed blocks. This improves the consistency of block propagation times and allows higher transaction rates.
+Input Endorsers cải thiện thời gian truyền tải giữa các block và thông lượng bằng cách cho phép các giao dịch được tách thành các khối xây dựng trước,  Điều này cải thiện tính nhất quán của thời gian truyền tải giữa các block và cho phép tỷ lệ giao dịch cao hơn.
 
-**Memory /CPU parameters for Plutus**
+**Cải thiện thông số bộ nhớ/CPU cho tập lệnh Plutus**
 
 Sử dụng bộ nhớ hiệu quả hơn trên toàn bộ chuỗi. Cụ thể, có những cải tiến về bộ nhớ trong việc xử lý UTXO (Unspent Transaction Output), phân phối cổ phần, phân phối cổ phần trực tiếp và các pool, thể hiện hàm băm (hash).
 
@@ -53,11 +53,11 @@ Sử dụng hiệu quả, mạnh mẽ hơn nữa mô hình EUTXO thông qua tố
 
 - Đầu vào tham chiếu (CIP-0031) - Tập lệnh Plutus có thể kiểm tra đầu vào giao dịch mà không cần phải sử dụng chúng. Điều này có nghĩa là không cần thiết phải tạo UTXO chỉ để kiểm tra thông tin do đầu vào nắm giữ.
 - Plutus Datums (CIP-0032) - Datums có thể được gắn trực tiếp vào đầu ra thay vì được xử lý bởi hàm băm. Điều này đơn giản hóa cách sử dụng dữ liệu, vì người dùng có thể thấy dữ liệu thực tế thay vì phải cung cấp dữ liệu khớp với hàm băm đã cho.
-- Script sharing (CIP-0033) – Plutus script references can be associated with transaction outputs, meaning that they can be recorded on-chain for subsequent reuse. It will not be necessary to supply a copy of the script with each transaction, hugely reducing friction for developers. Reusing scripts in multiple transactions significantly reduces transaction sizes, improving throughput and reducing script execution costs.
+- Chia sẻ tập lệnh Plutus (CIP-0033) - Các tham chiếu tập lệnh Plutus có thể được liên kết với các đầu ra của giao dịch, có nghĩa là chúng có thể được ghi lại trên chuỗi để sử dụng lại sau này. Sẽ không cần thiết phải cung cấp một bản sao của tập lệnh với mỗi giao dịch, giảm đáng kể nguồn lực không mong muốn cho các nhà phát triển. Việc sử dụng lại các tập lệnh trong nhiều giao dịch làm giảm đáng kể kích thước giao dịch, cải thiện thông lượng và giảm chi phí thực thi tập lệnh.
 
-**Node enhancements**
+**Cải tiến của node**
 
-Improvements will help even distribution of stake and reward computations across the epochs, thus providing greater headroom for block size increases. Also, memory usage is now more efficient. Memory compaction reduces RSS footprint, and memory sharing means we need less data instantiated. Node version 1.33.0, from January 2022, reduces peak load at critical points, including the epoch boundary.
+Các cải tiến của node sẽ giúp phân bổ đồng đều sự ủy thác và phần thưởng qua các epoch, từ đó cung cấp khoảng trống lớn hơn để tăng kích thước block. Ngoài ra, việc sử dụng bộ nhớ cũng trở nên hiệu quả hơn. Việc nén bộ nhớ làm giảm "RSS footprint" và việc chia sẻ bộ nhớ đồng nghĩa với việc cần ít hơn dữ liệu được khởi tạo. Từ tháng 1 năm 2022, phiên bản Node 1.33.0 giảm tải cao tại các phần quan trọng, bao gồm cả phần ranh giới chuyển giao giữa các epoch.
 
 **Lưu trữ trên ổ đĩa**
 
@@ -67,7 +67,7 @@ Bằng cách lưu trữ trên ổ đĩa, các node sẽ cần ít bộ nhớ hơ
 
 **Sidechains**
 
-A sidechain is a separate blockchain connected to a main blockchain (the 'main' chain, also known as parent chain), through a two-way mechanism (the 'bridge') that enables tokens and other digital assets from one chain to be used in another and results returned to the original chain. Assets can be moved between chains as needed. One single parent chain can have multiple interoperable sidechains connected to it, which may operate in completely different ways. EVM sidechains coming to Cardano include dcSpark’s Milkomeda and IOG’s EVM sidechain project, codenamed ‘Mamba’.
+Sidechain là một blockchain riêng biệt được kết nối với một blockchain chính (chuỗi 'chính' - mainchain, còn được gọi là chuỗi mẹ - parent chain), thông qua cơ chế hai chiều ('cầu nối' - bridge) cho phép sử dụng token và các tài sản kỹ thuật số khác từ một chuỗi này sang một chuỗi khác và kết quả được trả về chuỗi ban đầu. Tài sản có thể được di chuyển giữa các chuỗi khi cần thiết. Một mainchain duy nhất có thể có nhiều sidechains tương tác và kết nối với nó, có thể hoạt động theo những cách hoàn toàn khác nhau. Các sidechain EVM sắp có mặt trên mạng Cardano bao gồm Milkomeda của dcSpark và 'Mamba' của IOG
 
 **Hydra**
 
@@ -75,12 +75,12 @@ Giới thiệu các giao thức Layer 2 bao gồm các kênh để tối đa hó
 
 **Sự tính toán ngoài chuỗi**
 
-Offloading some of the computation, for example with Asynchronous Contract Execution (ACE) can drive greater core network efficiency. Transactions occur outside of the blockchain itself, yet can offer fast, cheap transactions via a trust model.
+Việc giảm tải một số phép tính, ví dụ như với Thực thi hợp đồng không đồng bộ (ACE) có thể thúc đẩy hiệu quả cao hơn của mạng chính. Các giao dịch xảy ra bên ngoài blockchain nhưng có thể cung cấp một cách nhanh chóng các giao dịch với giá rẻ thông qua mô hình trust.
 
 **Mithril**
 
-To achieve greater scalability, you need to address the complexity of critical operations that depend logarithmically on the number of participants. Mithril will improve chain synchronization while maintaining trust. The result? Multi-signature aggregation that is fast and efficient without compromising security features.
+Để blockchain đạt được khả năng mở rộng lớn hơn, cần phải giải quyết được sự phức tạp của các hoạt động có tính quan trọng, phụ thuộc phần lớn vào số lượng người tham gia. Mithril sẽ cải thiện điều này bằng cách đồng bộ hóa các chuỗi trong khi đó vẫn duy trì được sự tin cậy. Kết quả là? Tổng hợp đa chữ ký nhanh chóng và hiệu quả mà không ảnh hưởng đến tính năng an toàn bảo mật của blockchain.
 
 ![](img/2022-01-14-how-we-re-scaling-cardano-in-2022.009.jpeg)
 
-*Infographic credit: Mikki Pham/Fernando Sanchez*
+*infographic: Mikki Pham / Fernando Sanchez. Bài này được dịch bởi Max Long [với bài gốc](https://iohk.io/en/blog/posts/2022/01/14/how-we-re-scaling-cardano-in-2022/) *Dự án này được tài trợ bới Catalyst**
