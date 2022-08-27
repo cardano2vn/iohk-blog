@@ -16,7 +16,7 @@ Engineering
 - ![](img/2022-02-03-implementing-hydra-heads-the-first-step-towards-the-full-hydra-vision.006.png)[](https://twitter.com/MBenkort "Twitter")
 - ![](img/2022-02-03-implementing-hydra-heads-the-first-step-towards-the-full-hydra-vision.007.png)[](https://github.com/KtorZ "GitHub")
 
-![ Implementing Hydra Heads: the first step towards the full Hydra vision ](img/2022-02-03-implementing-hydra-heads-the-first-step-towards-the-full-hydra-vision.008.jpeg)
+![Triển khai Hydra Heads: Bước đầu hướng tới tầm nhìn giao thức Hydra hoàn thiện](img/2022-02-03-implementing-hydra-heads-the-first-step-towards-the-full-hydra-vision.008.jpeg)
 
 We’ve done the science and the theory. We have laid the foundations for a scalable, versatile, and high-throughput blockchain. Now it’s time for steady growth and system enhancements. With the goal of creating an optimized ecosystem to support and foster decentralized applications (DApps) development, Cardano is in the foothills of the Basho phase. With smart contracts already in place, Basho is all about [scaling](https://iohk.io/en/blog/posts/2022/01/14/how-we-re-scaling-cardano-in-2022/) and network optimization. The [Hydra](https://iohk.io/en/blog/posts/2021/09/17/hydra-cardano-s-solution-for-ultimate-scalability/) protocol family is a key component for this.
 
