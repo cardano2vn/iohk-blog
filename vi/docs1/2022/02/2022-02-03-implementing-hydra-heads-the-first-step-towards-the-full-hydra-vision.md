@@ -2,7 +2,7 @@
 
 ### **Hydra Head - công cụ đầu tiên trong bộ giao thức, là một yếu tố quan trọng trong hành trình mở rộng quy mô của Cardano. Hãy cùng xem giao thức Hydra Head phù hợp với bức tranh tổng thể lớn hơn như thế nào. Công cụ này có thể sẽ phá vỡ một số quan điểm.**
 
-![](img/2022-02-03-implementing-hydra-heads-the-first-step-towards-the-full-hydra-vision.002.png) 3 February 2022![](img/2022-02-03-implementing-hydra-heads-the-first-step-towards-the-full-hydra-vision.002.png)[ Matthias Benkort](/en/blog/authors/matthias-benkort/page-1/)![](img/2022-02-03-implementing-hydra-heads-the-first-step-towards-the-full-hydra-vision.003.png) 12 mins read
+![](img/2022-02-03-implementing-hydra-heads-the-first-step-towards-the-full-hydra-vision.002.png) 3 Tháng Hai 2022![](img/2022-02-03-implementing-hydra-heads-the-first-step-towards-the-full-hydra-vision.002.png)[ Matthias Benkort](/en/blog/authors/matthias-benkort/page-1/)![](img/2022-02-03-implementing-hydra-heads-the-first-step-towards-the-full-hydra-vision.003.png) 12 phút đọc
 
 ![Matthias Benkort](img/2022-02-03-implementing-hydra-heads-the-first-step-towards-the-full-hydra-vision.004.png)[](/en/blog/authors/matthias-benkort/page-1/)
 
