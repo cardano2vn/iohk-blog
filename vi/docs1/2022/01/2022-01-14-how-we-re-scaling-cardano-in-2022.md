@@ -2,7 +2,7 @@
 
 ### **Với cốt lõi hợp đồng thông minh đã được triển khai, giai đoạn tiếp theo của Cardano tập trung vào tối ưu hóa hiệu suất và mở rộng quy mô. Và nó bắt đầu ngay từ bây giờ…**
 
-![](img/2022-01-14-how-we-re-scaling-cardano-in-2022.002.png) 14 January 2022![](img/2022-01-14-how-we-re-scaling-cardano-in-2022.002.png)[ Tim Harrison](/en/blog/authors/tim-harrison/page-1/)![](img/2022-01-14-how-we-re-scaling-cardano-in-2022.003.png) 5 mins read
+![](img/2022-01-14-how-we-re-scaling-cardano-in-2022.002.png) 14 tháng 1 năm 2022![](img/2022-01-14-how-we-re-scaling-cardano-in-2022.002.png) [Tim Harrison](/en/blog/authors/tim-harrison/page-1/)![](img/2022-01-14-how-we-re-scaling-cardano-in-2022.003.png)5 phút đọc
 
 ![Tim Harrison](img/2022-01-14-how-we-re-scaling-cardano-in-2022.004.png)[](/en/blog/authors/tim-harrison/page-1/)
 
@@ -10,9 +10,9 @@
 
 Phó Chủ tịch Cộng đồng &amp; Hệ sinh thái
 
-Communications
+Thông tin liên lạc
 
-- ![](img/2022-01-14-how-we-re-scaling-cardano-in-2022.005.png)[](mailto:tim.harrison@iohk.io "Email")
+- ![](img/2022-01-14-how-we-re-scaling-cardano-in-2022.005.png)[](mailto:tim.harrison@iohk.io "E-mail")
 - ![](img/2022-01-14-how-we-re-scaling-cardano-in-2022.006.png)[](https://uk.linkedin.com/in/timbharrison "LinkedIn")
 - ![](img/2022-01-14-how-we-re-scaling-cardano-in-2022.007.png)[](https://twitter.com/timbharrison "Twitter")
 - ![](img/2022-01-14-how-we-re-scaling-cardano-in-2022.008.png)[](https://github.com/timbharrison "GitHub")
