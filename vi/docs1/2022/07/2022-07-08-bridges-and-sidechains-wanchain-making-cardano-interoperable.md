@@ -20,17 +20,17 @@ Vài tháng trước, một đội ngũ từ [Wanchain](https://www.wanchain.or
 
 Mục đích là gì? Là nhằm xây dựng cơ sở hạ tầng cần thiết để kích hoạt các ứng dụng RealFi thực sự trải dài qua nhiều blockchain nhằm thúc đẩy việc ứng dụng hệ sinh thái của Cardano, các giải pháp tương tác blockchain bất khả tri trên mạng của Wanchain và hỗ trợ tương lai của Web3.
 
-It soon became apparent that this was a monumental task requiring the input (and output!) of multiple teams. Indeed, connecting Cardano to heterogenous blockchains would be a complex undertaking, since Cardano is fundamentally different to most other blockchain networks. Of note, Cardano uses:
+Rõ ràng rằng đây là một nhiệm vụ lớn đòi hỏi đầu vào (và đầu ra!) Của nhiều đội. Thật vậy, việc kết nối Cardano với các blockchain không đồng nhất sẽ là một công việc phức tạp, vì Cardano về cơ bản khác với hầu hết các mạng blockchain khác. Do cardano sử dụng:
 
 - Các môi trường hợp đồng thông minh và ngôn ngữ lập trình khác nhau: Cardano sử dụng ngôn ngữ lập trình Plutus và Haskell, không phải EVM và Solidity;
 - Các mô hình giao dịch khác nhau: Cardano sử dụng mô hình UTXO (như Bitcoin), không phải mô hình dựa trên tài khoản (như Ethereum);
-- Different signature schemes and elliptic curves: Cardano supports EdDSA and Curve25519, not Shnorr and Secp256k1.
+- Các lược đồ chữ ký và đường cong eliptic khác nhau: Cardano hỗ trợ EdDSA và Curve25519, không hỗ trợ Shnorr và Secp256k1.
 
-Each of these differences are worthy of their own dedicated post, but suffice to say that, combined, they presented a unique obstacle limiting Cardanoâ€™s potential for interoperability.Â 
+Mỗi sự khác biệt này đều xứng đáng để có bài đăng dành riêng cho chúng, nhưng đủ để nói rằng, kết hợp lại, chúng đã đưa ra trở ngại hạn chế tiềm năng tương thíc của Cardano.
 
 May mắn thay, các kỹ sư thích một thử thách hay!
 
-Teams from IOG, Wanchain and MLabs (an industry-best Haskell, Rust, blockchain, and AI consultancy) collaborated to design an actionable plan to make Cardano interoperable and now, with the foundation of an interoperability solution for Cardano in place, the time is right to shareÂ  some details about what has thus far been an exciting endeavor.Â 
+Đội ngũ từ IOG, Wanchain và MLabs (một công ty tư vấn Haskell, Rust, blockchain và AI tốt nhất trong ngành) đã hợp tác để thiết kế một kế hoạch làm cho Cardano có thể tương thích và bây giờ, với nền tảng là giải pháp tương thích dành cho Cardano tại chỗ, thời gian này là phù hợp để chia sẻ một số chi tiết về những gì đã được thực hiện, đây là là một nỗ lực thú vị. 
 
 Trong bài viết này, chúng tôi giải thích cơ sở hạ tầng cơ bản để kết nối Cardano với các mạng blockchain không đồng nhất, tiết lộ một giải pháp sidechain mới và chia sẻ lộ trình dài hạn và lộ trình gần của dự án này.
 
@@ -46,7 +46,7 @@ Yếu tố đầu tiên cần thiết để xây dựng giải pháp tương tá
 
 Cầu nối crosschain chuyển tài sản và/hoặc dữ liệu từ chuỗi nguồn sang chuỗi mục tiêu. Ở dạng cơ bản nhất, điều này thường được thực hiện bằng cách khóa một tài sản trên chuỗi nguồn và đúc một tài sản đóng gói có cùng giá trị trên chuỗi mục tiêu. Chúng tôi gọi đây là phương pháp Lock-Mint-Burn-Unlock. Để phương pháp Lock-Mint-Burn-Unlock hoạt động, ba hợp đồng thông minh chính được triển khai: một trên chuỗi nguồn để xử lý tài sản nguồn, một trên chuỗi mục tiêu để xử lý tài sản mục tiêu và một trên chuỗi quản lý để xử lý đăng ký và đặt cọc các node cầu nối. 
 
-For those unfamiliar, Figure 1, below, illustrates a source chain to target chain transaction. A brief description: when the crosschain transaction is initiated by a user, the target chain and target address are specified. The source chain smart contract locks the source token and emits a Lock event. The bridge nodes detect the Lock event and instruct the target chain smart contract to mint a token of the same value on the target chain.
+Đối với những người chưa quen, hình 1 bên dưới minh họa một chuỗi nguồn đến giao dịch chuỗi mục tiêu. Mô tả ngắn gọn: khi giao dịch crosschain do người dùng bắt đầu, chuỗi mục tiêu và địa chỉ mục tiêu được chỉ định. Hợp đồng thông minh của chuỗi nguồn sẽ khóa tài sản nguồn và phát ra sự kiện Lock. Các node cầu nối phát hiện sự kiện Lock và hướng dẫn hợp đồng thông minh của chuỗi mục tiêu tạo ra một token có cùng giá trị trên chuỗi mục tiêu.
 
 Â ![](img/2022-07-08-bridges-and-sidechains-wanchain-making-cardano-interoperable.006.jpeg)
 
