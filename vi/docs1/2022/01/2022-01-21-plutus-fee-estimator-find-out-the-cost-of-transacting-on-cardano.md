@@ -1,6 +1,6 @@
 # Công cụ ước tính phí Plutus: tìm hiểu chi phí giao dịch trên Cardano
 
-### **Our new fee estimator – released today – will help developers estimate the cost of smart contract scripts for maximum efficiency and minimum cost**
+### **Công cụ ước tính phí mới của chúng tôi - được phát hành hôm nay - sẽ giúp các nhà phát triển ước tính chi phí của các tập lệnh hợp đồng thông minh để đạt hiệu quả tối đa và giảm tối thiểu chi phí.**
 
 ![](img/2022-01-21-plutus-fee-estimator-find-out-the-cost-of-transacting-on-cardano.002.png) Ngày 21 tháng 1 năm 2022![](img/2022-01-21-plutus-fee-estimator-find-out-the-cost-of-transacting-on-cardano.002.png)[ Kevin Hammond](/en/blog/authors/kevin-hammond/page-1/)![](img/2022-01-21-plutus-fee-estimator-find-out-the-cost-of-transacting-on-cardano.003.png) bài đọc 6 phút
 
@@ -20,7 +20,7 @@ Engineering
 
 Với hệ sinh thái Cardano đang phát triển ổn định, một số lượng lớn [ DApp đang được xây dựng](https://twitter.com/InputOutputHK/status/1475107377775099910?s=20)  và sẵn sàng để ra mắt trên Cardano. Hoặc là trong quá trình thử nghiệm triển khai cuối cùng hoặc là trong quá phát triển tích cực, Cardano sẽ sớm lưu trữ nhiều DApp khác nhau bao gồm các dịch vụ [DeFi](https://iohk.io/en/blog/posts/2022/01/10/defi-demystified/), thị trường NFT, ví, sàn giao dịch, trò chơi và hơn thế nữa.
 
-The deterministic design of the Cardano ledger allows developers to predict how much they will pay for contract execution and there’s no fee for contract failure. Deterministic transaction processing, low fees, and security – all of these are major benefits of transacting and building on Cardano. Here, we’ll take a closer look at Cardano pricing and introduce a new Plutus fee estimator developed to provide better clarity on the processing fees.
+Nhờ vào thiết kế sổ cái Cardano cho phép các nhà phát triển dự đoán số tiền họ sẽ trả cho việc thực hiện hợp đồng và không bị mất phí khi hợp đồng thực hiện không thành công. Xử lý giao dịch xác định, chi phí thấp và bảo mật - tất cả những điều này là những lợi ích chính của việc giao dịch và xây dựng trên Cardano. Ở đây, chúng tôi sẽ xem xét kỹ hơn về giá Cardano và giới thiệu một công cụ ước tính phí Plutus mới được phát triển để cung cấp rõ ràng hơn về chi phí xử lý.
 
 ## **Lợi ích của việc xây dựng trên Cardano**
 
@@ -30,7 +30,7 @@ Các nguyên tắc thiết kế làm nền tảng cho sổ cái Cardano đảm b
 
 Ngược lại, trên Cardano, người dùng có thể tính toán trước các khoản phí tiềm năng để xử lý giao dịch. Bởi vì người dùng biết trước liệu giao dịch có hợp lệ hay không, nên không cần phải trả tiền cho một giao dịch có khả năng thất bại. Điều này giúp tiết kiệm ngân quỹ sách phí và loại bỏ các lỗi trên dây chuyền. Ví dụ: phí thực thi của Cardano trong ada luôn ổn định vì nó phụ thuộc vào các thông số giao thức mạng được thiết lập trước hơn là phụ thuộc vào các yếu tố tắc nghẽn mạng lưới khác nhau.
 
-## **Cardano’s pricing model relies on demand over supply**
+## **Mô hình định giá của Cardano dựa vào nhu cầu so với nguồn cung.**
 
 Phương pháp thiết lập giá của Cardano chủ yếu dựa vào nhu cầu thị trường so với nguồn cung thực tế. Với sự hỗ trợ hợp đồng thông minh trên Cardano, hiện nay có nhiều hơn một loại nhu cầu cạnh tranh so với nguồn cung chung. Do đó, điều quan trọng là phải xem xét cả định giá tương đối và tuyệt đối. Có một cách để làm điều này là kiểm tra tác động của việc định giá hợp đồng thông minh, những hoạt động của token không thể thay thế (NFT),... liên quan đến một số giá trị chung - trong trường hợp của chúng tôi là mức tiêu thụ sức mạnh xử lý của Cardano.
 
