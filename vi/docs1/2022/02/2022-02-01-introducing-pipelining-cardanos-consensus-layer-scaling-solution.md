@@ -1,8 +1,8 @@
 # Giới thiệu pipelining (phát tán đồng thời): giải pháp mở rộng layer đồng thuận của Cardano
 
-### **Pipelining is one of the key scaling improvements to be deployed in 2022. Here’s how it works and why it matters**
+### **Pipelining là một trong những cải tiến mở rộng quan trọng sẽ được triển khai vào năm 2022. Dưới đây là cách nó hoạt động và tại sao nó lại quan trọng**
 
-![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.002.png) 1 February 2022![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.002.png)[ John Woods](/en/blog/authors/john-woods/page-1/)![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.003.png) 4 mins read
+![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.002.png) Ngày 1 tháng 2 năm 2022![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.002.png)[ John Woods](/en/blog/authors/john-woods/page-1/)![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.003.png)  bài đọc 4 phút
 
 ![John Woods](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.004.png)[](/en/blog/authors/john-woods/page-1/)
 
@@ -15,53 +15,53 @@ Engineering
 - ![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.005.png)[](https://www.linkedin.com/in/johnalanwoods/ "LinkedIn")
 - ![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.006.png)[](https://github.com/johnalanwoods "GitHub")
 
-![Introducing pipelining: Cardano's consensus layer scaling solution](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.007.jpeg)
+![Giới thiệu pipelining (đường ống dữ liệu): giải pháp mở rộng layer đồng thuận của Cardano](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.007.jpeg)
 
-You’d be forgiven for thinking that pipelining sounds like a remodelling procedure a plumber might employ. In a way, this isn’t too far from the truth. Pipelining is, effectively, an evolution in Cardano’s ‘plumbing’. It is a key element in our scaling plan this year, one in the series of [published steps](https://iohk.io/en/blog/posts/2022/01/14/how-we-re-scaling-cardano-in-2022/#modal=https://ucarecdn.com/fc644130-c13d-43f9-a966-14290687d190/) covering our methodical approach to flex Cardano’s capacity as the ecosystem grows.
+Bạn thể nghĩ rằng pipelining nghe có vẻ như một quá trình tu sửa mà một thợ sửa ống nước sẽ thực hiện quá trình này. Theo một khía cạnh nào đó, điều này không quá khác biệt với quá trình tu sửa ống nước. Pipelining thực sự là một bước tiến trong 'hệ thống ống nước' của Cardano. Đây là yếu tố quan trọng trong kế hoạch mở rộng quy mô của chúng tôi trong năm nay, một trong chuỗi các bước [đã được công bố](https://iohk.io/en/blog/posts/2022/01/14/how-we-re-scaling-cardano-in-2022/#modal=https://ucarecdn.com/fc644130-c13d-43f9-a966-14290687d190/)  bao gồm cách tiếp cận có phương pháp của chúng tôi để linh hoạt năng lực của Cardano khi hệ sinh thái phát triển.
 
-Scaling and throughput are crucial considerations for any blockchain, if growth and competitiveness are to be maintained. As Cardano enters the Basho phase of development, we're laser-focused on ensuring that Cardano scales to meet the growing needs of the ecosystem. In other words, we need to ensure that the underlying protocol – Ouroboros Praos – operates fast enough for the plethora of decentralized applications now deploying or lining up to launch on Cardano.
+Mở rộng quy mô và lưu lượng là những cân nhắc quan trọng đối với bất kỳ blockchain nào nếu sự tăng trưởng và khả năng cạnh tranh được duy trì. Khi Cardano bước vào giai đoạn phát triển Basho, chúng tôi tập trung vào việc đảm bảo rằng Cardano mở rộng quy mô để đáp ứng nhu cầu ngày càng tăng của hệ sinh thái. Nói cách khác, chúng tôi cần đảm bảo rằng giao thức cơ bản - Ouroboros Praos - hoạt động đủ nhanh để đáp ứng việc rất nhiều ứng dụng phi tập trung hiện đang triển khai hoặc sắp khởi chạy trên Cardano.
 
-Cardano will continue to be steadily optimized in a series of measured steps, carefully &amp; methodically scaling #Cardano for future growth as demand increases. The changes introduced by the release of node 1.33.0 in early January gave us additional headroom to modify some network parameters, including block size and memory units. Adjustments here have a direct bearing on how Cardano handles network traffic in volume and we continue to monitor network performance closely.
+Cardano sẽ tiếp tục được tối ưu hóa đều đặn theo một loạt các bước được đo lường, mở rộng quy mô #Cardano một cách cẩn thận và có phương pháp để phục vụ sự tăng trưởng trong tương lai khi nhu cầu ngày càng tăng lên. Những thay đổi được giới thiệu bởi việc phát hành node 1.33.0 vào đầu tháng 1 đã cho chúng tôi thêm khoảng trống để sửa đổi một số thông số mạng lưới, bao gồm kích thước block và đơn vị bộ nhớ. Các điều chỉnh ở đây có ảnh hưởng trực tiếp đến cách Cardano xử lý lưu lượng mạng về khối lượng và chúng tôi tiếp tục theo dõi chặt chẽ hiệu suất mạng lưới.
 
-Continuing close observation of real world network performance and - importantly - the cumulative impact of parameter changes will be key throughout this process. Following each update, we carefully monitor and assess across at least one epoch (5 days) before continuing with further adjustments. As much as extensive research and engineering work has gone into designing and deploying the system, a decentralized network architecture needs to be scaled based on real world user behaviours and usage.
+Tiếp tục theo dõi chặt chẽ hiệu suất mạng lưới trong thế giới thực và - quan trọng là - tác động tích lũy của các thay đổi tham số sẽ là chìa khóa trong suốt quá trình này. Sau mỗi bản cập nhật, chúng tôi theo dõi và đánh giá cẩn thận trong ít nhất một epoch (5 ngày) trước khi tiếp tục điều chỉnh thêm. Khi công việc nghiên cứu và kỹ thuật mở rộng được thực hiện để thiết kế và triển khai hệ thống, thì một kiến ​​trúc mạng phi tập trung cần được mở rộng dựa trên các hành vi và cách sử dụng của người dùng trong thế giới thực.
 
-## **Introducing pipelining**
+## **Giới thiệu pipelining**
 
-Pipelining – or more precisely, diffusion pipelining – is an improvement to the consensus layer that facilitates faster block propagation. It enables even greater gains in headroom, which will enable further increases to Cardano's performance and competitiveness.
+Pipelining - hay chính xác hơn là khuếch tán pipelining - là một cải tiến đối với layer đồng thuận để tạo điều kiện cho việc truyền block nhanh hơn. Nó cho phép tăng nhiều hơn nữa về khoảng trống, điều này sẽ giúp tăng thêm hiệu suất và khả năng cạnh tranh của Cardano.
 
-To understand how this technique achieves its intended goal, let's recap how blocks propagate at present.
+Để hiểu cách kỹ thuật này đạt được mục tiêu đã định, hãy tóm tắt lại cách các block lan truyền trong hiện tại.
 
-Currently, a block goes through six steps as it moves across the chain:
+Hiện tại, một block trải qua sáu bước khi nó di chuyển trong chuỗi:
 
-1. Block header transmission
-2. Block header validation
+1. Truyền tiêu đề block
+2. Xác thực tiêu đề block
 3. Yêu cầu nội dung và truyền tải block
-4. Block body validation and local chain extension
-5. Block header transmission to downstream nodes
-6. Block body transmission to downstream nodes
+4. Xác thực nội dung block và tiện ích mở rộng chuỗi cục bộ
+5. Truyền tiêu đề block đến các node dưới
+6. Truyền nội dung block đến các node dưới
 
-A block’s journey is a very serialized one. All steps happen in the same sequence every time, at every node. Considering the volume of nodes and the ever-growing number of blocks, block transmission takes a considerable amount of time.
+Hành trình của một block là một hành trình rất trình tự. Tất cả các bước xảy ra theo cùng một trình tự mọi lúc, mọi nơi. Xem xét khối lượng các node và số lượng block ngày càng tăng, quá trình truyền block mất một khoảng thời gian đáng kể.
 
-Diffusion pipelining overlays some of those steps on top of each other so they happen concurrently. This saves time and increases throughput.
+Cộng nghệ pipelining sẽ giúp chồng một số bước lên trên nhau vì thế chúng được xử lý đồng thời. Điều này giúp tiết kiệm thời gian và tăng lưu lượng dữ liệu.
 
-![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.008.png) The time saving afforded by this technique will lead to even more headroom to further scale Cardano, including changes to:
+![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.008.png) Việc tiết kiệm thời gian nhờ kỹ thuật này mang lại sẽ dẫn đến nhiều khoảng trống hơn nữa để mở rộng quy mô Cardano hơn nữa, bao gồm các thay đổi đối với:
 
-- Block size - the bigger the block, the more transactions and scripts it can carry
-- Plutus memory limits - the amount of memory available for a Plutus script to run
-- Plutus CPU limits - more computational resources can be allocated for a script to run more efficiently
+- Kích thước block - block càng lớn thì càng có nhiều giao dịch và tập lệnh mà nó có thể mang theo
+- Giới hạn bộ nhớ Plutus - số lượng bộ nhớ có sẵn để chạy tập lệnh Plutus
+- Giới hạn CPU Plutus - có thể phân bổ nhiều tài nguyên tính toán hơn để tập lệnh chạy hiệu quả hơn
 
-## **Implementing pipelining**
+## **Triển khai pipelining**
 
-One of the design principles behind diffusion pipelining was to achieve faster block propagation while avoiding ‘destructive’ changes to the chain. We did not want to remove any of the protocols, primitives, or interactions already happening in Cardano, because nodes rely on these established mechanisms. We wanted full backwards compatibility, so instead of changing the way things currently work, we're adding a new mini-protocol whose job is to pre-notify subscribed entities when a new desirable block is seen, prior to full validation.
+Một trong những nguyên tắc thiết kế đằng sau pipelining khuếch tán là đạt được sự lan truyền block nhanh hơn trong khi tránh những thay đổi 'phá hoại' đối với chuỗi. Chúng tôi không muốn xóa bất kỳ giao thức, tình trạng nguyên thủy hoặc tính tương tác nào đã xảy ra trong Cardano, vì các node dựa trên các cơ chế đã thiết lập này. Chúng tôi muốn có khả năng tương thích ngược hoàn toàn, vì vậy thay vì thay đổi cách mọi thứ hiện đang hoạt động, chúng tôi đang thêm một giao thức nhỏ mới có công việc là thông báo trước cho các thực thể đã đăng ký khi nhìn thấy một block mong muốn mới, trước khi xác thực đầy đủ.
 
-The key change introduced by pipelining is the ability to pre-notify peers and give them a block before it is validated, which enables the downstream peer to pre-fetch the new block body. This saves a lot of time because we dramatically reduce the time it takes to validate a block across the multiple hops.
+Thay đổi quan trọng được pipelining đưa ra là khả năng thông báo trước cho các node và cung cấp cho chúng một block trước khi nó được xác thực, cho phép node phía dưới tìm nạp trước nội dung block mới. Điều này tiết kiệm rất nhiều thời gian vì chúng tôi giảm đáng kể thời gian xác thực một block qua nhiều bước nhảy.
 
 ## **Kết luận**
 
-Pipelining is just one of the pillars supporting Cardano's scaling this year. Combined, all these changes will lead Cardano to a position where it is faster than its competitors, and a highly competitive platform for decentralized finance (DeFi) this year.
+Pipelining chỉ là một trong những trụ cột hỗ trợ Cardano mở rộng quy mô trong năm nay. Kết hợp lại, tất cả những thay đổi này sẽ đưa Cardano đến một vị trí nơi mà nó tiến nhanh hơn các đối thủ cạnh tranh và là một nền tảng có tính cạnh tranh cao cho tài chính phi tập trung (DeFi) trong năm nay.
 
-## **Key takeaways**
+## **Một số điều quan trọng**
 
-![](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.009.png)
+![- Xem xét khối lượng các node và số lượng block ngày càng tăng, quá trình truyền block có thể mất một khoảng thời gian đáng kể. <br>- Pipelining khuếch tán tăng tốc sự lan truyền khối bằng cách cung cấp cho các node khả năng thông báo trước các node cuối cùng của một khối đến, cho phép khối ngang hàng tìm nạp trước phần thân khối mới.<br>- Điều này tiết kiệm thời gian có thể được sử dụng để truyền các khối lớn hơn hoặc thực thi các tập lệnh Plutus có thể cần nhiều tài nguyên tính toán hơn do kích thước,...<br>- Pipelining có thể được triển khai với bản phát hành node thông thường, nó không yêu cầu hard fork](img/2022-02-01-introducing-pipelining-cardanos-consensus-layer-scaling-solution.009.png)
 
-***Fernando Sanchez contributed to this article.***
+***Fernando Sanchez đã đóng góp cho bài viết này.<br><br><br><br>Bài này được dịch bởi Lê Nguyên. <a class="_active_edit_href" href="https://iohk.io/en/blog/posts/2022/02/01/introducing-pipelining-cardanos-consensus-layer-scaling-solution/#">với bài gốc</a><br><em>Dự án này được tài trợ bởi Catalyst</em>***
