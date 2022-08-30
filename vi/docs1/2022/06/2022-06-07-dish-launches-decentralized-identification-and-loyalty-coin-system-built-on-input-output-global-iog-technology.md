@@ -1,4 +1,4 @@
-# DISH ra mắt hệ thống nhận dạng phi tập trung và đồng coin cho khách hàng thân thiết được xây dựng trên công nghệ của IOG
+# DISH ra mắt hệ thống nhận dạng phi tập trung
 
 ### **Sáng kiến này là một phần của sự hợp tác lâu dài giữa DISH và IOG để tạo ra các giải pháp blockchain sáng tạo nhằm thúc đẩy việc áp dụng các công nghệ phi tập trung vào hệ sinh thái DISH**
 
@@ -70,7 +70,3 @@ MVP cũng cho phép kiểm soát tốt hơn cho các quản trị viên BoostOne
 ## **Lời cuối**
 
 MVP tiên phong này thể hiện một bước tiến quan trọng đối với việc tích hợp các hệ thống hỗ trợ blockchain vào hệ sinh thái viễn thông và đặc biệt để tạo ra các chương trình khách hàng thân thiết được cung cấp bởi các sổ cái phi tập trung.<br><br>
-
-**Bài này được dịch bởi LinhPool với [nguồn tại đây]( https://iohk.io/en/blog/posts/2022/06/07/dish-launches-decentralized-identification-and-loyalty-coin-system-built-on-input-output-global-iog-technology/ )
-
-**Dự án này được tài trợ bới Catalyst**
