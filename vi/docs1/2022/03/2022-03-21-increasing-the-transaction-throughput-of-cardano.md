@@ -43,7 +43,7 @@ Cụ thể, lượng dữ liệu chúng ta có thể đưa vào một block đư
 
 Tin tốt là, trong những ràng buộc này, thông lượng giao dịch có thể bị vượt quá bằng cách áp dụng các thay đổi cho mạng ngang hàng và / hoặc các lớp đồng thuận. Chúng tôi giải thích các kỹ thuật này dưới đây.
 
-### **Diffusion pipelining**
+### **Phát tán đồng thời (Diffusion pipelining)**
 
 Xem lại Hình 1, chúng ta thấy rằng tất cả các hành động của các node được thực hiện theo một trình tự nghiêm ngặt, và do đó Δp cần phải phù hợp với thời gian yêu cầu của một node nhân với số bước nhảy trong đường dẫn ngang hàng. Chúng tôi nhận thấy rằng, mặc dù điều này là cần thiết cho việc truyền mạng, nhưng nó không phải để xác thực block.
 
@@ -53,18 +53,18 @@ Xem xét Hình 2. Bằng cách cho phép các block được truyền trước k
 
 Ngược lại với sơ đồ trong Hình 1, ngân sách Δp giờ đây chỉ cần tính đến việc xác thực nội dung một lần. Điều này dẫn đến ngân sách thời gian cao hơn để truyền mạng ngang hàng và / hoặc xác thực nội dung, do đó cho phép thông lượng giao dịch cao hơn (để dễ dàng so sánh với Hình 1, mức tăng này được minh họa bằng xác thực nội dung lớn hơn ('bv' ' ) ngân sách).
 
-For reasons explained below, it is crucial that the following two validation checks remain fully replicated in the propagation path:
+Vì những lý do được giải thích bên dưới, điều quan trọng là hai kiểm tra xác thực sau đây vẫn được sao chép đầy đủ trong đường truyền:
 
-1. Header correctness, i.e. the block correctly references its predecessor, and correct block leadership (verifiable-random-function (VRF) and block-signature validation).
-2. Block completeness, i.e. the received (but not yet validated) body is indeed referenced by the header’s body hash.
+1. Tính đúng đắn của tiêu đề (header), tức là block tham chiếu chính xác khối tiền nhiệm của nó và vị trí block dẫn đầu chính xác (chức năng có thể xác minh-ngẫu nhiên (verifiable-random-function-VRF) và xác thực chữ ký khối).
+2. Tính đầy đủ của block, tức là phần nội dung đã nhận (nhưng chưa được xác thực) thực sự được tham chiếu bởi phần nội dung hàm băm của phần tiêu đề.
 
-How might diffusion pipelining (as described above) affect the security of the consensus and network layers?
+Cách mà phát tán đồng thời (như mô tả ở trên) có thể ảnh hưởng đến bảo mật của các lớp mạng lưới và đồng thuận như thế nào?
 
 Trước tiên, hãy lưu ý rằng lớp đồng thuận vẫn không bị ảnh hưởng bởi thay đổi này:
 
-- Honest blocks are always valid, since the block leader fully validates the chain to be appended by the new block as well as the new block itself, and,
+- Các block trung thực luôn hợp lệ, vì block leader xác thực hoàn toàn chuỗi được thêm vào bởi block mới cũng như chính block mới.
 - Các block không hoàn chỉnh không được  phát tán (do Điểm 2 ở trên)
-- Invalid (complete) blocks, though possibly propagated through the network, are always discarded by an honest node after body validation
+- Các block không hợp lệ (hoàn chỉnh), mặc dù có thể được truyền qua mạng lưới, luôn bị loại bỏ bởi một node trung thực sau khi xác thực phần nội dung.
 
 Thứ hai, liên quan đến các cuộc tấn công Từ chối dịch vụ (DoS) trên lớp mạng, lưu ý rằng kẻ thù có thể cố gắng làm tắc nghẽn hệ thống bằng cách khuếch tán các block không hợp lệ. Tuy nhiên, block dẫn đầu chính xác vẫn được xác minh (do điểm 1), ngụ ý rằng block như vậy sẽ chỉ được phát tán nếu đối thủ được lên lịch làm như vậy, tức là không tạo ra nhiều tải hơn so với trường hợp block leader này trung thực (ngoại trừ block không đóng góp vào thông lượng của hệ thống). Hơn nữa, các nhà điều hành nhóm cổ phần (SPO) tạo ra các block không hợp lệ có thể dễ dàng được xác định và trừng phạt, trên thực tế, một hệ thống quản lý vi phạm hiện đang được phát triển để thực hiện chính xác chức năng này.
 
@@ -72,19 +72,19 @@ Thứ hai, liên quan đến các cuộc tấn công Từ chối dịch vụ (Do
 
 Tiếp theo, chúng tôi sẽ đưa ra một bản tóm tắt về một kỹ thuật mạnh mẽ hơn có thể đạt được thông lượng giao dịch thậm chí cao hơn, nhưng cũng yêu cầu một số thay đổi giao thức ấn tượng hơn.
 
-### **Asynchronous validation**
+### **Xác thực không đồng bộ (Asynchronous validation)**
 
 Ý tưởng đằng sau quá trình diffusion pipelining — quá trình xác thực phần nội dung bị trì hoãn — có thể được đưa đến cực điểm: một block mới vẫn được yêu cầu đến trong thời gian Δp, nhưng chúng tôi không yêu cầu quá trình xác thực phần nội dung của nó phải được hoàn thành trong vòng Δp. Chúng tôi gọi đây là xác thực không đồng bộ (AV).
 
 ![](img/2022-03-21-increasing-the-transaction-throughput-of-cardano.011.png)
 
-Consider Figure 3. Body validation is allowed to essentially consume the remaining (expected) Δb budget (besides block transmission and header validation), thus virtually putting the nodes’ CPUs at permanent load. However, note that the network link and the CPU are also assigned to other tasks (such as mempool synchronization), meaning that we do not want to utilize the full remainder of Δb for body validation, but leave a couple of seconds assigned to such other tasks.
+Xem xét Hình 3. Xác thực phần nội dung được phép sử dụng ngân sách Δb (dự kiến) còn lại (bên cạnh quá trình truyền block và xác thực tiêu đề), do đó hầu như đặt CPU của các node ở tải vĩnh viễn. Tuy nhiên, lưu ý rằng liên kết mạng và CPU cũng được chỉ định cho các tác vụ khác (chẳng hạn như đồng bộ hóa mempool), có nghĩa là chúng tôi không muốn sử dụng toàn bộ phần còn lại của Δb để xác thực nội dung, nhưng hãy để một vài giây được gán cho các tác vụ khác các nhiệm vụ.
 
 Điều này có một tác dụng phụ đáng chú ý. Trái ngược với diffusion pipelining, xác thực sổ cái thường chậm hơn phần đầu của chuỗi. Đặc biệt, ngay cả các block leaders trung thực hiện nay cũng có thể tạo ra các block (một phần) không hợp lệ, vì họ có thể chưa hoàn tất việc xác thực lịch sử giao dịch dẫn đến block mới.
 
 Để đối phó với tác dụng phụ này, các quy tắc sổ cái cần phải được điều chỉnh: để đảm bảo rằng các block trung thực luôn đóng góp vào sự bảo mật của sự đồng thuận, các block mang giao dịch không hợp lệ vẫn phải được coi là phần mở rộng chuỗi hợp lệ. Sau đó, các giao dịch không hợp lệ có thể đơn giản bị loại bỏ trong quá trình xác thực sổ cái.
 
-Although substantially improving over diffusion pipelining, AV can be even further improved. The reason is that, generally, not enough data can be diffused during Δp to produce enough validation work to max out the CPUs during the full remainder of the Δb period. To fully leverage the benefits of AV, we will combine it with the mechanism of input endorsers, which we will describe in an upcoming blog post.
+Mặc dù cải thiện đáng kể so với diffusion pipelining, AV thậm chí có thể được cải thiện hơn nữa. Lý do là, nói chung, không có đủ dữ liệu có thể được khuếch tán trong Δp để tạo ra đủ công việc xác thực để tối đa hóa các CPU trong toàn bộ phần còn lại của khoảng thời gian Δb. Để tận dụng đầy đủ các lợi ích của AV, chúng tôi sẽ kết hợp nó với cơ chế xác thực đầu vào (input endorsers), mà chúng tôi sẽ mô tả trong một bài đăng trên blog sắp tới.
 
 ### ** Tác Động**
 
@@ -94,7 +94,7 @@ Trong Bảng 1, chúng tôi trình bày các ước tính thông lượng này (
 
 - Praos: Giao thức hiện được triển khai của Cardano (kích thước block 80 kB)
 - Praos Max: Praos với kích thước block lớn nhất có thể có thể được duy trì một cách an toàn (theo các giả định ở trên)
-- Diffusion pipelining
+- Phát tán đồng thời (Diffusion pipelining)
 - AV (được chiết khấu 20% ngân sách Δb và được dành riêng cho các nhiệm vụ khác nhau)
 
 Chúng tôi xem xét bốn loại giao dịch khác nhau với kích thước khác nhau và thời gian cần thiết để xác thực. Một giao dịch thanh toán đơn giản nằm ở đâu đó gần loại 0,5 kB / 0,5 mili giây, trong khi các giao dịch tập lệnh có thể thuộc một trong các loại khác, đòi hỏi cả kích thước lớn hơn và nhiều nỗ lực hơn để xác thực. Cũng lưu ý cột cuối cùng (2 kB / 32 mili giây) nơi thời gian xác thực trở nên đáng kể so với độ trễ của mạng: Việc tăng kích thước block (từ Praos lên Praos Max) không giúp cải thiện thông lượng vì xác thực đã sử dụng hết ngân sách thời gian. Do đó, pipelining và AV mang lại thành tựu tương đối chắc chắn chính xác trong những trường hợp này vì chúng làm tăng ngân sách thời gian xác thực.
@@ -105,10 +105,10 @@ Chúng tôi xem xét bốn loại giao dịch khác nhau với kích thước kh
 
 Việc tăng thông lượng của một permissionless blockchain (blockchain không cần cấp phép hay blockchain mở) là rất quan trọng về bảo mật, vì việc chấp nhận nhiều tải hơn vào hệ thống có thể tạo ra các cơ hội tấn công DoS. Do đó, nên thực hiện các thay đổi như vậy theo một trình tự các bước nhỏ trong khi quan sát cẩn thận các tác động lên hệ thống.
 
-The first such steps were taken last December and this February by raising the block-size limit (and Plutus-script memory units) from 64kB to 80kB (see also this [recent blog](https://iohk.io/en/blog/posts/2021/11/22/slow-and-steady-wins-the-race-network-evolution-for-network-growth/) by John Woods).
+Các bước đầu tiên như vậy đã được thực hiện vào tháng 12 năm 2021 và tháng 2 năm 2022 bằng cách nâng giới hạn kích thước block (và các đơn vị bộ nhớ tập lệnh Plutus) từ 64kB lên 80kB (xem thêm [blog gần đây](https://iohk.io/en/blog/posts/2021/11/22/slow-and-steady-wins-the-race-network-evolution-for-network-growth/) của John Woods).
 
 Trong những tháng tới, chúng tôi sẽ tiếp tục theo dõi chặt chẽ và điều chỉnh các thông số này, dựa trên nhu cầu mạng và hạn chế về dung lượng. Những cải tiến hơn nữa sẽ đi kèm với việc thực hiện diffusion pipelining. Các tối ưu hóa đồng thuận khác, bao gồm input endorsers (xác thực đầu vào), vẫn đang trong quá trình phát triển và chi tiết hơn về cách thực hiện các tối ưu hóa này sẽ được thông báo trong thời gian thích hợp.
 
-Note that the optimization endeavor of the Cardano Basho era extends beyond the network and consensus layers, and includes Plutus script enhancements as well as off-chain processing—see this [recent blog](https://iohk.io/en/blog/posts/2022/01/14/how-we-re-scaling-cardano-in-2022/) by Tim Harrison. In particular, [Hydra](https://iohk.io/en/blog/posts/2020/03/26/enter-the-hydra-scaling-distributed-ledgers-the-evidence-based-way), a layer-2 protocol suite under development, offers another pathway for a dramatic improvement in total transaction throughput by allowing to execute transactions off-chain.
+Lưu ý rằng nỗ lực tối ưu hóa của  kỷ nguyên Cardano Basho vượt ra ngoài mạng lưới và các lớp đồng thuận, và bao gồm các cải tiến tập lệnh Plutus cũng như xử lý ngoài chuỗi (off-chain)— hãy xem [blog gần đây](https://iohk.io/en/blog/posts/2022/01/14/how-we-re-scaling-cardano-in-2022/) này của Tim Harrison. Đặc biệt, [Hydra](https://iohk.io/en/blog/posts/2020/03/26/enter-the-hydra-scaling-distributed-ledgers-the-evidence-based-way) , một bộ giao thức lớp 2 (layer-2 ) đang được phát triển, cung cấp một con đường khác để cải thiện đáng kể tổng thông lượng giao dịch bằng cách cho phép thực hiện các giao dịch ngoài chuỗi.
 
 * Các sự công nhận. Tôi xin cảm ơn Duncan Coutts, Sandro Coretti-Drayton, Neil Davies, Alexander Esgen, Nicolas Frisby, Peter Gaži, Philipp Kant, Aggelos Kiayias, Karl Knutsson, Tim Harrison, Giorgos Panagiotakos, Alexander Russell, Fernando Sanchez, Marcin Szamotulski, Peter Thompson, Spyros Voulgaris và John Woods.<br><br>Bài này được dịch bởi  Duy Thái. <a class="_active_edit_href" href="https://iohk.io/en/blog/posts/2022/03/21/increasing-the-transaction-throughput-of-cardano/">với bài gốc</a><br><em>Dự án này được tài trợ bởi Catalyst</em>*
