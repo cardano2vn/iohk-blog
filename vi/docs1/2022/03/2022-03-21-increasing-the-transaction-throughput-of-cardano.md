@@ -86,7 +86,7 @@ Xem xét Hình 3. Xác thực phần nội dung được phép sử dụng ngân
 
 Mặc dù cải thiện đáng kể so với diffusion pipelining, AV thậm chí có thể được cải thiện hơn nữa. Lý do là, nói chung, không có đủ dữ liệu có thể được khuếch tán trong Δp để tạo ra đủ công việc xác thực để tối đa hóa các CPU trong toàn bộ phần còn lại của khoảng thời gian Δb. Để tận dụng đầy đủ các lợi ích của AV, chúng tôi sẽ kết hợp nó với cơ chế xác thực đầu vào (input endorsers), mà chúng tôi sẽ mô tả trong một bài đăng trên blog sắp tới.
 
-### ** Tác Động**
+### **Tác Động**
 
 Tác động nào đến thông lượng mà chúng ta có thể mong đợi từ pipelining và AV? Việc tìm kiếm câu trả lời chính xác cho câu hỏi này vẫn đang được mạng lưới và các nhóm nghiên cứu của chúng tôi đang tiến hành, vì việc đưa ra một phân tích chặt chẽ trong trường hợp có kẻ thù độc hại (cố gắng làm gián đoạn tối đa giao thức) có liên quan. Tuy nhiên, để cung cấp ước tính đầu tiên, chúng tôi đưa ra phân tích thông lượng dưới đây cho trường hợp lạc quan trong đó tất cả các SPO đều hoạt động trung thực - với kỳ vọng rằng kết quả cho trường hợp độc hại sẽ không sai lệch đáng kể (kể cả sự hiện diện của hệ thống quản lý vi phạm). Tuy nhiên, lưu ý rằng thông lượng thực của hệ thống có thể sẽ thay đổi so với các ước tính đã cho.
 
@@ -101,7 +101,7 @@ Chúng tôi xem xét bốn loại giao dịch khác nhau với kích thước kh
 
 ![](img/2022-03-21-increasing-the-transaction-throughput-of-cardano.012.png)
 
-### ** Viễn cảnh cho Cardano**
+### **Viễn cảnh cho Cardano**
 
 Việc tăng thông lượng của một permissionless blockchain (blockchain không cần cấp phép hay blockchain mở) là rất quan trọng về bảo mật, vì việc chấp nhận nhiều tải hơn vào hệ thống có thể tạo ra các cơ hội tấn công DoS. Do đó, nên thực hiện các thay đổi như vậy theo một trình tự các bước nhỏ trong khi quan sát cẩn thận các tác động lên hệ thống.
 
