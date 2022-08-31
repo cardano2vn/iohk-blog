@@ -1,6 +1,6 @@
 # Cardano Stack Exchange nền tảng kiến ​​thức về Cardano đang tăng trưởng.
 
-### **A fresh Q&amp;A site will facilitate knowledge-sharing for all Cardano related topics**
+### **Trang web hỏi và đáp mới sẽ tạo điều kiện chia sẻ kiến ​​thức về tất cả các chủ đề liên quan đến Cardano**
 
 ![](img/2022-02-07-the-knowledge-base-for-cardano-is-growing-cardano-stack-exchange-graduates-from-beta-version.002.png) Ngày 7 tháng 2 năm 2022![](img/2022-02-07-the-knowledge-base-for-cardano-is-growing-cardano-stack-exchange-graduates-from-beta-version.002.png)[ Ignacio Calderon de la Barca](/en/blog/authors/gonzalo-ignacio-calderon-de-la-barca-rodo/page-1/)![](img/2022-02-07-the-knowledge-base-for-cardano-is-growing-cardano-stack-exchange-graduates-from-beta-version.003.png) 4 phút đọc
 
@@ -17,62 +17,62 @@ Marketing &amp; Communication
 - ![](img/2022-02-07-the-knowledge-base-for-cardano-is-growing-cardano-stack-exchange-graduates-from-beta-version.007.png)[](https://twitter.com/igodlab "Twitter")
 - ![](img/2022-02-07-the-knowledge-base-for-cardano-is-growing-cardano-stack-exchange-graduates-from-beta-version.008.png)[](https://github.com/Igodlab "GitHub")
 
-![The knowledge base for Cardano is growing: Cardano Stack Exchange graduates from Beta version](img/2022-02-07-the-knowledge-base-for-cardano-is-growing-cardano-stack-exchange-graduates-from-beta-version.009.png)
+![Cơ sở kiến ​​thức cho Cardano đang tăng trưởng: Cardano Stack Exchange tổng kết từ phiên bản Beta](https://github.com/cardano2vn/iohk-blog/blob/main/vi/docs1/2022/02/img/2022-02-07-the-knowledge-base-for-cardano-is-growing-cardano-stack-exchange-graduates-from-beta-version.009.png?raw=true)
 
-[Cardano Stack Exchange (CSE)](https://cardano.stackexchange.com/), a community-driven knowledge base for Cardano, is now recognized by Stack Exchange as a mature learning community, putting it in a class with some of the biggest knowledge curation sites on the internet.
+[Cardano Stack Exchange (CSE)](https://cardano.stackexchange.com/), một cơ sở kiến ​​thức dựa trên cộng đồng dành cho Cardano, Stack Exchange hiện được công nhận là một cộng đồng học tập trưởng thành và nó được xếp vào hàng ngũ những trang web quản lý kiến ​​thức lớn nhất hiện nay trên internet.
 
-The demand for in-depth technical knowledge about Cardano has consistently increased as more people invest their time in [building on Cardano](https://twitter.com/InputOutputHK/status/1488131603691884550). Such demand couldnâ€™t (and shouldnâ€™t) be met by any single entity, and that led to the community-driven approach of CSE.
+Nhu cầu về kiến ​​thức kỹ thuật chuyên sâu về Cardano liên tục tăng lên khi ngày càng có nhiều người đầu tư thời gian vào việc [xây dựng dự án trên Cardano](https://twitter.com/InputOutputHK/status/1488131603691884550). Nhu cầu như vậy không thể (và không nên) được đáp ứng bởi bất kỳ tổ chức riêng lẻ nào và do đó đã dẫn đến cách tiếp cận dựa vào cộng đồng của CSE.
 
-Plutus developers, researchers, stake pool operators, Cardano project team members, and founding entities â€“ experts of all stripes from around the ecosystem â€“ have come together to meet this demand. The fact that CSE has graduated from its trial period â€“ dropping the â€˜Betaâ€™ label â€“ confirms that it has reached a critical mass of *useful, decentralized knowledge*.
+Các nhà phát triển Plutus, các nhà nghiên cứu, các nhà điều hành nhóm cổ phần, các thành viên trong nhóm dự án Cardano và các tổ chức sáng lập - các chuyên gia của tất cả các lĩnh vực từ khắp nơi trong hệ sinh thái - đã cùng nhau đáp ứng nhu cầu này. Thực tế là CSE đã hoàn thành giai đoạn thử nghiệm – ra mắt 'Beta' - xác nhận rằng nó đã đạt đến khối lượng *kiến ​​thức phi tập trung và hữu ích*.
 
-## **From â€˜Area 51â€™ to full site: the Stack Exchange journey**
+## **Từ 'Area 51' đến toàn bộ trang web: là hành trình Stack Exchange**
 
 Cộng đồng Cardano đã dự đoán giá trị của việc có một trang web  Stack Exchange từ rất sớm. Đã 10 tháng kể từ khi một nhóm những người có tầm nhìn CSE trên trang web 'Area 51' ra mắt cộng đồng, Stack Exchange là một sáng kiến ​​được thành viên cộng đồng [raghu](https://cardano.stackexchange.com/users/12/raghu) sáng lập.
 
-Since then, a diverse group of community members put their passion and knowledge to work curating information and documenting solutions for the Cardano ecosystem.
+Kể từ đó, một nhóm đa dạng các thành viên trong cộng đồng đặt niềm đam mê và kiến ​​thức của họ vào công việc quản lý thông tin và lập hồ sơ các giải pháp cho hệ sinh thái Cardano.
 
-The company behind Stack Exchange facilitates and referees the launch of new communities, and the process is far from easy. For a Stack Exchange initiative to fully launch, it goes through six steps: Discussion, Proposal, Community Commitment, Private Beta, Public Beta, and Graduation.
+Công ty đứng sau Stack Exchange tạo điều kiện thuận lợi và tham khảo việc ra mắt các cộng đồng mới, và quá trình này không hề dễ dàng. Để khởi chạy hoàn toàn sáng kiến ​​Stack Exchange, nó phải trải qua sáu bước: thảo luận, đề xuất, cam kết cộng đồng, phiên bản Beta giới hạn, phiên bản Beta công khai và phiên bản cuối cùng.
 
 Chinh phục được tất cả bước trên là một thành tựu lớn. Sự thành công liên tục của dự án này sẽ không thể thực hiện được nếu không có sự giúp đỡ của nhiều người đóng góp; chúng tôi đặc biệt ghi nhận công việc của những người điều hành CSE [Marek Mahut](https://cardano.stackexchange.com/users/28/marek-mahut-stakenuts), [Matthias Sieber](https://cardano.stackexchange.com/users/934/matthias-sieber)  [Glenn Rieger](https://cardano.stackexchange.com/users/281/grebel); Các thành viên nhóm IOG là [Lars Brünjes](https://cardano.stackexchange.com/users/186/lars-br%c3%bcnjes) và [Samuel Leathers](https://cardano.stackexchange.com/users/382/samuel-leathers); và nỗ lực của những người dùng hàng đầu như [eddex](https://cardano.stackexchange.com/users/1142/eddex), [Mitchell Turner](https://cardano.stackexchange.com/users/1130/mitchell-turner), [zhekson](https://cardano.stackexchange.com/users/4302/zhekson), [nalyd88](https://cardano.stackexchange.com/users/62/nalyd88), [gorgeos](https://cardano.stackexchange.com/users/1231/georgeos), &amp; [Andy Jazz](https://cardano.stackexchange.com/users/4023/andy-jazz). Ngoài ra, chúng tôi cũng cảm ơn Hassan Khalil với công việc về phân tích trang web Beta của anh ấy.
 
-Refer to the image below, top users, their reputation and most answered topics are included.
+Tham khảo hình ảnh bên dưới, những người dùng hàng đầu, danh tiếng của họ và các chủ đề được trả lời nhiều nhất được kèm theo.
 
 ![](img/2022-02-07-the-knowledge-base-for-cardano-is-growing-cardano-stack-exchange-graduates-from-beta-version.010.png)
 
-## **Future vision**
+## **Tầm nhìn tương lai**
 
-[Stack Exchange](https://stackexchange.com/) is a model for Q&amp;A-focused knowledge curation, as well as being a federation of learning communities empowered through merit-based editorial powers and moderator elections. The importance of this platform becomes evident (especially in the context of open source projects) by noting the example of its most iconic representative: [Stack Overflow](https://stackoverflow.com/). Stack Overflow has long been a key community hub for developers, paving the way for the success and adoption of all the most popular programming languages.
+[Stack Exchange](https://stackexchange.com/) là một mô hình quản lý kiến ​​thức tập trung vào việc hỏi và đáp, cũng như là một liên đoàn các cộng đồng học tập được trao quyền thông qua quyền biên tập dựa trên thành tích và việc bầu cử người kiểm duyệt. Tầm quan trọng của nền tảng này trở nên rõ ràng (đặc biệt là trong bối cảnh của các dự án mã nguồn mở) bằng cách lưu ý ví dụ về đại diện mang tính biểu tượng nhất là: [Stack Overflow](https://stackoverflow.com/). Stack Overflow từ lâu đã trở thành một trung tâm cộng đồng quan trọng cho các nhà phát triển, mở đường cho sự thành công và áp dụng tất cả các ngôn ngữ lập trình phổ biến nhất.
 
-The winning strategy in tech is to leverage a self-governing, self-sustaining community.
+Chiến lược chiến thắng trong lĩnh vực công nghệ là thúc đẩy một cộng đồng tự quản, tự duy trì.
 
-So, what does this mean for CSEâ€™s journey? We have just ticked off a major milestone; however, this is only the beginning of a long term vision for the platform. As hinted above, CSE has the potential to enrich [Plutus](https://iohk.io/en/blog/posts/2021/04/13/plutus-what-you-need-to-know/) and [Marlowe](https://iohk.io/en/blog/posts/2020/10/06/marlowe-industry-scale-finance-contracts-for-cardano/) development, similar to the way that Stack Overflow enriched Python, Javascript, and C.
+Vậy, điều này có ý nghĩa gì đối với hành trình của CSE? Chúng tôi vừa đánh dấu một cột mốc quan trọng; tuy nhiên, đây chỉ là bước khởi đầu của một tầm nhìn dài hạn cho nền tảng. Như đã gợi ý ở trên, CSE có tiềm năng làm để củng cố sự phát triển của [Plutus](https://iohk.io/en/blog/posts/2021/04/13/plutus-what-you-need-to-know/) và [Marlowe](https://iohk.io/en/blog/posts/2020/10/06/marlowe-industry-scale-finance-contracts-for-cardano/), tương tự như cách mà Stack Overflow đã củng cố cho Python, Javascript và C.
 
 ## **Hãy tham gia**
 
-This is already the place where developers meet and share knowledge. The next step is to increase the quality of engagement and elevate the creative range of the user base for our ecosystemâ€™s native programming languages, our protocol, and the full Cardano stack.
+Đây đã là nơi mà các nhà phát triển gặp gỡ và chia sẻ kiến ​​thức. Bước tiếp theo là tăng chất lượng tương tác và nâng cao phạm vi sáng tạo của cơ sở người dùng cho các ngôn ngữ lập trình gốc của hệ sinh thái, giao thức và toàn bộ Cardano.
 
 Đối với cộng đồng Kỹ thuật: Discord Stage về CSE là sự kiện đáng mong đợi, tại đây chúng tôi sẽ nêu bật các câu hỏi và câu trả lời hàng đầu về CSE và thảo luận về các khái niệm thú vị của nhiều chủ đề liên quan đến việc xây dựng trong Cardano.
 
-If you are a developer or Cardano enthusiast, get involved. When you do, keep in mind to maintain [best practices](https://cardano.stackexchange.com/help) as you vote, comment, ask and help others. If you are new to the platform, here are the highlights of what you can achieve:
+Nếu bạn là nhà phát triển hoặc người đam mê Cardano, hãy tham gia. Khi bạn làm như vậy, hãy nhớ duy trì [các phương pháp tốt nhất](https://cardano.stackexchange.com/help) khi bạn bỏ phiếu, nhận xét, hỏi và giúp đỡ người khác. Nếu bạn chưa quen với nền tảng này, đây là những điểm nổi bật về những gì bạn có thể đạt được:
 
-- Gain reputation by asking and answering questions.
-- Collect badges to guide your upleveling in the platform.
+- Đạt được danh tiếng bằng cách hỏi và trả lời câu hỏi.
+- Thu thập các huy hiệu để hướng dẫn nâng cấp bản thân trong nền tảng.
 
 ![](img/2022-02-07-the-knowledge-base-for-cardano-is-growing-cardano-stack-exchange-graduates-from-beta-version.011.png)
 
-- Get specialized information, by filtering questions under tags (e.g., plutus, plutustx, cardano-node, etcâ€¦).
+- Nhận thông tin chuyên biệt, bằng cách lọc các câu hỏi dưới các thẻ (ví dụ: plutus, plutustx, cardano-node, ...).
 
 ![](img/2022-02-07-the-knowledge-base-for-cardano-is-growing-cardano-stack-exchange-graduates-from-beta-version.012.png)
 
-What does a strong question or answer look like? Weâ€™ve pulled an example for you from CSE with key points noted.
+Câu hỏi hoặc câu trả lời hay thì trông như thế nào? Chúng tôi đã lấy một ví dụ cho bạn từ CSE với các điểm chính được lưu ý.
 
-- Cites important sources, and quotes the most relevant passages.
-- Includes formatting (e.g., lists, bold, or italics) to emphasize key information.
-- Broken into paragraphs for understanding.
-- A comments function for improving the quality of the post.
+- Trích dẫn các nguồn quan trọng và trích dẫn những đoạn có liên quan nhất.
+- Bao gồm định dạng (ví dụ: danh sách, in đậm hoặc nghiêng) để nhấn mạnh thông tin chính.
+- Chia thành các đoạn văn dễ hiểu.
+- Chức năng nhận xét dành để cải thiện chất lượng của bài đăng.
 
 ![](img/2022-02-07-the-knowledge-base-for-cardano-is-growing-cardano-stack-exchange-graduates-from-beta-version.013.png)
 
-Moving from beta is not only an important milestone. It's also a good reminder of the power of community action to add exponential value and the â€˜compoundingâ€™ of knowledge that comes when we work together. We have all been part of this journey, and now we need to keep up the good work.
+Chuyển từ phiên bản beta không chỉ là một cột mốc quan trọng. Đây cũng là một lời nhắc nhở hay về sức mạnh của hành động cộng đồng để tăng thêm giá trị theo cấp số nhân và 'tích lũy' kiến ​​thức có được khi chúng ta làm việc cùng nhau. Tất cả chúng ta đã là một phần của cuộc hành trình này, và bây giờ chúng ta cần phải tiếp tục làm tốt công việc.
 
-*Iâ€™d like to thank Matthew Capps for his input and contribution in preparing this blog post.*
+*Tôi muốn cảm ơn Matthew Capps vì những ý kiến và đóng góp của anh ấy trong việc chuẩn bị bài blog này.<br><br><br><br>Bài này được dịch bởi Lê Nguyên. <a class="_active_edit_href" href="https://iohk.io/en/blog/posts/2022/02/07/the-knowledge-base-for-cardano-is-growing-cardano-stack-exchange-graduates-from-beta-version/#">với bài gốc</a><br><em>Dự án này được tài trợ bởi Catalyst</em>*
