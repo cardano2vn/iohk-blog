@@ -1,6 +1,6 @@
 # Giới thiệu về người đại diện ủy quyền (dReps)
 
-### **dReps will vote on the vast majority of proposals within Project Catalyst and enhance the quality of decision making within each Fund**
+### **dReps sẽ bỏ phiếu cho phần lớn các đề xuất trong Project Catalyst và nâng cao chất lượng ra quyết định trong mỗi Quỹ (Fund)**
 
 ![](img/2022-04-11-introducing-the-concept-of-delegate-representatives-dreps.002.png) Ngày 11 tháng 4 năm 2022![](img/2022-04-11-introducing-the-concept-of-delegate-representatives-dreps.002.png)[ Jack Briggs](/en/blog/authors/jack-briggs/page-1/)![](img/2022-04-11-introducing-the-concept-of-delegate-representatives-dreps.003.png) 2 phút đọc
 
@@ -15,18 +15,18 @@ Product
 - ![](img/2022-04-11-introducing-the-concept-of-delegate-representatives-dreps.005.png)[](mailto:jack.briggs@iohk.io "Email")
 - ![](img/2022-04-11-introducing-the-concept-of-delegate-representatives-dreps.006.png)[](https://www.linkedin.com/in/jack-b-a0b53b64/ "LinkedIn")
 
-![Introducing the Concept of Delegate Representatives (dReps)](img/2022-04-11-introducing-the-concept-of-delegate-representatives-dreps.007.jpeg)
+![Giới thiệu về người đại diện ủy quyền (dReps)](https://github.com/cardano2vn/iohk-blog/blob/main/vi/docs1/2022/04/img/2022-04-11-introducing-the-concept-of-delegate-representatives-dreps.007.jpeg?raw=true)
 
 Tại một cuộc họp gần đây của [Project Catalyst Town Hall](https://www.youtube.com/watch?v=rNZJvzjgduM), IOG đã công bố khái niệm về việc ủy ​​quyền quyền biểu quyết, vai trò của người đại diện ủy quyền(dReps) và mời những người muốn tham gia để bày tỏ mối quan tâm của họ về vấn đề này. Đã có một phản hồi tuyệt vời và hiện chúng tôi rất vui được chia sẻ thêm thông tin chi tiết.
 
-In less than a year, [Project Catalyst](https://iohk.io/en/blog/posts/2021/02/12/our-million-dollar-baby-project-catalyst) has become the worldâ€™s largest decentralized innovation fund. It is a focal point for ongoing development and sustainable innovation, driven by the Cardano community. Fund8 had nearly 1,000 proposals put forward, and Catalyst is now on track to fund over 2,100 proposals during 2022. That is staggering!
+Trong vòng chưa đầy một năm, Project Catalyst đã trở thành quỹ đổi mới phi tập trung lớn nhất thế giới. Nó là khởi đầu cho sự phát triển liên tục và đổi mới bền vững, được thúc đẩy bởi cộng đồng Cardano. Fund8 đã có gần 1.000 đề xuất được đưa ra và Catalyst hiện đang trợ cho hơn 2.100 đề xuất trong năm 2022. Điều đó thật đáng kinh ngạc!
 
-This continued expansion of the Cardano ecosystem signals fantastic news for the Cardano community as a whole. However, exponential growth poses a challenge though. As the number of proposals increases, so does the communityâ€™s responsibility to both review and vote upon them. To ensure that all proposals gain the attention they deserve, and to facilitate continued growth, a new system is required to ensure sustainability.
+Sự mở rộng liên tục này của hệ sinh thái Cardano báo hiệu một tin tuyệt vời cho cộng đồng Cardano nói chung. Tuy nhiên, việc tăng trưởng theo cấp số nhân đặt ra một thách thức. Khi số lượng đề xuất tăng lên, cộng đồng có trách nhiệm xem xét và bỏ phiếu cho chúng. Để đảm bảo rằng tất cả các đề xuất nhận được sự quan tâm xứng đáng, và để tạo điều kiện cho tăng trưởng liên tục, cần phải có một hệ thống mới để đảm bảo tính bền vững.
 
-Delegation enables ada holders to delegate their voting power to one or many dReps. This allows the more passive voter a chance to continue to have their voice heard, but now across more proposals than they could personally read and evaluate.
+Sự ủy quyền cho phép chủ sở hữu ada ủy quyền quyền biểu quyết của họ cho một hoặc nhiều dRep. Điều này cho phép cử tri thụ động có cơ hội nói lên tiếng nói của họ, nhưng giờ đây có nhiều đề xuất hơn mà họ có thể tự đọc và đánh giá.
 
-These dReps will vote on the vast majority of proposals within Project Catalyst, and in turn will enhance the quality of decision making within each Fund. dReps will coordinate and form policies together, source and review data, consult with experts, and ultimately vote on an array of projects and topics that the community has brought forward.
+Các dRep này sẽ bỏ phiếu cho phần lớn các đề xuất trong Project Catalyst và do đó sẽ nâng cao chất lượng ra quyết định trong mỗi Quỹ. Những dRep sẽ cùng nhau phối hợp và hình thành các chính sách, nguồn lực và xem xét dữ liệu, tham khảo ý kiến ​​của các chuyên gia và cuối cùng là bỏ phiếu cho một loạt các dự án và chủ đề mà cộng đồng đã đưa ra.
 
-The introduction of dReps is another exciting step forward as the community continues to learn and grow. There will be more to share and discuss over the weeks and months ahead as we roll out delegation into future Project Catalyst funds. To bolster inclusion and diversity, **IOG is reopening interest** in [joining the first dRep cohort](https://bit.ly/3rSyHvP).
+Sự ra đời của dReps là một bước tiến thú vị khác khi cộng đồng tiếp tục học hỏi và phát triển. Sẽ có nhiều điều để chia sẻ và thảo luận trong những tuần và những tháng sắp tới khi chúng tôi triển khai việc ủy quyền vào các quỹ của Project Catalyst trong tương lai. Để tăng cường sự hòa nhập và sự đa dạng, **IOG đang mở lại mối quan tâm về vấn đề này cho [những người tham gia tại nhóm dRep đầu tiên](https://bit.ly/3rSyHvP).**
 
-Over the coming weeks, IOG will be organizing a series of workshops that go into greater detail on what it means to be a dRep, the incentive model, and what impact dReps will have on Project Catalyst.
+Trong những tuần sắp tới, IOG sẽ tổ chức một loạt các hội thảo chi tiết hơn về ý nghĩa của dRep, mô hình khuyến khích và tác động của các dRep đối với Project Catalyst.<br><br><br>Bài này được dịch bởi Lê Nguyên. <a class="_active_edit_href" href="https://iohk.io/en/blog/posts/2022/04/11/introducing-the-concept-of-delegate-representatives-dreps/">với bài gốc</a><br><em>Dự án này được tài trợ bởi Project Catalyst</em>
