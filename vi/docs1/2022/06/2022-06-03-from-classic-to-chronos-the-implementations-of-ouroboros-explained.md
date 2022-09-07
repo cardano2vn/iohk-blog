@@ -2,7 +2,7 @@
 
 ### **Ouroboros is the consensus protocol of Cardano. Here, we explain what it does and how it’s evolving**
 
-![](img/2022-06-03-from-classic-to-chronos-the-implementations-of-ouroboros-explained.002.png) 3 June 2022![](img/2022-06-03-from-classic-to-chronos-the-implementations-of-ouroboros-explained.002.png)[ Olga Hryniuk](/en/blog/authors/olga-hryniuk/page-1/)![](img/2022-06-03-from-classic-to-chronos-the-implementations-of-ouroboros-explained.003.png) 9 mins read
+![](img/2022-06-03-from-classic-to-chronos-the-implementations-of-ouroboros-explained.002.png) 3 tháng 6 năm 2022 ![](img/2022-06-03-from-classic-to-chronos-the-implementations-of-ouroboros-explained.002.png) [Olga Hryniuk](/en/blog/authors/olga-hryniuk/page-1/) ![](img/2022-06-03-from-classic-to-chronos-the-implementations-of-ouroboros-explained.003.png) 9 phút đọc
 
 ![Olga Hryniuk](img/2022-06-03-from-classic-to-chronos-the-implementations-of-ouroboros-explained.004.png)[](/en/blog/authors/olga-hryniuk/page-1/)
 
