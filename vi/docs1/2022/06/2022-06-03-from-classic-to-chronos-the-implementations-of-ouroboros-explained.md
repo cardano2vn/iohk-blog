@@ -19,7 +19,7 @@ Marketing &amp; Communications
 
 Có thể nhiều người đã nghe đến Ouroboros: một giao thức đồng thuận bằng chứng cổ phần (proof of stake - POS) mang tính đột phá được Cardano sử dụng. Giao thức này được phát triển như một giải pháp thay thế hiệu quả về mặt năng lượng và bền vững hơn cơ chế đồng thuận bằng chứng công việc (proof of work-POW). Các đồng tiền mã hóa trước đó như Bitcoin và hiện tại là Ethereum đều được xây dựng dựa trên cơ chế đồng thuận bằng chứng công việc. Ouroboros là giao thức đồng thuận blockchain đầu tiên được phát triển dựa trên những nghiên cứu đã được hội đồng khoa học thẩm định (peer-reviewed).
 
-Led by [Prof. Aggelos Kiayias](https://en.wikipedia.org/wiki/Aggelos_Kiayias) of the University of Edinburgh, Ouroboros and its subsequent implementations provide a new baseline to solve some of the world’s greatest challenges, securely and at scale.
+Dưới sự dẫn dắt của [GS. Aggelos Kiayias](https://en.wikipedia.org/wiki/Aggelos_Kiayias) thuộc đại học Edinburgh, Ouroboros và các bước triển khai tiếp theo của nó đang cung cấp một hướng cơ sở mới để giải quyết một số thách thức lớn nhất hiện có trên thế giới một cách an toàn và quy mô lớn.
 
 Tuy nhiên, sự công nhận luôn bắt đầu từ sự hiểu biết. Bài viết này trình bày tổng quan về cách Ouroboros hoạt động. Nó xem xét các điểm chung và giới thiệu những gì triển khai để cộng đồng hiểu thêm về giao thức này. Qua đó, cộng đồng có thể hiểu được tại sao giao thức này là một công cụ thay đổi trong cuộc chơi công nghệ hiện nay. Trong các bài báo tương ứng bên dưới, người đọc có thể tìm thấy những bài phân tích chi tiết về mỗi lần triển khai. Vui lòng đọc tiếp để có được lời giải thích toàn diện về Ouroboros và cách triển khai của nó.
 
@@ -42,7 +42,7 @@ Ouroboros là một giao thức bằng chứng cổ phần, nó khác biệt v�
 
 Các mạng sử dụng Ouroboros tiết kiệm năng lượng hơn nhiều lần so với các mạng sử dụng cơ chế bằng chứng công việc - và Cardano có thể đạt được hiệu quả năng lượng rất lớn với giao thức Ouroboros.  Ví dụ, kể từ 2022, việc đào bitcoin tiêu tốn một lượng điện năng là [204.50 TWh](https://digiconomist.net/bitcoin-energy-consumption) mỗi năm ở Thái Lan. Mặt khác, Ouroboros chỉ cần chạy trên một [Raspberry Pi](https://www.reddit.com/r/cardano/comments/e8t34d/rock_pi_cardano_full_node_for_100/), có công suất tiêu thụ từ 15 đến 18W (watts). Sự khác biệt trong việc tiêu tốn năng lượng này có thể liên tưởng đến mức tiêu thụ điện của một hộ gia đình và một quốc gia: một sản phẩm có thể được mở rộng trong thị trường dân dụng và một cái không thể.
 
-Now, let’s take a closer look at how the Ouroboros protocol works, and what each new implementation adds.
+Bây giờ, cùng nhìn sâu hơn vào cách thức hoạt động của giao thức Ouroboros và những gì sẽ được bổ sung sau mỗi lần triển khai.
 
 ## **Ouroboros Classic**
 
