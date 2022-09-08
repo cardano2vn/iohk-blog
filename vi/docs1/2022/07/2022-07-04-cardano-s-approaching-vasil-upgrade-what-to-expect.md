@@ -17,7 +17,7 @@ Communications
 - ![](img/2022-07-04-cardano-s-approaching-vasil-upgrade-what-to-expect.007.png)[](https://twitter.com/timbharrison "Twitter")
 - ![](img/2022-07-04-cardano-s-approaching-vasil-upgrade-what-to-expect.008.png)[](https://github.com/timbharrison "GitHub")
 
-![Cardano’s approaching Vasil upgrade: what to expect](img/2022-07-04-cardano-s-approaching-vasil-upgrade-what-to-expect.009.png)
+![Cardano sắp nâng cấp Vasil: điều gì sẽ xảy ra](img/2022-07-04-cardano-s-approaching-vasil-upgrade-what-to-expect.009.png)
 
 The Vasil upgrade will bring significant performance and capability enhancements to Cardano. The network has seen consistent incremental improvements over the past couple of years – and the launch of NFT, multi-asset and smart contract capability in 2021 – but put simply, Vasil is the most significant network upgrade since the deployment of staking via [Shelley.](https://www.coindesk.com/tech/2020/07/30/cardano-introduces-proof-of-stake-with-shelley-hard-fork/)
 
