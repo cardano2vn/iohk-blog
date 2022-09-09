@@ -10,7 +10,7 @@
 
 Software Engineer
 
-![Simple property-based tests for Plutus validators](img/2022-01-27-simple-property-based-tests-for-plutus-validators.005.jpeg)
+![Các bài kiểm tra thuộc tính đơn giản cho trình xác thực Plutus](https://github.com/cardano2vn/iohk-blog/blob/main/vi/docs1/2022/01/img/2022-01-27-simple-property-based-tests-for-plutus-validators.005.jpeg?raw=true)
 
 *Gần đây, chúng tôi đã nghe [Victor Miraldo](https://victorcmiraldo.github.io/) , người đứng đầu nhóm kiểm toán và xác minh hợp đồng thông minh tại [Tweag](https://www.tweag.io/) trình bày về tầm quan trọng của việc xác minh vì lý do bảo mật trong thế giới tài chính phi tập trung (DeFi). Victor là kỹ sư về các giải pháp đến từ ngôn ngữ lập trình Haskell và cam kết đảm bảo tính an toàn, chính xác của các ứng dụng phi tập trung (DApps) thông qua các công cụ và quy trình. Trong bài này, anh ấy đề cập đến việc viết và triển khai DApp theo cách đơn giản là chưa đủ, và tại sao mọi nhà phát triển nên kiểm tra thật kỹ tất cả mã on-chain và tập lệnh Plutus để ngăn chặn và loại bỏ các tác nhân xấu. Vì vậy, anh ấy giới thiệu một thư viện các công cụ sẵn có để tương tác với các tập lệnh của trình xác thực Plutus - được gọi là [cooked-validators](https://github.com/tweag/plutus-libs/tree/main/cooked-validators) , được phát triển tại Tweag. Thư viện này giúp triển khai layer ở phía trong cùng cho mã của off-chain, nó chịu trách nhiệm tạo và gửi các giao dịch. Bằng cách sử dụng thư viện này, bạn có thể nhận các bài kiểm tra thuộc tính đơn giản ở cấp độ giao dịch một cách miễn phí.*
 
