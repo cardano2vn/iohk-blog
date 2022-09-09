@@ -2,7 +2,7 @@
 
 ### **Quan hệ đối tác này nhằm phá vỡ sự thống trị của các ngân hàng về khoản đầu tư rủi ro thấp từ thị trường trái phiếu sơ cấp**
 
-![](img/2021-09-26-cardano-deal-with-oasis-will-give-developing-world-better-access-to-financial-markets.002.png) 26 September 2021![](img/2021-09-26-cardano-deal-with-oasis-will-give-developing-world-better-access-to-financial-markets.002.png)[ Anthony Quinn](tmp//en/blog/authors/anthony-quinn/page-1/)![](img/2021-09-26-cardano-deal-with-oasis-will-give-developing-world-better-access-to-financial-markets.003.png) 2 mins read
+![](img/2021-09-26-cardano-deal-with-oasis-will-give-developing-world-better-access-to-financial-markets.002.png) Ngày 26 tháng 9 năm 2021![](img/2021-09-26-cardano-deal-with-oasis-will-give-developing-world-better-access-to-financial-markets.002.png)[ Anthony Quinn](tmp//en/blog/authors/anthony-quinn/page-1/)![](img/2021-09-26-cardano-deal-with-oasis-will-give-developing-world-better-access-to-financial-markets.003.png)  2 phút đọc
 
 ![Anthony Quinn](img/2021-09-26-cardano-deal-with-oasis-will-give-developing-world-better-access-to-financial-markets.004.png)[](tmp//en/blog/authors/anthony-quinn/page-1/)
 
@@ -21,9 +21,9 @@ Marketing &amp; Communications
 
 IOHK và Oasis Pro đã hình thành mối quan hệ đối tác đột phá để phát triển một hệ thống giao dịch thay thế, sẽ sử dụng công nghệ blockchain để giúp  các nước đang phát triển tham gia vào thị trường trái phiếu sơ cấp.
 
-The two companies are joining forces to create a bond issuance platform. Oasis Pro is the parent company of Oasis Pro Markets, which already operates a multi-asset alternative trading system called OATSPRO in the US. This allows secondary trading of public and private multi-asset digital securities.
+Hai công ty đang hợp tác để tạo ra một nền tảng phát hành trái phiếu. Oasis Pro là công ty mẹ của Oasis Pro Markets, công ty đã vận hành một hệ thống giao dịch thay thế đa tài sản có tên là OATSPRO tại Hoa Kỳ. Việc hợp tác này cho phép thực hiện giao dịch thứ cấp chứng khoán kỹ thuật số đa tài sản của công và tư nhân.
 
-The Oasis Pro technology facilitates digital cash for digital securities transactions, and the use of the Cardano blockchain to remove the need for intermediaries such as banks from the process will cut trading fees by half. The combined platform provides a viable and secure financing alternative for governments of developing nations.
+Công nghệ Oasis Pro tạo điều kiện thuận lợi cho tiền kỹ thuật số trong các giao dịch chứng khoán kỹ thuật số và sử dụng blockchain Cardano để loại bỏ cầu nối trung gian như ngân hàng ra khỏi quy trình giao dịch, điều này sẽ giảm một nửa phí giao dịch. Nền tảng kết hợp cung cấp một giải pháp tài chính thay thế khả thi và an toàn cho chính phủ của các quốc gia đang phát triển.
 
 Với việc cắt giảm viện trợ và đầu tư nước ngoài gần đây, nhiều chính phủ đang gặp khó khăn trong việc tiếp cận nguồn vốn. Việc tích hợp công nghệ OATSPRO với người dùng tiền mã hóa Ada của Cardano - với giá trị vốn hóa thị trường là 70 tỷ đô la - sẽ cho phép khai thác một nguồn đầu tư nước ngoài mới cho các dự án cơ sở hạ tầng quan trọng.
 
