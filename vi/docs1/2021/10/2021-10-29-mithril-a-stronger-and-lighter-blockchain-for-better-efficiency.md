@@ -15,7 +15,7 @@ Marketing &amp; Communications
 - ![](img/2021-10-29-mithril-a-stronger-and-lighter-blockchain-for-better-efficiency.005.png)[](https://www.linkedin.com/in/olga-hryniuk-1094a3160/ "LinkedIn")
 - ![](img/2021-10-29-mithril-a-stronger-and-lighter-blockchain-for-better-efficiency.006.png)[](https://github.com/olgahryniuk "GitHub")
 
-![Mithril: a stronger and lighter blockchain for better efficiency](img/2021-10-29-mithril-a-stronger-and-lighter-blockchain-for-better-efficiency.007.jpeg)
+![Mithril: Một Blockchain mạnh hơn, nhẹ hơn để hiệu quả hơn](https://github.com/cardano2vn/iohk-blog/blob/main/vi/docs1/2021/10/img/2021-10-29-mithril-a-stronger-and-lighter-blockchain-for-better-efficiency.007.jpeg?raw=true)
 
 Tại [Hội nghị thượng đỉnh Cardano 2021](https://summit.cardano.org/), hai nhà nghiên cứu của IOHK là Pyrros Chaidos và Roman Oliynykov đã trình bày về thiết kế và mục tiêu của Mithril - nỗ lực nghiên cứu và kỹ thuật mới do IOHK thực hiện. Mithril sẽ cung cấp một lược đồ chữ ký ngưỡng dựa trên cổ phần có thể được triển khai như một giao thức. Nó giải quyết các vấn đề về đồng bộ hóa chuỗi, khởi động trạng thái và các vấn đề về tin cậy trong ứng dụng Blockchain.
 
@@ -59,7 +59,7 @@ Mithril cho phép chữ ký của nhiều bên bằng cách nắm giữ một s�
 
 Thiết kế của Mithril bao gồm 3 giai đoạn:
 
-![Mithril design](img/2021-10-29-mithril-a-stronger-and-lighter-blockchain-for-better-efficiency.008.jpeg)
+![Thiết kế Mithril](img/2021-10-29-mithril-a-stronger-and-lighter-blockchain-for-better-efficiency.008.jpeg)
 
 Hình 1. Các giai đoạn hoạt động của Mithril
 
@@ -97,7 +97,7 @@ Sau khi thử tất cả các chỉ số có thể có, người dùng có thể
 
 Triển khai Mithril trên Cardano, chúng tôi có thể biểu diễn tương tác phần mềm như sau:
 
-![Mithril network architecture](img/2021-10-29-mithril-a-stronger-and-lighter-blockchain-for-better-efficiency.010.jpeg)
+![Kiến trúc mạng lưới Mithril](img/2021-10-29-mithril-a-stronger-and-lighter-blockchain-for-better-efficiency.010.jpeg)
 
 Hình 3. Kiến trúc mạng lưới Mithril
 
