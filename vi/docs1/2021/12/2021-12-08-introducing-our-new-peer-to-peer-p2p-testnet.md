@@ -15,7 +15,7 @@ Marketing &amp; Communications
 - ![](img/2021-12-08-introducing-our-new-peer-to-peer-p2p-testnet.005.png)[](https://www.linkedin.com/in/olga-hryniuk-1094a3160/ "LinkedIn")
 - ![](img/2021-12-08-introducing-our-new-peer-to-peer-p2p-testnet.006.png)[](https://github.com/olgahryniuk "GitHub")
 
-![Introducing our new peer-to-peer (P2P) testnet ](img/2021-12-08-introducing-our-new-peer-to-peer-p2p-testnet.007.png)
+![Giới thiệu mạng thử nghiệm ngang hàng (P2P) mới](img/2021-12-08-introducing-our-new-peer-to-peer-p2p-testnet.007.png)
 
 Cardano continues to build momentum with more features and capabilities being steadily added to the blockchain. As we recently reported, we are [optimizing the network](https://iohk.io/en/blog/posts/2021/11/10/optimizing-cardano/) to increase throughput so more transactions can be processed faster, and decentralized applications (DApps) and smart contracts created and used more efficiently. This week, we have kicked off an important new initiative to support our ongoing drive toward full decentralization with the launch of a new peer-to-peer (P2P) testnet.
 
