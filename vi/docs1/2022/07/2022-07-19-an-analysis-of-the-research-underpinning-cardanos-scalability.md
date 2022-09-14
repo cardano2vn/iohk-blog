@@ -38,7 +38,7 @@ Pipelining và Input Endorser là hai giải pháp trên chuỗi chính. Nó đ�
 
 Để hiểu Pipelining là gì, trước tiên chúng ta hãy định nghĩa thuật ngữ truyền block . Truyền block có nghĩa là các node tạo block và phát tán các block mới này trên toàn mạng.
 
-Pipelining improves block propagation times. The goal is for blocks to be propagated to peers within five seconds. Pipelining enables this by giving nodes the ability to pre-notify their downstream peers of an incoming block, enabling the peer to pre-fetch the new block body.
+Pipelining cải thiện thời gian truyền khối. Mục đích là để các khối được truyền tải đến các node ngang hàng trong vòng năm giây. Pipelining cho phép điều này xảy ra bằng cách cung cấp cho các node có khả năng thông báo trước cho các node phía sau của chúng về một khối đang đến, cho phép node nhận phần thân khối trước.
 
 Nghiên cứu đưa ra một ý tưởng để phát tán các khối trước khi xác nhận đầy đủ. Điều này đưa công việc xác thực phần thân khối ra khỏi thời gian truyền tải khối và cho phép thời gian dành cho việc xác nhậnđồng thời với việc gửi khối tới node ngang hàng khác trong mạng. Điều này làm giảm thời gian truyền khối, cho phép tăng kích thước khối hoặc cải tiến Plutus. Do đó, khối càng lớn thì càng có nhiều giao dịch và tập lệnh Plutus, điều này tăng thông lượng của blockchain. Những nâng cấp này được lên kế hoạch áp dụng cho Cardano trong sự kiện  hard fork Vasil.
 
