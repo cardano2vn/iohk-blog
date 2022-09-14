@@ -14,7 +14,7 @@ Marketing &amp; Communications
 
 - ![](img/2021-10-08-cardano-summit-2021-summary-governance-is-the-next-big-thing.005.png)[](mailto:dominic.swords@iohk.io "Email")
 
-![Cardano Summit 2021 summary: Governance is the next big thing](img/2021-10-08-cardano-summit-2021-summary-governance-is-the-next-big-thing.006.png)
+![Tóm tắt hội nghị thượng đỉnh Cardano 2021: Điều quan trọng tiếp theo là Quản trị](img/2021-10-08-cardano-summit-2021-summary-governance-is-the-next-big-thing.006.png)
 
 Làm thế nào để bạn kết thúc một sự kiện như Hội nghị thượng đỉnh Cardano 2021? Với hàng chục diễn giả, thông báo về một loạt các thoả thuận mới và toàn bộ sự kiện diễn ra trực tiếp tại sáu địa điểm trên toàn thế giới. Nó được xem trực tuyến tại hơn 40 trung tâm cộng đồng và hàng chục nghìn người ở khắp nơi. Đó là một điều rất tuyệt vời.
 
