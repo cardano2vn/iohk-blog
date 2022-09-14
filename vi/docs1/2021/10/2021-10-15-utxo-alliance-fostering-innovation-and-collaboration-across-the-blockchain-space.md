@@ -15,7 +15,7 @@ Marketing &amp; Communications
 - ![](img/2021-10-15-utxo-alliance-fostering-innovation-and-collaboration-across-the-blockchain-space.005.png)[](https://www.linkedin.com/in/olga-hryniuk-1094a3160/ "LinkedIn")
 - ![](img/2021-10-15-utxo-alliance-fostering-innovation-and-collaboration-across-the-blockchain-space.006.png)[](https://github.com/olgahryniuk "GitHub")
 
-![UTXO alliance: fostering innovation and collaboration across the blockchain space ](img/2021-10-15-utxo-alliance-fostering-innovation-and-collaboration-across-the-blockchain-space.007.jpeg)
+![Liên minh UTXO: Thúc đẩy sự đổi mới và hợp tác trên lĩnh vực Blockchain](https://github.com/cardano2vn/iohk-blog/blob/main/vi/docs1/2021/10/img/2021-10-15-utxo-alliance-fostering-innovation-and-collaboration-across-the-blockchain-space.007.jpeg?raw=true)
 
 Tại Hội nghị thượng đỉnh Cardano, IOHK đã công bố sự hợp tác với [Ergo](https://ergoplatform.org/en/), [Nervos](https://www.nervos.org/) và [Topl](https://www.topl.co/) để tạo ra liên minh UTXO. Hôm nay, chúng tôi vui mừng chào đón một đối tác liên minh mới là [Komodo](https://komodoplatform.com/en/) .
 
