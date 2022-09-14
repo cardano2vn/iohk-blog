@@ -12,7 +12,7 @@ Writer and editor
 
 Marketing &amp; Communications
 
-- ![](img/2021-10-26-africa-is-where-the-tough-get-going.005.png)[](mailto:dominic.swords@iohk.io "Email")
+- ![](img/2021-10-26-africa-is-where-the-tough-get-going.005.png)[](mailto:dominic.swords@iohk.io "E-mail")
 
 ![Châu Phi là nơi những khó khăn được khắc phục](https://github.com/cardano2vn/iohk-blog/blob/main/vi/docs1/2021/10/img/2021-10-26-africa-is-where-the-tough-get-going.006.jpeg?raw=true)
 
