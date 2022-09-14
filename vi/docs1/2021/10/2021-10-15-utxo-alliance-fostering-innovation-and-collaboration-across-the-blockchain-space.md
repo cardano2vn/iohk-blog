@@ -1,8 +1,8 @@
 # Liên minh UTXO: Thúc đẩy sự đổi mới và hợp tác trong lĩnh vực Blockchain
 
-### **We’re partnering with other UTXO-based blockchains to cultivate innovative solutions to advance interoperability, programmability, and scalability**
+### **Chúng tôi đang hợp tác với các Blockchain dựa trên UTXO khác để phát triển các giải pháp sáng tạo nhằm nâng cao khả năng tương tác, khả năng lập trình và khả năng mở rộng**
 
-![](img/2021-10-15-utxo-alliance-fostering-innovation-and-collaboration-across-the-blockchain-space.002.png) 15 October 2021![](img/2021-10-15-utxo-alliance-fostering-innovation-and-collaboration-across-the-blockchain-space.002.png)[ Olga Hryniuk](tmp//en/blog/authors/olga-hryniuk/page-1/)![](img/2021-10-15-utxo-alliance-fostering-innovation-and-collaboration-across-the-blockchain-space.003.png) 9 mins read
+![](img/2021-10-15-utxo-alliance-fostering-innovation-and-collaboration-across-the-blockchain-space.002.png) 15 tháng 10 năm 2021 ![](img/2021-10-15-utxo-alliance-fostering-innovation-and-collaboration-across-the-blockchain-space.002.png) [Olga Hryniuk](tmp//en/blog/authors/olga-hryniuk/page-1/) ![](img/2021-10-15-utxo-alliance-fostering-innovation-and-collaboration-across-the-blockchain-space.003.png) 9 phút đọc
 
 ![Olga Hryniuk](img/2021-10-15-utxo-alliance-fostering-innovation-and-collaboration-across-the-blockchain-space.004.png)[](tmp//en/blog/authors/olga-hryniuk/page-1/)
 
@@ -17,19 +17,19 @@ Marketing &amp; Communications
 
 ![UTXO alliance: fostering innovation and collaboration across the blockchain space ](img/2021-10-15-utxo-alliance-fostering-innovation-and-collaboration-across-the-blockchain-space.007.jpeg)
 
-At the Cardano Summit, IOHK announced a collaboration with [Ergo](https://ergoplatform.org/en/), [Nervos](https://www.nervos.org/), and [Topl](https://www.topl.co/) to create the UTXO alliance. Today, we’re delighted to welcome a new alliance partner – [Komodo](https://komodoplatform.com/en/).
+Tại Hội nghị thượng đỉnh Cardano, IOHK đã công bố sự hợp tác với [Ergo](https://ergoplatform.org/en/), [Nervos](https://www.nervos.org/) và [Topl](https://www.topl.co/) để tạo ra liên minh UTXO. Hôm nay, chúng tôi vui mừng chào đón một đối tác liên minh mới là [Komodo](https://komodoplatform.com/en/) .
 
 Komodo là nhà cung cấp công nghệ mã nguồn mở. Họ cung cấp tất cả giải pháp Blockchain trong một ứng dụng cho các nhà phát triển và doanh nghiệp. Komodo hợp tác chặt chẽ với các tổ chức muốn khởi chạy các sàn giao dịch phi tập trung có thương hiệu, các ứng dụng tài chính đa giao thức và các Blockchain độc lập. Ứng dụng hàng đầu dành cho người dùng của Komodo là AtomicDEX. Nó là một Ví phần mềm không bị giám sát, hỗ trợ nhiều loại Coin, giao dịch phi tập trung và hỗ trợ hoán đổi nguyên tử, tất cả đều nằm trong một ứng dụng. [AtomicDEX](https://atomicdex.io/) và công nghệ cơ bản của nó là API Komodo AtomicDEX tương thích với 99% số tiền mã hoá đang tồn tại và cung cấp hỗ trợ giao dịch đa giao thức, chuỗi chéo rộng nhất trong toàn bộ ngành công nghiệp Blockchain.
 
-“UTXO blockchains lay the basis and undisputed foundations of today’s blockchain industry. UTXO technology reflects Satoshi Nakamoto’s core vision of ultimate (financial) liberty,” said Komodo business development leader, Kadan Stadelman. “On behalf of Komodo Platform and the AtomicDEX team, I am honored to join the UTXO alliance to uphold and advance this vision. I am certain that together with other alliance members, we will bring this technology to the next level. All for one and one for all.”
+Giám đốc phát triển kinh doanh của Komodo, ông Kadan Stadelman cho biết: “Các Blockchain UTXO đặt cơ sở và nền tảng cực kỳ vững chắc trong ngành công nghiệp Blockchain hiện nay. Công nghệ UTXO phản ánh tầm nhìn cốt lõi của Satoshi Nakamoto về sự tự do tối thượng (tài chính). Thay mặt cho Komodo Platform và nhóm AtomicDEX, tôi rất vinh dự được tham gia liên minh UTXO để duy trì và thúc đẩy tầm nhìn này. Cùng với các thành viên khác trong liên minh, chúng tôi sẽ đưa công nghệ này lên một tầm cao mới. Mọi người vì một người, một người vì mọi người".
 
-The UTXO alliance will facilitate cross-ecosystem initiatives to extend the capabilities of UTXO in terms of smart contract functionality. Teaming up with other blockchain industry projects, the shared objective is to foster and support further research, development, and education across the entire space.
+Liên minh UTXO sẽ tạo điều kiện cho các sáng kiến đa hệ sinh thái nhằm mở rộng khả năng của UTXO về chức năng Hợp đồng thông minh. Hợp tác với các dự án khác trong ngành công nghiệp Blockchain. Mục tiêu chung là thúc đẩy và hỗ trợ nghiên cứu, phát triển và giáo dục hơn nữa trong toàn bộ ngành.
 
-The goal of the UTXO alliance is to drive continuous innovation of the UTXO model in terms of interoperability, scalability (sharding, state channels), and smart contract solutions. Enhancing these solutions and driving key initiatives to build bridges between blockchains powers fair and accessible global finance for everyone. This also establishes a collective effort to enforce the development and functionality of UTXO-based ledgers. Other projects using this model include NEO, Bitcoin, and its derivatives like Bitcoin Cash, Litecoin, and Zcash.
+Mục tiêu của liên minh UTXO là thúc đẩy sự đổi mới liên tục của mô hình UTXO về khả năng tương tác, khả năng mở rộng (Sharding, kênh trạng thái) và các giải pháp Hợp đồng thông minh. Nâng cao các giải pháp này và thúc đẩy các sáng kiến chính để xây dựng cầu nối giữa các Blockchain, cung cấp tài chính toàn cầu công bằng và dễ tiếp cận cho tất cả mọi người. Điều này cũng thiết lập một nỗ lực tập thể để thực thi sự phát triển và chức năng của sổ cái dựa trên UTXO. Các dự án khác sử dụng mô hình UTXO bao gồm NEO, Bitcoin và các dẫn xuất của nó như Bitcoin Cash, Litecoin và Zcash.
 
-## **Why UTXO matters**
+## **Tại sao UTXO lại quan trọng?**
 
-The unspent transaction output (UTXO) accounting model guarantees security, data privacy, and scalability at the core of financial activities. UTXO models foster scalability, as multiple UTXOs can be handled simultaneously, and ensure enhanced security as the overall stake is not aggregated into a single account.
+Unspent Transaction Output (UTXO) đảm bảo tính bảo mật, quyền riêng tư của dữ liệu và khả năng mở rộng cốt lõi của các hoạt động tài chính. Mô hình UTXO thúc đẩy khả năng mở rộng, vì nhiều UTXO có thể được xử lý đồng thời và đảm bảo tính bảo mật nâng cao vì tổng cổ phần không được tổng hợp vào một tài khoản duy nhất.
 
 UTXO là một giải pháp thay thế an toàn hơn cho các mô hình dựa trên tài khoản - account (ví dụ như mô hình đang được sử dụng bởi Ethereum). Không giống như sổ cái dựa trên UTXO, Blockchain dựa trên tài khoản theo dõi số dư tổng thể và cùng một địa chỉ được sử dụng mỗi khi giao dịch được thực hiện. Điều này dễ bị tấn công và cản trở khả năng mở rộng, vì các giao dịch được xử lý tuần tự, thay vì song song.
 
@@ -37,69 +37,69 @@ Ví dụ: Mô hình UTXO mở rộng ([EUTXO](https://docs.cardano.org/plutus/eu
 
 Nervos là một thành viên của liên minh. Họ đang phát triển một giao thức Blockchain không cần cấp phép, Layer 1, mã nguồn mở và sử dụng cơ chế đồng thuận bằng chứng công việc - PoW. Nó tập trung vào việc tạo nền tảng cho một mạng lưới công cộng toàn cầu có thể tương tác.
 
-“Implementing the ‘separation of duties’ principle, Bitcoin’s visionary UTXO model is naturally more scalable and prone to attacks than the account model,” said Ren Zhang, lead researcher at Nervos. “Many projects sharing this vision provide unique perspectives to extend UTXO’s possibilities. The UTXO alliance enables interoperability and coevolution of its members, providing the world a superset of our advantages.”
+Ren Zhang, Trưởng nhóm nghiên cứu tại Nervos cho biết: “Thực hiện nguyên tắc 'phân công các nhiệm vụ', mô hình UTXO có tầm nhìn xa của Bitcoin có khả năng mở rộng và khó bị tấn công hơn so với mô hình tài khoản. Nhiều dự án chia sẻ tầm nhìn này cung cấp những quan điểm độc đáo để mở rộng khả năng của UTXO. Liên minh UTXO cho phép khả năng tương tác, các thành viên cùng phát triển và cung cấp cho thế giới một tập hợp các lợi thế của chúng ta”.
 
-Manuel Chakravarty, Lambda scientist and Plutus architect at IOHK added:
+Manuel Chakravarty, nhà khoa học Lambda và kiến trúc sư Plutus tại IOHK cho biết thêm:
 
-The UTXO ledger model, battle-tested by Bitcoin, remains the gold standard for security and scalability. The UTXO alliance is an important step towards ensuring that it will be the gold standard for interoperability, too.
+Mô hình sổ cái UTXO được thử nghiệm bởi Bitcoin, vẫn là tiêu chuẩn vàng về bảo mật và khả năng mở rộng. Liên minh UTXO là một bước quan trọng để đảm bảo rằng nó cũng sẽ là tiêu chuẩn vàng cho khả năng tương tác.
 
-## **Focusing on interoperability, programmability, and scalability**
+## **Tập trung vào khả năng tương tác, khả năng lập trình và khả năng mở rộng**
 
-Centralized finance has been the centerpiece for financial operations for decades. While such a system has served us well enough in general, it still suffers from a reliance on a central authority, exorbitant transaction fees, and unnecessary delays, complexity, and costs in making international payments because of regulatory restrictions. It’s time for change.
+Tài chính tập trung đã là trung tâm của các hoạt động tài chính trong nhiều thập kỷ. Mặc dù một hệ thống như vậy nói chung đã phục vụ chúng ta đủ tốt. Nhưng nó vẫn phải chịu sự phụ thuộc vào cơ quan trung ương, phí giao dịch cực kỳ cao và có sự chậm trễ, phức tạp và chi phí không cần thiết trong việc thanh toán quốc tế do các hạn chế về quy định. Đã đến lúc cần thay đổi.
 
-**Interoperability**
+**Khả năng tương tác**
 
-Blockchain technology addresses the challenges of centralization by enabling reliable peer-to-peer transactions based on cryptographic proof rather than relying on costly intermediaries. Many blockchain projects have emerged to provide a secure and decentralized environment for financial transactions. These projects vary in terms of consensus algorithms, accounting models, or smart contract applicability focusing on particular use cases (such as finance, data traceability, supply chain management, etc).
+Công nghệ Blockchain giải quyết những thách thức của việc tập trung hóa bằng cách cho phép các giao dịch ngang hàng đáng tin cậy dựa trên bằng chứng được mã hoá thay vì dựa vào các trung gian tốn kém. Nhiều dự án Blockchain đã xuất hiện để cung cấp một môi trường an toàn và phi tập trung cho các giao dịch tài chính. Các dự án này khác nhau về thuật toán đồng thuận, mô hình kế toán hoặc khả năng áp dụng Hợp đồng thông minh tập trung vào các trường hợp sử dụng cụ thể (chẳng hạn như tài chính, truy xuất nguồn gốc dữ liệu, quản lý chuỗi cung ứng, v.v.).
 
 Tăng trưởng là tất yếu. Tuy nhiên, tốc độ mà ngành Blockchain trưởng thành bị thách thức bởi các hệ sinh thái bị che khuất và các quy tắc quản trị khác nhau, các phiên bản công nghệ hoặc chức năng hỗ trợ.
 
-As Romain Pellerin, IOHK CTO, said at the Summit:
+Ông Romain Pellerin, Giám đốc công nghệ của IOHK, cũng đã nói tại Hội nghị:
 
-Mainstream blockchain adoption will pass only through the interconnection of networks, similar to how the Internet was built by the interconnection of intranets and extranets.
+Việc áp dụng Blockchain sẽ chỉ thông qua sự kết nối với nhau của các mạng lưới, tương tự như cách Internet được xây dựng bởi sự kết nối giữa các mạng nội bộ và mạng ngoại vi.
 
-So, today, it is important to ensure that the whole industry is driving towards interoperability. Users should be able to transact with each other without being limited to a certain ledger, smart contracts should be supported within different environments, and decentralized applications (DApps) should have cross-platform compatibility. Only such an approach will allow the blockchain industry to reach the full potential of its capabilities, driving further adoption.
+Vậy nên điều quan trọng hiện nay là phải đảm bảo rằng toàn bộ ngành đang hướng tới khả năng tương tác. Người dùng có thể giao dịch với nhau mà không bị giới hạn trong một sổ cái nhất định, các Hợp đồng thông minh phải được hỗ trợ trong các môi trường khác nhau và các ứng dụng phi tập trung (DApp) phải có khả năng tương thích đa nền tảng. Chỉ có cách tiếp cận như vậy mới cho phép ngành công nghiệp Blockchain phát huy hết tiềm năng với các khả năng của nó, thúc đẩy việc áp dụng nhiều hơn nữa.
 
-**Programmability**
+**Khả năng lập trình**
 
-The UTXO alliance is also focused on blockchain programmability for the creation of DApps and smart contracts. In fact, the design of new languages is required in order to adapt to the specific transaction and data storage management (Ergo’s and Cardano’s EUTXO, or Nervos’ cell model, for example) of the UTXO model. The founding members of the alliance have developed Antara, CKB-VM, ErgoScript, and Plutus as their smart contract languages. Alliance members are sharing knowledge and collaborating in the development of those technologies to rapidly scale the number of use cases that can be run on UTXO-based blockchains.
+Liên minh UTXO cũng tập trung vào khả năng lập trình Blockchain để tạo DApp và Hợp đồng thông minh. Trên thực tế, việc thiết kế các ngôn ngữ mới là bắt buộc để thích ứng với việc quản lý giao dịch và lưu trữ dữ liệu (ví dụ: mô hình EUTXO của Ergo và Cardano, hoặc mô hình Cell của Nervos) của mô hình UTXO. Các thành viên sáng lập của liên minh đã phát triển Antara, CKB-VM, ErgoScript và Plutus làm ngôn ngữ Hợp đồng thông minh. Các thành viên của Liên minh đang chia sẻ kiến thức và hợp tác trong việc phát triển các công nghệ đó để nhanh chóng mở rộng số lượng trường hợp sử dụng có thể chạy trên các Blockchain dựa trên UTXO.
 
-Also, those languages are built as domain-specific languages (DSLs) on top of common programming languages including Scala, Haskell, C, JavaScript, Go, Rust, etc. However, in certain cases, those common languages do not offer the security or ease of use that smart contract developers require.
+Ngoài ra, những ngôn ngữ đó được xây dựng dưới dạng ngôn ngữ đặc thù ngành (DSL) trên các ngôn ngữ lập trình phổ biến bao gồm Scala, Haskell, C, JavaScript, Go, Rust, v.v. Tuy nhiên, trong một số trường hợp nhất định, những ngôn ngữ phổ biến đó không cung cấp bảo mật hoặc không dễ dàng sử dụng đối với yêu cầu của các nhà phát triển Hợp đồng thông minh.
 
-To ensure enhanced security and code verifiability, IOHK has chosen Haskell as the programming language for Plutus smart contracts. It is the most widely used functional programming language for application development. Haskell is simple, secure, and formally verified. In terms of adoption, it is suitable for a wide range of financial use cases, while allowing to move funds rapidly, get the right results, and ensure scalability. This programming style fits well within the UTXO model with regard to state distribution and parallelization for enhanced scalability.
+Để đảm bảo tính bảo mật nâng cao và khả năng xác minh mã Code, IOHK đã chọn Haskell làm ngôn ngữ lập trình cho các Hợp đồng thông minh Plutus. Nó là ngôn ngữ lập trình hàm được sử dụng rộng rãi nhất để phát triển ứng dụng. Haskell rất đơn giản, an toàn và đã được xác minh chính thức. Về mặt áp dụng, nó phù hợp với nhiều trường hợp sử dụng trong lĩnh vực tài chính, đồng thời cho phép chuyển tiền nhanh chóng, thu được kết quả phù hợp và đảm bảo khả năng mở rộng. Phong cách lập trình này rất phù hợp với mô hình UTXO trong việc phân phối trạng thái và thực hiện song song để nâng cao khả năng mở rộng.
 
 Nervos cũng đang nghiên cứu các tùy chọn lập trình an toàn có thể chứng minh thay thế việc sử dụng trình biên dịch RISK-V để hỗ trợ các ngôn ngữ lập trình phổ biến với CKB-VM. Mặt khác, Topl đang làm việc trên một chương trình chuỗi bằng chứng về khái niệm (PoC). Về cơ bản nó là một lớp trừu tượng nằm trên mô hình UTXO, cho phép làm việc với các môi trường thực thi trạng thái được chia sẻ. Nó sử dụng sổ đăng ký Pointer và một loạt UTXO (được biểu thị dưới dạng phần tử dữ liệu nguyên tử ở trạng thái sổ cái như -i.e., boxes-) để tạo lại bối cảnh thực thi nhằm đánh giá các giao dịch gọi trong phương thức của chương trình.
 
-Taking into consideration different development efforts, the UTXO alliance will be exploring the best-case scenarios to create a unified smart contract ecosystem where a *variety* of programming languages can be compiled and used on different blockchain platforms. This will be instrumental in ensuring better interoperability between blockchains.
+Xem xét các nỗ lực phát triển khác nhau, liên minh UTXO sẽ khám phá các tình huống tốt nhất để tạo ra một hệ sinh thái Hợp đồng thông minh thống nhất, nơi *nhiều* ngôn ngữ lập trình có thể được biên dịch và sử dụng trên các nền tảng Blockchain khác nhau. Điều này sẽ là công cụ để đảm bảo khả năng tương tác tốt hơn giữa các Blockchain.
 
-**Scalability**
+**Khả năng mở rộng**
 
-As a network grows, it is also important to take into account its scalability capability in terms of transaction processing and throughput. The UTXO model is different from the account-based one, as it functions based on the local state, and thus requires a different programming approach.
+Khi mạng lưới phát triển, điều quan trọng là phải tính đến khả năng mở rộng về mặt xử lý giao dịch và thông lượng. Mô hình UTXO khác với mô hình dựa trên tài khoản, vì nó hoạt động dựa trên trạng thái cục bộ. Do đó nó yêu cầu một cách tiếp cận lập trình khác.
 
-These two models have different properties and offer a different set of trade-offs, different pros and cons. The UTXO model ensures determinism, predictability and scalability by managing local states (the local portions of the overall graph of transactions) while the account model facilitates the development of use cases that rely on the global state (the whole graph of transactions needs to be processed before validation).
+Hai mô hình này có các thuộc tính khác nhau và cung cấp các đánh đổi khác nhau, ưu và nhược điểm khác nhau. Mô hình UTXO đảm bảo tính xác định, khả năng dự đoán và khả năng mở rộng bằng cách quản lý các trạng thái cục bộ (các phần cục bộ của biểu đồ giao dịch tổng thể). Trong khi mô hình tài khoản tạo điều kiện phát triển cho các trường hợp sử dụng dựa trên trạng thái toàn cầu (toàn bộ biểu đồ giao dịch cần được xử lý trước khi xác nhận).
 
-Hence, the UTXO model offers valuable properties of ensuring the execution of transactions and contracts prior to their submission on the chain with no surprises in terms of fees or validation. Also, the UTXO model can provide better scalability as it is simpler to shard a graph of transactions by definition by dividing into a set of sub-graphs.
+Do đó, mô hình UTXO cung cấp các đặc tính có giá trị để đảm bảo thực hiện các giao dịch và hợp đồng trước khi chúng được gửi trên chuỗi mà không có bất ngờ về phí hoặc xác thực. Ngoài ra, mô hình UTXO có thể cung cấp khả năng mở rộng tốt hơn vì việc phân chia biểu đồ giao dịch theo định nghĩa đơn giản hơn bằng cách chia thành một tập hợp các biểu đồ con.
 
-It is also easier to detach a particular transaction or set of transactions (that transport data, scripts and assets) to continue activity off-chain before coming back with a result on-chain which ensures scalability by off-loading activities from the mainchain. IOHK, for example, has developed Hydra state channel solutions that increase the system throughput and allow running multiple operations in parallel without compromising scalability. You can find out more about scalability by reading about [concurrency on Cardano](https://iohk.io/en/blog/posts/2021/09/10/concurrency-and-all-that-cardano-smart-contracts-and-the-eutxo-model/) and the [Hydra](https://iohk.io/en/blog/posts/2021/09/17/hydra-cardano-s-solution-for-ultimate-scalability/) approach.
+Cũng dễ dàng hơn để tách một giao dịch hoặc tập hợp giao dịch cụ thể (di chuyển dữ liệu, tập lệnh và tài sản) để tiếp tục hoạt động ngoài chuỗi trước khi quay lại với kết quả trên chuỗi, đảm bảo khả năng mở rộng bằng các hoạt động giảm tải từ chuỗi chính. Ví dụ, IOHK đã phát triển giải pháp kênh trạng thái Hydra để tăng thông lượng hệ thống và cho phép chạy nhiều hoạt động song song mà không ảnh hưởng đến khả năng mở rộng. Bạn có thể tìm hiểu thêm về khả năng mở rộng bằng cách đọc về [tính đồng thời trên Cardano](https://iohk.io/en/blog/posts/2021/09/10/concurrency-and-all-that-cardano-smart-contracts-and-the-eutxo-model/) và cách tiếp cận [Hydra](https://iohk.io/en/blog/posts/2021/09/17/hydra-cardano-s-solution-for-ultimate-scalability/).
 
 ## **Kết hợp vì mục tiêu chung**
 
-The UTXO alliance collaborates to advance the UTXO model while developing a universal UTXO standard. It aims to provide ada holders, cryptocurrency users, enterprises, and the developer community with a range of solutions that do not lock them into a single standard. For this, the alliance will be conducting academic research and releasing a number of papers that underpin secure and scalable smart contract development based on the UTXO model.
+Liên minh UTXO hợp tác để cải tiến mô hình UTXO trong khi phát triển một tiêu chuẩn UTXO chung. Nó nhằm mục đích cung cấp cho chủ sở hữu ADA, người dùng tiền mã hoá, doanh nghiệp và cộng đồng nhà phát triển các giải pháp mà không ràng buộc họ vào một tiêu chuẩn duy nhất. Đối với điều này, liên minh sẽ tiến hành nghiên cứu học thuật và phát hành một số tài liệu làm cơ sở cho việc phát triển Hợp đồng thông minh có khả năng mở rộng và an toàn dựa trên mô hình UTXO.
 
-While interoperability is key, it is also crucial to provide blockchain solutions for increased funds security, scalability of transaction processing, and, of course, extended functionality granted by smart contracts.
+Trong khi khả năng tương tác là chìa khóa, nó cũng rất quan trọng để cung cấp các giải pháp Blockchain để tăng cường bảo mật các khoản tiền, khả năng mở rộng xử lý giao dịch. Tất nhiên, chức năng mở rộng sẽ được cấp bởi các Hợp đồng thông minh.
 
-Alliance member Topl has developed a blockchain built to be an impact monetization engine. James Aman, Topl founder and CTO said: “Extended UTXOs enable novel methods of computation in DLT systems that bridge the gap between hard-coded protocol behavior and smart contracts. EUTXOs enable users to engage in complex interactions while retaining full local verifiability even from light clients.”
+Topl là một thành viên liên minh, họ đã phát triển một Blockchain được xây dựng để trở thành một công cụ kiếm tiền có tính tác động. James Aman, Người sáng lập và CTO của Topl cho biết: “Mô hình EUTXO cho phép các phương pháp tính toán mới trong các hệ thống DLT. Nó giúp thu hẹp khoảng cách giữa hành vi giao thức mã hóa cứng và Hợp đồng thông minh. Mô hình EUTXO cho phép người dùng tham gia vào các tương tác phức tạp trong khi vẫn duy trì khả năng xác minh cục bộ đầy đủ ngay cả đối với các ứng dụng khách nhẹ”.
 
-To enable the possibility of utilizing various features in a blockchain-agnostic way, the alliance is committed to addressing such instrumental questions as:
+Để cho phép khả năng sử dụng các tính năng khác nhau theo cách bất khả tri của Blockchain, liên minh cam kết giải quyết các câu hỏi cụ thể như:
 
-- how to seamlessly transfer data between different blockchain environments
-- what is the ideal size of data to be used in transactions
-- what should be the speed of data processing
-- the transaction cost, etc.
+- Làm thế nào để truyền dữ liệu liền mạch giữa các môi trường Blockchain khác nhau?
+- Kích thước lý tưởng của dữ liệu được sử dụng trong các giao dịch là bao nhiêu?
+- Tốc độ xử lý dữ liệu nên là bao nhiêu?
+- Chi phí giao dịch, v.v.
 
-Thus, the alliance focuses on the mechanism that enables seamless and secure transactions between different blockchains to foster the greater adoption of blockchain technology. This will also drive the development of solid DApps and DeFi solutions.
+Do đó, liên minh tập trung vào cơ chế cho phép giao dịch liền mạch và an toàn giữa các Blockchain khác nhau để thúc đẩy việc áp dụng công nghệ Blockchain nhiều hơn. Điều này cũng sẽ thúc đẩy sự phát triển của các giải pháp DApp và DeFi vững chắc.
 
-Alex Chepurnoy, the co-founder of alliance member Ergo, added: “While it is well-known that UTXOs are better for blockchain scalability and simpler off-chain protocols, the extended UTXO model also allows for novel on-chain DeFi constructions with interesting properties.”
+Alex Chepurnoy, Đồng sáng lập của Ergo, một thành viên của liên minh, nói thêm: “Mặc dù mô hình UTXO được biết đến là tốt hơn cho khả năng mở rộng của Blockchain và các giao thức ngoài chuỗi đơn giản, nhưng mô hình EUTXO cũng cho phép các cấu trúc DeFi trên chuỗi mới với những đặc tính thú vị".
 
-This is only the beginning, and we are currently looking into collaborations with more ecosystems to pioneer improvements of the UTXO model, investigate how the common knowledge and technology stack can improve scalability properties, and contribute to open-source research. We’ll keep you posted as the alliance grows.
+Đây mới chỉ là bước khởi đầu và chúng tôi hiện đang xem xét sự hợp tác với nhiều hệ sinh thái hơn để đi tiên phong trong việc cải tiến mô hình UTXO, điều tra cách thức mà nền tảng công nghệ và kiến thức chung có thể cải thiện các thuộc tính khả năng mở rộng và đóng góp vào nghiên cứu mã nguồn mở. Chúng tôi sẽ thông báo cho bạn về sự phát triển của liên minh.
 
 Truy cập [trang Web của liên minh UTXO](https://utxo-alliance.org/) để tìm hiểu thêm, tham gia liên minh hoặc đóng góp vào nghiên cứu.<br><br>Bài này được dịch bởi Nguyễn Văn Tú <a class="_active_edit_href" href="https://iohk.io/en/blog/posts/2021/10/15/utxo-alliance-fostering-innovation-and-collaboration-across-the-blockchain-space/">với bài gốc</a><br>Dự án này được tài trợ bởi Catalyst
