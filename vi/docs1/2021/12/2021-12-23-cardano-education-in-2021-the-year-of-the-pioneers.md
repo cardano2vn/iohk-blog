@@ -17,7 +17,7 @@ Education
 - ![](img/2021-12-23-cardano-education-in-2021-the-year-of-the-pioneers.007.png)[](https://twitter.com/nahern_iohk?lang=en "Twitter")
 - ![](img/2021-12-23-cardano-education-in-2021-the-year-of-the-pioneers.008.png)[](https://github.com/nahern "GitHub")
 
-![Cardano education in 2021: the year of the pioneers](img/2021-12-23-cardano-education-in-2021-the-year-of-the-pioneers.009.jpeg)
+![2021: Năm của những người tiên phong trong giáo dục](img/2021-12-23-cardano-education-in-2021-the-year-of-the-pioneers.009.jpeg)
 
 Năm 2021 chứng kiến sự ra mắt của các chương trình Plutus Pioneer và Atala Pioneer. Các khóa đào tạo tương tác này nhằm mục đích mở rộng phạm vi tiếp cận các tài liệu giáo dục của chúng tôi và đã được hàng nghìn người hoàn thành.
 
