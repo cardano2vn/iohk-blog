@@ -35,7 +35,7 @@ Hiện chúng tôi đã kết thúc chương trình Atala Pioneer, đang dành c
 
 Lars cho biết:
 
-Plutus has a steep learning curve, and it was still a bit rough around the edges, which worried me a bit in the beginning. But the enthusiasm and spirit of “we’re all in this together” I received from the community was overwhelming, making the course a tremendous success.
+Plutus là một ngôn ngữ lập trình khó và nó vẫn còn đang phát triển, điều này khiến tôi hơi lo lắng khi bắt đầu. Nhưng sự nhiệt tình và tinh thần “tất cả chúng ta cùng làm việc này” mà tôi nhận được từ cộng đồng là rất lớn, khiến khóa học thành công rực rỡ.
 
 ## **Kết quả của các khóa học**
 
@@ -53,7 +53,7 @@ EBU đã ra mắt khóa học Plutus và Haskell đầu tiên vào cuối tháng
 
 ## **Điều gì sẽ có trong năm 2022?**
 
-We are currently planning for the third cohort of the Plutus Pioneer course, which we are launching in early January. Enrollment is now open, so please express your interest on our [registration page](https://testnets.cardano.org/en/plutus-pioneer-program/) and we will be in touch soon. In the meantime, we are updating the lectures and materials to bring them up to speed with developments and recent tooling updates in Plutus.
+Chúng tôi hiện đang lên kế hoạch cho nhóm thứ ba của khóa học tiên phong Plutus, khóa học mà chúng tôi sẽ khởi động vào đầu tháng Giêng. Hiện đã mở đăng ký tham gia, vì vậy hãy bày tỏ sự quan tâm của bạn trên [trang đăng ký](https://testnets.cardano.org/en/plutus-pioneer-program/) và chúng tôi sẽ sớm liên hệ với bạn. Trong thời gian chờ đợi, chúng tôi đang cập nhật các bài giảng và tài liệu một cách nhanh nhất cùng sự phát triển của công cụ mới trong Plutus.
 
 Chúng tôi cũng đã tổ chức các hội thảo lập kế hoạch với nhóm Marlowe. Họ đang thực hiện chương trình Marlowe Pioneer đầu tiên của họ vào đầu năm sau. Trong khi đó, đội Atala sẽ bước sang chu kỳ thứ hai trong thời gian tới.
 
@@ -63,4 +63,4 @@ Dự án lớn tiếp theo mà chúng tôi đang lên kế hoạch là một kh�
 
 Cuối cùng nhưng không kém phần quan trọng, chúng tôi đang lên kế hoạch cho một số ấn phẩm mới vào năm 2022, bao gồm cả phiên bản cập nhật của [ebook Plutus](https://www.amazon.co.uk/Plutus-Writing-reliable-smart-contracts-ebook/dp/B07V46LWTW) vào cuối năm nay.
 
-*To find out more about our education initiatives, follow [IOG Twitter](https://twitter.com/InputOutputHK?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) as well as the [Plutus](https://testnets.cardano.org/en/plutus-pioneer-program/) and [Atala](https://atalaprism.io/pioneers/) registration pages for more details.*
+*Để tìm hiểu thêm về các sáng kiến giáo dục của chúng tôi, hãy theo dõi [IOG Twitter](https://twitter.com/InputOutputHK?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) cũng như các trang đăng ký [Plutus](https://testnets.cardano.org/en/plutus-pioneer-program/) và [Atala](https://atalaprism.io/pioneers/) để biết thêm chi tiết.<br>Bài này được dịch bởi Max Long [với bài gốc](https://iohk.io/en/blog/posts/2021/12/23/cardano-education-in-2021-the-year-of-the-pioneers/)[<br>*Dự án này được tài trợ bới Catalyst*](https://atalaprism.io/pioneers/)*
