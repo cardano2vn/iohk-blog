@@ -15,7 +15,7 @@ Marketing and Communications
 - ![](img/2021-12-21-cardano-at-christmas-and-what-to-say-if-anyone-asks.005.png)[](mailto:fernando.sanchez@iohk.io "Email")
 - ![](img/2021-12-21-cardano-at-christmas-and-what-to-say-if-anyone-asks.006.png)[](https://www.linkedin.com/in/linkedinsanchezf/ "LinkedIn")
 
-![Cardano at Christmas (and what to say if anyone asks…)](img/2021-12-21-cardano-at-christmas-and-what-to-say-if-anyone-asks.007.jpeg)
+![Nói về Cardano vào lễ Giáng sinh (nếu ai đó hỏi…)](img/2021-12-21-cardano-at-christmas-and-what-to-say-if-anyone-asks.007.jpeg)
 
 *vào đêm trước lễ Giáng sinh, khi tất cả đều đã chìm lắng,*
 
