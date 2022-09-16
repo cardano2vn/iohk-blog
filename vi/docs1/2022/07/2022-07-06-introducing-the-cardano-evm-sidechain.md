@@ -27,7 +27,7 @@ Trong một [bài đăng trên Blog](https://iog.io/en/blog/posts/2022/04/28/int
 
 Khả năng tương tác là một yếu tố quan trọng cần xem xét trong các hệ sinh thái phi tập trung. Khi người dùng có các công cụ đảm bảo quyền sở hữu dữ liệu, họ sẽ cần cơ sở hạ tầng để chia sẻ dữ liệu đó với những người khác trên nhiều mạng lưới được kết nối với nhau. Nền kinh tế toàn cầu yêu cầu Token của người dùng không còn nằm trên bất kỳ Blockchain đơn lẻ nào. Sidechain và giao thức cầu nối là các giải pháp tạo điều kiện cho việc di chuyển dữ liệu tự do hơn trong nền kinh tế kỹ thuật số phi tập trung.
 
-![An example of different types of sidechains](img/2022-07-06-introducing-the-cardano-evm-sidechain.008.png)
+![Một ví dụ về các Sidechain khác nhau](img/2022-07-06-introducing-the-cardano-evm-sidechain.008.png)
 
 Hình 1. Một ví dụ về các Sidechain khác nhau
 
