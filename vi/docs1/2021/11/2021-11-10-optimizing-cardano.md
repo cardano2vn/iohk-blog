@@ -80,7 +80,7 @@ Chúng tôi cũng có kế hoạch chuyển trạng thái sổ cái sang lưu tr
 
 Trong trung hạn, [Hydra](https://iohk.io/en/blog/posts/2021/09/17/hydra-cardano-s-solution-for-ultimate-scalability/) sẽ mang lại khả năng bổ sung. Về lâu dài, Trưởng nhóm khoa học và nhóm của chúng tôi tiếp tục nghiên cứu các phương pháp và cơ chế khác xung quanh khuôn khổ định giá và nâng cao giao thức Ouroboros để tăng thông lượng giao dịch. Sẽ có nhiều thông tin hơn về điều này trong các bài đăng Blog trong tương lai!
 
-## **Two months in**
+## **Nhìn lại 2 tháng qua**
 
 Chúng ta chỉ mới bắt đầu kỷ nguyên Hợp đồng thông minh trên Cardano trong 2 tháng. Bất kể mức độ kỳ vọng lớn của dự đoán xung quanh việc "ra mắt", đây sẽ không bao giờ là bản nâng cấp một lần. Cũng giống như việc hệ sinh thái luôn cần thời gian để xây dựng động lực, sẽ luôn có một giai đoạn chuẩn bị sẵn sàng và sau đó là điều chỉnh khi nhu cầu trên mạng lưới ngày càng tăng. Chúng tôi đang trong một cuộc hành trình và việc hiểu phản hồi của cộng đồng vẫn là yếu tố then chốt. Trao đổi với nhiều dự án mới thú vị đang xây dựng trên Cardano, chúng tôi đang xây dựng sự hiểu biết tốt hơn về các kế hoạch và mục tiêu của họ - cùng với bất kỳ vấn đề nào họ đang gặp phải - để chúng tôi có thể hỗ trợ và phục vụ khi cần thiết. Chúng tôi cũng đang theo dõi sát sao cuộc tranh luận của cộng đồng.
 
@@ -88,4 +88,4 @@ Chúng ta chỉ mới bắt đầu kỷ nguyên Hợp đồng thông minh trên 
 
 *Nếu bạn là nhà phát triển và muốn được hướng dẫn, hỗ trợ hoặc chỉ thích ghé qua trò chuyện tại một trong các phiên mở của chúng tôi - hãy đảm bảo bạn tham gia* cộng đồng kỹ thuật đang phát triển của chúng tôi trên [*Discord*](https://discord.com/channels/826816523368005654/892858202851516457) .
 
-*My thanks to John Woods, Vitor Silva, Kevin Hammond, Duncan Coutts, Romain Pellerin, Michael Peyton Jones, Jean-Frederic Etienne &amp; Olga Hryniuk for their support and feedback in preparing this blog post.*
+*Tôi cảm ơn John Woods, Vitor Silva, Kevin Hammond, Duncan Coutts, Romain Pellerin, Michael Peyton Jones, Jean-Frederic Etienne &amp; Olga Hryniuk vì đã hỗ trợ và phản hồi trong việc chuẩn bị bài đăng trên Blog này. Bài này được dịch bởi Nguyễn Văn Tú (https://iohk.io/en/blog/posts/2021/11/10/optimizing-cardano)*Dự án này được tài trợ bởi Catalyst**
