@@ -17,7 +17,7 @@ Communications
 - ![](img/2021-11-10-optimizing-cardano.007.png)[](https://twitter.com/timbharrison "Twitter")
 - ![](img/2021-11-10-optimizing-cardano.008.png)[](https://github.com/timbharrison "GitHub")
 
-![Optimizing Cardano ](img/2021-11-10-optimizing-cardano.009.jpeg)
+![Tối ưu hóa Cardano](img/2021-11-10-optimizing-cardano.009.jpeg)
 
 Là một Blockchain bằng chứng cổ phần (PoS), Cardano được xây dựng để có tính bảo mật cao và chống lại các sự cố mạng lưới. Được thúc đẩy bởi thuật toán đồng thuận Ouroboros, tích hợp sẵn Haskell sử dụng các phương pháp chính thức và nghiên cứu học thuật được đánh giá Peer-Reviewed, Cardano được thiết kế để cung cấp một môi trường vững chắc để xử lý hàng triệu giao dịch trên toàn cầu, theo cách phi tập trung và có khả năng mở rộng cao.
 
