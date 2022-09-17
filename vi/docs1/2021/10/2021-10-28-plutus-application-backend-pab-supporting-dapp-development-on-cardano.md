@@ -23,11 +23,11 @@ Bản nâng cấp giao thức Alonzo đã giới thiệu Plutus - một nền t�
 
 - Mô hình Extended Unspent Transaction Output (EUTXO)
 - Plutus Core - phần 'on-chain' của Plutus
-- The Plutus Application Framework (PAF) â€’ Plutus contracts consist of parts that run on the blockchain (on-chain code) and parts that run on a userâ€™s machine (off-chain or client code)
+- The Plutus Application Framework (PAF) - Các hợp đồng của Plutus bao gồm các phần chạy trên blockchain (mã on-chain) và các phần chạy trên máy của người dùng (moã off-chain hoặc mã khách hàng)
 
 Cả hai mã on-chain và off-chain đều được viết bằng Haskell và những hợp đồng thông minh Plutus là các chương trình Haskell hiệu quả.
 
-### **What is the Plutus Application Backend?**
+### **Plutus Application Backend(PAB)là gì?**
 
 [Trong một bài blog trước](https://iohk.io/en/blog/posts/2021/04/13/plutus-what-you-need-to-know/), chúng tôi đã thảo luận chi tiết hơn về chức năng on- chain và off-chain về các thành phần cốt lõi của Plutus. Ở đây, chúng ta hãy đi sâu hơn vào các khả năng off-chain của Plutus và xem xét chương trình Plutus Application Backend (PAB).
 
@@ -35,12 +35,12 @@ Trong mô hình UTXO, chúng tôi có cơ sở hạ tầng off-chain, dùng đ�
 
 PAB giúp xây dựng các giao dịch UTXO theo hai cách:
 
-- The read path - That is, getting information from the chain, and reacting to events that happen on the blockchain. The read path is currently working on the testnet
-- The write path - This is where we actually construct the transactions that run the Plutus scripts
+- Hướng đọc - Tức là lấy thông tin từ chuỗi và phản ứng với các sự kiện xảy ra trên blockchain. Đường dẫn đọc hiện đang hoạt động trên testnet
+- Hướng ghi - Đây là nơi chúng tôi thực sự xây dựng các giao dịch chạy các tập lệnh Plutus
 
 ### **Vai trò của PAB**
 
-The PAB is a key component of the Plutus Application Framework (PAF) that enables developers to create and test DApps locally, before deploying them to a live production environment. A little like the [Marlowe Playground](https://alpha.marlowe.iohkdev.io/#/) provides a sandbox for devs to create and test financial smart contracts, the PAB offers a similar environment for devs to create and test full DApps.
+PAB là một thành phần chính của Plutus Application Framework (PAF) cho phép các nhà phát triển tạo và kiểm tra các DApp tại chỗ, trước khi triển khai chúng vào môi trường thực. Giống như [Marlowe Playground](https://alpha.marlowe.iohkdev.io/#/) cung cấp một môi trường thử nghiệm cho các nhà phát triển để tạo và thử nghiệm các hợp đồng thông minh tài chính, PAB cung cấp một môi trường tương tự cho các nhà phát triển để tạo và thử nghiệm các DApp đầy đủ.
 
 PAB là một dịch vụ phụ trợ off-chain để quản lý và xử lý các yêu cầu của phiên bản ứng dụng trong suốt vòng đời của nó. Điều này bao gồm tương tác với các khách hàng bên ngoài (chẳng hạn như giao diện người dùng của ví) và hoạt động như một trung gian giữa ứng dụng Plutus, node, chương trình phụ trợ của ví và người dùng cuối. Sự tương tác như vậy có thể thực hiện được nhờ các lệnh PAB và các thành phần mô phỏng cho phép mô phỏng và tích hợp DApps một cách thuận tiện.
 
@@ -67,6 +67,6 @@ Các ứng dụng ban đầu này được xây dựng cục bộ sau đó sẽ 
 
 ### **Nhìn về tương lai**
 
-This is just the start. As always, this will be an iterative process. With the evolution of the Plutus platform, we will be inviting the developer community to deploy their own tooling and create off-chain code for their DApps running on Cardano. We have already seen a hive of activity in this area, through both the Alonzo testnet program and Project Catalyst. So while we test the platform with our engineers/QA and the developer community, weâ€™ll be making gradual improvements and adding more capabilities and functionality. The goal? From the Alonzo hardfork and the arrival of Plutus smart contracts, a rapid scaling of the developer experience, with new tools, APIs and environments to support an already burgeoning ecosystem of talent.
+Đây mới chỉ là khởi đầu. Như mọi khi, đây sẽ là một quá trình lặp đi lặp lại. Với sự phát triển của nền tảng Plutus, chúng tôi sẽ mời cộng đồng nhà phát triển triển khai công cụ của riêng họ và tạo mã off-chain cho DApp của họ chạy trên Cardano. Chúng tôi đã thấy nhiều hoạt động trong lĩnh vực này, thông qua cả chương trình mạng thử nghiệm Alonzo và Project Catalyst. Vì vậy, trong khi chúng tôi thử nghiệm nền tảng với các kỹ sư/QA và cộng đồng nhà phát triển, chúng tôi sẽ cải tiến dần dần và bổ sung thêm nhiều khả năng và chức năng. Mục đích là gì? Từ hardfork Alonzo và sự xuất hiện của các hợp đồng thông minh Plutus, trải nghiệm của nhà phát triển được mở rộng nhanh chóng, với các công cụ, API và môi trường mới để hỗ trợ một hệ sinh thái với nhiều nhân tài đang phát triển
 
-*For regular updates make sure you follow us on [Twitter](https://twitter.com/InputOutputHK) and subscribe to our [YouTube](https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w) channel. For an overview of projects #BuildingOnCardano be sure to check out the [Essential Cardano](https://github.com/input-output-hk/essential-cardano) repo.*
+*Để cập nhật thường xuyên, hãy chắc rằng bạn theo dõi chúng tôi trên [Twitter](https://twitter.com/InputOutputHK) và đăng ký kênh [YouTube](https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w) của chúng tôi. Để biết tổng quan về các dự án #BuildingOnCardano, hãy nhớ kiểm tra kho dữ liệu [Essential Cardano](https://github.com/input-output-hk/essential-cardano) .Bài này được dịch bởi Thanhtintran. review và đăng bài bởi Nguyễn Hiệu <a class="_active_edit_href" href="https://iohk.io/en/blog/posts/2021/10/28/plutus-application-backend-pab-supporting-dapp-development-on-cardano/">với bài gốc</a>. *Dự án này được tài trợ bởi Catalyst**
