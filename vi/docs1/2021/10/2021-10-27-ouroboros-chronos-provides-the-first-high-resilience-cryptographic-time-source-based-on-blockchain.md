@@ -15,7 +15,7 @@ Marketing &amp; Communications
 - ![](img/2021-10-27-ouroboros-chronos-provides-the-first-high-resilience-cryptographic-time-source-based-on-blockchain.005.png)[](https://www.linkedin.com/in/olga-hryniuk-1094a3160/ "LinkedIn")
 - ![](img/2021-10-27-ouroboros-chronos-provides-the-first-high-resilience-cryptographic-time-source-based-on-blockchain.006.png)[](https://github.com/olgahryniuk "GitHub")
 
-![Ouroboros Chronos provides the first high-resilience, cryptographic time source based on blockchain technology](img/2021-10-27-ouroboros-chronos-provides-the-first-high-resilience-cryptographic-time-source-based-on-blockchain.007.jpeg)
+![Ouroboros Chronos cung cấp nguồn thời gian mã hoá có khả năng phục hồi cao đầu tiên dựa trên công nghệ Blockchain](img/2021-10-27-ouroboros-chronos-provides-the-first-high-resilience-cryptographic-time-source-based-on-blockchain.007.jpeg)
 
 Đồng bộ hóa thời gian toàn cầu trên bất kỳ mạng lưới phân tán nào là điều cần thiết để đảm bảo khả năng phục hồi.
 
