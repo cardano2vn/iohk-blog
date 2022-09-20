@@ -2,7 +2,7 @@
 
 ### **Chọn 100 pool cổ phần nhận ủy quyên dựa trên những đề cử**
 
-![](img/2021-10-27-iogs-third-round-of-ada-delegation-gives-voice-to-cardano-stake-pool-operators.002.png) 27 October 2021![](img/2021-10-27-iogs-third-round-of-ada-delegation-gives-voice-to-cardano-stake-pool-operators.002.png)[ Dominic Swords](tmp//en/blog/authors/dominic-swords/page-1/)![](img/2021-10-27-iogs-third-round-of-ada-delegation-gives-voice-to-cardano-stake-pool-operators.003.png) 4 mins read
+![](img/2021-10-27-iogs-third-round-of-ada-delegation-gives-voice-to-cardano-stake-pool-operators.002.png)  Ngày 27 tháng 10 năm 2021![](img/2021-10-27-iogs-third-round-of-ada-delegation-gives-voice-to-cardano-stake-pool-operators.002.png)[ Dominic Swords](tmp//en/blog/authors/dominic-swords/page-1/)![](img/2021-10-27-iogs-third-round-of-ada-delegation-gives-voice-to-cardano-stake-pool-operators.003.png) 4 phút đọc
 
 ![Dominic Swords](https://github.com/cardano2vn/iohk-blog/blob/main/vi/docs1/2021/10/img/2021-10-27-iogs-third-round-of-ada-delegation-gives-voice-to-cardano-stake-pool-operators.004.png?raw=true)[](tmp//en/blog/authors/dominic-swords/page-1/)
 
@@ -16,15 +16,15 @@ Marketing &amp; Communications
 
 ![Công bố các SPO được nhận ủy quyền vòng thứ 3 của IOG](https://github.com/cardano2vn/iohk-blog/blob/main/vi/docs1/2021/10/img/2021-10-27-iogs-third-round-of-ada-delegation-gives-voice-to-cardano-stake-pool-operators.006.jpeg?raw=true)
 
-The 100 Cardano stake pools to benefit from the third IOG delegation have been announced. They were chosen from 520 nominations made by stake pool operators, based on contributions to the Cardano community.
+IOG đã công bố 100 pool cổ phần được nhận ủy quyền của vòng thứ 3. Họ được chọn từ 520 đề cử do các nhà điều hành pool cổ phần (SPO) đưa ra, dựa trên những đóng góp cho cộng đồng Cardano.
 
-All the pools chosen will receive delegated stake of about 3m ada from IOG, in a [strategy to encourage a vibrant pool ecosystem](https://iohk.io/en/blog/posts/2021/01/22/our-new-delegation-strategy-announcing-the-pools-we-are-supporting/). By delegating this large stake to a pool for several months, IOG increases that pool's chances of minting the latest block of data on the blockchain. When a block is produced, the pool earns rewards that are split between the poolâ€™s operators and every ada holder who has delegated to the pool.
+Tất cả các pool được chọn sẽ nhận được cổ phần ủy quyền khoảng 3 triệu ada từ IOG, trong một [chiến dịch khuyến khích một hệ sinh thái pool sôi động](https://iohk.io/en/blog/posts/2021/01/22/our-new-delegation-strategy-announcing-the-pools-we-are-supporting/). Bằng cách ủy quyền số lượng lớn cổ phần này cho một pool trong vài tháng, IOG giúp pool đó tăng cơ hội tạo ra block dữ liệu mới nhất trên blockchain. Khi một block được tạo ra, pool đó sẽ kiếm được phần thưởng được chia giữa những người điều hành pool và những người nắm giữ ada đã ủy quyền cho pool.
 
 Hầu hết các nhà điều hành pool đã tham gia - 84% đã đề cử một pool khác và 7% tham gia chỉ để quảng bá cho một pool khác và không đăng ký ủy quyền cho chính pool của họ. Tất cả các pool nhận được ủy quyền đều do các nhà điều hành pool khác đề cử.
 
 Ben O'Hanlon, người đứng đầu cộng đồng của IOG, cho biết: 'Mặc dù, quá trình lựa chọn được thúc đẩy bởi sự đề cử của tất cả 520 pool đã tham gia, quá trình lựa chọn là tùy ý. 'Nhưng chúng ta rõ ràng nhận thấy rằng 100 pool được chọn phản ánh tiếng nói của cộng đồng.'
 
-He added: â€˜A key difference between proof-of-work and proof-of-stake is that POW extracts value from the network. In POS, stake pool operators have to attract delegation, so they have a stronger relationship with other stakeholders in the ecosystem. This is why nominations are so interesting.â€™
+Ông nói thêm: 'Một sự khác biệt chính giữa bằng chứng công việc (POW) và bằng chứng cổ phần (POS) là POW trích xuất giá trị từ mạng lưới. Trong khi ở POS, các nhà điều hành pool phải thu hút sự ủy quyền, để họ có mối quan hệ chặt chẽ hơn với các bên liên quan khác trong hệ sinh thái. Đây là lý do tại sao các đề cử rất thú vị.'
 
 Tham gia cùng với những người khác để xây dựng, sáng tạo và giáo dục là một trong những đặc điểm nổi bật của những người được chọn. Hơn 30 công cụ và tài nguyên do do các nhà điều hành Pool cổ phần (SPO) tạo ra hoặc đang được phát triển đã được thêm vào trang [Essential Cardano](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md) trên GitHub. Điều này giúp mọi người tìm hướng đi dễ dàng hơn trong hệ sinh thái và người dùng [GitHub có thể thêm đề xuất của họ.](https://github.com/input-output-hk/essential-cardano#want-to-contribute)
 
