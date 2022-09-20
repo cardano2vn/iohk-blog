@@ -2,7 +2,7 @@
 
 ### **Sau khi khởi động thành công kỷ nguyên hợp đồng thông minh của Cardano, chúng tôi sẽ sớm thực hiện chương trình điều chỉnh đầu tiên để hỗ trợ phát triển mạng trong tương lai**
 
-![](img/2021-11-22-slow-and-steady-wins-the-race-network-evolution-for-network-growth.002.png) 22 November 2021![](img/2021-11-22-slow-and-steady-wins-the-race-network-evolution-for-network-growth.002.png)[ John Woods](tmp//en/blog/authors/john-woods/page-1/)![](img/2021-11-22-slow-and-steady-wins-the-race-network-evolution-for-network-growth.003.png) 8 mins read
+![](img/2021-11-22-slow-and-steady-wins-the-race-network-evolution-for-network-growth.002.png) 22 tháng 11 năm 2021 ![](img/2021-11-22-slow-and-steady-wins-the-race-network-evolution-for-network-growth.002.png) [John Woods](tmp//en/blog/authors/john-woods/page-1/) ![](img/2021-11-22-slow-and-steady-wins-the-race-network-evolution-for-network-growth.003.png) 8 phút đọc
 
 ![John Woods](img/2021-11-22-slow-and-steady-wins-the-race-network-evolution-for-network-growth.004.png)[](tmp//en/blog/authors/john-woods/page-1/)
 
@@ -12,11 +12,11 @@ Director of Cardano Architecture
 
 Engineering
 
-- ![](img/2021-11-22-slow-and-steady-wins-the-race-network-evolution-for-network-growth.005.png)[](mailto:john.woods@iohk.io "Email")
+- ![](img/2021-11-22-slow-and-steady-wins-the-race-network-evolution-for-network-growth.005.png)[](mailto:john.woods@iohk.io "E-mail")
 - ![](img/2021-11-22-slow-and-steady-wins-the-race-network-evolution-for-network-growth.006.png)[](https://www.linkedin.com/in/johnalanwoods/ "LinkedIn")
 - ![](img/2021-11-22-slow-and-steady-wins-the-race-network-evolution-for-network-growth.007.png)[](https://github.com/johnalanwoods "GitHub")
 
-![Slow and steady wins the race: network evolution for network growth](img/2021-11-22-slow-and-steady-wins-the-race-network-evolution-for-network-growth.008.jpeg)
+![Chậm và chắc sẽ chiến thắng trong cuộc đua cải tiến để phát triển mạng lưới](img/2021-11-22-slow-and-steady-wins-the-race-network-evolution-for-network-growth.008.jpeg)
 
 Từ khi hình thành Cardano đã được thiết kế là nền tảng cân bằng tốt nhất về tính bảo mật, khả năng mở rộng và tính phi tập trung. Do đó, chúng tôi đã thiết kế và xây dựng từng lớp mạng lưới vững chắc và an toàn, nhưng với sự linh hoạt để phát triển và mở rộng quy mô nhằm hỗ trợ nền tảng cơ sở cho hàng triệu người dùng toàn cầu.
 
@@ -36,9 +36,9 @@ Trong khi nhiều giải pháp mạng sẽ bị ảnh hưởng trong những đi
 
 Hệ thống hiệu quả được thiết kế để giảm thiểu tắc nghẽn đồng thời cho phép quản lý hiệu quả khi xảy ra nghẽn mạng. Bạn có thể đọc thêm trong [blog này gần đây ](https://iohk.io/en/blog/posts/2021/10/21/cardano-robust-resilient-and-flexible/) , nhưng nói tóm lại, mạng lưới sử dụng áp suất ngược để quản lý tải tổng thể của hệ thống. Vì vậy, mặc dù một số người dùng cá nhân trong thời gian NFT sụt giảm lớn có thể trải qua khoảng thời gian chờ đợi các giao dịch của họ lâu hơn, nhưng điều này không có nghĩa là mạng đang 'bị nghẽn'. Nó thực sự có nghĩa là mạng đang hoạt động như kế hoạch dự định. Chúng tôi gọi nó là 'sự suy giảm tiến hành' và bạn có thể nghiên cứu sâu hơn điều này trong bài nghiên cứu về thiết kế mạng.
 
-### **Adjusting parameters**
+### **Điều chỉnh các thông số**
 
-Aside from the original architectural design, and significant benchmarking across a range of simulated situations, it is only in the real world that we can truly gauge demand and the effectiveness of any changes.
+Ngoài thiết kế kiến trúc ban đầu và điểm chuẩn quan trọng trong một loạt các tình huống mô phỏng, chỉ trong thế giới thực, chúng tôi mới thực sự có thể đánh giá nhu cầu và hiệu quả của bất kỳ thay đổi nào.
 
 Sau khi đo điểm chuẩn rộng rãi và nhận phản hồi của nhà phát triển, chúng tôi hiện đang bắt đầu điều chỉnh dần dần và hôm nay đã gửi hai thay đổi ban đầu. Những thay đổi này đã được lên kế hoạch cho thử nghiệm trên mạng thử nghiệm tesnet vào thứ 5 ngày 25 tháng 11. Sau khi thử nghiệm, chúng tôi dự đoán sẽ áp dụng những điều chỉnh này cho mainnet, có hiệu lực vào kỷ nguyên 306, vào thứ Tư ngày 1 tháng 12 năm 2021 lúc 21:45:00 giờ UTC.
 
