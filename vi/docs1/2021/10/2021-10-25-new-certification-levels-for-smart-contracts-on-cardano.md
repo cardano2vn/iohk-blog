@@ -1,8 +1,8 @@
 # Các cấp độ chứng nhận Hợp đồng thông minh trên Cardano
 
-### **Certification will bring high assurance to the development of decentralized applications (DApps) on Cardano**
+### **Chứng nhận sẽ mang lại mức độ đảm bảo cao cho sự phát triển của ứng dụng phi tập trung (DApp) trên Cardano**
 
-![](img/2021-10-25-new-certification-levels-for-smart-contracts-on-cardano.002.png) 25 October 2021![](img/2021-10-25-new-certification-levels-for-smart-contracts-on-cardano.002.png)[ Niamh Ahern](tmp//en/blog/authors/niamh-ahern/page-1/)![](img/2021-10-25-new-certification-levels-for-smart-contracts-on-cardano.003.png) 5 mins read
+![](img/2021-10-25-new-certification-levels-for-smart-contracts-on-cardano.002.png) 25 tháng 10 năm 2021 ![](img/2021-10-25-new-certification-levels-for-smart-contracts-on-cardano.002.png) [Niamh Ahern](tmp//en/blog/authors/niamh-ahern/page-1/) ![](img/2021-10-25-new-certification-levels-for-smart-contracts-on-cardano.003.png) 5 phút đọc
 
 ![Niamh Ahern](img/2021-10-25-new-certification-levels-for-smart-contracts-on-cardano.004.png)[](tmp//en/blog/authors/niamh-ahern/page-1/)
 
@@ -19,54 +19,54 @@ Education
 
 ![New certification levels for smart contracts on Cardano](img/2021-10-25-new-certification-levels-for-smart-contracts-on-cardano.009.jpeg)
 
-High assurance is paramount when developing and working with smart contracts. You want to be confident that the source code is of a high quality, that the contract is secure and will behave as it should, and that it utilizes good properties and behaviors in the process. Certification ensures that security checks are performed prior to any deployment, and that smart contracts can be continually audited as they are updated. It provides benefits to both smart contract developers and end users, helping protect user funds and project reputations alike from coding errors or exploits.
+Mức độ đảm bảo cao là điều rất quan trọng khi phát triển và làm việc với hợp đồng thông minh. Bạn muốn tự tin rằng mã nguồn có chất lượng cao, hợp đồng được bảo mật và sẽ hoạt động bình thường. Đồng thời nó sử dụng các thuộc tính và hành vi tốt trong quá trình này. Chứng nhận đảm bảo rằng kiểm tra bảo mật được thực hiện trước khi triển khai bất kỳ thứ gì. Các hợp đồng thông minh có thể được kiểm tra liên tục khi chúng được cập nhật. Nó cung cấp lợi ích cho cả nhà phát triển hợp đồng thông minh và người dùng. Nó sẽ giúp bảo vệ tiền của người dùng và danh tiếng của dự án cũng như tránh khỏi lỗi lập trình hoặc khai thác.
 
-At Septemberâ€™s [Cardano Summit 2021](https://summit.cardano.org/), we laid out our plans on the introduction of new levels of certification for decentralized applications (DApps) running on Cardano. This certification program will provide levels of quality for DApps and their internal smart contacts.
+Tại [Hội nghị thượng đỉnh Cardano vào tháng 9 năm 2021](https://summit.cardano.org/), chúng tôi đã đưa ra kế hoạch về việc giới thiệu các cấp độ chứng nhận mới cho ứng dụng phi tập trung (DApp) chạy trên Cardano. Chương trình chứng nhận sẽ cung cấp các mức độ chất lượng cho DApp và Hợp đồng thông minh nội bộ.
 
 Sáng kiến này được dẫn dắt bởi [Giáo sư Simon Thompson](https://iohk.io/en/team/simon-thompson), Giám đốc kỹ thuật của dự án tại IOG, và [Shruti Appiah](https://iohk.io/en/team/shruti-appiah), Trưởng bộ phận sản phẩm tại IOG. Nó sẽ giúp chúng tôi tuân thủ các phương pháp hay nhất mà chúng tôi đã thấy trong ngành. Chúng tôi đang làm việc với [Runtime Verification](https://runtimeverification.com/), [Tweag](https://www.tweag.io/), [Well Typed](https://well-typed.com/), [Certik](https://www.certik.io/) và các công ty khác để triển khai chương trình chứng nhận mới này, sẽ liên kết với dAppStore mới, đã được công bố ở dạng nguyên mẫu tại hội nghị. Điều này sẽ được phát hành cùng với Ví nhẹ mới.
 
-## **What are the different certification levels?**
+## **Các cấp độ chứng nhận khác nhau là gì?**
 
-There are *three* levels of certification, each of which is complementary to the others, rather than being progressive in terms of assurance and auditing purposes.
+Có *ba* cấp độ chứng nhận, mỗi cấp độ chứng nhận bổ sung cho các cấp độ khác, chứ không phải là cấp độ tiến bộ về mặt đảm bảo và mục đích đánh giá.
 
 ![](img/2021-10-25-new-certification-levels-for-smart-contracts-on-cardano.010.png)
 
-### **Level one: Automated tooling**
+### **Cấp độ một: Công cụ tự động**
 
-This certification level gives continual assurance about a range of properties for smart contracts. It covers the discovery of different types of issues or bugs and is characterized as low cost, low effort, accessible to everyone while providing a substantial level of assurance.
+Cấp độ chứng nhận này cung cấp sự đảm bảo liên tục về các thuộc tính cho các Hợp đồng thông minh. Nó bao gồm việc phát hiện ra các vấn đề hoặc lỗi khác nhau. Đặc trưng của nó là chi phí thấp, nỗ lực thấp, có thể truy cập được cho tất cả mọi người trong khi cung cấp mức độ đảm bảo đáng kể.
 
 Nó có thể được áp dụng nhiều lần và tự động. Vì vậy mỗi khi có bản phát hành chính thức hoặc bản phát hành phụ của một ứng dụng, chúng ta có thể kiểm tra để đảm bảo rằng ứng dụng vẫn có các thuộc tính như mong đợi.
 
-### **Level two: In-depth audit**
+### **Cấp độ hai: Kiểm toán chuyên sâu**
 
-This level involves looking at the technology and processes that led to it being produced. It is characterized by the fact that it involves a manual audit and verification of smart contracts within the DApp itself.
+Cấp độ này liên quan đến việc xem xét công nghệ và quy trình dẫn đến việc sản xuất. Đặc trưng là trong thực tế nó liên quan đến việc kiểm toán thủ công và xác minh các Hợp đồng thông minh trong chính DApp.
 
-The testing is performed at a much more in-depth level and involves more manual effort that can address a DApp in its entirety, even if it is written in a variety of languages.
+Việc kiểm tra được thực hiện ở mức độ chuyên sâu hơn và đòi hỏi nhiều nỗ lực thủ công hơn để có thể giải quyết toàn bộ DApp, ngay cả khi nó được viết bằng nhiều ngôn ngữ.
 
-### **Level three: Formal verification**
+### **Cấp độ ba: Xác minh chính thức**
 
-This level is more specialized where we aim to provide full assurance of critical aspects of applications through formal verification of smart contracts. Formal verification involves ensuring that a smart contract serves the specific business or technical requirements defined at the outset.
+Cấp độ này chuyên biệt hơn. Chúng tôi hướng tới việc cung cấp sự đảm bảo đầy đủ về các khía cạnh quan trọng của ứng dụng thông qua việc xác minh chính thức các Hợp đồng thông minh. Xác minh chính thức liên quan đến việc đảm bảo rằng Hợp đồng thông minh phục vụ các yêu cầu kinh doanh hoặc kỹ thuật cụ thể được xác định ngay từ đầu.
 
-## **What kind of assurance can we expect?**
+## **Chúng ta có thể mong đợi sự đảm bảo nào?**
 
-Certification will ensure the correctness, compliance, and consistency of requirements by both application developers and auditors. It will also guarantee the absence of common security vulnerabilities and provide a level of robustness, reliability, and maintenance of DApps deployed on Cardano. While certification will be strongly encouraged and the store curated accordingly, it will not however be mandatory or act as any kind of â€˜gatekeeperâ€™ thus maintaining a balance between the need for user assurance and decentralized principles.
+Chứng nhận sẽ đảm bảo tính đúng đắn, tuân thủ và nhất quán trong các yêu cầu của nhà phát triển ứng dụng và kiểm toán viên. Nó cũng sẽ đảm bảo không có các lỗ hổng bảo mật phổ biến và cung cấp mức độ mạnh mẽ, độ tin cậy và khả năng bảo trì của các DApp được triển khai trên Cardano. Mặc dù chứng nhận sẽ được khuyến khích mạnh mẽ và cửa hàng sẽ được sắp xếp phù hợp. Tuy nhiên, nó sẽ không bắt buộc hoặc hoạt động như bất kỳ "Người gác cổng" nào. Do đó nó duy trì sự cân bằng giữa nhu cầu đảm bảo người dùng và các nguyên tắc phi tập trung.
 
-By auditing the specifications and design and ideation phases, you can present evidence to the community and guarantee that things will work as expected. This evidence includes documentation of requirements to a detailed level, thereby creating a reference point for the future.
+Bằng cách kiểm toán các thông số kỹ thuật, các giai đoạn thiết kế và ý tưởng. Bạn có thể trình bày bằng chứng cho cộng đồng và đảm bảo rằng mọi thứ sẽ hoạt động như mong đợi. Bằng chứng bao gồm tài liệu về các yêu cầu ở mức độ chi tiết, do đó tạo ra một điểm tham chiếu cho tương lai.
 
-## **Certification status in the dAppStore**
+## **Trạng thái chứng nhận trong dAppStore**
 
-We plan to integrate this certification with the new dAppStore that we are building to provide cryptographically secure non-fungible tokens (NFTs) that give evidence of the levels of certification that we will guarantee. The dAppStore will be part of a light wallet that IO is developing, and users will be able to access the light wallet and dAppStore using a web browser, and in the store to view the certification status of each DApp as they browse through the categories and individual applications. Making the relevant certification status visible to users during the selection process will offer reassurance on quality and safety for users in their choice of DApps.
+Chúng tôi có kế hoạch tích hợp chứng nhận với dAppStore mới mà chúng tôi đang xây dựng để cung cấp Token không thể thay thế (NFT) an toàn bằng mật mã, cung cấp bằng chứng về các cấp độ chứng nhận mà chúng tôi sẽ đảm bảo. DAppStore sẽ là một phần của Ví nhẹ mà IO đang phát triển. Người dùng sẽ có thể truy cập Ví nhẹ và dAppStore bằng trình duyệt Web. Người dùng có thể vào trong cửa hàng để xem trạng thái chứng nhận của từng DApp khi họ duyệt qua các danh mục và các ứng dụng riêng lẻ. Việc hiển thị trạng thái chứng nhận liên quan cho người dùng trong quá trình lựa chọn sẽ mang lại sự yên tâm về chất lượng và sự an toàn cho người dùng khi lựa chọn DApp.
 
-To learn more about our dAppStore plans, you can watch a concept walkthrough on the [dAppStore summit video](https://summit.cardano.org/sessions/redefining-dapp-discovery-bringing-dapps-to-the-mass-market).
+Để tìm hiểu thêm về kế hoạch phát triển dAppStore của chúng tôi, bạn có thể xem hướng dẫn khái niệm trên [Video hội nghị về dAppStore](https://summit.cardano.org/sessions/redefining-dapp-discovery-bringing-dapps-to-the-mass-market).
 
-## **What is next for certification?**
+## **Điều gì tiếp theo cho chứng nhận?**
 
-Professor Thompson says:
+Giáo sư Thompson nói:
 
-We want to build support from the industry for emerging standards of certification. In the longer term, we will work with our partners and others to articulate best practices, which may involve forming an umbrella industry body to define new standards and practices for this domain.
+Chúng tôi muốn xây dựng sự hỗ trợ từ ngành công nghiệp đối với các tiêu chuẩn chứng nhận mới nổi. Về lâu dài, chúng tôi sẽ làm việc với các đối tác và những người khác để nêu rõ các phương pháp hay nhất. Điều này có thể liên quan đến việc thành lập một cơ quan công nghiệp bảo trợ để xác định các tiêu chuẩn và thông lệ mới cho lĩnh vực này.
 
-We also plan to work with our ecosystem of partners to support certification of the first DApps on Cardano; one of a number of DEXs looking to launch on Cardano this year [SundaeSwap](https://sundaeswap.finance/) also announced their plans at the summit to certify.
+Chúng tôi cũng có kế hoạch làm việc với hệ sinh thái các đối tác để hỗ trợ chứng nhận DApp đầu tiên trên Cardano. Một trong số các DEX muốn ra mắt trên Cardano trong năm nay là [SundaeSwap](https://sundaeswap.finance/) cũng đã công bố kế hoạch của họ tại Hội nghị thượng đỉnh để được chứng nhận.
 
-It is still early days. There are some technical challenges that we are busy working through about how we support versioning of DApps, how they will be packaged, and how to make them available to automated tooling. However, we are very excited about this journey with our partners and the general community to deliver a secure platform and applications built on top of it.
+Chứng nhận vẫn còn đang ở giai đoạn đầu. Có một số thách thức kỹ thuật cần phải giải quyết về cách chúng tôi hỗ trợ phiên bản DApp, cách chúng sẽ được đóng gói và cách cung cấp chứng nhận cho công cụ tự động. Tuy nhiên, chúng tôi rất vui mừng về hành trình này cùng với các đối tác và cộng đồng nói chung để cung cấp một nền tảng an toàn và các ứng dụng an toàn được xây dựng trên nền tảng đó.
 
-To learn even more about certification levels, and meet some of the partners on the program, make sure you watch the [[https://summit.cardano.org/sessions/smart-contract-certification-the-why-and-how](https://summit.cardano.org/sessions/smart-contract-certification-the-why-and-how)) from the Cardano summit.
+Để tìm hiểu thêm về các cấp độ chứng nhận và gặp gỡ một số đối tác trong chương trình, bạn hãy xem ([https://summit.cardano.org/sessions/smart-contract-certification-the-why-and-how](https://summit.cardano.org/sessions/smart-contract-certification-the-why-and-how)) từ Hội nghị thượng đỉnh Cardano.<br><br>Bài này được dịch bởi Nguyễn Văn Tú [với bài gốc](https://iohk.io/en/blog/posts/2021/10/25/new-certification-levels-for-smart-contracts-on-cardano/)<br>*Dự án này được tài trợ bởi Catalyst*
