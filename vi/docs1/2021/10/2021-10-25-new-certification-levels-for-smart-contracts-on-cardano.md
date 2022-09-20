@@ -17,7 +17,7 @@ Education
 - ![](img/2021-10-25-new-certification-levels-for-smart-contracts-on-cardano.007.png)[](https://twitter.com/nahern_iohk?lang=en "Twitter")
 - ![](img/2021-10-25-new-certification-levels-for-smart-contracts-on-cardano.008.png)[](https://github.com/nahern "GitHub")
 
-![New certification levels for smart contracts on Cardano](img/2021-10-25-new-certification-levels-for-smart-contracts-on-cardano.009.jpeg)
+![Các cấp độ chứng nhận mới cho Hợp đồng thông minh trên Cardano](img/2021-10-25-new-certification-levels-for-smart-contracts-on-cardano.009.jpeg)
 
 Mức độ đảm bảo cao là điều rất quan trọng khi phát triển và làm việc với hợp đồng thông minh. Bạn muốn tự tin rằng mã nguồn có chất lượng cao, hợp đồng được bảo mật và sẽ hoạt động bình thường. Đồng thời nó sử dụng các thuộc tính và hành vi tốt trong quá trình này. Chứng nhận đảm bảo rằng kiểm tra bảo mật được thực hiện trước khi triển khai bất kỳ thứ gì. Các hợp đồng thông minh có thể được kiểm tra liên tục khi chúng được cập nhật. Nó cung cấp lợi ích cho cả nhà phát triển hợp đồng thông minh và người dùng. Nó sẽ giúp bảo vệ tiền của người dùng và danh tiếng của dự án cũng như tránh khỏi lỗi lập trình hoặc khai thác.
 
