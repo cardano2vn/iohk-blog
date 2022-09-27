@@ -2,7 +2,7 @@
 
 ### **Crypto Bisons is a musical NFT game unveiled at the 2021 summit – and it has far-reaching implications for a host of other applications**
 
-![](img/2021-10-28-buffalo-soldiers-march-to-the-heart-of-the-blockchain.002.png) 28 October 2021![](img/2021-10-28-buffalo-soldiers-march-to-the-heart-of-the-blockchain.002.png)[ Dominic Swords](tmp//en/blog/authors/dominic-swords/page-1/)![](img/2021-10-28-buffalo-soldiers-march-to-the-heart-of-the-blockchain.003.png) 4 mins read
+![](img/2021-10-28-buffalo-soldiers-march-to-the-heart-of-the-blockchain.002.png) Ngày 28 tháng 10 năm 2021![](img/2021-10-28-buffalo-soldiers-march-to-the-heart-of-the-blockchain.002.png)[ Dominic Swords](tmp//en/blog/authors/dominic-swords/page-1/)![](img/2021-10-28-buffalo-soldiers-march-to-the-heart-of-the-blockchain.003.png) bài đọc 4 phút
 
 ![Dominic Swords](img/2021-10-28-buffalo-soldiers-march-to-the-heart-of-the-blockchain.004.png)[](tmp//en/blog/authors/dominic-swords/page-1/)
 
@@ -14,7 +14,7 @@ Marketing &amp; Communications
 
 - ![](img/2021-10-28-buffalo-soldiers-march-to-the-heart-of-the-blockchain.005.png)[](mailto:dominic.swords@iohk.io "Email")
 
-![Buffalo soldiers march to the heart of the blockchain](img/2021-10-28-buffalo-soldiers-march-to-the-heart-of-the-blockchain.006.jpeg)
+![Những chiến binh bò rừng tham gia vào thế giới blockchain](img/2021-10-28-buffalo-soldiers-march-to-the-heart-of-the-blockchain.006.jpeg)
 
 You want to demonstrate a unique combination of blockchain functions, bringing real-world elements together with collectibles and smart contracts. Of course you’d like to have a massive cohort of willing creative participants just ready and waiting to develop it. 
 
@@ -42,6 +42,6 @@ Pellerin nói thêm: 'Các đối tượng trò chơi có thể được chia s�
 
 Another thing Hoskinson likes about the game is that players compete against each other in a creative, rather than a destructive, way. The bison just want to play their way into the musical hall of fame.
 
-(* École nationale du jeu et des médias interactifs numériques)
+(* Trường quốc gia chuyên về trò chơi và phương tiện tương tác kỹ thuật số)
 
 Hãy cập nhật tất cả các thông tin từ trang web [Cardano Summit 2021](https://summit.cardano.org/) và [IOHK’s Twitter](https://twitter.com/InputOutputHK).<br><br><br><br>Bài này được dịch bởi Chitk, review bởi Quang Pham. <a class="_active_edit_href" href="https://iohk.io/en/blog/posts/2021/10/28/buffalo-soldiers-march-to-the-heart-of-the-blockchain/">với bài gốc</a> (https://iohk.io/en/blog/posts/2021/10/28/buffalo-soldiers-march-to-the-heart-of-the-blockchain/)<br><em>Dự án này được tài trợ bởi Catalyst</em>
