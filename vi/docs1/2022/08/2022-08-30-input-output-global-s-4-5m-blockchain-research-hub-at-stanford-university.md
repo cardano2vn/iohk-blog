@@ -19,9 +19,9 @@ Marketing &amp; Communication
 
 Input Output Global, Inc. (IOG) ưu tiên quy trình dựa trên nghiên cứu học thuật, đánh giá ngang hàng (Peer-Reviewed) nhằm phát triển các công nghệ blockchain có tính đảm bảo cao. Nhóm nghiên cứu đã xuất bản hơn [130 bài báo cáo nghiên cứu](https://iohk.io/en/research/library/) về nhiều chủ đề, trong số đó giúp củng cố các nguyên tắc thiết kế của Cardano cũng như các sản phẩm và dịch vụ mới của IOG.
 
-This week we are proud to announce our latest collaboration in the world of blockchain research with our funding of a new $4.5m ‘Blockchain Research Hub’ at Stanford University.
+Tuần này, chúng tôi tự hào thông báo sự hợp tác mới nhất của mình trong thế giới nghiên cứu blockchain, cùng với sự tài trợ của chúng tôi là 'Trung tâm Nghiên cứu Blockchain' mới trị giá 4,5 triệu đô la tại Đại học Stanford.
 
-Read on to learn more about this new partnership, its purpose, and the brilliant minds behind it.
+Đọc để tìm hiểu thêm về mối quan hệ đối tác mới này, mục đích của nó và những bộ óc xuất sắc đằng sau nó.
 
 ## **Nghiên cứu mới cho tương lai của blockchain**
 
@@ -35,7 +35,7 @@ Với nhu cầu đo lường hai lần và cắt giảm một lần, [IOG và t
 - Tăng cường rộng rãi sự đối chiếu kiến ​​thức khoa học của ngành công nghiệp blockchain
 - Thúc đẩy nhu cầu nghiên cứu cơ bản trong không gian non trẻ này
 
-*We’ve been dedicated to vigorous research since the inception of the\ business and our work forms the foundations on which Cardano has been\ built. Working with leading academic institutions like Stanford to set\ up these blockchain research hubs is key to our vision. With the\ Research Hub, blockchain development can grow even faster, based on\ the new learnings that will emerge, and the hub will add a new layer\ of validity to our sector that we haven’t always been afforded.”* **- [Charles Hoskinson](https://iohk.io/team/charles-hoskinson/), Giám đốc điều hành của IOG**
+*Chúng tôi đã nỗ lực hết mình để nghiên cứu một cách mạnh mẽ kể từ khi thành lập doanh nghiệp và công việc của chúng tôi tạo nên nền tảng mà Cardano được xây dựng trên nó. Làm việc với các tổ chức học thuật hàng đầu như Stanford để thiết lập các trung tâm nghiên cứu blockchain này là chìa khóa cho tầm nhìn của chúng tôi. Với Trung tâm nghiên cứu, sự phát triển blockchain có thể phát triển nhanh hơn nữa, dựa trên những kiến ​​thức mới sẽ xuất hiện và trung tâm này sẽ thêm giá trị mới cho lĩnh vực của chúng tôi mà không phải lúc nào chúng tôi cũng có đủ khả năng thực hiện. ” * **- [Charles Hoskinson](https://iohk.io/team/charles-hoskinson/), Giám đốc điều hành của IOG**
 
 'Trung tâm Nghiên cứu Blockchain' này sẽ áp dụng phương pháp tiếp cận đa ngành và cung cấp cho các nhà nghiên cứu cơ hội hợp tác với ngành công nghiệp blockchain, nâng cao kiến ​​thức và quan điểm về công nghệ blockchain.
 
@@ -66,7 +66,7 @@ Lời kêu gọi đề xuất đầu tiên sẽ mở vào tháng 9 năm 2022 và
 
 [**Giáo sư Aggelos Kiayias**](https://iohk.io/en/team/aggelos-kiayias) - Nhà khoa học đại diện tại Input Output Global và là Giáo sư tại Đại học Edinburgh - đã nói điều này về Trung tâm nghiên cứu:
 
-*Advancing the state of the art in distributed ledger systems is\ essential for realizing the full potential of blockchain technology.\ This is what the Research Hub at Stanford is contributing to. Input\ Output is a pioneer in the blockchain space both in terms of producing\ as well as supporting foundational and applied research. Being able to\ give other academics the ability to undertake their own research means\ we can work together to make even greater progress.*”
+"*Nâng cao trình độ tiên tiến trong các hệ thống sổ cái phân tán là điều cần thiết để nhận ra toàn bộ tiềm năng của công nghệ blockchain. Đây là những gì Trung tâm Nghiên cứu tại Stanford đang đóng góp. Input Output là công ty tiên phong trong không gian blockchain cả về sản xuất cũng như hỗ trợ nghiên cứu ứng dụng và cơ bản. Có thể cung cấp cho các học giả khác nhau khả năng thực hiện nghiên cứu của riêng họ, điều đó có nghĩa là chúng ta có thể làm việc cùng nhau để đạt được tiến bộ lớn hơn nữa.*”
 
 ## **Xây dựng trên nền tảng nghiên cứu**
 
