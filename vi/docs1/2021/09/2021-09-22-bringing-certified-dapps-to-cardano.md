@@ -1,8 +1,8 @@
 # Chứng nhận DApp trên Cardano
 
-### **We’ll unveil a new integrated approach at the Cardano Summit this weekend. Here’s a preview...**
+### **Chúng tôi sẽ tiết lộ một cách tiếp cận tích hợp mới tại Hội nghị thượng đỉnh Cardano vào cuối tuần này. Đây là bản xem trước ...**
 
-![](img/2021-09-22-bringing-certified-dapps-to-cardano.002.png) 22 September 2021![](img/2021-09-22-bringing-certified-dapps-to-cardano.002.png)[ Shruti Appiah](tmp//en/blog/authors/shruti-appiah/page-1/)![](img/2021-09-22-bringing-certified-dapps-to-cardano.003.png) 6 mins read
+![](img/2021-09-22-bringing-certified-dapps-to-cardano.002.png) 22 tháng 9 năm 2021![](img/2021-09-22-bringing-certified-dapps-to-cardano.002.png) [Shruti Appiah](tmp//en/blog/authors/shruti-appiah/page-1/)![](img/2021-09-22-bringing-certified-dapps-to-cardano.003.png) 6 phút đọc
 
 ![Shruti Appiah](img/2021-09-22-bringing-certified-dapps-to-cardano.004.png)[](tmp//en/blog/authors/shruti-appiah/page-1/)
 
@@ -19,51 +19,51 @@ Engineering
 
 Bản nâng cấp Alonzo đã cho phép triển khai các hợp đồng thông minh ( smart contract), ứng dụng phi tập trung (DApp) và các ứng dụng khác trên Cardano. Tất cả điều này cực kỳ quan trọng đối với Cardano, vì nó sẽ giúp Cardano có thêm một cộng đồng nhà phát triển hoàn toàn mới, những người có động lực sáng tạo sẽ thúc đẩy việc áp dụng và nâng cao tiện ích cho Cardano.
 
-Any new application ecosystem presents an enticing smorgasbord of exploration. Equally, an emergent ecosystem faces two key challenges at the beginning: discovery and quality assurance. Users need to be able to find the products they want to engage with, and do so with the reassurance of a certain baseline level of quality.
+Bất kỳ hệ sinh thái ứng dụng mới nào cũng tạo ra sự thích thú cho việc trải nghiệm. Tương tự, một hệ sinh thái mới nổi phải đối mặt với hai thách thức chính ngay từ đầu: khám phá và đảm bảo chất lượng. Người dùng cần tìm thấy các sản phẩm mà họ muốn tương tác và sự đảm bảo chất lượng cơ bản ở mức nhất định.
 
-The influx of new, third-party applications also poses the inherent risk of inappropriate or malicious material, or content that it's simply not up to standard. So addressing discovery and quality assurance issues is key to early ecosystem growth.
+Các ứng dụng mới của bên thứ ba cũng tạo ra nguy cơ tiềm ẩn về tài liệu không phù hợp hoặc độc hại, hoặc nội dung không đạt tiêu chuẩn. Vì vậy, giải quyết các vấn đề về khám phá và đảm bảo chất lượng là chìa khóa cho sự phát triển sớm của hệ sinh thái.
 
-We’ll offer a deeper dive into this important topic this weekend at the Cardano Summit. There, we shall introduce a certification program to assess applications developed on top of Cardano. And also those on the upcoming dAppStore we are developing.
+Chúng tôi sẽ đi sâu hơn vào chủ đề quan trọng đó vào cuối tuần này tại Hội nghị thượng đỉnh Cardano. Tại đó, chúng tôi sẽ giới thiệu một chương trình chứng nhận để đánh giá các ứng dụng được phát triển trên Cardano. Và cả những thứ trên dAppStore sắp tới mà chúng tôi đang phát triển.
 
-### **DApp discovery on Cardano**
+### **Khám phá DApp trên Cardano**
 
-The dAppStore – and we’ll preview a prototype at the Summit – is where developers will be able to upload their DApps running on Cardano and make them available to others in the. The store will provide a trusted, and democratized environment for developers to publish their DApps without facing censorship.
+Chúng tôi sẽ xem trước một nguyên mẫu tại Hội nghị. DAppStore là nơi các nhà phát triển có thể tải lên DApp mà họ đang chạy trên Cardano và cung cấp cho những người khác. Cửa hàng sẽ cung cấp một môi trường dân chủ và đáng tin cậy để các nhà phát triển xuất bản DApp mà không phải đối mặt với sự kiểm duyệt.
 
-The Plutus dAppStore specifically addresses two barriers to entry:
+Plutus dAppStore giải quyết hai rào cản gia nhập:
 
 - Hiện tại không có quy trình phát hành chính thức cho DApp. Hầu hết mọi phát hành đều xảy ra thông qua các phương tiện cơ bản hoặc truyền miệng, hoặc thông qua tiếp thị trên mạng xã hội.
-- For end users, there is no consolidated view of all DApps available in a given ecosystem
+- Không có cái nhìn tổng hợp về tất cả các DApp có sẵn trong một hệ sinh thái nhất định dành cho người dùng.
 
-Users will be able to access the Plutus dAppStore using a web browser. Think of the Plutus dAppStore as a 'storefront' for Cardano. The store displays the range of things that you can do on Cardano. A certification program gives users assurance about the behavior of any apps that they use, through automated logic checks, manual smart contract auditing, and formal verification.
+Người dùng sẽ có thể truy cập Plutus dAppStore bằng trình duyệt Web. Hãy coi Plutus dAppStore như một 'mặt tiền của cửa hàng' cho Cardano. Cửa hàng hiển thị nhiều thứ bạn có thể làm trên Cardano. Chương trình chứng nhận cung cấp cho người dùng sự đảm bảo về hành vi của bất kỳ ứng dụng nào mà họ sử dụng, thông qua kiểm tra Logic tự động, kiểm toán hợp đồng thông minh thủ công và xác minh chính thức.
 
 Bất kỳ DApp nào cũng có thể tồn tại trên cửa hàng, dù được chứng nhận hay chưa. Nhưng chúng tôi sẽ cung cấp cho người dùng thông tin rõ ràng về trạng thái chứng nhận của một DApp cụ thể. DAppStore không tìm cách hoạt động như người gác cổng - Gatekeeper (hoặc người đánh giá - Judge) mà là cung cấp một nền tảng để đánh giá minh bạch cho người dùng.
 
-### **The crucial role of certification**
+### **Vai trò quan trọng của chứng nhận**
 
-The dAppStore is a shopfront. But aside from community validation, it offers no ‘baked in’ assurance. So this is where the second element comes in. The role of our certification program is the prevention of code-level security vulnerabilities. We shall achieve this by deploying different levels of ‘defense’.
+DAppStore là một cửa hàng. Nhưng ngoài việc xác nhận cho cộng đồng, nó không cung cấp sự đảm bảo 'bắt buộc' (Baked-in). Vì vậy, đây là nơi yếu tố thứ hai xuất hiện. Vai trò của chương trình chứng nhận là ngăn chặn các lỗ hổng bảo mật ở cấp độ mã Code. Chúng ta sẽ đạt được điều này bằng cách triển khai các cấp độ 'bảo vệ' khác nhau.
 
-There will be several tiers. At the simplest level, automated logic checks will enable us to detect certain types of malicious code. For example, these will be able to check if the contract does not contain a way for locked up funds to be recovered. In a well composed contract, locked funds need to be retrievable.
+Sẽ có một số cấp độ. Ở cấp độ đơn giản nhất, kiểm tra Logic tự động sẽ cho phép chúng tôi phát hiện một số loại mã Code độc hại. Ví dụ: những điều này sẽ có thể xác minh việc hợp đồng không có cách nào để thu hồi các khoản tiền bị khóa. Trong một hợp đồng được soạn thảo tốt, các khoản tiền bị khóa cần phải lấy lại được.
 
-Beyond that, manual smart contract auditing will help us verify any DApp’s integrity. Ultimately full formal verification will test the mathematical model to prove that a smart contract satisfies the formal specification of its behavior.
+Ngoài ra, kiểm toán hợp đồng thông minh thủ công sẽ giúp chúng tôi xác minh tính toàn vẹn của DApp. Cuối cùng, xác minh chính thức đầy đủ sẽ kiểm tra mô hình toán học để chứng minh rằng hợp đồng thông minh đáp ứng các đặc điểm kỹ thuật chính thức về hành vi của nó.
 
 Tất nhiên, bất kỳ chương trình chứng nhận nào cũng tốt cho những người thực thi và sử dụng nó. Vì lý do này, chúng tôi đang hợp tác với một số tên tuổi hàng đầu trong không gian lập trình chức năng, những người bạn sẽ gặp tại Hội nghị.
 
-### **Building on a secure foundation: Cardano itself**
+### **Xây dựng trên nền tảng an toàn: chính là Cardano**
 
-This certification effort builds on a blockchain that already provides more assurance than others like bitcoin or Ethereum. For example, tokens are built into the architecture of Cardano itself, rather than having to be provided by contracts, such as ERC20 on Ethereum. This eliminates any issues created by copying and modifying a contract to implement a new token.
+Nỗ lực chứng nhận này được xây dựng trên một Blockchain đã cung cấp nhiều đảm bảo hơn so với các Blockchain khác như Bitcoin hoặc Ethereum. Ví dụ: Token được xây dựng trong kiến trúc của chính Cardano, thay vì phải được cung cấp bởi các hợp đồng, chẳng hạn như ERC20 trên Ethereum. Điều này giúp loại bỏ bất kỳ vấn đề nào được tạo ra bằng cách sao chép và sửa đổi hợp đồng để triển khai Token mới.
 
 Nhìn vào nền tảng của chuỗi, về cơ bản đầu ra giao dịch chưa chi tiêu mở rộng [eUTXO](https://iohk.io/en/blog/posts/2021/03/11/cardanos-extended-utxo-accounting-model/) là mô hình kế toán đơn giản và an toàn hơn cho một Blockchain. Hợp đồng thông minh trong Plutus là các chương trình chức năng. Ngữ nghĩa đơn giản và có thể kiểm chứng làm nền tảng cho những gì chúng tôi thực hiện với cả kiểm tra tự động và xác minh chính thức. Chúng tôi muốn xây dựng một nền tảng an toàn hơn các chuỗi khác. Plutus là một ngôn ngữ lập trình.
 
-Also, Marlowe, our special-purpose language for finance, guarantees certain properties by design. For example, no Marlowe contract will retain assets after the contract has terminated. That is a property built into Marlowe, which does not require extra checks to be enforced. Because of its design, Marlowe also allows tools to automatically check that contracts have certain good properties by verifying every possible execution of the contract, without having to run it; this is something that general Plutus contracts cannot do.
+Ngoài ra, Marlowe là ngôn ngữ lập trình đặc biệt dành cho lĩnh vực tài chính. Nó đảm bảo một số thuộc tính nhất định trong thiết kế. Ví dụ, không có hợp đồng Marlowe nào sẽ giữ lại tài sản sau khi hợp đồng đã chấm dứt. Đó là tài sản được tích hợp sẵn trong Marlowe, không yêu cầu kiểm tra thêm để được thực thi. Thiết kế của Marlowe cũng cho phép các công cụ tự động kiểm tra xem các hợp đồng có các đặc tính tốt nhất định hay không bằng cách xác minh mọi khả năng thực hiện hợp đồng mà không cần phải chạy nó. Đây là điều mà các hợp đồng Plutus nói chung không thể làm được.
 
-### **Certification in the context of the Alonzo hard fork**
+### **Chứng nhận trong bối cảnh của Hardfork Alonzo**
 
-At the Summit we’ll show examples of automated testing of smart contracts, which are components of DApps, rather than full DApps.
+Tại Hội nghị, chúng tôi sẽ đưa ra các ví dụ về kiểm tra tự động hợp đồng thông minh là một thành phần của DApp, chứ không phải toàn bộ DApp.
 
-In the longer term, we would like to see user-designed tools, the deployment of those tools to the store, and the evolution of the Plutus dAppStore to include new features such as upvoting, reviews, and even Atala PRISM integration etc., giving users the opportunity to feed back on the range of DApps in the store.
+Về lâu dài, chúng tôi muốn thấy các công cụ do người dùng thiết kế. Việc triển khai các công cụ đó vào cửa hàng và sự phát triển của Plutus dAppStore để có các tính năng mới như ủng hộ, đánh giá và thậm chí tích hợp Atala PRISM, v.v. mang đến cho người dùng cơ hội phản hồi về phạm vi DApp trong cửa hàng.
 
-Through our work on the Alonzo testnets, the Plutus Pioneer program, and of course Project Catalyst, we have already seen a host of projects starting to build on Cardano. As these projects start to come to market over the months ahead, user discovery and user trust in those DApps will be key. We are working with an open, decentralized ecosystem, so the usual rules of *caveat emptor* and ‘Do Your Own Research’ will of course continue to apply. But helping drive higher standards in certification and assurance will be key to accelerating the growth of a successful ecosystem on Cardano and ultimately, the widest possible user base.
+Thông qua công việc trên Testnet Alonzo, chương trình Plutus Pioneer và Dự án Catalyst, chúng tôi đã thấy một loạt các dự án bắt đầu xây dựng trên Cardano. Khi các dự án này bắt đầu hoạt động trên thị trường trong những tháng tới, khả năng khám phá và sự tin tưởng của người dùng vào các DApp đó sẽ là chìa khoá quan trọng. Chúng ta đang làm việc với một hệ sinh thái mở và phi tập trung. Vì vậy, các quy tắc thông thường của *người báo trước (Caveat Emptor)* và 'Tự nghiên cứu của riêng bạn' sẽ tiếp tục được áp dụng. Nhưng việc giúp thúc đẩy các tiêu chuẩn cao hơn trong chứng nhận và đảm bảo sẽ là chìa khóa để thúc đẩy sự phát triển của một hệ sinh thái thành công trên Cardano và cuối cùng là cơ sở người dùng rộng rãi nhất có thể.
 
-##### **Simon Thompson and Fernando Sanchez also contributed to this piece.**
+##### **Simon Thompson và Fernando Sanchez cũng đóng góp vào tác phẩm này.**
 
 *Tham gia với chúng tôi tại Hội nghị thượng đỉnh vào ngày 25-26 tháng 9 để tìm hiểu thêm về sáng kiến mới thú vị này và xem bản Demo của nguyên mẫu dAppStore. Bài này được dịch bởi Nguyễn Văn Tú, review bởi Quang Pham, biên tập bởi....  Bài viết nguồn [tại đây](https://iohk.io/en/blog/posts/2021/09/22/bringing-certified-dapps-to-cardano). *Dự án này được tài trợ bởi Catalyst**
