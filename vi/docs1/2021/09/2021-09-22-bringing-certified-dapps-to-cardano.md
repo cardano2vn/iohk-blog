@@ -15,7 +15,7 @@ Engineering
 - ![](img/2021-09-22-bringing-certified-dapps-to-cardano.005.png)[](https://www.linkedin.com/in/shrutiappiah/ "LinkedIn")
 - ![](img/2021-09-22-bringing-certified-dapps-to-cardano.006.png)[](https://github.com/ShrutiAppiah "GitHub")
 
-![Bringing certified DApps to Cardano](img/2021-09-22-bringing-certified-dapps-to-cardano.007.jpeg)
+![Chứng nhận DApp trên Cardano](img/2021-09-22-bringing-certified-dapps-to-cardano.007.jpeg)
 
 Bản nâng cấp Alonzo đã cho phép triển khai các hợp đồng thông minh ( smart contract), ứng dụng phi tập trung (DApp) và các ứng dụng khác trên Cardano. Tất cả điều này cực kỳ quan trọng đối với Cardano, vì nó sẽ giúp Cardano có thêm một cộng đồng nhà phát triển hoàn toàn mới, những người có động lực sáng tạo sẽ thúc đẩy việc áp dụng và nâng cao tiện ích cho Cardano.
 
