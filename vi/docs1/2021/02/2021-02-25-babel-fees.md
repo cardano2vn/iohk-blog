@@ -2,11 +2,11 @@
 
 ### **Giới thiệu một cơ chế mới cho phép thanh toán phí giao dịch bằng Token do người dùng xác định trên Cardano**
 
-![](img/2021-02-25-babel-fees.002.png) 25 February 2021![](img/2021-02-25-babel-fees.002.png)[ Prof Aggelos Kiayias](tmp//en/blog/authors/aggelos-kiayias/page-1/)![](img/2021-02-25-babel-fees.003.png) 8 mins read
+![](img/2021-02-25-babel-fees.002.png)25 tháng 2 năm 2021![](img/2021-02-25-babel-fees.002.png) [Giáo sư Aggelos Kiayias](tmp//en/blog/authors/aggelos-kiayias/page-1/)![](img/2021-02-25-babel-fees.003.png) 8 phút đọc
 
 ![Prof Aggelos Kiayias](img/2021-02-25-babel-fees.004.png)[](tmp//en/blog/authors/aggelos-kiayias/page-1/)
 
-### [**Prof Aggelos Kiayias**](tmp//en/blog/authors/aggelos-kiayias/page-1/)
+### [**Giáo sư Aggelos Kiayias**](tmp//en/blog/authors/aggelos-kiayias/page-1/)
 
 Chief Scientist
 
