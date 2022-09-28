@@ -12,12 +12,12 @@ Research Engineer
 
 Engineering
 
-- ![](img/2021-09-06-no-surprises-transaction-validation-on-cardano.005.png)[](mailto:polina.vinogradova@iohk.io "Email")
+- ![](img/2021-09-06-no-surprises-transaction-validation-on-cardano.005.png)[](mailto:polina.vinogradova@iohk.io "E-mail")
 - ![](img/2021-09-06-no-surprises-transaction-validation-on-cardano.006.png)[](https://ca.linkedin.com/in/polina-vinogradova-62105713b "LinkedIn")
 - ![](img/2021-09-06-no-surprises-transaction-validation-on-cardano.007.png)[](https://twitter.com/polinavinovino "Twitter")
 - ![](img/2021-09-06-no-surprises-transaction-validation-on-cardano.008.png)[](https://github.com/polinavino "GitHub")
 
-![No-surprises transaction validation on Cardano](img/2021-09-06-no-surprises-transaction-validation-on-cardano.009.jpeg)
+![Xác thực giao dịch trên Cardano](img/2021-09-06-no-surprises-transaction-validation-on-cardano.009.jpeg)
 
 As the Alonzo hard fork brings core Plutus smart contract capability to Cardano, the ledger evolves to meet the growing need for the deployment of decentralized solutions. Cardano ledger design focuses on high assurance, security, and proven formal verification. In alignment with this strategy, it is also important to ensure that transaction processing is *deterministic*, meaning that a user can predict its impact and outcome before the actual execution.
 
