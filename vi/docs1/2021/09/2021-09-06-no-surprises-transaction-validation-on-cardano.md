@@ -19,9 +19,9 @@ Engineering
 
 ![Xác thực giao dịch trên Cardano](img/2021-09-06-no-surprises-transaction-validation-on-cardano.009.jpeg)
 
-As the Alonzo hard fork brings core Plutus smart contract capability to Cardano, the ledger evolves to meet the growing need for the deployment of decentralized solutions. Cardano ledger design focuses on high assurance, security, and proven formal verification. In alignment with this strategy, it is also important to ensure that transaction processing is *deterministic*, meaning that a user can predict its impact and outcome before the actual execution.
+Khi hard fork Alonzo mang lại cho Cardano khả năng tạo lập hợp đồng thông minh (smart contract) với cốt lõi là ngôn ngữ lập trình Plutus, sổ cái sẽ phát triển để đáp ứng nhu cầu ngày càng tăng về việc triển khai các giải pháp phi tập trung. Thiết kế sổ cái của Cardano tập trung vào sự đảm bảo, tính bảo mật cao và chứng minh rõ nét trong việc xác minh. Để phù hợp với chiến lược này, điều quan trọng là phải đảm bảo được quá trình xử lý giao dịch được *xác định*, có nghĩa là người dùng có thể dự đoán tác động và kết quả của nó trước khi áp dụng vào thực tế.
 
-The ability to guarantee the cost of transaction execution, and how the transaction behaves on the ledger *before* it is submitted, becomes even more prominent with the introduction of smart contract support. [Unspent Transaction Output (UTXO)](https://iohk.io/en/blog/posts/2021/03/11/cardanos-extended-utxo-accounting-model/)-based blockchains, like Cardano, provide such capabilities. Account-based blockchains, like Ethereum, are *indeterministic*, which means that they cannot guarantee the predictability of the transactionâ€™s effect on-chain. This presents risks of monetary loss, unpredictably high fees, and additional opportunities for adversarial behavior.
+Các blockchain dựa trên [đầu ra giao dịch chưa chi tiêu (UTXO)](https://iohk.io/en/blog/posts/2021/03/11/cardanos-extended-utxo-accounting-model/) như Cardano, có khả năng đảm bảo chi phí thực hiện giao dịch và cách giao dịch hoạt động trên sổ cái *trước khi* được gửi đi, thậm chí nó còn nổi bật hơn nữa với sự ra đời của việc hỗ trợ hợp đồng thông minh. Các blockchain dựa trên tài khoản như Ethereum, là *không xác định*, có nghĩa là chúng không thể đảm bảo khả năng dự đoán về tác động của giao dịch trên chuỗi. Điều này dẫn đến rủi ro mất tiền, phí giao dịch cao bất thường và các nguy cơ gây hại cho hệ thống.
 
 Trong bài này, chúng tôi xem xét kỹ hơn những lợi ích về thiết kế của Cardano cho phép đánh giá tập lệnh và sự an toàn của giao dịch trước khi thực hiện. Ở bài sau, vào cuối tuần này, chúng ta sẽ thảo luận về hai giai đoạn xác thực giao dịch trên Cardano.
 
@@ -29,9 +29,9 @@ Trong bài này, chúng tôi xem xét kỹ hơn những lợi ích về thiết 
 
 Tính xác định, trong bối cảnh giao dịch và xử lý tập lệnh được coi là giống với *khả năng dự đoán*. Điều này có nghĩa là người dùng có thể dự đoán cục bộ (ngoài chuỗi) rằng giao dịch của họ sẽ ảnh hưởng như thế nào đến trạng thái trên chuỗi của sổ cái mà không cần phải bận tâm tới:
 
-- unexpected script validation outcomes or failures
-- unexpected fees
-- unexpected ledger or script state updates.
+- Kết quả xác thực tập lệnh
+- Mức hao tổn kinh phí
+- Loại sổ cái hoặc cập nhật trạng thái tập lệnh
 
 Một giao dịch trong hệ thống xác định vẫn có thể bị từ chối, ngay cả khi được thực hiện chính xác. *Bị từ chối* nghĩa là giao dịch hoàn toàn không thể được áp dụng cho sổ cái, do đó không ảnh hưởng đến trạng thái của nó, chính vì vậy nên không có chi phí nào được thanh toán. Điều này xảy ra khi các giao dịch được xử lý vào giữa thời điểm giao dịch ban đầu được thực hiện. Điều này cũng có thể xảy ra ngay cả với các giao dịch đơn giản. Ví dụ: một giao dịch khác có thể sử dụng UTXO mà một người cũng đang dự định dùng tới. Tính xác định đảm bảo rằng, bất cứ khi nào một giao dịch được chấp nhận, nó sẽ chỉ tác động tới trạng thái sổ cái (có thể dự đoán được).
 
@@ -39,20 +39,20 @@ Một giao dịch trong hệ thống xác định vẫn có thể bị từ ch�
 
 *Tính không xác định* nghĩa là chúng ta không thể dự đoán những ảnh hưởng của một giao dịch trên sổ cái trước khi thực hiện. Khi thiết kế sổ cái, cũng như hợp đồng thông minh, điều quan trọng là phải thấy trước các điều kiện mà tính không xác định *có thể* xảy ra và đưa ra quyết định thiết lập để né tránh chúng. Một trong những nguy cơ là quyền truy cập vào dữ liệu sổ cái có thể thay đổi, tức là dữ liệu có thể tự thay đổi hoặc bị thay đổi. Tính không xác định có thể là vấn đề khi các thay đổi mà giao dịch hoặc hợp đồng thông minh thực hiện dựa trên sổ cái phụ thuộc vào trạng thái của nó tại thời điểm xử lý, thay vì chỉ phụ thuộc vào nội dung của giao dịch
 
-Ethereum is notably susceptible to this problem. For example, gas prices, or a decentralized exchange (DEX) rate can fluctuate between the time a user submits a transaction and the time it gets processed. This results in unexpected gas fees, or price changes of assets being purchased. Or a script might simply fail, resulting in high execution costs (hundreds of dollars) and no other effect. This could occur, for instance, if the funds available to cover the gas costs run out mid-execution. Deterministic ledger design eliminates these possibilities.
+Ethereum rất dễ bị ảnh hưởng bởi vấn đề này. Ví dụ: phí gas hoặc các sàn giao dịch phi tập trung (DEX) có thể dao động trong khoảng thời gian người dùng gửi giao dịch và thời gian giao dịch được xử lý. Điều này dẫn đến phí gas trở nên bất thường hoặc tài sản bị thay đổi giá. Hoặc một tập lệnh có thể bị lỗi, dẫn đến chi phí cao (hàng trăm USD) và không đem lại tác dụng nào khác. Điều này có thể xảy ra, khi khoản tiền dùng để trả phí gas bị hết khi đang trong quá trình thực hiện. Thiết kế sổ cái xác định loại bỏ những khả năng này.
 
 Các nguồn không xác định có thể bao gồm việc cho phép các tập lệnh chứa:
 
-- data in the block containing the transaction, but not included in any transaction, e.g., system randomness, block header, or the current slot number
-- data altered or substituted by an adversary, which might change the outcome of script validation, while the transaction itself remains processable.
+- Dữ liệu trong block chứa giao dịch, nhưng không bao gồm trong bất kỳ giao dịch nào, ví dụ: tính ngẫu nhiên của hệ thống, tiêu đề block hoặc số vị trí hiện tại
+- Dữ liệu bị thay đổi hoặc bị thay thế, điều này có thể thay đổi kết quả xác thực tập lệnh, trong khi giao dịch đó vẫn có thể xử lý được.
 
 Trên các hệ thống, có nhiều cách để giảm thiểu những vấn đề này bằng phương pháp cải tiến lập trình hoặc giải pháp trên Layer 2. Cardano được thiết kế để đảm bảo kết quả có thể dự đoán cho tất cả các tập lệnh và giao dịch.
 
 ## **Tính xác định và lợi ích mô hình UTXO mang lại**
 
-The Cardano ledger is built on a UTXO accounting model, which means that assets are stored on the ledger in *unspent outputs*, rather than in *accounts*. Each of these outputs specifies quantities of assets stored therein, together with its address. Unspent outputs are *immutable*, so a transaction might consume the entire output, but it cannot alter it.
+Sổ cái Cardano được xây dựng trên mô hình UTXO, nghĩa là tài sản được lưu trữ trên sổ cái dưới dạng *kết quả đầu ra chưa* chi tiêu , thay vì nằm trong *tài khoản*. Mỗi đầu ra này chứa số lượng tài sản được lưu trữ, cùng địa chỉ của nó. Đầu ra chưa được chi tiêu là *bất biến* , vì vậy một giao dịch có thể tiêu thụ toàn bộ đầu ra, nhưng nó không thể tự thay đổi tính vốn có của nó.
 
-To transfer assets, a transaction consumes one or more outputs and creates new ones, which, in total, contain the same quantities of assets as the ones consumed. These quantities -and their UTXO addresses- are specified in the outputs of the transaction. The only way a transaction can influence the effect of another transaction applied to the ledger is by spending the same UTXO as the later transaction attempts to spend, thus causing the node to reject it. This is the key feature on which the UTXO model relies for maintaining determinism.
+Để chuyển giao tài sản, một giao dịch chi tiêu một hoặc nhiều đầu ra và tạo nên những đầu ra mới, về tổng thể, chứa cùng số lượng tài sản với những đầu ra đã chi tiêu. Những số lượng này - và địa chỉ UTXO - được chỉ định trong đầu ra của giao dịch. Cách duy nhất mà một giao dịch có thể ảnh hưởng đến  giao dịch khác (được áp dụng cho sổ cái) là sử dụng trên cùng một UTXO, điều này khiến node phải từ chối. Đây là đặc điểm chính mà mô hình UTXO duy trì tính xác định.
 
 Mô hình sổ cái UTXO có cả ưu điểm và nhược điểm so với mô hình dựa trên tài khoản. Không giống như UTXO, mô hình sổ cái dựa trên tài khoản chứa dữ liệu có thể thay đổi. Ví dụ, một giao dịch chứa các số lượng tài sản khác nhau trong một tài khoản, tùy thuộc vào việc nó được xử lý trước hay sau một giao dịch khác cập nhật cùng tài khoản đó. Trường hợp này có thể không khiến giao dịch bị từ chối, nhưng nó có thể dẫn đến những thay đổi "không thể đoán trước" trong sổ cái.
 
@@ -75,13 +75,13 @@ Xác thực tập lệnh có thể thực hiện các hành động sau:
 
 Bên cạnh việc báo cho node biết tập lệnh nào sẽ được xử lý, tất cả các hành động giao dịch đều chỉ ra cách tập hợp các đối số được truyền tải cho tập lệnh đó.
 
-Cardanoâ€™s multi-asset ledger (Mary) supports simple *multisig* and *timelock* scripting languages. These allow users to specify signatures required to perform an action (such as spending a UTXO or minting a non-fungible token (NFT)), and the time interval in which it can be performed. A timelock script can never see the actual slot number in the transaction that includes it. Timelock can only see the *validity interval* of the carrying transaction. Allowing a timelock script to see the current slot number (i.e., data coming from the block, rather than the author) would break determinism. This is ensured by the fact that a user cannot know the exact slot in which the transaction gets processed, and therefore they cannot predict how the script will behave.
+Sổ cái đa tài sản của Cardano (hard fork Mary) hỗ trợ *đa chữ ký và khóa thời gian (timelock) * *đơn giản. Những điều này cho phép người dùng chỉ định chữ ký cần thiết để thực hiện một hành động (chẳng hạn như sử dụng UTXO hoặc tạo token không thể thay thế (NFT)) và khoảng thời gian mà hành động đó có thể được thực hiện. Một tập lệnh timelock không bao giờ thấy được vị trí thực tế trong giao dịch chứa nó. Timelock chỉ có thể xem *khoảng thời gian hiệu lực* của giao dịch. Việc cho phép tập lệnh timelock xem vị trí hiện tại (tức là dữ liệu đến từ block, chứ không phải từ người tạo) sẽ phá vỡ tính xác định. Điều này được đảm bảo bởi thực tế là người dùng không thể biết chính xác vị trí mà giao dịch được xử lý và do đó họ không thể dự đoán tập lệnh sẽ hoạt động như thế nào.*
 
 Các tập lệnh của hard fork Mary, không giống trong các hợp đồng của Plutus ở hard fork Alonzo, nó bị hạn chế nhiều về khả năng diễn giải. Hard fork Alonzo mở ra một kỷ nguyên mới của các hợp đồng có tính hiệu quả rõ ràng mà không làm ảnh hưởng đến tài sản sổ cái.
 
 ## **Tập lệnh Plutus**
 
-Alonzo introduces a new approach to transaction validation on Cardano due to the implementation of Plutus scripts. The [extended unspent transaction output](https://iohk.io/en/blog/posts/2021/03/12/cardanos-extended-utxo-accounting-model-part-2/) (EUTXO) model, deployed as part of Alonzo, provides the ledger infrastructure to support Plutus contracts. Below, we provide a high-level overview of ledger and transaction changes. For more details about working with the ledger and Plutus scripts, check out the [Plutus Pioneer program](https://www.youtube.com/watch?v=IEn6jUo-0vU&list=PLK8ah7DzglhhJzuiz7X33UCHSTYPB-8Jt)!
+Hard fork Alonzo giới thiệu cách tiếp cận mới để xác thực giao dịch trên Cardano do việc triển khai các tập lệnh Plutus. Mô hình [đầu ra giao dịch chưa chi tiêu mở rộng](https://iohk.io/en/blog/posts/2021/03/12/cardanos-extended-utxo-accounting-model-part-2/) (EUTXO), được triển khai như một phần của Alonzo, cung cấp cơ sở hạ tầng sổ cái để hỗ trợ các hợp đồng Plutus. Sau đây, chúng tôi trình bày một cách tổng quan về những thay đổi trong sổ cái và giao dịch. Để biết thêm chi tiết về cách làm việc với sổ cái và tập lệnh Plutus, hãy xem [chương trình Plutus Pioneer](https://www.youtube.com/watch?v=IEn6jUo-0vU&list=PLK8ah7DzglhhJzuiz7X33UCHSTYPB-8Jt) !
 
 Alonzo thay đổi dữ liệu trên sổ cái dựa theo các yếu tố sau:
 
@@ -91,17 +91,17 @@ Alonzo thay đổi dữ liệu trên sổ cái dựa theo các yếu tố sau:
 
 Để hỗ trợ tập lệnh Plutus, các giao dịch đã được nâng cấp như sau:
 
-1. For each of its actions, the transaction now carries a user-specified argument, called a *redeemer*. Depending on the script, a redeemer can serve a different purpose. For example, it can act as the bid the user places in an auction, or the userâ€™s guess in a guessing game, among many other functions.
+1. Đối với mỗi hành động, giao dịch hiện mang một đối số do người dùng chỉ định, được gọi là *redeemer*. Tùy thuộc vào tập lệnh, redeemer có thể được dành cho các mục đích khác nhau. Ví dụ: Một trong số những chức năng là nó có thể hoạt động ở mức giá mà người dùng đặt ra trong một cuộc đấu giá hoặc kết quả mà người dùng dự đoán ở các trò chơi.
 2. Giao dịch xác định ngân sách thực thi tính toán cho mỗi tập lệnh.
 3. Để đảm bảo rằng một giao dịch có thể tự trả phí, Alonzo giới thiệu các phần dữ liệu bổ sung mà chúng ta sẽ thảo luận trong bài tiếp theo.
 4. Các giao dịch chứa một hàm băm đầy đủ, cần thiết để đảm bảo rằng nó không bị tấn công, quá hạn, v.v.
 
 Ngoài ra còn có một số thay đổi trong các chi tiết cụ thể của xác thực giao dịch hard fork Alonzo so với hard fork Mary. Đối với mỗi hành động, node tập hợp các đối số tập lệnh, bao gồm:
 
-- the datum
-- the redeemer
-- execution budget
-- a summary of the transaction.
+- Datum
+- Redeemer
+- Ngân sách thực thi tập lệnh
+- Bản tóm tắt của giao dịch.
 
 Node thực hiện các phần việc mới, dành riêng cho Alonzo để đảm bảo giao dịch được tạo lập chính xác. Ví dụ: nó không được vượt quá ngân sách tối đa. Nó cũng kết hợp cùng Plutus để chạy các tập lệnh.
 
@@ -111,22 +111,22 @@ Giống như các tài khoản có thể thay đổi, trạng thái tập lệnh
 
 **Ngân sách thực thi tập lệnh**
 
-The non-deterministic gas model can charge users unpredictably large fees. In Cardano scripts, this source of indeterminism is addressed by requiring that the resource budget itself, as well as the fee required to cover this budget, are included in the transaction. In Alonzo, a user can predict both locally when constructing the transaction. Script execution necessarily returns either *True* or *False*, and will not loop indefinitely. The reason for this is that every operation a script performs takes a non-zero amount of resources, which are tracked by the interpreter. If the budget specified by the transaction is exceeded, script execution terminates and returns *False*.
+Mô hình phí gas không xác định có thể tính một lượng phí lớn không thể lường trước. Trong tập lệnh Cardano, vấn đề này được giải quyết bằng cách yêu cầu một khoản ngân sách có sẵn, như một khoản phí có sẵn trong giao dịch để dùng vào việc này. Trong hark fork Alonzo, người dùng có thể dự đoán riêng từng phần khi thực hiện giao dịch. Việc thực thi tập lệnh nhất thiết phải trả về *True* hoặc *False* và sẽ không lặp lại. Bởi vì mọi hoạt động mà một tập lệnh thực hiện đều sử dụng một lượng ngân sách nhất định (được theo dõi). Nếu vượt quá ngân sách do giao dịch chỉ định, quá trình thực thi tập lệnh sẽ kết thúc và trả về giá trị *False* .
 
 ## **Xác thực giao dịch ở Alonzo**
 
 Đối với việc giải quyết các nguồn không xác định, các điểm sau khiến kết quả của xác thực tập lệnh và giao dịch có thể dự đoán được:
 
 - Quá trình thông dịch tập lệnh sẽ kết thúc và trả về cùng một kết quả xác thực khi được áp dụng cho các đối số giống nhau
-- a transaction necessarily fixes all arguments that will be passed to the script interpreter during validation
-- a transaction specifies all the actions it is taking that require script validation
-- compulsory signatures on a transaction ensure that it cannot be altered by an adversary in a way that causes scripts to fail
-- applying a transaction in the EUTXO ledger model is deterministic.
+- Một giao dịch nhất thiết phải sửa tất cả các đối số sẽ được chuyển đến trình thông dịch tập lệnh trong quá trình xác thực
+- Một giao dịch chỉ định tất cả các hành động mà nó đang thực hiện yêu cầu xác thực tập lệnh
+- Đảm bảo khi giao dịch được thực hiện, chữ ký bắt buộc không thể bị thay đổi bởi một ai khác
+- Áp dụng một giao dịch trong mô hình sổ cái EUTXO là xác định.
 
-The last point is largely inherited from the UTXO model, as Alonzo ledger protocol updates remain, for the most part, consistent with updates in previous eras (including the delegation scheme, etc.). After the Alonzo upgrade, script validation failure or success does affect how a transaction is processed (more about this in part 2!). However, the *True* or *False* outcome, as well as ledger changes associated with either outcome, are predictable for a given transaction.
+Điểm cuối cùng được kế thừa hầu hết từ mô hình UTXO, vì phần lớn các bản cập nhật giao thức sổ cái hard fork Alonzo vẫn còn, nhất quán với các bản cập nhật trong các kỷ nguyên trước (bao gồm cả chương trình ủy quyền, v.v.). Sau khi nâng cấp Alonzo, việc xác thực tập lệnh không thành công sẽ ảnh hưởng đến cách xử lý giao dịch (xem thêm về điều này trong phần 2!). Tuy nhiên, kết quả *True* hay *False* , cũng như những thay đổi trên sổ cái liên quan đến một trong hai kết quả, đều có thể dự đoán được cho một giao dịch nhất định.
 
 Hành vi xác định của tập lệnh Cardano và xác thực giao dịch không phải là kết quả tự nhiên của việc sử dụng mô hình EUTXO. Để đảm bảo thuộc tính này, nhóm IOG đã phải theo dõi cẩn thận nguồn của mọi dữ liệu mà tập lệnh được phép xem.
 
-*The deterministic evaluation property is formally specified in the [Alonzo specification](https://hydra.iohk.io/build/7172824/download/1/alonzo-changes.pdf), and the IOG team has also sketched proof that the interpreter gets only those arguments that would not break the property.*
+*Thuộc tính đánh giá xác định được thể hiện trong [đặc điểm kỹ thuật của Alonzo](https://hydra.iohk.io/build/7172824/download/1/alonzo-changes.pdf) và nhóm IOG cũng đã phác thảo bằng chứng rằng trình thông dịch chỉ nhận được những đối số không phá vỡ thuộc tính.*
 
-*In our second blog post, weâ€™ll take a closer look at the 2-phase validation process of Cardano transactions. So, keep an eye out later this week for part two.*
+*Trong bài tiếp theo, chúng tôi sẽ xem xét kỹ hơn quy trình xác thực 2 giai đoạn của các giao dịch Cardano. Vì vậy, hãy chú ý theo dõi phần hai vào cuối tuần này.<br><br><br>Bài này được dịch bởi Max Long, Review bởi Quang Pham, biên tập bởi .... <a>với bài gốc</a>(https://iohk.io/en/blog/posts/2021/09/06/no-surprises-transaction-validation-on-cardano/)<br><em>Dự án này được tài trợ bởi Catalyst</em>*
