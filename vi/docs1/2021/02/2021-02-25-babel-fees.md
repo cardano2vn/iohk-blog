@@ -4,7 +4,7 @@
 
 ![](img/2021-02-25-babel-fees.002.png)25 tháng 2 năm 2021![](img/2021-02-25-babel-fees.002.png) [Giáo sư Aggelos Kiayias](tmp//en/blog/authors/aggelos-kiayias/page-1/)![](img/2021-02-25-babel-fees.003.png) 8 phút đọc
 
-![Prof Aggelos Kiayias](img/2021-02-25-babel-fees.004.png)[](tmp//en/blog/authors/aggelos-kiayias/page-1/)
+![Giáo sư Aggelos Kiayias](img/2021-02-25-babel-fees.004.png)[](tmp//en/blog/authors/aggelos-kiayias/page-1/)
 
 ### [**Giáo sư Aggelos Kiayias**](tmp//en/blog/authors/aggelos-kiayias/page-1/)
 
@@ -15,7 +15,7 @@ Academic Research
 - ![](img/2021-02-25-babel-fees.005.png)[](mailto:aggelos.kiayias@iohk.io "Email")
 - ![](img/2021-02-25-babel-fees.006.png)[](tmp///www.youtube.com/watch?v=nB6eDbnkAk8 "YouTube")
 
-![Babel fees - denominating transaction costs in native tokens](img/2021-02-25-babel-fees.007.jpeg)
+![Phí Babel - xác định phí giao dịch bằng Token gốc](img/2021-02-25-babel-fees.007.jpeg)
 
 Trong cuốn sách kinh điển The Hitchhiker's Guide to the Galaxy của Douglas Adams, [cá Babel](http://www.bbc.co.uk/cult/hitchhikers/guide/babelfish.shtml) là sinh vật cho phép bạn nghe bất kỳ ngôn ngữ nào được dịch sang tiếng mẹ đẻ của bạn. Hãy tưởng tượng bản dịch phổ quát này đảm bảo sự tương tác có ý nghĩa bất chấp có vô số ngôn ngữ khác nhau trong thiên hà.
 
