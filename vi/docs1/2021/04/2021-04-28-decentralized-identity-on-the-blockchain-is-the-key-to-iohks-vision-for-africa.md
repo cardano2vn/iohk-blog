@@ -12,11 +12,11 @@ Chief Executive Officer
 
 Founder
 
-- ![](img/2021-04-28-decentralized-identity-on-the-blockchain-is-the-key-to-iohks-vision-for-africa.005.png)[](mailto:charles.hoskinson@iohk.io "Email")
+- ![](img/2021-04-28-decentralized-identity-on-the-blockchain-is-the-key-to-iohks-vision-for-africa.005.png)[](mailto:charles.hoskinson@iohk.io "E-mail")
 - ![](img/2021-04-28-decentralized-identity-on-the-blockchain-is-the-key-to-iohks-vision-for-africa.006.png)[](tmp///www.youtube.com/watch?v=Ja9D0kpksxw "YouTube")
 - ![](img/2021-04-28-decentralized-identity-on-the-blockchain-is-the-key-to-iohks-vision-for-africa.007.png)[](tmp///twitter.com/IOHK_Charles "Twitter")
 
-![Identity is the key to our vision for Africa](img/2021-04-28-decentralized-identity-on-the-blockchain-is-the-key-to-iohks-vision-for-africa.008.png)
+![Nhận diện danh tính là chìa khoá cho tầm nhìn của chúng tôi về Châu Phi](img/2021-04-28-decentralized-identity-on-the-blockchain-is-the-key-to-iohks-vision-for-africa.008.png)
 
 *Hôm qua, trong chương trình #CardanoAfrica, chúng tôi đã mạnh dạn đưa ra tầm nhìn của mình về Châu Phi - và cách chúng tôi thực hiện nó. Đây là dịp để chúng tôi giới thiệu sự kiện rất đặc biệt này*
 
