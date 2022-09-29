@@ -17,7 +17,7 @@ Communications
 - ![](img/2021-02-18-building-native-tokens-on-cardano-for-pleasure-and-profit.007.png)[](https://twitter.com/timbharrison "Twitter")
 - ![](img/2021-02-18-building-native-tokens-on-cardano-for-pleasure-and-profit.008.png)[](https://github.com/timbharrison "GitHub")
 
-![Building native tokens on Cardano for pleasure and profit](img/2021-02-18-building-native-tokens-on-cardano-for-pleasure-and-profit.009.jpeg)
+![Xây dựng token gốc trên Cardano để mang lại niềm vui và lợi nhuận](img/2021-02-18-building-native-tokens-on-cardano-for-pleasure-and-profit.009.jpeg)
 
 With the â€˜Maryâ€™ protocol upgrade, which will be implemented using our [hard fork combinator](https://docs.cardano.org/en/latest/explore-cardano/what-is-a-hard-fork-combinator.html) technology, native tokens and multi-asset capability are coming to Cardano.
 
@@ -84,7 +84,7 @@ Trình tạo token là một giao diện đồ họa giúp tạo token dễ dàn
 
 Việc tự động tạo token cũng sẽ tự động tạo ra chính sách tiền tệ - bạn sẽ không cần phải tự mình xác định chính sách đó. Điều này hợp lý hóa việc tạo token và đơn giản hóa nó cho người dùng không chuyên về kỹ thuật.
 
-![token builder dashboard](img/2021-02-18-building-native-tokens-on-cardano-for-pleasure-and-profit.010.png)
+![Bảng mô tả tiến trình tạo token](img/2021-02-18-building-native-tokens-on-cardano-for-pleasure-and-profit.010.png)
 
 Hình 1. Trang tổng quan của trình tạo token nguyên mẫu
 
@@ -104,7 +104,7 @@ Native tokens are uniquely identified by two hexadecimal numbers stored on-chain
 
 Dữ liệu của token bổ sung được hiển thị trong giao diện người dùng của ví (tên, mô tả và từ viết tắt) sẽ được cung cấp bởi cơ quan đăng ký token Cardano, do Cardano Foundation quản lý từ đầu.
 
-![Daedalus native tokens Mary UI](img/2021-02-18-building-native-tokens-on-cardano-for-pleasure-and-profit.011.png)
+![Token gốc Daedalus Mary UI](img/2021-02-18-building-native-tokens-on-cardano-for-pleasure-and-profit.011.png)
 
 Hình 2. Giao diện người dùng token gốc Daedalus
 
@@ -118,7 +118,7 @@ Khi tất cả các thành phần cần thiết được triển khai, vòng đ�
 - redeeming
 - burning.
 
-![Multi asset token life cycle](img/2021-02-18-building-native-tokens-on-cardano-for-pleasure-and-profit.012.png)
+![Vòng đời đa tài sản token](img/2021-02-18-building-native-tokens-on-cardano-for-pleasure-and-profit.012.png)
 
 Hình 3. Các giai đoạn vòng đời của token gốc
 
