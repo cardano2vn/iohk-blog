@@ -19,7 +19,7 @@ Marketing &amp; Communications
 
 ![Những ngày cuối cùng của Giáng sinh](img/2021-01-04-the-final-days-of-christmas.009.jpeg)
 
-These are our final two thoughts about the past, present and future of Cardano in the spirit of an olde English counting song. There's one for each ofÂ [The Twelve Days of Christmas](https://www.classicfm.com/discover-music/occasions/christmas/twelve-12-days-of-christmas-lyrics-meaning/), from December 25 to January 5, published in four batches. You can look back to the [first batch](https://iohk.io/en/blog/posts/2020/12/24/some-thoughts-for-the-next-12-days/), which went out on Christmas Eve.
+Đây là hai suy nghĩ cuối cùng của chúng tôi về quá khứ, hiện tại và tương lai của Cardano theo tinh thần của một bài hát tiếng Anh cổ. Sẽ có một cuốn sách được xuất bản thành bốn đợt cho mỗi [Mười hai ngày Giáng sinh](https://www.classicfm.com/discover-music/occasions/christmas/twelve-12-days-of-christmas-lyrics-meaning/), từ ngày 25 tháng 12 đến ngày 5 tháng 1. Bạn có thể nhìn lại [lô sách đầu tiên](https://iohk.io/en/blog/posts/2020/12/24/some-thoughts-for-the-next-12-days/), đã được bán ra vào đêm Giáng sinh.
 
 ## **Ngày 11. Charles Morgan, trưởng bộ phận an ninh mạng**
 
@@ -31,12 +31,12 @@ Tôi có ba mục thú vị mà tôi đang làm vào lúc này. Đầu tiên l�
 
 ![](img/2021-01-04-the-final-days-of-christmas.010.jpeg)
 
-## **Day 12. Rob Moore, digital deliveries manager**
+## **Ngày 12. Rob Moore, quản lý giao hàng kỹ thuật số**
 
 Việc ra mắt Shelley và bắt đầu phi tập trung cho Cardano là một sự kiện hoành tráng cho dự án. Toàn bộ đội ngũ web đã được nhắc nhở trong trường hợp có bất kỳ điều gì không lường trước được xảy ra, nhưng tất nhiên, tất cả những gì chúng tôi làm là theo dõi quá trình chuyển đổi diễn ra. Tuy nhiên, ngay cả việc đóng vai trò nhỏ đó để giúp Shelley diễn ra là điều mà tôi sẽ không thể quên được.
 
 Gần đây, việc định hình lại nhằm mang đến những công trình sáng tạo có chất lượng đã tốn rất nhiều thời gian của tôi. [Việc ra mắt Mantis](https://iohk.io/en/blog/posts/2020/12/09/the-new-mantis-bringing-security-and-stability-to-the-ethereum-classic-ecosystem-1/) vào tháng 12 của [một khách hàng mới dành cho các nhà lập trình làm việc với Ethereum Classic](https://mantisclient.io/) là một trong những điều sắp xảy ra.
 
-Live music, seeing friends and family, having plans, meeting work colleagues in real life, going abroad. All the things we used to take for granted. These are the things Iâ€™ve been missing and hope to get back to in 2021.
+Nghe nhạc, gặp gỡ bạn bè và gia đình, lên kế hoạch, gặp gỡ đồng nghiệp, đi ra nước ngoài. Tất cả những điều chúng ta đã từng coi là đương nhiên. Đây là những điều tôi đã bỏ lỡ và hy vọng sẽ có thể quay trở lại vào năm 2021.
 
-*That completes our Twelve Days of Christmas. We hope some of them â€“ whether on Daedalus, Japanese poetry, decentralized identity or the thoughts of a dreaming octopus â€“ have struck a chord with you.* *The rendition of [The Twelve Days of Christmas](https://www.classicfm.com/discover-music/occasions/christmas/twelve-12-days-of-christmas-lyrics-meaning/) by the choir of Clare College Cambridge has certainly raised plenty of laughs. Here's to an exciting 2021!*
+*Điều hoàn thành "Mười hai ngày Giáng sinh" của chúng tôi. Chúng tôi hy vọng một số người trong số họ - dù là Daedalus, thơ ca Nhật Bản, phi tập trung danh tính  hay suy nghĩ của một con bạch tuộc đang mơ mộng – sẽ đạt được sự đồng điệu với bạn. * *Phần trình diễn của [Mười hai ngày Giáng sinh](https://www.classicfm.com/discover-music/occasions/christmas/twelve-12-days-of-christmas-lyrics-meaning/) do dàn hợp xướng của Clare College Cambridge thực hiện chắc chắn sẽ gây được nhiều tiếng cười. Chúc bạn một năm 2021 thú vị!Bài này được dịch bởi Lê Nguyên, Review và đăng bài bởi Nguyễn Hiệu. Nguồn bài dịch [tại đây](https://iohk.io/en/blog/posts/2021/01/04/the-final-days-of-christmas) *Dự án này được tài trợ bởi Catalyst**
