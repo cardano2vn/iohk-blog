@@ -17,7 +17,7 @@ Communications
 - ![](img/2021-01-22-our-new-delegation-strategy-announcing-the-pools-we-are-supporting.007.png)[](https://twitter.com/timbharrison "Twitter")
 - ![](img/2021-01-22-our-new-delegation-strategy-announcing-the-pools-we-are-supporting.008.png)[](https://github.com/timbharrison "GitHub")
 
-![Our new delegation strategy – announcing the pools we’re supporting](img/2021-01-22-our-new-delegation-strategy-announcing-the-pools-we-are-supporting.009.jpeg)
+![Chiến lược ủy quyền mới - công bố các pool mà chúng tôi đang hỗ trợ](img/2021-01-22-our-new-delegation-strategy-announcing-the-pools-we-are-supporting.009.jpeg)
 
 The Cardano stake pool community powers the Cardano network; the health and vitality of this critical operator ecosystem is essential to the effective running of the protocol. And as we continue to evolve Cardano’s utility through Goguen, this will become ever more important. Staking with quality pools is the very best way to give back to the Cardano community.
 
