@@ -1,6 +1,6 @@
 # Chiến lược ủy quyền mới - công bố các pool mà chúng tôi đang hỗ trợ
 
-### **We are committed to a vibrant pool ecosystem and we’re supporting that by delegating to 100 community pools**
+### **Chúng tôi cam kết tạo ra một hệ sinh thái các pool sôi động và hỗ trợ điều đó bằng cách ủy quyền cho 100 pool cộng đồng**
 
 ![](img/2021-01-22-our-new-delegation-strategy-announcing-the-pools-we-are-supporting.002.png) 22 tháng 1 năm 2021 ![](img/2021-01-22-our-new-delegation-strategy-announcing-the-pools-we-are-supporting.002.png) [Tim Harrison](tmp//en/blog/authors/tim-harrison/page-1/) ![](img/2021-01-22-our-new-delegation-strategy-announcing-the-pools-we-are-supporting.003.png) 7 phút đọc
 
@@ -19,19 +19,19 @@ Communications
 
 ![Chiến lược ủy quyền mới - công bố các pool mà chúng tôi đang hỗ trợ](img/2021-01-22-our-new-delegation-strategy-announcing-the-pools-we-are-supporting.009.jpeg)
 
-The Cardano stake pool community powers the Cardano network; the health and vitality of this critical operator ecosystem is essential to the effective running of the protocol. And as we continue to evolve Cardano’s utility through Goguen, this will become ever more important. Staking with quality pools is the very best way to give back to the Cardano community.
+Cộng đồng các pool cổ phần cung cấp năng lượng để mạng  Cardano có thể hoạt động; sức khỏe và sức sống của hệ sinh thái nhà điều hành quan trọng này là điều cần thiết để vận hành giao thức hiệu quả. Khi chúng tôi tiếp tục phát triển tiện ích của Cardano thông qua kỷ nguyên Goguen, điều này trở nên quan trọng hơn bao giờ hết. Ủy thác vào các pool chất lượng là cách tốt nhất để đền đáp lại cộng đồng Cardano.
 
-Like any ecosystem, success comes from the balancing of interests, dissemination of power, and the variety and diversity of actors. And like an economy, a balance of commercial influence; bigger players, smaller players offering greater diversity and a healthy core in between.
+Giống như bất kỳ hệ sinh thái nào, thành công đến từ sự cân bằng giữa lợi ích, quyền lực và sự đa dạng phong phú của các tác nhân. Giống như một nền kinh tế, một cán cân ảnh hưởng tới hoạt động thương mại; người có vai trò lớn, người có vai trò nhỏ đều cung cấp sự đa dạng và lành mạnh hơn trong phần cốt lõi.
 
 Nếu coi 'mã là luật' (vậy còn chức năng của cơ quan tư pháp?), thì tất cả chúng ta đều nhận thấy đầu vào, đầu ra, hành vi của con người và động lực xã hội hình thành nên cộng đồng xung quanh và hỗ trợ bất kỳ giao thức blockchain nào.
 
 Vì vậy, là một phần trong cam kết liên tục của chúng tôi đối với sự phát triển lành mạnh của hệ sinh thái, gần đây chúng tôi đã vạch ra [chiến lược mới ](https://iohk.io/en/blog/posts/2020/11/24/delegating-with-fresh-purpose/) để ủy quyền các quỹ ada của IOG. Chúng tôi đưa ra chiến lược ủy quyền này để hỗ trợ tầm nhìn dài hạn cho sự phát triển của Cardano, đồng thời khẳng định lại các giá trị mà chúng tôi muốn hướng đến. Tất cả đều phù hợp với việc tuân theo một lộ trình hợp lý về mặt tài chính để có thể duy trì tính thương mại đối với tổ chức.
 
-### **A positive response**
+### **Phản hồi tích cực**
 
-We put out the call for delegation in December. Our community responded very positively, and by the time we closed for entries just before the Christmas break, we had received just under 300 (299 in fact) applications for delegation. We have since retired all but one of our public pools – their creation was always an entirely tactical activity – and we’re now shifting toward our longer term strategic intent.
+Chúng tôi đã đưa ra lời kêu gọi ủy quyền vào tháng 12. Cộng đồng của chúng tôi đã phản hồi rất tích cực và vào thời điểm ngay trước kỳ nghỉ lễ Giáng sinh, chúng tôi đã nhận được dưới 300 (thực tế là 299) đơn xin ủy quyền. Kể từ đó, chúng tôi đã loại bỏ tất cả trừ một pool chung của chúng tôi - việc tạo ra chúng luôn là hoạt động có tính chiến lược - và chúng tôi hiện đang chuyển hướng sang mục tiêu chiến lược lâu dài hơn.
 
-### **The process**
+### **Diễn biến**
 
 Trong hai tuần qua, chúng tôi đã xem xét tất cả các mục trong việc kêu gọi ủy quyền. Quá trình này tương đối phức tạp. Chúng tôi đã cố gắng xác định thực trạng của các pool theo một số yếu tố, tất cả đều quan trọng dựa trên giá trị của chúng. Nhìn một cách tổng thể, những yếu tố này cung cấp một bản đồ vô giá về môi trường SPO. Trong số các yếu tố chính (trong đó chứa cả các biến số) mà chúng tôi đã tính đến là:
 
@@ -61,7 +61,7 @@ Chính sự phong phú đó đã thực sự truyền cảm hứng - SPO ở hà
 
 ![](img/2021-01-22-our-new-delegation-strategy-announcing-the-pools-we-are-supporting.010.png)
 
-Congratulations to our very first 100-strong pool cohort. We’ll start delegating to our selected pools from the end of January/early February (based on operational considerations), staking IOG funds of 3.2M ada per pool to support block production. Each quarter through 2021, we shall recruit a fresh cohort and update this list accordingly.
+Xin chúc mừng 100 pool thành viên trong nhóm các pool đầu tiên của chúng tôi. Chúng tôi sẽ bắt đầu ủy quyền cho các pool đã chọn từ cuối tháng 1/đầu tháng 2 (dựa trên các cân nhắc về hoạt động), IOG uỷ thác 3,2 triệu ada cho mỗi pool để hỗ trợ sản xuất block. Cứ mỗi quý trong năm 2021, chúng tôi sẽ lựa chọn một pool mới và cập nhật danh sách này cho phù hợp.
 
 Chúng tôi muốn làm cho cách tiếp cận trở nên rõ ràng nhất có thể. Chúng tôi đã tạo một danh sách Twitter dành riêng để bạn tiện theo dõi. Khi chưa có hướng dẫn chính thức, chúng tôi xem những sự  ủy quyền này chỉ là sự khởi đầu; các pool nên tiếp tục làm những gì họ đang làm trong cộng đồng và tìm cách tự phát triển theo cách của họ, trong khi đó, chúng tôi vẫn ủy quyền cho họ.
 
@@ -71,10 +71,10 @@ Chúng tôi muốn làm cho cách tiếp cận trở nên rõ ràng nhất có t
 
 Nếu bạn không được chọn lần này, thì hãy cứ vui. Chúng tôi có nhiều pool hơn số lượng có thể ủy quyền vào thời điểm này. Chúng tôi khuyến khích những pool nào đã bỏ lỡ đăng ký thì hãy đăng ký lại ở nhóm mới trong Quý 2; chúng tôi sẽ gọi điện thoại để liên lạc với các đăng ký vào cuối tháng 3 và luân chuyển ủy quyền vào cuối tháng 4.
 
-*Every* pool will need to reapply. However, we shall simplify the process for pools that missed out this time. It is also important to note that as the ecosystem grows, we are seeing some strong community contributors emerge who did ***not*** apply for delegation. We also welcome community feedback on how we can continue to grow and evolve the process.
+*Mỗi* pool sẽ cần phải đăng ký lại. Chúng tôi sẽ hỗ trợ bằng cách đơn giản hóa quy trình đăng ký. Cũng cần lưu ý rằng khi hệ sinh thái phát triển, chúng tôi thấy sự xuất hiện của một số cộng tác viên tích cực nhưng ***không*** đăng ký ủy quyền. Chúng tôi cũng hoan nghênh phản hồi của cộng đồng về cách chúng tôi đang làm để phát triển quy trình.
 
 Vui lòng kiểm tra chương trình và nếu bạn muốn một số hỗ trợ cho việc khởi động pool (hoặc cung cấp 'bảo mật cho block' trong khi bạn triển khai việc ủy quyền trong pool của bạn theo cách miễn phí) thì đừng bỏ lỡ lần tiếp theo.
 
 Chúng tôi rất vui khi thấy nhiều pool ngày càng lớn mạnh. Mặt khác, chúng tôi cũng luôn lắng nghe khi một pool nhỏ hơn nói rằng họ đang ngừng hoạt động. Cùng với chương trình này, sự lựa chọn của bạn với tư cách là người ủy quyền là chìa khóa để hỗ trợ hệ sinh thái trở nên phong phú. Bởi vì ở đó có sự phát triển và có cộng đồng mà tất cả chúng ta mong muốn. Đây là những gì chúng ta làm. Là cộng đồng tiền mã hóa hàng đầu, đó là điều mà tất cả chúng ta nên tự hào.
 
-IOG is committed to seeing the Cardano ecosystem grow and flourish. We will continue to play our part. And remember, as a community, we all have our parts to play.
+IOG cam kết về hệ sinh thái Cardano phát triển và hưng thịnh. Chúng tôi sẽ tiếp tục làm phần việc của mình. Và hãy nhớ rằng, là thành viên trong một cộng đồng, tất cả chúng ta đều cần tham gia vào công việc chung.<br><br>Bài này được dịch bởi Max Long, Review bởi Quang Pham , biên tập bởi .... Bài viết nguồn [tại đây](https://iohk.io/en/blog/posts/2021/01/22/our-new-delegation-strategy-announcing-the-pools-we-are-supporting/)*Dự án này được tài trợ bởi Catalyst*
