@@ -15,7 +15,7 @@ Marketing &amp; Communications
 - ![](img/2021-08-18-djed-implementing-algorithmic-stablecoins-for-proven-price-stability.005.png)[](https://www.linkedin.com/in/olga-hryniuk-1094a3160/ "LinkedIn")
 - ![](img/2021-08-18-djed-implementing-algorithmic-stablecoins-for-proven-price-stability.006.png)[](https://github.com/olgahryniuk "GitHub")
 
-![Djed: implementing algorithmic stablecoins for proven price stability](img/2021-08-18-djed-implementing-algorithmic-stablecoins-for-proven-price-stability.007.png)
+![ Djed: Stablecoin thuật toán đã được xác minh chính thức](img/2021-08-18-djed-implementing-algorithmic-stablecoins-for-proven-price-stability.007.png)
 
 Sự biến động của tiền mã hóa là một trong những trở ngại khi mở rộng khả năng áp dụng của nó. Công nghệ blockchain cung cấp các ưu điểm như tính minh bạch và bất biến của dữ liệu cũng như tính bảo mật đã được chứng minh cho các hoạt động tài chính. Tuy nhiên, việc dự đoán thị trường sẽ hoạt động như thế nào hoặc dự báo giá trị của một loại tiền mã hóa còn khó hơn so với các loại tiền pháp định. Điều này cản trở việc sử dụng tiền mã hóa làm đơn vị thanh toán và trao đổi trong các hoạt động hàng ngày.
 
