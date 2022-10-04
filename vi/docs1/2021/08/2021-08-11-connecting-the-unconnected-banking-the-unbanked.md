@@ -15,7 +15,7 @@ Guest author
 - ![](img/2021-08-11-connecting-the-unconnected-banking-the-unbanked.005.png)[](https://www.linkedin.com/in/alex-hamilton-55b4b6108/ "LinkedIn")
 - ![](img/2021-08-11-connecting-the-unconnected-banking-the-unbanked.006.png)[](https://twitter.com/Immortalxplorer "Twitter")
 
-![Connecting the unconnected, banking the unbanked](img/2021-08-11-connecting-the-unconnected-banking-the-unbanked.007.png)
+![Kết nối mọi người không có ngân hàng](img/2021-08-11-connecting-the-unconnected-banking-the-unbanked.007.png)
 
 Kể từ khi bùng nổ dịch vụ trả trước vào cuối những năm 1990, việc sử dụng điện thoại di động đã tăng mạnh. Tuy nhiên, một nửa dân số thế giới vẫn chưa kết nối được với nhau. Khoảng gần bốn tỷ người đang sống ở các vùng khó khăn, vùng sâu vùng xa.
 
