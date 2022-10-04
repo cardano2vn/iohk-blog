@@ -16,7 +16,7 @@ Engineering
 - ![](img/2021-09-17-hydra-cardano-s-solution-for-ultimate-scalability.006.png)[](https://www.linkedin.com/in/sebastian-nagel-2bb43a1a/ "LinkedIn")
 - ![](img/2021-09-17-hydra-cardano-s-solution-for-ultimate-scalability.007.png)[](https://github.com/ch1bo "GitHub")
 
-![Hydra – Cardano’s solution for ultimate Layer 2 scalability](img/2021-09-17-hydra-cardano-s-solution-for-ultimate-scalability.008.jpeg)
+![Hydra - Giải pháp Layer 2 để Cardano tối ưu khả năng mở rộng](img/2021-09-17-hydra-cardano-s-solution-for-ultimate-scalability.008.jpeg)
 
 The Alonzo upgrade enables the creation of smart contracts, decentralized applications (DApps), and other applications on top of Cardano.
 
