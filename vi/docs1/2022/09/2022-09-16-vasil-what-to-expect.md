@@ -2,7 +2,7 @@
 
 ### **Cùng tìm hiểu bản cập nhật Vasil lần này mang lại cho Cardano điều gì: gia tăng các chức năng, nâng cao hiệu suất &amp; khả năng mở rộng mạng lưới.**
 
-![](img/2022-09-16-vasil-what-to-expect.002.png) 16 September 2022![](img/2022-09-16-vasil-what-to-expect.002.png)[ Tim Harrison](/en/blog/authors/tim-harrison/page-1/)![](img/2022-09-16-vasil-what-to-expect.003.png) 11 mins read
+![](img/2022-09-16-vasil-what-to-expect.002.png)16 tháng 9 năm 2022![](img/2022-09-16-vasil-what-to-expect.002.png) [Tim Harrison](/en/blog/authors/tim-harrison/page-1/)![](img/2022-09-16-vasil-what-to-expect.003.png) 11 phút đọc
 
 ![Tim Harrison](img/2022-09-16-vasil-what-to-expect.004.png)[](/en/blog/authors/tim-harrison/page-1/)
 
@@ -10,20 +10,20 @@
 
 VP of Community &amp; Ecosystem
 
-Communications
+Thông tin liên lạc
 
-- ![](img/2022-09-16-vasil-what-to-expect.005.png)[](mailto:tim.harrison@iohk.io "Email")
+- ![](img/2022-09-16-vasil-what-to-expect.005.png)[](mailto:tim.harrison@iohk.io "E-mail")
 - ![](img/2022-09-16-vasil-what-to-expect.006.png)[](https://uk.linkedin.com/in/timbharrison "LinkedIn")
 - ![](img/2022-09-16-vasil-what-to-expect.007.png)[](https://twitter.com/timbharrison "Twitter")
 - ![](img/2022-09-16-vasil-what-to-expect.008.png)[](https://github.com/timbharrison "GitHub")
 
-![Vasil: what to expect](img/2022-09-16-vasil-what-to-expect.009.png)
+![Vasil: điều gì sẽ xảy ra](img/2022-09-16-vasil-what-to-expect.009.png)
 
 Hiện tại, chưa đến một tuần nữa là chúng ta sẽ triển khai bản nâng cấp Vasil, bản nâng cấp này sẽ cải thiện và nâng cao đáng kể khả năng của Cardano. Các tính năng và cải tiến mới của chương trình Plutus phiên bản thứ 2 sẽ cho phép các nhà phát triển DApp tạo ra những trải nghiệm mới lạ và thú vị, trong khi đó phát tán đồng thời mở ra tiềm năng về thông lượng và dung lượng mạng lớn hơn.
 
 Các bản chuẩn bị cho cập nhật Vasil đã được tiến hành trong một thời gian trên toàn bộ hệ sinh thái Cardano. Các nhóm kỹ sư nòng cốt tại IOG và Cardano Foundation, SPO, nhà phát triển DApp và các sàn giao dịch đã thực hiện những nỗ lực tích hợp và thử nghiệm chuyên sâu thu được kết quả khả quan. Một nhóm IOG / Cardano Foundation sẽ sử dụng bộ [tổ hợp hard fork](https://iohk.io/en/blog/posts/2020/05/07/combinator-makes-easy-work-of-shelley-hard-fork/) để triển khai bản cập nhật Vasil ở cấp độ giao thức vào ngày 22 tháng 9. Các khả năng mới (bao gồm hỗ trợ node và CLI cho tham chiếu đầu vào, dữ liệu nội tuyến, tập lệnh tham chiếu và đầu ra tài sản đảm bảo), cùng với mô hình chi phí Plutus mới, sẽ kích hoạt cho các nhà phát triển sử dụng trên mạng chính - mainnet đúng sau một epoch, vào ngày 27 tháng 9.
 
-## **Security, correctness &amp; expressiveness**
+## **Tính bảo mật, tính đúng đắn và tính biểu cảm**
 
 Đây là một hành trình vừa bài bản vừa thú vị. Sự phát triển của Cardano được triển khai theo các giai đoạn đã được xác định ('kỷ nguyên'). Đầu tiên, nền tảng về tính bảo mật và tính đúng đắn. Tiếp theo là khả năng mở rộng quy mô và tính biểu đạt. Kỷ nguyên liên kết của Byron và quá trình khởi động lại Byron - xây dựng lại nền tảng cốt lõi - đã kết thúc với việc [nâng cấp kỷ nguyên Shelley](https://www.coindesk.com/tech/2020/07/30/cardano-introduces-proof-of-stake-with-shelley-hard-fork/) vào mùa hè năm 2020. Kỷ nguyên Shelley đã biến Cardano thành nền tảng PoS - bằng chứng cổ phần phi tập trung nhất trên thế giới, với gần như 3.000 pool đang hoạt động.
 
@@ -31,7 +31,7 @@ Bản nâng cấp Mary năm 2021 đã giới thiệu NFT và khả năng hỗ tr
 
 Bản [nâng cấp Alonzo](https://iohk.io/en/blog/posts/2021/09/12/today-will-feel-like-a-destination-yet-a-new-exciting-journey-begins/) vào mùa thu năm 2021 đã triển khai khả năng hợp đồng thông minh bằng cách sử dụng ngôn ngữ lập trình Plutus, thiết lập một hệ sinh thái hiện có hơn 1.000 dự án đang [phát triển trên hệ sinh thái Cardano](https://www.linkedin.com/posts/timbharrison_defi-community-blockchain-activity-6975452581288366081-4t44?utm_source=share&utm_medium=member_desktop) .
 
-## **Plutus script enhancements**
+## **Cải tiến tập lệnh Plutus**
 
 Bản cập nhật Vasil nâng cao khả năng về hợp đồng thông minh của Cardano thông qua ngôn ngữ lập trình Plutus v2 phiên bản thứ 2, giúp tăng thêm hiệu quả cho nền tảng hợp đồng thông minh vốn đã mạnh mẽ. Cập nhật Vasil thúc đẩy [mô hình EUTXO](https://www.essentialcardano.io/article/the-eutxo-handbook) cho phép các DApp xử lý nhanh hơn và tinh vi hơn.
 
@@ -69,13 +69,13 @@ Cuối cùng, khuếch tán đồng thời sẽ cải thiện khả năng mở r
 
 ## **Xóa thông số "d"**
 
-It is also worth noting that while block production has been fully decentralized since March 31st, 2021, the Vasil upgrade will remove the d parameter entirely, thus cementing decentralization in perpetuity and preventing any future re-federation.
+Cũng cần lưu ý rằng trong khi sản xuất khối đã được phân cấp hoàn toàn kể từ ngày 31 tháng 3 năm 2021, bản nâng cấp của Vasil sẽ loại bỏ hoàn toàn tham số d, do đó củng cố sự phân cấp vĩnh viễn và ngăn chặn bất kỳ sự liên kết lại nào trong tương lai.
 
-## **Optimized Security**
+## **Bảo mật được tối ưu hóa**
 
 Cuối cùng, Vasil tối ưu hóa quy trình Chức năng có thể xác minh ngẫu nhiên (VRF) của Ouroboros. Trước Vasil, việc xác thực khối yêu cầu hai chức năng VRF trong mỗi bước chuyển mạng. Vasil bỏ một trong những chức năng này, điều này dẫn đến việc xác nhận khối và thời gian đồng bộ hóa mạng lưới nhanh hơn. Người dùng sẽ trải nghiệm hiệu suất cao hơn mà không ảnh hưởng đến cài đặt bảo mật.
 
-## **A summer of testing**
+## **Một mùa hè thử nghiệm**
 
 Vasil represents a complex body of work, from several perspectives. First off in terms of core engineering scope, this is the most extensive upgrade the IOG team has attempted to date, touching every layer of the network stack. As a result, every downstream component (including DB-sync, the wallet backend, Rosetta etc.) has required updating and full regression testing.
 
@@ -86,7 +86,7 @@ Với suy nghĩ này, IOG và Cardano Foundation, mới đây đã đồng ý v�
 Đây là những thông tin:
 
 1. 75% khối mainnet được tạo bởi node ứng cử Vasil mới nhất (1.35.3)
-2. Approximately 25 exchanges upgraded (representing c.80% of ada liquidity)
+2. Khoảng 25 sàn giao dịch được nâng cấp (chiếm 80% tính thanh khoản của ada)
 3. 10 DApp hàng đầu của TVL xác nhận rằng họ đã nâng cấp lên bản 1.35.3 trên PreProduction và đã sẵn sàng cho mainnet.
 
 Tracking against [these metrics](https://iohk.zendesk.com/hc/en-us/articles/7981157534105-Ecosystem-readiness-for-Vasil-upgrade) has been ongoing. The SPO community was the first to â€˜tick the boxâ€™; 98% of blocks are now being minted by the new 1.35.3 node, significantly exceeding the minimum threshold set. At the time of writing, exchange liquidity is close to 60% t, and with many of the leading exchanges confirmed ready or in the process of upgrading, the team is fully confident in this regard. IOG has been working closely with a number of leading DApp projects to track their readiness and again, the numbers are looking good. A recent poll among the technical community confirmed readiness for 22nd September hence the date for the mainnet upgrade has been agreed.
@@ -105,7 +105,7 @@ Bản cập nhật Vasil lần này đúng vào tháng kỷ niệm sinh nhật l
 
 Tại thời điểm viết bài, tính thanh khoản của các sàn giao dịch đạt gần 60%. Trong khi nhóm trao đổi của Cardano Foundation IOG dự đoán con số này sẽ gần đạt đến ngưỡng 80% vào thời điểm nâng cấp, người nắm giữ ada trên các sàn giao dịch có thể bị gián đoạn dịch vụ nếu sàn giao dịch đã chọn của họ chưa cập nhật hệ thống tại thời điểm nâng cấp mạng lưới. Nếu tính thanh khoản cá nhân quan trọng đối với bạn, IOG khuyên bạn nên [theo dõi các sàn giao dịch](https://iohk.zendesk.com/hc/en-us/articles/7981157534105-Third-party-readiness-for-Vasil-upgrade) đã nâng cấp hoặc tham khảo các trang hỗ trợ khách hàng của sàn giao dịch.
 
-## **Underlying significance**
+## **Ý nghĩa cơ bản**
 
 Việc nâng cấp này được đặt tên để vinh danh đại sứ Cardano, [ngài Vasil St. Dabov](https://www.youtube.com/watch?v=OFKrVcEg0Jc) , người đã qua đời một cách đáng tiếc vào năm 2021. Vasil là một nhà toán học, lập trình viên, học giả và nhà bảo tồn người Bulgaria, người đã trồng hơn 10.000 cây trong cuộc đời của mình và tổ chức lễ kỷ niệm 2 năm thành lập Cardano tại thành phố quê hương Plovdiv vào năm 2019.
 
