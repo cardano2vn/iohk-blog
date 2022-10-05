@@ -17,7 +17,7 @@ Tiếp thị &amp; Truyền thông
 - ![](img/2021-09-26-coti-to-issue-djed-stablecoin-on-cardano.007.png)[](https://www.linkedin.com/in/tony-quinn-frsa-0b093229 "LinkedIn")
 - ![](img/2021-09-26-coti-to-issue-djed-stablecoin-on-cardano.008.png)[](https://twitter.com/IohkT "Twitter")
 
-![COTI to issue Djed stablecoin on Cardano](img/2021-09-26-coti-to-issue-djed-stablecoin-on-cardano.009.png)
+![COTI phát hành stablecoin Djed trên Cardano](img/2021-09-26-coti-to-issue-djed-stablecoin-on-cardano.009.png)
 
 Tại sân khấu Hội nghị thượng đỉnh Cardano ở quận Laramie, bang Wyoming, hôm Chủ nhật, Charles Hoskinson và Shahaf Bar-Geffen đã thông báo rằng nền tảng COTI sẽ chính thức phát hành Djed, một stablecoin mới cho Cardano.
 
