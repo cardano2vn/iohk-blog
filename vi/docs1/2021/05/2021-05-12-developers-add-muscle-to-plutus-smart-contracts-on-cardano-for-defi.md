@@ -17,7 +17,7 @@ Marketing &amp; Communications
 - ![](img/2021-05-12-developers-add-muscle-to-plutus-smart-contracts-on-cardano-for-defi.007.png)[](https://www.linkedin.com/in/tony-quinn-frsa-0b093229 "LinkedIn")
 - ![](img/2021-05-12-developers-add-muscle-to-plutus-smart-contracts-on-cardano-for-defi.008.png)[](https://twitter.com/IohkT "Twitter")
 
-![Strategic partners pave way for Plutus smart contracts ](img/2021-05-12-developers-add-muscle-to-plutus-smart-contracts-on-cardano-for-defi.009.jpeg)
+![Đối tác chiến lược mở đường cho hợp đồng thông minh Plutus](img/2021-05-12-developers-add-muscle-to-plutus-smart-contracts-on-cardano-for-defi.009.jpeg)
 
 Cơ sở hạ tầng kỹ thuật đang được thiết lập cho hợp đồng thông minh Plutus trên Cardano. Nhưng cơ sở hạ tầng như vậy cho tài chính phi tập trung (DeFi) giống như một con đường không có ô tô nếu không có các nhà phát triển viết các hợp đồng để thúc đẩy việc áp dụng và sử dụng nền tảng.
 
@@ -58,4 +58,4 @@ Sẽ là một mùa hè thú vị đối với tất cả mọi người trong c
 
 *Weâ€™re in the final stages of preparing the first Alonzo testnet, aiming for the end of the month. Keep an eye on our social channels this week for an update. You can try out the [Plutus Playground](https://playground.plutus.iohkdev.io/) for yourself, and join [Plutus discussions](https://forum.cardano.org/c/developers/cardano-plutus/148) at the Cardano Forum. There is also a [Plutus GitHub](https://github.com/input-output-hk/plutus) repository. You can [register your interest](https://input-output.typeform.com/to/gQ0t9ep5) and join our [Slack community](https://iohkdevcommunity.slack.com/join/shared_invite/zt-mdvb06fr-8Tv8pjl~iR0~lGrimqK_yg#/shared-invite/email).*
 
-![Timeline: A brief history of Plutus on Cardano](img/2021-05-12-developers-add-muscle-to-plutus-smart-contracts-on-cardano-for-defi.010.png)
+![Dòng thời gian: Sơ lược về lịch sử Plutus trên Cardano](img/2021-05-12-developers-add-muscle-to-plutus-smart-contracts-on-cardano-for-defi.010.png)
