@@ -15,7 +15,7 @@ Marketing &amp; Communications
 - ![](img/2021-01-25-introducing-the-new-plutus-playground.005.png)[](https://www.linkedin.com/in/olga-hryniuk-1094a3160/ "LinkedIn")
 - ![](img/2021-01-25-introducing-the-new-plutus-playground.006.png)[](https://github.com/olgahryniuk "GitHub")
 
-![Introducing the new Plutus Playground ](img/2021-01-25-introducing-the-new-plutus-playground.007.jpeg)
+![Giới thiệu sân chơi Plutus mới](img/2021-01-25-introducing-the-new-plutus-playground.007.jpeg)
 
 Goguen đang được Cardano tập trung phát triển vào tiện ích, hỗ trợ hợp đồng thông minh và phát hành token gốc. Trong khi cung cấp nó như một hệ thống các thành phần tương tác, chúng tôi đang dần thêm tất cả các khối xây dựng để thêm hợp đồng thông minh vào nền tảng Cardano.
 
@@ -44,7 +44,7 @@ Vì vậy, giờ là lúc để các nhà phát triển bắt đầu xây dựng
 
 Các cải tiến đã được thực hiện đối với phần mềm phụ trợ, các vấn đề được báo cáo đã được giải quyết và giao diện thậm chí còn tốt hơn.
 
-![Plutus Playground UI](img/2021-01-25-introducing-the-new-plutus-playground.008.png)
+![Giao diện lập trình sân chơi Plutus](img/2021-01-25-introducing-the-new-plutus-playground.008.png)
 
 Hình 1. Trình chỉnh sửa sân chơi Plutus cũ (trái) so với giao diện mới (phải)
 
