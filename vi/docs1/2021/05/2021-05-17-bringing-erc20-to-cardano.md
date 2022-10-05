@@ -44,7 +44,7 @@ Tiêu chuẩn ERC20 được phát minh cho Ethereum. Tính đến hôm nay, có
 
 Ethereum là một nền tảng Blockchain phổ biến và có nhiều chức năng. Nhưng nó vẫn còn chậm và phí giao dịch cao. Khi nhiều người tham gia mạng lưới tương tác với các ứng dụng phi tập trung hơn, phí 'Gas' trả cho việc xác thực các giao dịch đang tăng mạnh (Hình 1).
 
-![Ethereum gas fees ](img/2021-05-17-bringing-erc20-to-cardano.008.jpeg)
+![Phí Gas trên Ethereum](img/2021-05-17-bringing-erc20-to-cardano.008.jpeg)
 
 Hình 1. Phí Gas trên Ethereum đang tăng
 
@@ -76,7 +76,7 @@ Có thể xác thực tài khoản bằng Metamask (một tiện ích mở rộn
 
 Khi người dùng đăng nhập vào tài khoản chuyển đổi ERC20, họ sẽ thấy các Token SingularityNET được liệt kê và có sẵn để di chuyển. Bằng cách nhấp vào Token - họ sẽ thấy các chi tiết như số dư Token. Họ sẽ chỉ cần chọn Token, cho biết số tiền họ muốn chuyển đổi, sau đó di chuyển chúng bằng cách xác định địa chỉ Cardano. Khi Token di chuyển đến địa chỉ, có thể sử dụng chúng để thanh toán và giao dịch từ ví Daedalus. Tất cả các hoạt động sẽ được hiển thị trong cả Etherscan và Cardano Explorer.
 
-![ERC20 converter dashboard](img/2021-05-17-bringing-erc20-to-cardano.009.png)
+![Giao diện bộ chuyển đổi ERC20](img/2021-05-17-bringing-erc20-to-cardano.009.png)
 
 Hình 2. Giao diện bộ chuyển đổi ERC20
 
