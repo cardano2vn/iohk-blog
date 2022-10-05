@@ -16,7 +16,7 @@ Engineering
 - ![](img/2021-05-14-announcing-new-stake-pools-chosen-for-our-delegation-strategy.006.png)[](https://www.linkedin.com/in/christian-lindgren-b919962b "LinkedIn")
 - ![](img/2021-05-14-announcing-new-stake-pools-chosen-for-our-delegation-strategy.007.png)[](https://github.com/Craphtex "GitHub")
 
-![Announcing new stake pools chosen for our delegation strategy](img/2021-05-14-announcing-new-stake-pools-chosen-for-our-delegation-strategy.008.jpeg)
+![Công bố các Pool mới được chọn cho chiến lược ủy thác](img/2021-05-14-announcing-new-stake-pools-chosen-for-our-delegation-strategy.008.jpeg)
 
 Cardano tiếp tục phát triển, được hỗ trợ bởi cộng đồng nhà điều hành Pool cổ phần (SPO) làm việc hướng tới tầm nhìn về một hệ sinh thái độc lập và phi tập trung trên toàn cầu. Các Pool luôn là động lực của mạng lưới Cardano và chúng tôi đã đưa ra chiến lược ủy thác để tìm ra và thúc đẩy các Pool tiềm năng.
 
@@ -83,7 +83,7 @@ Do các thuộc tính bảo mật của giao thức Ouroboros, quá trình lựa
 
 Đây là danh sách 100 Pool được chọn cho vòng ủy quyền mới của chúng tôi. Nếu bạn muốn tìm hiểu thêm về các Pool này và sứ mệnh của họ, bạn có thể dễ dàng thực hiện việc này tại [adafolio.com](https://adafolio.com/portfolio/c5df0868-b4cf-11eb-8c63-0242c0a86003) hoặc [adapools.org](https://adapools.org/delegations/input-output) .
 
-![delegation winners](img/2021-05-14-announcing-new-stake-pools-chosen-for-our-delegation-strategy.009.png)
+![Những Pool chiến thắng](img/2021-05-14-announcing-new-stake-pools-chosen-for-our-delegation-strategy.009.png)
 
 Chúng tôi dự kiến thực hiện ủy quyền cho các Pool này vào cuối tháng 5 / đầu tháng 6, vì vậy các SPO có thể mong đợi nhận được ADA  đó trong khoảng thời gian ba tháng.
 
