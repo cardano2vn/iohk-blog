@@ -8,9 +8,9 @@
 
 ### [**Lars Brünjes**](tmp//en/blog/authors/lars-brunjes/page-1/)
 
-Education Director
+Giám đốc đào tạo
 
-Education
+Đào tạo
 
 - ![](img/2021-04-13-plutus-what-you-need-to-know.005.png)[](mailto:lars.bruenjes@iohk.io "Email")
 - ![](img/2021-04-13-plutus-what-you-need-to-know.006.png)[](https://www.linkedin.com/in/dr-lars-br%C3%BCnjes-1640993b "LinkedIn")
@@ -27,20 +27,20 @@ Nền tảng Plutus cung cấp ngôn ngữ hợp đồng thông minh gốc cho C
 - *Plutus Core* - phần 'trên chuỗi' của Plutus.
 - *Khung ứng dụng Plutus (PAF - Plutus Application Framework )* - một phần 'ngoài chuỗi' của Plutus cho phép tương tác với hợp đồng thông minh.
 
-Plutus contracts consist of parts that run on the blockchain (on-chain code) and parts that run on a user’s machine (off-chain or client code). Both the on-chain and off-chain code are written in Haskell, and Plutus smart contracts are effectively Haskell programs. Off-chain code can be written using PAF and this code is then compiled by the GHC (Glasgow Haskell Compiler), whereas on-chain code (written using the Plutus Core) is compiled by the Plutus compiler.
+Hợp đồng Plutus bao gồm các phần chạy trên Blockchain (mã Code trên chuỗi) và các phần chạy trên máy của người dùng (mã Code ngoài chuỗi hoặc của ứng dụng người dùng). Cả mã Code trên chuỗi và ngoài chuỗi đều được viết bằng Haskell. Hợp đồng thông minh Plutus là các chương trình Haskell hiệu quả. Mã Code ngoài chuỗi có thể được viết bằng PAF. Sau đó mã Code này được biên dịch bởi Trình biên dịch Glasgow Haskell (GHC - Glasgow Haskell Compiler). Trong khi mã Code trên chuỗi (được viết bằng Plutus Core) được biên dịch bởi trình biên dịch Plutus.
 
-It is crucial to understand the relationship between these Plutus concepts and native tokens functionality to see how their interaction turns the latter into a more useful and powerful feature.
+Điều quan trọng là phải hiểu mối quan hệ giữa các khái niệm Plutus và chức năng của Token gốc và xem cách tương tác của chúng để trở thành một tính năng hữu ích và mạnh mẽ hơn.
 
 ## **Mô hình UTXO mở rộng**
 
-Cardano (like Bitcoin) uses the unspent (U) transaction (TX) output (O) accounting model. In the UTXO model, a *transaction* has *inputs* and *outputs*, where the **inputs** are unspent outputs from previous transactions. As soon as an output is used as input in a transaction, it becomes *spent* and can never be used again. The **output** is specified by an *address* (a public key or public key hash) and a *value* (consisting of an ada amount and optional, additional native token amounts). An output’s address determines which transactions are allowed to ‘unlock’ the output and use it as an input. A transaction must be *signed* by the owner of the private key corresponding to the address. Think of an address as a ‘lock’ that can only be ‘unlocked’ by the right ‘key’ ‒ the correct signature.
+Cardano (giống như Bitcoin) sử dụng mô hình kế toán đầu ra giao dịch chưa chi tiêu (UTXO). Trong mô hình UTXO, một *giao dịch* có *đầu vào* và *đầu ra*. Trong đó **đầu vào** là đầu ra chưa sử dụng từ các giao dịch trước đó. Ngay sau khi một đầu ra được sử dụng làm đầu vào trong một giao dịch, nó sẽ được *tiêu* và không bao giờ có thể được sử dụng lại. **Đầu ra** được chỉ định bởi một *địa chỉ* (khóa công khai hoặc Hash khóa công khai) và một *giá trị* (bao gồm số lượng ADA và số lượng Token gốc tuỳ chọn bổ sung). Địa chỉ của đầu ra xác định giao dịch nào được phép 'mở khóa' đầu ra và sử dụng nó làm đầu vào. Một giao dịch phải được *ký* bởi chủ sở hữu của khóa cá nhân tương ứng với địa chỉ. Hãy coi một địa chỉ như một 'ổ khóa' chỉ có thể được 'mở khóa' bằng đúng 'chìa khóa' - chữ ký chính xác.
 
 Mô hình EUTXO *mở rộng* mô hình này theo hai hướng:
 
 1. Nó khái quát khái niệm 'địa chỉ' bằng cách sử dụng phép tương tự khóa và chìa khóa. Thay vì giới hạn khóa đối với khóa công khai và khóa đối với chữ ký, các địa chỉ trong mô hình EUTXO có thể chứa Logic tùy ý dưới dạng *tập lệnh*. Ví dụ như khi một node xác thực một giao dịch, node đó sẽ xác định xem giao dịch đó có được phép sử dụng một đầu ra nhất định làm đầu vào hay không. Giao dịch sẽ tra cứu tập lệnh được cung cấp bởi địa chỉ của đầu ra và sẽ thực thi tập lệnh nếu giao dịch có thể sử dụng đầu ra làm đầu vào.
 2. Sự khác biệt thứ hai giữa UTXO và EUTXO là đầu ra có thể mang (hầu như) dữ liệu tùy ý ngoài một địa chỉ và giá trị. Điều này làm cho các tập lệnh trở nên mạnh mẽ hơn nhiều bằng cách cho phép chúng mang *trạng thái*.
 
-When validating an address, the script will access the data being carried by the output, the transaction being validated, and some additional pieces of data called *redeemers*, which the transaction provides for every input. By looking up all this information, the script has enough context to give a ‘yes’ or ‘no’ answer in what can be highly complex situations and use cases.
+Khi xác thực một địa chỉ, tập lệnh sẽ truy cập dữ liệu đang được mang theo bởi đầu ra, giao dịch đang được xác thực và một số phần dữ liệu bổ sung được gọi là *Redeemer* mà giao dịch cung cấp cho mọi đầu vào. Bằng cách tra cứu tất cả thông tin này, tập lệnh có đủ ngữ cảnh (Context) để đưa ra câu trả lời 'có' hoặc 'không' trong những trường hợp có thể là những tình huống và trường hợp sử dụng rất phức tạp.
 
 Tóm lại, EUTXO mở rộng mô hình UTXO bằng cách cho phép các địa chỉ đầu ra chứa Logic phức tạp để quyết định giao dịch nào có thể mở khóa chúng và bằng cách thêm dữ liệu *tùy chỉnh* vào *tất cả* đầu ra.
 
@@ -74,14 +74,14 @@ PAF cung cấp khả năng truy cập dễ dàng vào các dịch vụ thường
 
 ## **Token gốc**
 
-*Native tokens* became available on Cardano with February’s *Mary* hard fork. Any user can create their own tokens, and tokens can be sent and received freely, just like ada. Each native token comes with its own [*minting policy*](https://docs.cardano.org/en/latest/native-tokens/learn-about-native-tokens.html#minting-policy), which determines the conditions under which tokens can be minted and burnt.
+Các *Token gốc* đã có sẵn trên Cardano với Hardfork *Mary* vào tháng hai. Bất kỳ người dùng nào cũng có thể tạo Token của riêng họ. Token có thể được gửi và nhận một cách tự do giống như ADA. Mỗi Token gốc đi kèm với [*chính sách đúc tiền*](https://docs.cardano.org/en/latest/native-tokens/learn-about-native-tokens.html#minting-policy) riêng, xác định các điều kiện mà Token có thể được đúc và đốt.
 
 Hiện tại, chính sách đúc tiền bao gồm sự kết hợp của các quy tắc đơn giản xác định *chữ ký* và *thời gian*. Ví dụ: một chính sách có thể nêu rõ rằng chỉ các giao dịch được ký bởi hai trong số năm chữ ký mới có thể được phép đúc hoặc đốt Token. Một chính sách khác có thể chỉ cho phép đúc tiền trước hoặc sau một khoảng thời gian cụ thể.
 
 Mạnh mẽ như những Block được xây dựng cơ bản, chúng không bao gồm mọi mục đích sử dụng có thể tưởng tượng được. Ví dụ, mặc dù khó khăn, nhưng nó có thể mô hình hóa các Token không thể thay thế (NFT) bằng cách sử dụng các chính sách đơn giản. Điều này có thể được thực hiện bằng cách sử dụng một mốc thời gian để đúc một NFT, bằng cách giới hạn hoạt động đúc trong một thời điểm cụ thể. Nếu chỉ có một Token được đúc trước khi đạt đến thời điểm đó, thì về mặt kỹ thuật, Token là không thể thay thế được (vì chỉ có một). Nhưng để kiểm tra điều này, chỉ cần kiểm tra chính sách đúc tiền thôi là chưa đủ. Chúng ta cần phải xem xét lịch sử đúc của Token để đảm bảo rằng nó thực sự chỉ được đúc một lần.
 
-With the deployment of Plutus, users will be able to write minting policies using Plutus core. During minting or burning, the Plutus Core policy script will be executed in the context of the minting or burning transaction, and the script will have to approve or forbid the action. This will further accelerate the growth of NFTs on Cardano by enabling the creation of much more complex minting policies, and allowing the creation of NFTs in a trustless manner.
+Với việc triển khai Plutus, người dùng sẽ có thể viết các chính sách đúc tiền bằng cách sử dụng Plutus Core. Trong quá trình đúc hoặc đốt, tập lệnh chính sách của Plutus Core sẽ được thực thi trong ngữ cảnh (Context) của giao dịch đúc hoặc đốt. Tập lệnh sẽ phải chấp thuận hoặc ngăn cấm hành động này. Điều này sẽ đẩy nhanh hơn nữa sự phát triển của NFT trên Cardano bằng cách cho phép tạo ra các chính sách đúc tiền phức tạp hơn nhiều và cho phép tạo NFT mà không phải nghi ngờ gì về độ tin cậy.
 
-Alonzo is being gradually deployed to the mainnet via several testnets, so our partners and [Plutus pioneers](https://iohk.io/en/blog/posts/2021/04/01/everything-you-need-to-know-about-our-new-plutus-pioneer-program/) will be able to test Plutus Core by writing applications on Cardano throughout May and June prior to a code freeze. This will also be the period of quality assurance and user acceptance testing by exchanges to ensure that the platform is fully ready at the time of the Alonzo mainnet upgrade. If you are a developer and want to learn more about Plutus, consider joining a [future pioneer cohort](https://developers.cardano.org/en/plutus-pioneer-program/). Alternatively, take a look at [Plutus GitHub](https://github.com/input-output-hk/plutus) repositories, and engage in the discussions about Plutus at [Cardano Forum](https://forum.cardano.org/c/developers/cardano-plutus/148).
+Alonzo đang dần được triển khai trên Mainnet thông qua một số Testnet. Vì vậy, các đối tác của chúng tôi và [những người tiên phong của Plutus](https://iohk.io/en/blog/posts/2021/04/01/everything-you-need-to-know-about-our-new-plutus-pioneer-program/) sẽ có thể thử nghiệm Plutus Core bằng cách viết ứng dụng trên Cardano trong suốt tháng 5 và tháng 6 trước khi đóng băng mã Code. Đây cũng sẽ là giai đoạn đảm bảo chất lượng và kiểm tra sự chấp nhận của người dùng bởi các sàn giao dịch để đảm bảo rằng nền tảng đã hoàn toàn sẵn sàng vào thời điểm nâng cấp Mainnet Alonzo. Nếu bạn là nhà phát triển và muốn tìm hiểu thêm về Plutus, hãy cân nhắc tham gia [nhóm  tiên phong trong tương lai](https://developers.cardano.org/en/plutus-pioneer-program/). Ngoài ra, hãy xem kho lưu trữ [Plutus GitHub](https://github.com/input-output-hk/plutus) và tham gia vào các cuộc thảo luận về Plutus tại [Diễn đàn Cardano](https://forum.cardano.org/c/developers/cardano-plutus/148).
 
-*I’d like to acknowledge Jann Müller for additional input and contribution to this blog post.*
+*Tôi muốn ghi nhận Jann Müller về những ý kiến đóng góp và bổ sung cho bài đăng trên Blog này. Bài này được dịch bởi Nguyễn Văn Tú, soát xét bởi Brit Nguyễn. Bài viết nguồn [tại đây](https://iohk.io/en/blog/posts/2021/04/13/plutus-what-you-need-to-know). *Dự án này được tài trợ bởi Catalyst*.*
