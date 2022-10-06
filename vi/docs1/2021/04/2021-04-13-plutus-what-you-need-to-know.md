@@ -17,7 +17,7 @@ Giám đốc đào tạo
 - ![](img/2021-04-13-plutus-what-you-need-to-know.007.png)[](https://twitter.com/LarsBrunjes "Twitter")
 - ![](img/2021-04-13-plutus-what-you-need-to-know.008.png)[](https://github.com/brunjlar "GitHub")
 
-![Plutus: what you need to know](img/2021-04-13-plutus-what-you-need-to-know.009.jpeg)
+![Những điều bạn cần biết về Plutus](img/2021-04-13-plutus-what-you-need-to-know.009.jpeg)
 
 Trong bài đăng trên Blog trước, chúng tôi đã thảo luận về [*Alonzo*](https://iohk.io/en/blog/posts/2021/04/08/smart-contracts-%E2%80%93-here-we-come/) - cái tên được đặt cho bản nâng cấp giao thức sẽ hỗ trợ hợp đồng thông minh trên Cardano. Alonzo sẽ thiết lập cơ sở hạ tầng và thêm các công cụ để phát triển chức năng của hợp đồng thông minh bằng cách sử dụng Plutus.
 
