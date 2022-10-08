@@ -8,9 +8,9 @@
 
 ### [**Fernando Sanchez**](tmp//en/blog/authors/fernando-sanchez/page-1/)
 
-Technical Writer
+Người viết kỹ thuật
 
-Marketing and Communications
+Tiếp thị và Truyền thông
 
 - ![](img/2021-07-28-a-closer-look-at-the-cfund.005.png)[](mailto:fernando.sanchez@iohk.io "Email")
 - ![](img/2021-07-28-a-closer-look-at-the-cfund.006.png)[](https://www.linkedin.com/in/linkedinsanchezf/ "LinkedIn")
@@ -59,17 +59,17 @@ Khoản đầu tư gần đây nhất của cFund vào lĩnh vực này là Occa
 
 ### **Ngoài đầu tư, quỹ còn cung cấp những gì?**
 
-cFund is both a capital provider, an advisor, and a partner to its portfolio companies and the broader Cardano ecosystem. Leveraging IOG and Wave Financial’s resources, reputation, expertise, and network, cFund provides unparalleled access and guidance to its portfolio. cFund firmly believes in being a value-added investor. cFund aspires to be a management team's first call.
+cFund vừa là nhà cung cấp vốn, cố vấn, vừa là đối tác của các công ty trong danh mục đầu tư và hệ sinh thái Cardano mở rộng. Tận dụng nguồn lực, danh tiếng, chuyên môn, mạng lưới của IOG và Wave Financial, cFund cung cấp quyền truy cập và hướng dẫn cho các dự án trong danh mục đầu tư của mình. cFund tin tưởng chắc chắn vào việc trở thành một nhà đầu tư giá trị gia tăng. cFund mong muốn trở thành quỹ đầu tư đầu tiên mà các đội dự án muốn tiếp xúc.
 
-### **If there are businesses reading this who might want to be considered for funding, what should they do?**
+### **Nếu có doanh nghiệp biết đến cfund và muốn được xem xét để rót vốn, họ phải làm gì?**
 
 Các dự án và doanh nghiệp tiềm năng có thể liên hệ với [email phân phối](mailto:venture@wavegp.com) giai đoạn đầu của Wave Financial hoặc nhắn tin trực tiếp và/hoặc theo dõi tôi trên [Twitter](https://twitter.com/@DavidMRoebuck).
 
 ### **Kế hoạch dài hạn cho cFund là gì?**
 
-cFund aims to be the leading early-stage venture firm that invests primarily in Cardano blockchain based technologies besides becoming an integral part of the Cardano ecosystem. In line with IOG’s founding principle of *cascading disruption*, *the idea that most of the structures that form global financial, governance and social systems are inherently unstable and thus minor perturbations can cause a ripple effect that fundamentally re-configures the entire system.* cFund's goal is to identify and back technologies that force these perturbations together to push to a fair and transparent order for all stakeholders.
+cFund đặt mục tiêu trở thành công ty mạo hiểm hàng đầu, đầu tư vào các dự án trong giai đoạn sớm, chủ yếu vào các công nghệ dựa trên Cardano Blockchain, bên cạnh việc trở thành một phần không thể thiếu của hệ sinh thái Cardano. Theo nguyên tắc sáng lập của IOG về *sự phân phối theo tầng*, *&nbsp;ý tưởng cho rằng hầu hết các cấu trúc hình thành nên hệ thống tài chính, quản trị và xã hội toàn cầu vốn không ổn định. Do đó những lo lắng nhỏ có thể gây ra hiệu ứng gợn sóng về cơ bản cấu hình lại toàn bộ hệ thống.* Mục tiêu của cFund là xác định và hỗ trợ các công nghệ để loại bỏ những lo lắng này, cùng nhau thúc đẩy một trật tự công bằng và minh bạch cho tất cả các bên liên quan.
 
-*Thanks for your time, David.*
+*Cảm ơn vì thời gian của bạn, David. Bài này được dịch bởi Nguyễn Văn Tú, soát xét bởi Brit Nguyễn. Bài viết nguồn [tại đây](https://iohk.io/en/blog/posts/2021/07/28/a-closer-look-at-the-cfund). *Dự án này được tài trợ bởi Catalyst*.*
 
 #### **Tài nguyên bổ sung**
 
