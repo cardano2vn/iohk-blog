@@ -17,11 +17,11 @@ Marketing &amp; Communications
 
 ![Tăng cường mạng lưới phi tập trung với P2P](img/2021-04-06-boosting-network-decentralization-with-p2p.007.jpeg)
 
-The decentralization of Cardano puts responsibility for running the blockchain in the hands of stake pools. An essential element in this is reliable and effective connections between all the distributed nodes, and ensuring that the network is resilient to failure.
+Sự phi tập trung của Cardano đặt trách nhiệm vận hành blockchain vào các stake pool. Một yếu tố thiết yếu trong việc này là các kết nối đáng tin cậy và hiệu quả giữa tất cả các node phân tán và đảm bảo rằng mạng lưới có khả năng phục hồi sau sự cố.
 
 Với phiên bản Byron đơn giản hơn của blockchain, các node liên kết (OBFT) được kiểm soát bởi Cardano Foundation, Emurgo và IOHK chịu trách nhiệm hoàn toàn về việc quản lý sản xuất block và kết nối mạng lưới. Điều này duy trì mạng lưới, đồng thời xây dựng một hệ thống gồm hàng nghìn node phân tán, được vận hành bởi các stake pool. Để đạt được sự phi tập trung, Cardano hiện đã dừng các node liên kết đã hỗ trợ hệ thống kể từ khi được tạo ra vào năm 2017.
 
-On December 6, 2020, we set the [*k* parameter to 500](https://iohk.io/en/blog/posts/2020/11/05/parameters-and-decentralization-the-way-ahead/) to expand the number of â€˜viableâ€™ pools and further promote decentralization. We have also [gradually reduced *d*](https://iohk.io/en/blog/posts/2021/03/04/not-long-till-d-0-day/) to put the power of block production entirely into the hands of the community. 100% of blocks are now being produced by the stake pool operator (SPO) community, which means that block production in Cardano is completely decentralized. These parameter changes support long-term chain sustainability and encourage the spreading of stake and potential rewards more evenly among stake pools.
+Vào ngày 6 tháng 12 năm 2020, chúng tôi thiết lập [ *thông số k thành 500*](https://iohk.io/en/blog/posts/2020/11/05/parameters-and-decentralization-the-way-ahead/)  để mở rộng số lượng pool 'khả thi' và thúc đẩy phi tập trung hơn nữa. Chúng tôi cũng đã [giảm dần tham số *d*](https://iohk.io/en/blog/posts/2021/03/04/not-long-till-d-0-day/) để đưa hoàn toàn sức mạnh sản xuất block vào tay cộng đồng. 100% block hiện đang được sản xuất bởi cộng đồng nhà điều hành stake pool (SPO), có nghĩa là việc sản xuất block trong Cardano hoàn toàn phi tập trung. Những thay đổi thông số này hỗ trợ tính bền vững của chuỗi trong dài hạn và khuyến khích việc chia sẻ cổ phần và phần thưởng tiềm năng đồng đều hơn giữa các stake pool.
 
 Chỉ trong hơn sáu tháng, chúng tôi đã phát triển từ một hệ thống dựa trên một số ít các node được liên kết, thành một hệ thống proof of stake do cộng đồng điều hành, với hàng nghìn block được tạo ra mỗi epoch bởi hơn 2.000 stake pool
 
@@ -47,7 +47,7 @@ Hình 1. Kiến trúc mạng P2P
 
 Chúng ta hãy xem xét kỹ hơn quá trình thiết lập các kết nối node và xem những phát triển mới nhất hợp lý hóa việc trao đổi dữ liệu giữa các node như thế nào.
 
-**Mini protocols**
+**Giao thức mini**
 
 Một tập hợp các giao thức mini cho phép giao tiếp giữa các node. Mỗi giao thức thực hiện một yêu cầu trao đổi thông tin cơ bản, chẳng hạn như thông báo ngang hàng về block mới nhất, block chia sẻ hoặc xử lý các giao dịch. *Chain-sync*, *block-fetch* và các giao thức *tx-submission* đã được sử dụng để phân phối chuỗi block và các giao dịch giữa node với node trong mạng lưới:
 
@@ -57,8 +57,8 @@ Một tập hợp các giao thức mini cho phép giao tiếp giữa các node.�
 
 Các giao thức mini này hỗ trợ giao thức đồng thuận Ouroboros. Để đảm bảo tối ưu dịch vụ mạng lưới, đội ngũ đã triển khai các giao thức bổ sung:
 
-- *keep-alive*: this ensures continuous connection between nodes and minimizes performance faults.
-- *tip-sample*: this provides information about which peers offer better connectivity in terms of performance.
+- *Keep-alive*: đảm bảo kết nối liên tục giữa các node và giảm thiểu lỗi hiệu suất.
+- *Tip-sample*: cung cấp thông tin về việc cặp kết nối ngang hàng nào cung cấp kết nối tốt hơn về mặt hiệu suất.
 
 Bạn có thể tìm hiểu thêm về kiến ​​trúc mạng lưới và các ví dụ về giao thức mini trên [trang web tài liệu Cardano](https://docs.cardano.org/en/latest/explore-cardano/cardano-network.html).
 
@@ -68,7 +68,7 @@ Dịch vụ mạng hỗ trợ Linux, Windows và macOS, nhưng số lượng k�
 
 Để tránh quá tải hệ thống, [bộ ghép kênh](https://docs.cardano.org/en/latest/explore-cardano/cardano-architecture-overview/connection-management.html#multiplexing) kết hợp nhiều kênh thành một kênh kết nối Transmission Control Protocol  (TCP) duy nhất. Điều này mang lại hai lợi thế: Một, giao tiếp hai chiều ngang hàng (vì vậy bất kỳ đồng đẳng nào cũng có thể bắt đầu giao tiếp mà không có hạn chế vì cả hai bên đều có quyền đọc và ghi trong cùng một kênh) và giao tiếp giữa các node với nhau được nâng cao mà không ảnh hưởng đến hiệu suất.
 
-The networking team has implemented a bidirectional-aware â€˜connection managerâ€™ that integrates with the P2P governor, which is currently undergoing final testing before deployment. Additionally, the multiplexerâ€™s API has been upgraded to monitor new connections and protocols. This enhancement introduces more efficient connection management and improved issue tracking.
+Đội ngũ phụ trách vấn đề mạng lưới đã triển khai một 'trình quản lý kết nối' nhận biết hai chiều tích hợp với trình quản lý P2P, hiện đang trải qua thử nghiệm cuối cùng trước khi triển khai. Ngoài ra, API của bộ ghép kênh đã được nâng cấp để giám sát các kết nối và giao thức mới. Cải tiến này giới thiệu quản lý kết nối hiệu quả hơn và cải tiến theo dõi sự cố.
 
 **Chức năng quản trị P2P**
 
@@ -84,13 +84,13 @@ Mạng lưới Cardano liên quan đến nhiều node ngang hàng. Một số h
 
 Hình 2. Khám phá ngang hàng trên Cardano
 
-The [P2P governor](https://input-output-hk.github.io/ouroboros-network/ouroboros-network/Ouroboros-Network-PeerSelection-Governor.html) manages connections and provides information on which peers are active and performing well. This feature promotes peer connections for enhanced system performance and also provides excellent visibility by building and maintaining a connectivity map of the entire network. The governor will simplify the process of connection definitions by handling these automatically so a few central stake pools no longer have to configure them manually. The governor promotes or demotes peers between cold, warm, and hot states, and also interacts with the connection manager to open new connections or reuse existing ones.
+[Quản trị P2P](https://input-output-hk.github.io/ouroboros-network/ouroboros-network/Ouroboros-Network-PeerSelection-Governor.html) quản lý các kết nối và cung cấp thông tin về những kết nối ngang hàng nào đang hoạt động và hoạt động tốt. Tính năng này thúc đẩy các kết nối ngang hàng để nâng cao hiệu suất hệ thống và cũng cung cấp khả năng hiển thị tuyệt vời bằng cách xây dựng và duy trì bản đồ kết nối của toàn bộ mạng lưới. Quản trị sẽ đơn giản hóa quá trình định nghĩa kết nối bằng cách xử lý chúng tự động để một số stake pool trung tâm không còn phải cấu hình chúng theo cách thủ công. Quản trị thúc đẩy hoặc hạ cấp các kết nối ngang hàng giữa các trạng thái lạnh, ấm, nóng đồng thời tương tác với người quản lý kết nối để mở các kết nối mới hoặc sử dụng lại các kết nối hiện có.
 
 ## **Lộ trình triển khai P2P**
 
 Đội ngũ mạng lưới IOHK đang trong giai đoạn cuối cùng của quá trình kiểm tra chất lượng tích hợp quản trị P2P với node. Sau đó, pool sẽ mở rộng stack  mạng lưới với nhiều giao thức hơn - đặc biệt, sẽ cung cấp trao đổi dữ liệu liền mạch giữa các kết nối ngang hàng và giúp xây dựng bản đồ giao tiếp phi tập trung.
 
-These technical upgrades allow us to simplify Cardano node interfaces and improve the systemâ€™s configuration. When testing is finalized, all SPOs will be able to update and simplify their configuration preferences for enhanced connectivity.
+Những nâng cấp kỹ thuật này cho phép chúng tôi đơn giản hóa các giao diện node của Cardano và cải thiện cấu hình của hệ thống. Khi quá trình thử nghiệm được hoàn tất, tất cả SPO sẽ có thể cập nhật và đơn giản hóa các tùy chọn cấu hình của họ để tăng cường kết nối.
 
 Điều này liên quan đến các giai đoạn sau đây trước khi triển khai P2P đầy đủ:
 
@@ -102,4 +102,4 @@ Hình 3. Lộ trình triển khai P2P
 
 *Mặc dù quản trị đóng một vai trò quan trọng trong việc thiết lập, duy trì và hỗ trợ mạng lưới, nhưng chỉ với sự phi tập trung, chúng ta mới có thể đạt được sự bền vững thực sự của mạng lưới để đảm bảo cơ hội bình đẳng cho tất cả các stake pool. Do đó, mục tiêu của cải tiến stack là cho phép tất cả các stake pool chạy cùng một cấu hình, thiết lập các khả năng bình đẳng trong một môi trường phi tập trung.*
 
-*Weâ€™ll keep providing more development updates in this blog, and you can also follow Cardano [status updates](https://roadmap.cardano.org/en/status-updates/) to learn about recent improvements and developments.*
+*Chúng tôi sẽ tiếp tục cung cấp thêm các bản cập nhật phát triển trong bài blog này và bạn cũng có thể theo dõi [cập nhật về các status](https://roadmap.cardano.org/en/status-updates/) của Cardano để tìm hiểu về các cải tiến và phát triển gần đây.<br><br><br><br>Bài này được dịch bởi Lê Nguyên, soát xét bởi Brit Nguyễn. <a>với bài gốc</a><br><em>Dự án này được tài trợ bởi Catalyst</em><br>https://iohk.io/en/blog/posts/2021/04/06/boosting-network-decentralization-with-p2p/*
