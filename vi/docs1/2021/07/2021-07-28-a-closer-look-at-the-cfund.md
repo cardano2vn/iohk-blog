@@ -15,7 +15,7 @@ Tiếp thị và Truyền thông
 - ![](img/2021-07-28-a-closer-look-at-the-cfund.005.png)[](mailto:fernando.sanchez@iohk.io "Email")
 - ![](img/2021-07-28-a-closer-look-at-the-cfund.006.png)[](https://www.linkedin.com/in/linkedinsanchezf/ "LinkedIn")
 
-![A closer look at the cFund](img/2021-07-28-a-closer-look-at-the-cfund.007.jpeg)
+![Chi tiết hơn về cFund](img/2021-07-28-a-closer-look-at-the-cfund.007.jpeg)
 
 Khi chúng tôi tiến gần hơn đến các hợp đồng thông minh trên Cardano, hoạt động quỹ hiện đang được tăng tốc. Chúng tôi đã nói chuyện với Giám đốc David Roebuck của Wave Financial để tìm hiểu thêm về quỹ và các mục tiêu của quỹ.
 
