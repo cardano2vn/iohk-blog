@@ -16,7 +16,7 @@ Academic Research
 - ![](img/2021-03-29-the-secure-transition-to-decentralization.006.png)[](tmp///www.youtube.com/watch?v=KkcAic12dvc "YouTube")
 - ![](img/2021-03-29-the-secure-transition-to-decentralization.007.png)[](https://github.com/russella "GitHub")
 
-![Cardano's secure switch to decentralization](img/2021-03-29-the-secure-transition-to-decentralization.008.jpeg)
+![Sự chuyển đổi an toàn sang phân quyền  của Cardano](img/2021-03-29-the-secure-transition-to-decentralization.008.jpeg)
 
 Tính bảo mật của các blockchain bằng chứng cổ phần ( POS) được cung cấp bởi mối quan hệ phụ thuộc lẫn nhau giữa token gốc và cơ chế đồng thuận cung cấp năng lượng cho nó: xét cho cùng, việc lựa chọn các node để tạo block theo cổ phần đòi hỏi một cái nhìn nhất quán mang tính toàn cầu về việc phân phối cổ phần, trong khi bản thân việc duy trì tính nhất quán đòi hỏi một cơ chế lựa chọn công bằng. Thật vậy, cái tên Ouroboros - một biểu tượng cổ điển gợi ý cho phép đệ quy toán học - ban đầu được chọn để thu hút sự chú ý đến mối quan hệ này.
 
