@@ -2,7 +2,7 @@
 
 ### **Sự kiện này được mở đầu với 'sự khẳng định công khai về tính ngẫu nhiên', và giới thiệu phương pháp entropy với cộng đồng.**
 
-![](img/2021-03-29-the-secure-transition-to-decentralization.002.png) 29 March 2021![](img/2021-03-29-the-secure-transition-to-decentralization.002.png)[ Prof Alexander Russell](tmp//en/blog/authors/alexander-russell/page-1/)![](img/2021-03-29-the-secure-transition-to-decentralization.003.png) 6 mins read
+![](img/2021-03-29-the-secure-transition-to-decentralization.002.png) 29 tháng 3 năm 2021 ![](img/2021-03-29-the-secure-transition-to-decentralization.002.png) [Giáo sư Alexander Russell](tmp//en/blog/authors/alexander-russell/page-1/) ![](img/2021-03-29-the-secure-transition-to-decentralization.003.png) 6 phút đọc
 
 ![Prof Alexander Russell](img/2021-03-29-the-secure-transition-to-decentralization.004.png)[](tmp//en/blog/authors/alexander-russell/page-1/)
 
@@ -26,7 +26,7 @@ Blockchain Cardano chuyển sang sản xuất các block phi tập trung hoàn t
 
 Các nhà khoa học và kỹ sư của IO Global sẽ đóng góp một số nguồn entropy cụ thể, bên ngoài, không thể đoán trước. Ngoài ra, để phản ánh bản chất phi tập trung của Cardano, chúng tôi đang yêu cầu cộng đồng mở rộng, bao gồm các SPO và các nhà phát triển tham gia với chúng tôi on-chain (trên chuỗi) cho một sự kiện mà chúng tôi gọi là xác nhận công khai của Cardano về sự ngẫu nhiên. Quy trình cộng đồng này sẽ thiết lập quá trình chuyển đổi 256 bit ngẫu nhiên một lần trong đời của hệ thống, do đó sẽ báo trước sự chuyển đổi chính thức của giao thức sang hoạt động phi tập trung.
 
-We’re going to get more technical now so buckle up, or skip to the end.
+Bây giờ chúng ta sẽ đi vào phần nội dung chứa nhiều yếu tố kỹ thuật vì vậy thật sự tập trung hoặc bỏ qua nó.
 
 ## **Một vài nền tảng** 
 
@@ -40,15 +40,15 @@ Epoch bắt đầu vào Thứ Hai, ngày 5 tháng 4 lúc 21:44:51 UTC (epoch 258
 
 Việc kiểm tra chặt chẽ các bằng chứng về tính đúng đắn của giao thức vẽ ra một bức tranh chính xác hơn về các thuộc tính thiết yếu của quá trình chuyển đổi: nó phải dựa trên các giá trị ngẫu nhiên - được giới thiệu trong cài đặt của chúng tôi thông qua các giao dịch blockchain Cardano - không thể dự đoán chính xác khi phân phối cổ phần cho tháng 4, 10 epoch đã được giải quyết. Điều này đặc biệt nhấn mạnh vào các giao dịch xuất hiện trong blockchain giữa mốc 12 giờ, khi việc phân phối cổ phần được giải quyết ổn định và mốc 42 giờ, khi giá trị băm được nâng cao.
 
-## **Entropy sources introduced by IO Global**
+## **Nguồn Entropy do IO Global giới thiệu**
 
 Mặc dù cộng đồng Cardano giới thiệu nhiều nguồn ngẫu nhiên - hãy xem bên dưới! - Các nhà khoa học và kỹ sư của IO Global sẽ đưa vào các giao dịch với siêu dữ liệu được xác định bởi một số nguồn entropy công khai: hàm băm giá đóng cửa của Sàn giao dịch chứng khoán New York vào ngày 6 tháng 4 và dữ liệu địa chấn theo thời gian thực từ Cơ quan khảo sát địa chất Hoa Kỳ, Đại học Athens, và Hiệp hội Khí tượng Nhật Bản. Dữ liệu địa chấn từ các nguồn này sẽ bao gồm 36 giờ đầu tiên của epoch. Các chi tiết khác, bao gồm các tập lệnh được sử dụng để thu thập dữ liệu và các nguồn chính xác, sẽ xuất hiện trong [kho lưu trữ github công khai](https://github.com/input-output-hk/cardano-entropy) này.
 
-We’d also like the more technical members of the Cardano community to join in too, by adding their own contribution to the randomness. Here’s what we’d like you to do.
+Chúng tôi cũng muốn nhiều thành viên chuyên về kỹ thuật của cộng đồng Cardano cùng tham gia, bằng cách thêm đóng góp của riêng họ vào sự ngẫu nhiên. Đây là những gì chúng tôi muốn bạn làm.
 
 - Chọn một số nguồn ngẫu nhiên: rút thăm từ khu vực của bạn, public key RSA mới được tạo bằng các công cụ tiêu chuẩn hoặc kết quả của một số lần tung của một con xúc xắc 20 mặt.
 - Dán kết quả của các nguồn này vào tài liệu văn bản, lưu và băm tài liệu này bằng hàm băm yêu thích của bạn, chẳng hạn như SHA256. Ghi hàm băm này trên blockchain bằng cách sử dụng [giao dịch với siêu dữ liệu](https://github.com/input-output-hk/cardano-node/blob/master/doc/reference/tx-metadata.md) . (Xem [video này](https://www.youtube.com/watch?v=fxNx4W1_gro&list=PLnPTB0CuBOBxjtuyI7sseODnMffpVHS2v&index=3&t=3s) .)
-- To be most useful, your source of randomness should be determined after Tuesday, April 6 at 9:44:51 UTC (slot 43200 of epoch 258) and must be included in a blockchain transaction before Wednesday, April 7 at 15:44:51 UTC (slot 151200 of epoch 258).
+- Để hữu ích nhất, nguồn ngẫu nhiên của bạn phải được xác định sau Thứ Ba, ngày 6 tháng 4 lúc 9:44:51 UTC (vị trí 43200 của epoch 258) và phải được đưa vào giao dịch blockchain trước Thứ Tư, ngày 7 tháng 4 lúc 15:44:51 UTC (vị trí 151200 của epoch 258).
 
 Nếu không giỏi kỹ thuật, bạn vẫn có thể tham gia. Bạn có thể muốn thử nghiệm một công cụ cộng đồng mới thú vị, [Cardano Wall](https://cardanowall.com/en/) . Điều này cho phép bạn dễ dàng ghi vào blockchain Cardano. Tuy nhiên, nếu bạn chọn tham gia, vui lòng thông báo điều này trên phương tiện truyền thông xã hội, bằng cách xuất bản cả mã nguồn (chưa băm) cùng với giá trị băm xuất hiện trong giao dịch của bạn.
 
