@@ -2,7 +2,7 @@
 
 ### **Các nhà điều hành pool cổ phần(SPO) ngày nay tiếp quản việc tạo block và thực hiện vai trò phát triển mạng lưới**
 
-![](img/2021-03-31-decentralization-to-d-0-day-and-beyond.002.png) 31 March 2021![](img/2021-03-31-decentralization-to-d-0-day-and-beyond.002.png)[ Tim Harrison](tmp//en/blog/authors/tim-harrison/page-1/)![](img/2021-03-31-decentralization-to-d-0-day-and-beyond.003.png) 7 mins read
+![](img/2021-03-31-decentralization-to-d-0-day-and-beyond.002.png) 31 tháng 3 năm 2021 ![](img/2021-03-31-decentralization-to-d-0-day-and-beyond.002.png) [Tim Harrison](tmp//en/blog/authors/tim-harrison/page-1/) ![](img/2021-03-31-decentralization-to-d-0-day-and-beyond.003.png) 7 phút đọc
 
 ![Tim Harrison](img/2021-03-31-decentralization-to-d-0-day-and-beyond.004.png)[](tmp//en/blog/authors/tim-harrison/page-1/)
 
@@ -17,7 +17,7 @@ Communications
 - ![](img/2021-03-31-decentralization-to-d-0-day-and-beyond.007.png)[](https://twitter.com/timbharrison "Twitter")
 - ![](img/2021-03-31-decentralization-to-d-0-day-and-beyond.008.png)[](https://github.com/timbharrison "GitHub")
 
-![Decentralization: to D=0 Day and beyond](img/2021-03-31-decentralization-to-d-0-day-and-beyond.009.jpeg)
+![Phân quyền: Ngày tham số D = 0 và hơn thế nữa](img/2021-03-31-decentralization-to-d-0-day-and-beyond.009.jpeg)
 
 Hôm nay lúc 21:44:51 GMT, việc tạo block trên Cardano sẽ được phi tập trung hoàn toàn. Đó là một khởi đầu mới. Từ một mạng lưới liên kết gồm bảy node cốt lõi do IOHK, Emurgo và Cardano Foundation điều hành, chúng ta đã phát triển thành một mạng lưới phi tập trung, nơi cộng đồng (SPO) sẽ chịu trách nhiệm sản xuất 100% block.
 
@@ -33,15 +33,15 @@ Hành trình kỹ thuật của Cardano để phi tập trung hoàn toàn tiếp
 
 Phi tập trung là giá trị cốt lõi và là động lực cho Cardano, và chúng tôi không hề đơn độc trong việc này. Thế giới tài chính chính thống đã công nhận rằng blockchain và công nghệ tài chính phi tập trung (DeFi) có tiềm năng tạo ra một hệ thống tài chính mới mang tính cách mạng như chính internet. Và đó chỉ là một phần của xu hướng phân quyền. Các giao thức mở giữa người cho thuê và nhà cung cấp dịch vụ lưu trữ dữ liệu mà bất kỳ ai cũng có thể sử dụng có khả năng làm suy yếu các nhà cung cấp máy chủ đám mây tập trung thống trị như Amazon và Microsoft, đồng thời có những xu hướng tương tự ảnh hưởng đến mạng video và truyền thông cũng như trò chơi. Tiền mã hoá lần đầu tiên đưa mọi người vào thế giới blockchain và giờ đây mọi người trao đổi nhiều đến [các token không thể thay thế (NFT)](https://iohk.io/en/blog/posts/2021/02/18/building-native-tokens-on-cardano-for-pleasure-and-profit/) đang khuyến khích họ tương tác với blockchain theo một cách mới, thú vị. Những xu hướng này đang giới thiệu blockchain đến thị trường đại chúng.
 
-### **Power to the edges**
+### **Quyền lực phi tập trung**
 
-Centralization has shifted the balance of power, from the people to corporations such as Facebook and Google, creating a virtual information monopoly. Because of their unchallenged market positions, centralized authorities enjoy data hegemony over their consumers.
+Tập trung hóa đã làm thay đổi cán cân quyền lực, từ người dân sang các tập đoàn như Facebook và Google, tạo ra thế độc quyền thông tin ảo. Do vị trí thị trường không bị thách thức của họ, các cơ quan quản lý tập trung được hưởng quyền bá chủ dữ liệu đối với người tiêu dùng của họ.
 
-Decentralization is the antidote to this concentration of power and the risks that it brings. Decentralization empowers the individual to make choices and decisions, it returns ownership of personal information to where it belongs, it pushes power to the edges and enables every participant in the network (or ada holder) to have a stake.
+Phi tập trung là liều thuốc giải độc cho sự tập trung quyền lực này và những rủi ro mà nó mang lại. Phi tập trung trao quyền cho cá nhân đưa ra các lựa chọn và quyết định, nó trả lại quyền sở hữu thông tin cá nhân về nơi nó thuộc về, nó loại bỏ quyền lực tập trung và cho phép mọi người tham gia trong mạng (hoặc người giữ ada) có cổ phần.
 
 Có ba trụ cột đối với sự phân quyền của Cardano: sản xuất block, quản trị (governance) và mạng (network). Về bản chất, chúng được liên kết với nhau và phối hợp hoạt động để tạo ra một kết quả thống nhất: phân quyền hoàn toàn, nằm ở điểm giao thoa của chúng.
 
-### **Pillar one: block production**
+### **Trụ cột thứ nhất: sản xuất block**
 
 Mọi blockchain đều dựa vào việc bổ sung các block mới để phát triển và lớn mạnh. Với việc triển khai kỷ nguyên Byron, các node cốt lõi - được quản lý bởi IOHK, Emurgo và Cardano Foundation - chịu trách nhiệm hoàn toàn trong việc tạo các block và duy trì mạng lưới. Sự [ra đời của Shelley](https://iohk.io/en/blog/posts/2020/04/29/from-byron-to-shelley-part-one-the-testnets/) và Incentivized Testnet vào năm 2019 đóng vai trò là nơi thử nghiệm cho việc sản xuất block phi tập trung. Các kết quả đã chứng minh khả năng tồn tại của một sáng kiến như vậy. Nói cách khác, [thử nghiệm Incentivized Testnet đã chứng minh](https://iohk.io/en/blog/posts/2020/02/07/shelley-incentivized-testnet-story-in-numbers/) rằng Cardano có thể được duy trì một cách đáng tin cậy bởi một mạng lưới các stake pool do cộng đồng điều hành. Tính đến epoch 170 vào ngày 3 tháng 6 năm 2020, đã có 1.299 stake pool đã đăng ký, 413 trong số đó đã đóng block.
 
@@ -55,17 +55,17 @@ Trên mainnet, tính năng này sẽ sử dụng một [tập hợp các giao th
 
 ### **Trụ cột thứ ba: quản trị (governance)**
 
-The Goguen roll-out has already introduced transaction metadata *and* [native tokens](https://iohk.io/en/blog/posts/2021/02/04/native-tokens-to-bring-new-utility-to-life-on-cardano/) to Cardano. Arguably, this has been the most apparent manifestation of growth and progress for Cardano since the Shelley launch.
+Việc triển khai Goguen đã giới thiệu siêu dữ liệu giao dịch *và* [native tokens ](https://iohk.io/en/blog/posts/2021/02/04/native-tokens-to-bring-new-utility-to-life-on-cardano/) cho Cardano. Có thể cho rằng đây là minh chứng rõ ràng nhất cho sự phát triển và tiến bộ của Cardano kể từ khi ra mắt Shelley.
 
-Yet, at the same time, we have also seen the rise of something even more powerful: an engaged community of builders, creators, and entrepreneurs within Project Catalyst. At the time of writing, the Catalyst community includes 17,000+ worldwide members. This pool of decentralized talent includes entrepreneurs, experts, and specialists across many areas, and provides a vast reservoir of ingenuity to ensure the best and brightest ideas get the funding they deserve.
+Đồng thời, chúng ta cũng đã chứng kiến sự trỗi dậy của một thứ thậm chí còn mạnh mẽ hơn: một cộng đồng gắn bó gồm các nhà xây dựng, người sáng tạo và doanh nhân trong Project Catalyst. Tại thời điểm viết bài, cộng đồng Catalyst bao gồm hơn 17.000 thành viên trên toàn thế giới. Nhóm tài năng phi tập trung này bao gồm các doanh nhân, chuyên gia trên nhiều lĩnh vực và cung cấp một kho tài nguyên khổng lồ để đảm bảo những ý tưởng tốt nhất và sáng suốt nhất nhận được khoản tài trợ xứng đáng.
 
 Một layer quản trị vững chắc sẽ hỗ trợ cho giá trị cốt lõi mà Cardano đang cố gắng đạt được: một blockchain nơi cộng đồng các bên liên quan đưa ra các quyết định thiết thực về giao thức và sự phát triển của chuỗi. Catalyst là tiền thân của [Voltaire](https://iohk.io/blog/posts/2020/09/10/project-catalyst-voltaire-bring-power-to-the-people/), Kỷ nguyên sẽ giới thiệu cấp độ phân quyền thứ ba và cấp cuối cùng thông qua tích hợp quản trị và ra quyết định/ bỏ phiếu on-chain (trên chuỗi).
 
-Voltaire will introduce:
+Voltaire sẽ giới thiệu:
 
-- Access to funding via a decentralized treasury (worth some $400m at the current ada price) within a governance framework where the community will have the power, through their ada stake, to influence Cardano's future direction
-- Decentralized decision-making on enhancements, network improvements, and parameter updates
-- Fully decentralized software updates: the process enabling decentralized, open participation for fair voting on decisions about system and protocol advancements
+- Tiếp cận nguồn vốn thông qua kho bạc phi tập trung (trị giá khoảng 400 triệu đô la theo giá ada hiện tại) trong khuôn mẫu quản trị, nơi cộng đồng sẽ có quyền thông qua cổ phần của họ, để ảnh hưởng đến định hướng tương lai của Cardano
+- Ra quyết định phi tập trung về các nâng cấp, cải tiến mạng và cập nhật thông số
+- Cập nhật phần mềm hoàn toàn phi tập trung: quy trình cho phép tham gia phi tập trung, cởi mở để bỏ phiếu công bằng cho các quyết định về các tiến bộ của hệ thống và giao thức
 
 ### **Kết luận: sự thoái trào của tập trung hóa**
 
