@@ -32,17 +32,17 @@ Nếu bạn không quen thuộc với Dự án Catalyst, thì đây là cách d�
 
 Dự án Catalyst dựa vào sự kết hợp khéo léo về một mạng lưới toàn cầu gồm những người tham gia, vì vậy tất cả các ý tưởng đều được khuyến khích và luôn có thể được “đăng ký lại” cho các vòng cấp vốn trong tương lai nếu chúng không đáp ứng được các tiêu chí thách thức.
 
-Fund2 contained a pool of ada worth $250,000 and Fund3 doubles that, distributing $500,000 in ada between proposers, voters, and community advisers. Fund3 has three challenges:
+Vòng cấp vốn Fund2 trị giá 250.000 đô la và vòng cấp vốn Fund3 tăng gấp đôi số tiền đó, phân phối 500.000 đô la bằng ada cho những người đề xuất, cử tri và cố vấn cộng đồng. Vòng cấp vốn Fund3 có ba thách thức:
 
 1. **Thách thức hệ sinh thái nhà phát triển:** Làm thế nào chúng tôi có thể khuyến khích các nhà phát triển xây dựng trên Cardano trong sáu tháng tới?
 2. **Thách thức tạo DApp:** Những ứng dụng phi tập trung (DApps) nào nên được tài trợ để thúc đẩy sự chấp nhận của người dùng trong sáu tháng tới?
-3. **â€˜Community choiceâ€™ challenge:** This new category is where we ask the community itself to set one or more challenges, which will have their own funding round in Fund5. An additional $500,000 pool will be available to cover any goal the community wishes to set, whether itâ€™s about executing the community roadmap, funding content or podcasts, encouraging non-profit work or whatever else is determined to be a priority.
+3. **Thách thức lựa chọn cộng đồng:** Danh mục mới này là nơi chúng tôi yêu cầu chính cộng đồng đặt ra một hoặc nhiều thách thức, sẽ có vòng tài trợ riêng cho họ trong vòng cấp vốn Fund5. Sẽ có thêm 500.000 đô la để chi trả cho bất kỳ mục tiêu nào mà cộng đồng muốn đặt ra, cho dù đó là về việc thực hiện lộ trình cộng đồng, tài trợ cho nội dung hay podcast, khuyến khích hoạt động phi lợi nhuận hay bất kỳ mục tiêu nào khác được xác định là ý tưởng cần ưu tiên.
 
 Vậy làm thế nào để bạn tham gia vào dự án Catalyst?
 
-**From sharing insights to submitting ideas**Â 
+**Từ việc chia sẻ thông tin chi tiết đến việc gửi ý tưởng**
 
-First of all, anyone wishing to get involved with the project, whether as a proposer, adviser or simply a voter, should sign up to our [collaboration platform](https://cardano.ideascale.com/a/index). You do not have to be an ada holder to propose an idea or take part in the discussion phase.Â 
+Trước hết, bất kỳ ai muốn tham gia vào dự án, cho dù với tư cách là người đề xuất, cố vấn hay chỉ đơn giản là người bỏ phiếu, thì nên đăng ký [nền tảng cộng tác](https://cardano.ideascale.com/a/index) của chúng tôi. Bạn không cần phải là người nắm giữ đồng ADA để đề xuất ý tưởng hoặc tham gia vào giai đoạn thảo luận
 
 Vòng cấp vốn Fund3 bắt đầu với giai đoạn chia sẻ thông tin chi tiết, trong đó mọi người có thể đưa ra quan điểm của họ về thách thức trước khi các đề xuất được nộp. Hãy coi giai đoạn này như một diễn đàn động não đầy trí tuệ của cộng đồng để truyền cảm hứng cho những người đề xuất.
 
@@ -62,4 +62,4 @@ Khi các đề xuất đã sẵn sàng, một nhóm chuyên gia đánh giá, đ�
 
 Vòng cấp vốn Fund2 đã tạo ra sự sáng tạo đáng kinh ngạc và các đề xuất chất lượng, một trong số đó sẽ sớm được cấp vốn. Chúng tôi mong đợi những điều tuyệt vời hơn nữa từ vòng cấp vốn Fund3 khi chúng tôi bắt đầu xây dựng một hệ sinh thái DApp phát triển mạnh mẽ trên blockchain Cardano. Chúng tôi gọi dự án Catalyst là một “trải nghiệm” và chúng tôi dự định sẽ khuyến khích tinh thần này trong một khoảng thời gian sắp tới. Nhưng ý định của chúng tôi là rất thực tế và rất kiên quyết. Mỗi tuần trôi qua đều mang đến những cơ hội để cải thiện và tinh chỉnh chương trình đột phá này cho và với cộng đồng Cardano.
 
-*Join us in developing Cardanoâ€™s on-chain governance by signing up to our [IdeaScale](https://cardano.ideascale.com/) collaboration platform and our dedicated Catalyst [Telegram](https://t.me/cardanocatalyst) channel.*
+*Tham gia cùng chúng tôi trong việc phát triển quản trị chuỗi của Cardano bằng cách đăng ký nền tảng cộng tác [IdeaScale](https://cardano.ideascale.com/) và kênh Catalyst [Telegram](https://t.me/cardanocatalyst) chuyên dụng của chúng tôi. Bài này được dịch bởi minh-hieu-102, Review và đăng bài bởi Nguyễn Hiệu. Bài viết nguồn [tại đây](https://iohk.io/en/blog/posts/2021/01/06/project-catalyst-blasts-off-into-2021/)*
