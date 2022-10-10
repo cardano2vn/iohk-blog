@@ -21,7 +21,7 @@ Engineering
 
 Tuần trước, chúng ta đã chứng kiến ​​sự ra mắt phiên bản mới của [Plutus Playground](https://iohk.io/en/blog/posts/2021/01/25/introducing-the-new-plutus-playground/). Bài này chúng tôi giới thiệu về [nền tảng Plutus](https://www.youtube.com/watch?v=usMPt8KpBeI). Trọng tâm là khả năng viết một ưng dụng hợp đồng thông minh (cả on-chain và offchain) trên một ngôn ngữ duy nhất (Haskell)
 
-Our toolchain allows a single Haskell program to produce not only an executable file that users can run on their own computers, but also the code that runs on the Cardano blockchain. This gives users a battle-tested, high-quality programming language, and makes use of standard tooling and library support. Nobody wants to learn a proprietary programming language and half-baked tools if they don't have to!
+Công cụ chuỗi của chúng tôi cho phép một chương trình Haskell tạo ra một tệp thực thi chạy trên máy tính mà còn cả mã chạy trên blockchain Cardano (Off-chain và On-Chain). Điều này mang đến cho người dùng một ngôn ngữ lập trình chất lượng cao, đã được thử nghiệm và sử dụng công cụ tiêu chuẩn cùng với sự hỗ trợ thư viện. Vì vậy, ai cũng muốn học chúng. Ngược lại không ai muốn học một ngôn ngữ lập trình độc quyền và các công cụ nửa vời nếu họ không phải làm thế!
 
 Công cụ tuyệt vời đầy sức mạnh này được gọi là Plutus Tx. Bản chất của nó là một trình biên dịch từ Haskell sang Putus Core- ngôn ngữ chạy trên chuỗi - được cung cấp dưới dạng một trình plug-in GHC. Trong bài đăng này, chúng ta sẽ đi sâu vào cách thức hoạt động và một số thách thức kỹ thuật.
 
@@ -35,9 +35,9 @@ Sự phức tạp khác của Haskell là hệ thống của nó. Điều này 
 
 Cuối cùng, chúng tôi không hỗ trợ tất cả về Haskell. Một số tính năng là nhược điểm, không thể áp dụng (không ai cần CFFI trên blockchain), hoặc thành thật mà nói, thật khó để triển khai. Vì vậy, bây giờ trình biên dịch Plutus Tx sẽ hiển thị lỗi nếu bạn sử dụng một tính năng mà nó không hỗ trợ. Hầu hết các tính năng 'đơn giản' Haskell đều hỗ trợ (mặc dù có một số thứ trông đơn giản nhưng lại phức tạp một cách khó chịu trong thực tế).
 
-## **Down the tube**
+## **Tạo quy trình biên dịch**
 
-What do we compile Haskell into? At the end of the day we have to produce Plutus Core, but it is ancient compiler wisdom to break down big compilation pipelines like this by introducing     intermediate languages ™, or an intermediate representation (IR). This ensures that no one step is too large, and that the steps can be tested independently.
+Chúng ta biên dịch Haskell thành gì? Cuối cùng chúng ta phải tạo ra Plutus core, nhưng sự linh hoạt của trình biên dịch cũ là sự thay đổi các trình tự biên dịch lớn bằng cách sử dụng 'ngôn ngữ trung gian', hoặc một đại diện trung gian (IR). Điều này đảm bảo rằng không có bước nào là quá lớn và các bước có thể được kiểm tra độc lập.
 
 Trình tự biên dịch của chúng ta như sau:
 
@@ -68,7 +68,7 @@ compile :: forall a . a -> CompiledCode a
 
 Từ quan điểm của người dùng, điều này sẽ lấy bất kỳ biểu thức Haskell nào và thay thế nó bằng một giá trị không rõ ràng đại diện cho biểu thức đó, nhưng được biên dịch thành một chương trình Plutus Core (hoặc chính xác là một chuỗi byte chữa thông tin của chương trình đó). Phiên bản thực tế phức tạp hơn một chút, nhưng về mặt khái niệm, nó giống nhau.
 
-However, we don   want to try and implement this as a normal Haskell function. A normal Haskell function with the signature of compile would take a *value* of type a, and turn it into a Plutus Core program at *run* time. We want to take the *syntax tree for the expression* of type a and turn it into a Plutus Core program at *compile* time.
+Tuy nhiên, chúng tôi không muốn thử và thực hiện điều này như một hàm Haskell bình thường. Một hàm Haskell bình thường với cú pháp compile sẽ nhận *giá trị* kiểu a và biến nó thành một chương trình Plutus Core tại thời điểm *chạy*. Chúng tôi muốn lấy *cú pháp tree cho biểu thức* kiểu a và biến nó thành một chương trình Plutus Core tại thời điểm *biên dịch*.
 
 ## **Sự chuyển đổi**
 
@@ -92,17 +92,17 @@ Trình biên dịch làm việc với mã nguồn và trình biên dịch Plutus
 
 Trên thực tế, điều này cực kỳ khó chịu và về lâu dài, chúng tôi có kế hoạch triển khai hỗ trợ trong GHC để lưu trữ GHC Core một cách đáng tin cậy cho các module bên trong tệp giao diện mà nó tạo ra. Điều này sẽ cho phép chúng tôi làm một cái gì đó giống như 'biên dịch riêng biệt' cho Plutus Tx. Tuy nhiên, cho đến lúc đó, chúng tôi có một cách giải quyết bằng cách sử dụng 'unfolding'.
 
-Unfoldings are the copies of functions that GHC uses to enable cross-module inlining. We piggyback on these as a way of getting the source of functions. Consequently, functions that are used transitively by Plutus Tx code must be marked as INLINABLE, which ensures that unfoldings are present.
+Unfolding là bản sao của các chức năng mà GHC sử dụng để kích hoạt nội tuyến cross-module. Chúng tôi dựa trên những điều này như một cách để lấy mã nguồn của các chức năng. Do đó, các hàm được sử dụng chuyển tiếp bởi mã Plutus Tx phải được đánh dấu là `INLINABLE`, điều này đảm bảo rằng các `Unfolding` hiện diện.
 
 ## **Thời gian chạy cũng quan trọng**
 
 Tất cả điều này nghe có vẻ ổn, cho đến khi bạn nhận ra rằng bạn muốn tạo các phiên bản khác nhau của chương trình Plutus Core dựa trên các quyết định tại thời điểm chạy. Nếu tôi đang viết một hợp đồng thực hiện giao dịch nguyên tử, tôi không muốn phải *biên dịch lại chương trình của mình* để thay đổi người tham gia hoặc số lượng!
 
-But as we said before, it ™s tricky to write a function of type a -&gt; CompiledCode a that actually works at run time. Rather than looking at the GHC Core syntax tree representing the expression in the Haskell program, we instead need to deal with values that the program computes.
+Nhưng như chúng tôi đã nói trước đây, thật khó để viết một hàm kiểu `a -&gt; CompiledCode a` thực sự hoạt động tại thời điểm chạy. Thay vì nhìn vào cú pháp cây GHC Core đại diện cho biểu thức trong chương trình Haskell, chúng ta cần xử lý các giá trị mà chương trình tính toán.
 
 Chúng ta có thể làm điều này theo phong cách Haskell điển hình bằng cách xác định một cặp typeclasses:
 
-1. Typeable: which tells us how to turn a Haskell type into a Plutus Core type
+1. Typeable cho chúng ta biết cách biến một loại Haskell thành một loại Plutus Core
 2. Lift cho chúng ta biết cách biến giá trị Haskell thành giá trị Plutus Core
 
 Đối với những người quen thuộc với Haskell, việc song song các lớp Typeable và Lift mà GHC cung cấp để biến các kiểu và giá trị Haskell thành các biểu diễn hữu ích cho việc lập trình Haskell điển hình hơn.
@@ -119,7 +119,7 @@ applyCode :: CompiledCode (a -> b) -> CompiledCode a -> CompiledCode b. 
 
 ## **Tóm lại**
 
-The goal of Plutus Tx is to allow you to freely write Haskell and seamlessly use it in both on-chain and off-chain code. We ™ve made a lot of progress towards that goal, and we look forward to polishing off the remaining warts as we go.
+Mục tiêu của Plutus Tx là cho phép bạn tự do viết Haskell và sử dụng liền mạch trong cả mã on-chain và off-chain. Chúng tôi đã đạt được rất nhiều tiến bộ để đạt được mục tiêu đó và chúng tôi mong muốn loại bỏ những thiếu sót còn lại khi chúng tôi tiếp tục.
 
 ## **Tái bút: hãy ủng hộ chúng tôi!**
 
