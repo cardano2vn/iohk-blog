@@ -16,9 +16,9 @@ Marketing &amp; Communications
 - ![](img/2021-02-05-decentralizing-social-media.006.png)[](https://www.linkedin.com/in/eric-czuleger-6b67a395/ "LinkedIn")
 - ![](img/2021-02-05-decentralizing-social-media.007.png)[](https://twitter.com/eczuleger "Twitter")
 
-Vào cuối năm 2020, chúng tôi đã công bố hợp tác với SingularityNET, trong một [Buổi trò chuyện trực tuyến](https://www.youtube.com/watch?v=W3O5F_CCT8c)  giữa Charles Hoskinson và người sáng lập &amp; Giám đốc điều hành SingularityNET, Ben Goertzel. *
+Vào cuối năm 2020, chúng tôi đã công bố hợp tác với SingularityNET, trong một [Buổi trò chuyện trực tuyến](https://www.youtube.com/watch?v=W3O5F_CCT8c)  giữa Charles Hoskinson và người sáng lập &amp; Giám đốc điều hành SingularityNET, Ben Goertzel.
 
-*Gần đây, SingularityNET đã chia sẻ thêm thông tin về mối quan hệ đối tác khi họ công bố Sáng kiến trong Giai đoạn Hai thú vị của mình,* [](https://blog.singularitynet.io/singularitynet-phase-two-massive-token-utilization-toward-decentralized-beneficial-agi-6e3ac5a5b44a)* trong đó bao gồm sự di chuyển từ Ethereum sang Cardano để đạt được các chức năng mới của mạng lưới và phát hành Token AGI mới có tên là AGI-ADA**
+*Gần đây, SingularityNET đã chia sẻ thêm thông tin về mối quan hệ đối tác khi họ công bố Sáng kiến trong Giai đoạn Hai thú vị của mình,* [](https://blog.singularitynet.io/singularitynet-phase-two-massive-token-utilization-toward-decentralized-beneficial-agi-6e3ac5a5b44a)* trong đó bao gồm sự di chuyển từ Ethereum sang Cardano để đạt được các chức năng mới của mạng lưới và phát hành Token AGI mới có tên là AGI-ADA*
 
 *Tuần trước, Charles và Ben đã ngồi lại với nhau trong một [podcast đặc biệt của SingularityNET](https://www.youtube.com/watch?v=TNWJGGc7ESI). Trong một cuộc thảo luận trên phạm vi rộng, hai người đã làm rõ hơn về nền tảng truyền thông xã hội phi tập trung, sự hợp tác với Cardano và cách công nghệ AI tự do có thể giúp một xã hội tốt đẹp hơn như thế nào.*
 
