@@ -61,4 +61,4 @@ Với trang web hiện vẫn đang trong giai đoạn thử nghiệm, nó cần 
 
 *Sáng kiến Stack Exchange thực sự là một nỗ lực của cộng đồng Cardano. Vì vậy, đặc biệt cảm ơn [tất cả những người đóng góp](https://area51.stackexchange.com/proposals/125174?phase=beta&users=reputation#tab-top) làm việc để thúc đẩy dự án này phát triển.*
 
-##### ***I would like to acknowledge Neil Burgess for his contribution to this article.***
+##### ***Tôi muốn ghi nhận sự đóng góp của Neil Burgess cho bài viết này.Bài này được dịch bởi LinhPool, Review và đăng bài bởi Nguyễn Hiệu. Nguồn bài dịch [tại đây](https://iohk.io/en/blog/posts/2021/08/19/cardano-stack-exchange-a-growing-and-vibrant-community-developer-resource/) *Dự án này được tài trợ bới Catalyst****
