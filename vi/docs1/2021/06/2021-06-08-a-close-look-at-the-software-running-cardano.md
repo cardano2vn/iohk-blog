@@ -2,7 +2,7 @@
 
 ### **Tìm hiểu về các thành phần tương tác để chạy nền tảng blockchain**
 
-![](img/2021-06-08-a-close-look-at-the-software-running-cardano.002.png) 8 June 2021![](img/2021-06-08-a-close-look-at-the-software-running-cardano.002.png)[ Niamh Ahern](tmp//en/blog/authors/niamh-ahern/page-1/)![](img/2021-06-08-a-close-look-at-the-software-running-cardano.003.png) 5 mins read
+![](img/2021-06-08-a-close-look-at-the-software-running-cardano.002.png) 8 tháng 6 năm 2021 ![](img/2021-06-08-a-close-look-at-the-software-running-cardano.002.png) [Niamh Ahern](tmp//en/blog/authors/niamh-ahern/page-1/) ![](img/2021-06-08-a-close-look-at-the-software-running-cardano.003.png) 5 phút đọc
 
 ![Niamh Ahern](img/2021-06-08-a-close-look-at-the-software-running-cardano.004.png)[](tmp//en/blog/authors/niamh-ahern/page-1/)
 
@@ -17,64 +17,64 @@ Education
 - ![](img/2021-06-08-a-close-look-at-the-software-running-cardano.007.png)[](https://twitter.com/nahern_iohk?lang=en "Twitter")
 - ![](img/2021-06-08-a-close-look-at-the-software-running-cardano.008.png)[](https://github.com/nahern "GitHub")
 
-![A close look at the software running Cardano](img/2021-06-08-a-close-look-at-the-software-running-cardano.009.jpeg)
+![Cận cảnh vận hành phần mềm trên Cardano](img/2021-06-08-a-close-look-at-the-software-running-cardano.009.jpeg)
 
-Cardano has been designed in modules, with linked components that can be used in various ways. These components form the Cardano ‘platform stack’. They work together under the hood to support the construction and use of the live Cardano blockchain.
+Cardano đã được thiết kế ở dạng các mô-đun, với các thành phần liên kết có thể được sử dụng theo nhiều cách khác nhau. Các thành phần này tạo thành 'ngăn xếp nền tảng' (platform stack) của Cardano. Họ làm việc cùng nhau để hỗ trợ việc xây dựng và sử dụng blockchain Cardano trực tiếp.
 
-We are currently in the early testnet phase on the way to the Alonzo hard fork, which will bring full smart contract capability to Cardano. This process is highly complex, requiring the steady upgrade of the different elements which make up the Cardano platform, and their careful integration and testing. So, it is a good time to revisit these components, explain some of the terminology, and discover how they interact within the ‘platform stack’.
+Chúng tôi hiện đang ở trong giai đoạn đầu testnet (mạng thử nghiệm) từng bước đến hard fork Alonzo, điều này sẽ mang lại khả năng hợp đồng thông minh đầy đủ cho Cardano. Quá trình này rất phức tạp, đòi hỏi phải nâng cấp ổn định các yếu tố khác nhau tạo nên nền tảng Cardano, cũng như tích hợp và thử nghiệm chúng thật kỹ lưỡng. Vì vậy, đây là thời điểm tốt để xem lại các thành phần này, giải thích một số thuật ngữ và khám phá cách chúng tương tác trong 'platform stack'.
 
 ## **Các thành phần của Cardano**
 
 ![](img/2021-06-08-a-close-look-at-the-software-running-cardano.010.png)
 
-**Figure 1. Components that communicate with the Cardano node**
+**Hình 1. Các thành phần giao tiếp với nút Cardano**
 
-The platform stack for Cardano includes these core components:
+Platform stack cho Cardano bao gồm các thành phần cốt lõi sau:
 
-- Cardano node (and associated processes)
-- Cardano wallet
-- Wallet command line interface (CLI)
-- DB Sync (synchronizes blockchain data with a relational database)
-- PostgreSQL database (which interacts with GraphQL, REST API, and Smash)
-- Smash server
-- Rosetta API (blockchain communication protocol)
+- Cardano node (và các quy trình liên quan)
+- Ví Cardano
+- Giao diện dòng lệnh ví (CLI)
+- DB Sync (đồng bộ hóa dữ liệu blockchain với cơ sở dữ liệu quan hệ)
+- Cơ sở dữ liệu PostgreSQL (tương tác với GraphQL, REST API và Smash)
+- Máy chủ Smash
+- Rosetta API (giao thức truyền thông blockchain)
 
-Note that the Daedalus wallet is not part of the core stack, but does communicate with the components (Figure 1).
+Lưu ý rằng ví Daedalus không phải là một phần của stack lõi, nhưng giao tiếp với các thành phần trên (Hình 1).
 
-### **The node and the networking layer**
+### **Node và lớp mạng**
 
-First, let's take a look at the [Cardano node](https://github.com/input-output-hk/cardano-node). This software runs on your computer and underpins the network, enabling everyone to participate in the decentralized blockchain. The node integrates the consensus, ledger, and networking sub-components, providing top-level configuration, API, CLI, logging, memory management, and monitoring capabilities that can be used by other Cardano components or by skilled users. Daedalus is a full-node wallet, so if you are running that on your local machine, you are effectively helping to run the network.
+Đầu tiên, chúng ta hãy xem xét [Cardano node](https://github.com/input-output-hk/cardano-node). Phần mềm này chạy trên máy tính của bạn và làm nền tảng cho mạng, cho phép mọi người tham gia vào blockchain phi tập trung. Node tích hợp sự đồng thuận, sổ cái và các thành phần phụ của mạng, cung cấp cấu hình cấp cao nhất, API, CLI, khả năng ghi nhật ký, quản lý bộ nhớ và giám sát có thể được sử dụng bởi các thành phần Cardano khác hoặc bởi những người dùng có kỹ năng. Daedalus là một ví đầy đủ các node, vì vậy nếu bạn đang chạy ví đó trên máy cục bộ của mình, bạn đang giúp chạy mạng một cách hiệu quả.
 
-*The networking layer*
+*Lớp mạng*
 
 Tiếp theo, chúng ta có lớp mạng. Điều này liên kết mỗi nút Cardano thành một hệ thống phân tán quản lý blockchain và các dịch vụ liên quan. Mạng bao gồm một tập hợp các node giao tiếp với nhau để duy trì sổ cái phân tán, hỗ trợ gửi giao dịch và tương tác với ví của người dùng và các dịch vụ khác. Cốt lõi của mạng được xây dựng xung quanh các node phi tập trung - các nhóm cổ phần - xác nhận chung các block và thêm các block mới vào chuỗi. Chúng được hỗ trợ bởi các node chuyển tiếp chuyên dụng quản lý các kết nối mạng và thiết lập cấu trúc của mạng nói chung. Các node dành riêng cho người tiêu dùng chạy trên ví Daedalus và các dịch vụ khác kết nối với mạng này để theo dõi và gửi các giao dịch trên chuỗi.
 
 Các node Cardano duy trì kết nối với các node ngang hàng. Một tập hợp các giao thức nhỏ cho phép giao tiếp giữa các node. Mỗi giao thức nhỏ thực hiện một yêu cầu trao đổi thông tin cơ bản, chẳng hạn như thông báo cho các node khác về block mới nhất, chia sẻ block khi cần thiết hoặc chia sẻ các giao dịch mới xung quanh mạng Cardano. Đối với mục đích kết nối, các giao thức nhỏ được xác định bởi phiên bản của giao thức mạng.
 
-### **Cardano wallet backend**
+### **Chương trình phụ trợ của ví Cardano**
 
-The [Cardano wallet](https://github.com/input-output-hk/cardano-wallet) backend component supports the graphical user interface of the Daedalus wallet. It is used to send and receive ada. Behind the scenes, the wallet runs a full Cardano node. Unlike a light client wallet, it loads the entire shared ledger and validates all transactions, thus bolstering the security of the blockchain for everyone.
+[Cardano wallet backend](https://github.com/input-output-hk/cardano-wallet) hỗ trợ giao diện người dùng đồ họa của ví Daedalus. Nó được sử dụng để gửi và nhận ada. Đằng sau chuỗi, ví chạy một Cardano node đầy đủ. Không giống như ví nhẹ của khách hàng, nó tải toàn bộ sổ cái được chia sẻ và xác thực tất cả các giao dịch, do đó tăng cường bảo mật của blockchain cho mọi người.
 
-### **Wallet command line interface (CLI)**
+### **Giao diện dòng lệnh của ví (CLI)**
 
-The wallet command line interface (CLI) supports interactions with the actual blockchain. More technically advanced users can use the CLI to work with a collection of tools for generating keys, constructing transactions, creating certificates, and performing other tasks. It is organized in a hierarchy of subcommands, and each level comes with its own built-in documentation of command syntax and options.
+Giao diện dòng lệnh của ví (CLI) hỗ trợ các tương tác với blockchain thực tế. Người dùng có kiến thức cao hơn có thể sử dụng CLI kết hợp làm việc với các công cụ để tạo khóa, xây dựng giao dịch, tạo chứng chỉ và thực hiện các tác vụ khác. Nó được tổ chức theo một hệ thống phân cấp các lệnh con và mỗi cấp đi kèm với tài liệu tích hợp riêng về cú pháp lệnh và các tùy chọn.
 
 ### **DB Sync**
 
-[DB Sync](https://github.com/input-output-hk/cardano-db-sync) is a component that follows the activities on the Cardano chain and stores blocks and transactions in PostgreSQL. As a ‘middleware’ component, it powers [cardano-graphql](https://github.com/input-output-hk/cardano-graphql). DB Sync stores blockchain data fetched from [cardano-node](https://github.com/input-output-hk/cardano-node) in an intermediate database to enable higher-level interfaces for blockchain exploration. It also provides a number of queries to fetch Cardano blockchain data from the PostgreSQL, and supports services such as the [Cardano Explorer](https://explorer.cardano.org/en.html), a graphical user interface that reflects the blockchain data in a straightforward way. Cardano GraphQL is a cross-platform API for the GraphQL data query language.
+[DB Sync](https://github.com/input-output-hk/cardano-db-sync) là một thành phần tuân theo các hoạt động trên chuỗi Cardano và lưu trữ các block và giao dịch trong PostgreSQL. Là một thành phần 'phần mềm trung gian', nó cung cấp năng lượng cho [cardano-graphql](https://github.com/input-output-hk/cardano-graphql). DB Sync lưu trữ dữ liệu blockchain được lấy từ [cardano-node](https://github.com/input-output-hk/cardano-node) trong cơ sở dữ liệu trung gian để cho phép các giao diện cấp cao hơn cho việc khám phá blockchain. Nó cũng cung cấp một số truy vấn để lấy dữ liệu blockchain Cardano từ PostgreSQL và hỗ trợ các dịch vụ như [Cardano Explorer](https://explorer.cardano.org/en.html), một giao diện người dùng đồ họa lấy dữ liệu blockchain một cách đơn giản. Cardano GraphQL là một API đa nền tảng cho ngôn ngữ truy vấn dữ liệu GraphQL.
 
 ### **Rosetta API**
 
-The Rosetta application programming interface provides a high-level interface that aims to make the integration process easier, faster, and more reliable so that you can build once and integrate your blockchain everywhere. We have created a unique [cardano-rosetta](https://github.com/input-output-hk/cardano-rosetta) implementation to simplify the process of integration with Cardano. This interface is particularly useful for exchanges, since they can interact with the Cardano chain using the same interface that they use with other blockchains.
+Giao diện lập trình ứng dụng Rosetta cung cấp giao diện cấp cao nhằm mục đích làm cho quá trình tích hợp dễ dàng hơn, nhanh hơn và đáng tin cậy hơn để bạn có thể xây dựng một lần và tích hợp blockchain của mình ở mọi nơi. Chúng tôi đã triển khai tạo một [cardano-rosetta](https://github.com/input-output-hk/cardano-rosetta) duy nhất để đơn giản hóa quá trình tích hợp với Cardano. Giao diện này đặc biệt hữu ích cho các sàn giao dịch, vì họ có thể tương tác với chuỗi Cardano bằng cách sử dụng cùng một giao diện mà họ sử dụng với các blockchain khác.
 
-### **Looking forward**
+### **Nhìn về tương lai**
 
-With [smart contracts](https://iohk.io/en/blog/posts/2021/04/08/smart-contracts-%E2%80%93-here-we-come/) coming to Cardano soon, this means that [Plutus](https://iohk.io/en/blog/posts/2021/04/13/plutus-what-you-need-to-know/), the native smart contract language, and other smart contract development languages like [Marlowe](https://iohk.io/en/blog/posts/2021/05/26/reimagining-peer-to-peer-finance-with-marlowe/) for finance and [Glow](https://glow-lang.org/) for DApps will be integrated into the Cardano stack. IO Global’s engineers will provide new and extended components to compile Plutus, Marlowe, and Glow scripts, submit them on-chain, and interact with them (Figure 2).
+Với các [hợp đồng thông minh](https://iohk.io/en/blog/posts/2021/04/08/smart-contracts-%E2%80%93-here-we-come/) sắp có mặt trên Cardano, điều này có nghĩa là [Plutus](https://iohk.io/en/blog/posts/2021/04/13/plutus-what-you-need-to-know/), ngôn ngữ hợp đồng thông minh native và các ngôn ngữ phát triển hợp đồng thông minh khác như [Marlowe](https://iohk.io/en/blog/posts/2021/05/26/reimagining-peer-to-peer-finance-with-marlowe/) cho tài chính và [Glow](https://glow-lang.org/) cho DApps sẽ được tích hợp vào stack Cardano. Các kỹ sư của IO Global sẽ cung cấp các thành phần mới và mở rộng để biên dịch các tập lệnh Plutus, Marlowe và Glow, gửi chúng trên chuỗi và tương tác với chúng (Hình 2).
 
 ![](img/2021-06-08-a-close-look-at-the-software-running-cardano.011.jpeg)
 
-**Figure 2. Plutus, Marlowe, Glow, Solidity, and IELE can all be used to write Cardano smart contracts**
+**Hình 2. Plutus, Marlowe, Glow, Solidity và IELE đều có thể được sử dụng để viết các hợp đồng thông minh Cardano**
 
-The [Alonzo protocol upgrade](https://iohk.io/en/blog/posts/2021/04/08/smart-contracts-%E2%80%93-here-we-come/) will build on recent token upgrades and is being deployed to the mainnet via several testnets. Our Plutus partners and Plutus Pioneers will help us to test Plutus Core and will be part of the user acceptance phase before mainnet deployment. At this point we will officially add the Plutus and Marlowe components, such as both interpreters, to Cardano’s platform stack.
+Bản [nâng cấp giao thức Alonzo](https://iohk.io/en/blog/posts/2021/04/08/smart-contracts-%E2%80%93-here-we-come/) sẽ được xây dựng dựa trên các bản nâng cấp token gần đây và đang được triển khai cho mạng chính thông qua một số mạng thử nghiệm. Các đối tác Plutus của chúng tôi và Plutus Pioneers sẽ giúp chúng tôi kiểm tra Plutus Core và sẽ là một phần của giai đoạn chấp nhận người dùng trước khi triển khai mạng chính. Tại thời điểm này, chúng tôi sẽ chính thức thêm các thành phần Plutus và Marlowe, chẳng hạn như cả hai trình thông dịch, vào stack nền tảng của Cardano.
 
 *Để cập nhật thông tin giới thiệu Alonzo, vui lòng kiểm tra các kênh xã hội và trang blog của chúng tôi. Bài này được dịch bởi LinhPool, Review bởi tienna và đăng bài bởi ... Nguồn bài dịch [tại đây](https://iohk.io/en/blog/posts/2021/06/08/a-close-look-at-the-software-running-cardano/) *Dự án này được tài trợ bới Catalyst**
