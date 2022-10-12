@@ -25,7 +25,7 @@ EBU là một nhà cung cấp giáo dục nổi tiếng và là tổ chức phi 
 
 Mục tiêu của sự hợp tác này là mở rộng việc giảng dạy và nội dung tài liệu giảng dạy cùng với với việc cung cấp các khóa học Plutus và Haskell cho nhiều đối tượng hơn, đồng thời qua đó trao quyền cho người dân ở các nước đang phát triển để học các kỹ năng mới và trở nên tự giác trong học tập.
 
-Working closely with Alexis Hague and Dr. James Mulli, directors at the European Business University of Luxembourg (EBU), this new partnership will be sponsored by IOHKâ€™s director of education, Lars BrÃ¼njes, in conjunction with our IOHK education team. The collaboration will give a wealth of new African students access to educational material for free, whilst also supporting our mission in the region.
+Cùng với sự hợp tác chặt chẽ với ngài Alexis Hague và tiến sĩ James Mulli, các giám đốc của Đại học Kinh doanh Châu Âu Luxembourg (EBU), mối quan hệ hợp tác mới này sẽ được tài trợ bởi giám đốc giáo dục của IOHK, Lars Brünjes, cùng với với đội ngũ giáo dục IOHK. Sự hợp tác sẽ giúp vô số sinh viên châu Phi tiếp cận tài liệu giáo dục miễn phí, đồng thời hỗ trợ sứ mệnh của chúng tôi trong khu vực.
 
 ### **Mở rộng phạm vi giáo dục ở Châu Phi**
 
@@ -41,8 +41,8 @@ IOHK và EBU sẽ làm việc cùng nhau để hỗ trợ việc thực hiện c
 
 ### **Tôi có thể đăng ký bằng cách nào?**
 
-If you are interested in signing up for these training programs ahead of the start of EBUâ€™s new term on September 27th, please visit the [EBU scholarship website](https://connect.ebu.lu/) to register and enroll. Participants will then receive a coupon code to use for enrollment. We are pleased to confirm that the price of these courses will be waived and only includes a nominal administration fee. If you have any questions, please contact [EBU admissions](mailto:admission@ebu.lu) or [EBU administration](mailto:admin@ebu.lu).
+Nếu bạn quan tâm đến việc đăng ký các chương trình đào tạo này trước khi bắt đầu học kỳ mới của EBU vào ngày 27 tháng 9, vui lòng truy cập trang[ web học bổng EBU](https://connect.ebu.lu/) để đăng ký và ghi danh. Sau đó, người tham gia sẽ nhận được một phiếu giảm giá để sử dụng cho việc đăng ký. Chúng tôi vui mừng xác nhận sẽ miễn học phí của các khóa học này và chỉ bao gồm một khoản phí quản lý trên danh nghĩa. Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với [bộ phận tuyển sinh EBU](mailto:admission@ebu.lu) hoặc [ban quản lý EBU](mailto:admin@ebu.lu).
 
 ### **Nhìn về tương lai**
 
-We plan to release these training programs and content publicly in GitHub in the near future, so that other institutions can follow this approach and roll out their own Haskell and Plutus training courses. Stay tuned for more details on availability of this content coming soon.
+Chúng tôi có kế hoạch phát hành công khai các chương trình và nội dung đào tạo này trên GitHub trong tương lai gần, để các tổ chức khác có thể làm theo cách tiếp cận này và triển khai các khóa đào tạo Haskell và Plutus của riêng họ. Hãy theo dõi để biết thêm chi tiết về tính khả thi của dự án sắp ra mắt này.<br><br>Bài này được dịch bởi Thanhtintran, soát xét bởi Brit Nguyễn <a>với bài gốc: https://iohk.io/en/blog/posts/2021/08/24/making-education-in-africa-more-accessible-affordable-and-equitable/</a><br><em>Dự án này được tài trợ bởi Catalyst</em>
