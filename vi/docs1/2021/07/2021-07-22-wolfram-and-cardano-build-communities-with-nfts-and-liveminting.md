@@ -14,7 +14,7 @@ Guest author
 
 - ![](img/2021-07-22-wolfram-and-cardano-build-communities-with-nfts-and-liveminting.005.png)[](https://twitter.com/jonwoodard "Twitter")
 
-![ Wolfram and Cardano build communities with NFTs and liveminting](img/2021-07-22-wolfram-and-cardano-build-communities-with-nfts-and-liveminting.006.jpeg)
+![Wolfram và Cardano xây dựng cộng đồng với NFT và Liveminting](img/2021-07-22-wolfram-and-cardano-build-communities-with-nfts-and-liveminting.006.jpeg)
 
 Khi ảnh hưởng của đại dịch đã giảm, chúng ta có thể kết nối lại với cộng đồng và tập trung vào một tầm nhìn chung cho tương lai. Chúng ta đang ở đỉnh cao của thời kỳ phục hưng công nghệ, báo trước những cách thức mới để tạo ra các kết nối bền vững. Ở Wolfram Blockchain Labs (WBL), chúng tôi nhìn thấy trước một tương lai nơi những khoảnh khắc quan trọng có thể được tạo ra, lưu trữ và chia sẻ trong thời gian thực để gắn kết cộng đồng với nhau nhiều hơn. Nguồn cảm hứng đến từ chuyến đi gần đây của tôi đến Bitcoin Miami 2021, ở đó tôi đã tham dự Cardano Meetup.
 
