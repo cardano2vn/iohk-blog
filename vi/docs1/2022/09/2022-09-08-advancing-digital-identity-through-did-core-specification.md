@@ -15,7 +15,7 @@ Marketing &amp; Communication
 - ![](img/2022-09-08-advancing-digital-identity-through-did-core-specification.005.png)[](mailto:ivan.irakoze@iohk.io "Email")
 - ![](img/2022-09-08-advancing-digital-identity-through-did-core-specification.006.png)[](https://twitter.com/The_ADA_Poet "Twitter")
 
-![Advancing digital identity through DID core specification](img/2022-09-08-advancing-digital-identity-through-did-core-specification.007.jpeg)
+![Cải tiến nhận dạng kỹ thuật số thông qua đặc điểm kỹ thuật cốt lõi của DID](img/2022-09-08-advancing-digital-identity-through-did-core-specification.007.jpeg)
 
 In June 2022, the World Wide Web Consortium (W3C) approved theÂ [Decentralized Identifier (DID) Working Group](https://www.w3.org/2020/12/did-wg-charter.html)â€™s DID core specification to move to the W3C Recommendation stage. This milestone reaffirms the rising relevance ofÂ **digital identity**Â and provides clearer and stronger foundations for identity platforms such asÂ [Atala PRISM](https://www.atalaprism.io/#why).
 
