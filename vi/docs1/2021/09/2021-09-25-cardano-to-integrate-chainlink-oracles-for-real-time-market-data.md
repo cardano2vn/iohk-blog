@@ -2,7 +2,7 @@
 
 ### **Sự hợp tác mới của chúng tôi sẽ bổ sung thêm hỗ trợ cho các nhà lập trình xây dựng hợp đồng thông minh cho các ứng dụng DeFi trên Cardano**
 
-![](img/2021-09-25-cardano-to-integrate-chainlink-oracles-for-real-time-market-data.002.png) 25 September 2021![](img/2021-09-25-cardano-to-integrate-chainlink-oracles-for-real-time-market-data.002.png)[ Tim Harrison](tmp//en/blog/authors/tim-harrison/page-1/)![](img/2021-09-25-cardano-to-integrate-chainlink-oracles-for-real-time-market-data.003.png) 4 mins read
+![](img/2021-09-25-cardano-to-integrate-chainlink-oracles-for-real-time-market-data.002.png)  Ngày 25 tháng 9 năm 2021![](img/2021-09-25-cardano-to-integrate-chainlink-oracles-for-real-time-market-data.002.png)[ Tim Harrison](tmp//en/blog/authors/tim-harrison/page-1/)![](img/2021-09-25-cardano-to-integrate-chainlink-oracles-for-real-time-market-data.003.png) bài đọc 4 phút
 
 ![Tim Harrison](img/2021-09-25-cardano-to-integrate-chainlink-oracles-for-real-time-market-data.004.png)[](tmp//en/blog/authors/tim-harrison/page-1/)
 
@@ -17,7 +17,7 @@ Communications
 - ![](img/2021-09-25-cardano-to-integrate-chainlink-oracles-for-real-time-market-data.007.png)[](https://twitter.com/timbharrison "Twitter")
 - ![](img/2021-09-25-cardano-to-integrate-chainlink-oracles-for-real-time-market-data.008.png)[](https://github.com/timbharrison "GitHub")
 
-![Cardano to integrate Chainlink oracles for real-time market data](img/2021-09-25-cardano-to-integrate-chainlink-oracles-for-real-time-market-data.009.jpeg)
+![Cardano tích hợp oracle của Chainlink cập nhật dữ liệu thị trường theo thời gian thực](img/2021-09-25-cardano-to-integrate-chainlink-oracles-for-real-time-market-data.009.jpeg)
 
 Trọng tâm tiềm năng của DeFi và RealFi là việc sử dụng công nghệ ngang hàng dựa trên blockchain để xây dựng các sản phẩm tài chính minh bạch và đáng tin cậy bằng cách sử dụng oracle và hợp đồng thông minh. Trong Hội nghị thượng đỉnh Cardano ngày hôm nay, chúng tôi đã công bố sự hợp tác chiến lược mới thú vị với Chainlink Labs, điều này sẽ hỗ trợ các nhà lập trình xây dựng các hợp đồng thông minh cho các ứng dụng Cardano DeFi.
 
@@ -31,16 +31,16 @@ Ngoài việc cấp dữ liệu giá thị trường, Chainlink cũng cung cấp
 
 Sự hợp tác này giữa IOHK và Chainlink Labs sẽ cung cấp quyền truy cập vào vô số dữ liệu an toàn, giúp DeFi xây dựng một hệ thống kinh tế toàn cầu ít tốn kém hơn và bao trùm hơn. Ban đầu, nguồn cấp thông tin về giá thị trường theo thời gian thực sẽ được liên kết với Cardano. Theo thời gian, nguồn cấp dữ liệu bổ sung về thể thao và thời tiết sẽ diễn ra, để sử dụng với bảo hiểm, trò chơi và NFTs.
 
-IOHK Founder Charles Hoskinson said: â€œOracles are essential to making real-world data accessible on Cardano and they support advanced smart contracts, such as DeFi applications.
+Người sáng lập IOHK Charles Hoskinson cho biết: “Oracle là điều cần thiết để làm cho dữ liệu trong thế giới thực có thể truy cập được trên Cardano và chúng hỗ trợ các hợp đồng thông minh tiên tiến, chẳng hạn như các ứng dụng DeFi."
 
-â€œIOHK is committed to providing developers with the most secure and robust tooling for building useful solutions on Cardano, making it an easy choice to integrate Chainlinkâ€™s market-leading oracle solution.â€
+IOHK cam kết cung cấp cho các nhà lập trình công cụ an toàn và mạnh mẽ nhất để xây dựng các giải pháp hữu ích trên Cardano, giúp dễ dàng tích hợp các giải pháp oracle hàng đầu thị trường của Chainlink vào.
 
-He added: â€œNot only will integrating Chainlink price feeds reduce the go-to-market time for Cardano developers, but it will establish a secure foundation for Cardanoâ€™s DeFi ecosystem, helping make Cardano more trusted by users around the world.â€
+Ông nói thêm: “Việc tích hợp nguồn cấp dữ liệu của Chainlink không chỉ giúp giảm thời gian truy cập thị trường cho các nhà lập trình Cardano mà còn thiết lập một nền tảng an toàn cho hệ sinh thái DeFi của Cardano, giúp Cardano được người dùng trên toàn thế giới tin tưởng hơn.”
 
-Sergey Nazarov, co-founder of Chainlink, said: â€œWeâ€™re excited to leverage our extensive experience and expertise by establishing native support for Chainlink on the Cardano blockchain and supporting its next stage of growth into markets like DeFi and beyond.
+Sergey Nazarov, người đồng sáng lập Chainlink, cho biết: “Chúng tôi rất vui khi tận dụng kinh nghiệm và chuyên môn sâu rộng của mình bằng cách thiết lập hỗ trợ gốc của Chainlink trên blockchain Cardano và hỗ trợ giai đoạn phát triển tiếp theo vào các thị trường như DeFi và hơn thế nữa.
 
-â€œSimilar to programming interfaces in web app development, developers building DeFi applications on Cardano will be able to plug-and-play Chainlink price feeds into their smart contracts to quickly gain access to high-quality, real-time price data on a wide range of assets while still maintaining robust security and uptime. Ultimately, this will empower developers on Cardano to build next-generation applications quicker and more securely.â€
+“Tương tự như giao diện lập trình trong phát triển ứng dụng web, các nhà lập trình xây dựng ứng dụng DeFi trên Cardano sẽ có thể cắm và chạy nguồn cấp dữ liệu của Chainlink vào các hợp đồng thông minh của họ để nhanh chóng có quyền truy cập vào dữ liệu thời gian thực, chất lượng cao trên phạm vi rộng của tài sản trong khi vẫn duy trì bảo mật và thời gian hoạt động mạnh mẽ. Cuối cùng, điều này sẽ trao quyền cho các nhà lập trình trên Cardano để xây dựng các ứng dụng thế hệ tiếp theo nhanh hơn và an toàn hơn.”
 
-Niki Ariyasinghe, head of blockchain partnerships at Chainlink Labs, said: â€œWe have a tremendous amount of respect for the Cardano ecosystem. Obviously for the technical team behind Cardano â€“ IOG and so on â€“ but also for the collaborative nature of the community as well."
+Niki Ariyasinghe, người đứng đầu quan hệ đối tác blockchain tại Chainlink Labs, cho biết: “Chúng tôi vô cùng tôn trọng hệ sinh thái Cardano. Không những là đối với đội ngũ kỹ thuật đằng sau Cardano – IOG, mà còn đối với sự hợp tác của cộng đồng."
 
 Ariyasinghe nói thêm: "Khả năng tương thích crosschain là một mục tiêu dài hạn khác. Đây thực sự là một khuôn khổ để tạo cầu nối giữa các chuỗi khác nhau và tạo điều kiện cho một thế giới đa chuỗi. Vì vậy, đây là điều mà chúng tôi hy vọng sẽ hợp tác với hệ sinh thái Cardano. Bài này được dịch bởi Lê Nguyên, Review bởi Quang Pham, Biên tập bởi .... Bài viết nguồn <a>tại đây</a> (https://iohk.io/en/blog/posts/2021/09/25/cardano-to-integrate-chainlink-oracles-for-real-time-market-data/) *Dự án được tài trợ bởi Catalyst*
