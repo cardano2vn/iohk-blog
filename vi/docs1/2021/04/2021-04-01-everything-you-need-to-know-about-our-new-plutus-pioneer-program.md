@@ -2,7 +2,7 @@
 
 ### **Bắt đầu từ tuần tới, cùng tìm hiểu Plutus và trở thành Người tiên phong của chương trình lập trình Plutus được chứng nhận từ chuỗi các khóa đào tạo tương tác mới của chúng tôi.**
 
-![](img/2021-04-01-everything-you-need-to-know-about-our-new-plutus-pioneer-program.002.png) 1 April 2021![](img/2021-04-01-everything-you-need-to-know-about-our-new-plutus-pioneer-program.002.png)[ Niamh Ahern](tmp//en/blog/authors/niamh-ahern/page-1/)![](img/2021-04-01-everything-you-need-to-know-about-our-new-plutus-pioneer-program.003.png) 5 mins read
+![](img/2021-04-01-everything-you-need-to-know-about-our-new-plutus-pioneer-program.002.png) 1 tháng 4 năm 2021 ![](img/2021-04-01-everything-you-need-to-know-about-our-new-plutus-pioneer-program.002.png) [Niamh Ahern](tmp//en/blog/authors/niamh-ahern/page-1/) ![](img/2021-04-01-everything-you-need-to-know-about-our-new-plutus-pioneer-program.003.png) 5 phút đọc
 
 ![Niamh Ahern](img/2021-04-01-everything-you-need-to-know-about-our-new-plutus-pioneer-program.004.png)[](tmp//en/blog/authors/niamh-ahern/page-1/)
 
@@ -10,20 +10,20 @@
 
 Education Manager
 
-Education
+Giáo dục
 
-- ![](img/2021-04-01-everything-you-need-to-know-about-our-new-plutus-pioneer-program.005.png)[](mailto:niamh.ahern@iohk.io "Email")
+- ![](img/2021-04-01-everything-you-need-to-know-about-our-new-plutus-pioneer-program.005.png)[](mailto:niamh.ahern@iohk.io "E-mail")
 - ![](img/2021-04-01-everything-you-need-to-know-about-our-new-plutus-pioneer-program.006.png)[](https://www.linkedin.com/in/niamh-ahern-67849949/ "LinkedIn")
 - ![](img/2021-04-01-everything-you-need-to-know-about-our-new-plutus-pioneer-program.007.png)[](https://twitter.com/nahern_iohk?lang=en "Twitter")
 - ![](img/2021-04-01-everything-you-need-to-know-about-our-new-plutus-pioneer-program.008.png)[](https://github.com/nahern "GitHub")
 
-![Everything you need to know about our new Plutus Pioneer Program](img/2021-04-01-everything-you-need-to-know-about-our-new-plutus-pioneer-program.009.jpeg)
+![Mọi thứ bạn cần biết về Chương trình Plutus tiên phong mới của chúng tôi](img/2021-04-01-everything-you-need-to-know-about-our-new-plutus-pioneer-program.009.jpeg)
 
 Tuần tới sẽ chứng kiến sự bắt đầu của chương trình đầu tiên trong một loạt các chương trình đào tạo tiên phong về ngôn ngữ lập trình Plutus (Plutus) của chúng tôi, nơi những người tham gia có thể tìm hiểu các nguyên tắc cơ bản của Plutus và giúp kiểm tra mã lập trình trước khi chúng tôi phát hành chính thức ngôn ngữ hợp đồng thông minh mới. Chương trình sáng tạo mới này nhằm mục đích tuyển dụng và đào tạo các nhà phát triển trong hệ sinh thái để họ được chuẩn bị đầy đủ và sẵn sàng khi chương trình Plutus được triển khai vào mạng chính mainet Cardano vào cuối năm nay.
 
 Kể từ khi chúng tôi công bố khóa học mới này [ trong bản tin cập nhật Cardano360 tháng 3,](https://youtu.be/ULBLgPgxtN8?t=3731) chúng tôi đã nhận được sự quan tâm rất lớn từ cộng đồng nhà phát triển của chúng ta, cả từ các nhà phát triển muốn tạo các ứng dụng phi tập trung (DApps) và các nhà lập trình hợp đồng thông minh muốn làm việc với ngôn ngữ phát triển chính của Cardano. Tuần này, chúng tôi đã liên hệ với tất cả những người quan tâm (hơn 2.000) để hiểu rõ hơn về kinh nghiệm và chuyên môn của họ. Những bạn đã được chọn vào vòng đầu tiên của chương trình này sẽ sớm nhận được phản hồi của chúng tôi. Nếu bạn không nhận được lời mời ở giai đoạn này, đừng lo lắng vì chúng tôi sẽ tiếp tục thực hiện một số vòng của chương trình này, vì vậy hãy tiếp tục theo dõi và giữ liên lạc!
 
-## **Course structure**
+## **Cấu trúc khóa học**
 
 The first iteration of the new program starts next week. The cohort joining this program will be true pioneers. As well as being part of a group that will have *early access* to a set of learning modules, your feedback will help us develop and iterate the overall learning experience.
 
@@ -41,11 +41,11 @@ Vì phần lớn chương trình Plutus dựa trên ngôn ngữ lập trình Has
 
 Hãy nhớ rằng khóa học này không dành cho người mới bắt đầu lập trình. Mặc dù bạn không cần phải là một chuyên gia về các phương pháp chính thức, nhưng kinh nghiệm lập trình và năng khiếu chung về tư duy logic và toán học là điều rất đáng mong đợi. Khóa học sẽ bao gồm các tính năng nâng cao như Template Haskell, lập trình type - level và hệ thống hiệu ứng. Nếu bạn cần bồi dưỡng hoặc được giới thiệu về Haskell, chúng tôi khuyên bạn nên đọc [hướng dẫn bạn đọc thêm tài liệu hướng dẫn Tìm hiểu về chương trình Haskell](http://learnyouahaskell.com/) trước khi tham gia khóa học. Chúng tôi sẽ mở một số nhóm thực hành mới trong năm nay, vì vậy bạn sẽ không bị bỏ lỡ chương trình.
 
-## **When does the course start?**
+## **Khi nào thì khóa học bắt đầu?**
 
 Khóa học bắt đầu vào tuần tới và sẽ diễn ra đồng thời trong mười tuần đến giữa tháng Sáu. Khóa học có thời lượng khoảng mười giờ một tuần dựa theo thời gian và nỗ lực của bạn mỗi tuần.
 
-## **Will there be other pioneer programs?**
+## **Sẽ có các chương trình tiên phong khác?**
 
 Có, chúng tôi muốn trở nên toàn diện nhất có thể trên con đường triển khai các hợp đồng thông minh. Chúng tôi cũng đang phát triển các chương trình giáo dục cho cả chương trình [Marlowe](https://docs.cardano.org/marlowe/learn-about-marlowe) và [Glow](https://developers.cardano.org/en/programming-languages/glow/overview/) , vì vậy đừng tiếc nếu như bạn đã bỏ lỡ nếu khóa học Plutus này và nghĩ khóa học không dành cho bạn. Chúng tôi vẫn mong muốn có bạn tham gia, vì vậy hãy theo dõi kênh thông tin này để biết chi tiết về các khóa học khác!
 
@@ -53,6 +53,6 @@ Có, chúng tôi muốn trở nên toàn diện nhất có thể trên con đư�
 
 Chúng tôi sẽ khen thưởng những người tham gia vì những nỗ lực khi họ tham gia khóa học này và chứng nhận những người tiên phong hoàn thành toàn bộ chương trình và thành công trong khóa học. Các chứng chỉ tiên phong này của Plutus sẽ được biểu thị dưới dạng các NFT (trên testnet) và bị khóa bởi hợp đồng Plutus. Những người tiên phong có thể chứng minh kiến thức và trình độ của họ bằng cách xây dựng một giao dịch thích hợp để mở khóa mã thông báo cá nhân của họ.
 
-## **Ready to start**
+## **Sẵn sàng để bắt đầu**
 
 We are excited to have so many developers from our ecosystem on board and ready to get started and learn Plutus. You’ll not only be learning yourselves, but acting as a pioneer to help us determine the best way to teach and deliver this course – truly helping pave the way for future cohorts who enroll! We look forward to bringing you on this learning journey before we launch Plutus to the world!
