@@ -15,7 +15,7 @@ Marketing &amp; Communication
 - ![](img/2021-03-12-cardanos-extended-utxo-accounting-model-part-2.005.png)[](mailto:fernando.sanchez@iohk.io "Email")
 - ![](img/2021-03-12-cardanos-extended-utxo-accounting-model-part-2.006.png)[](https://www.linkedin.com/in/linkedinsanchezf/ "LinkedIn")
 
-![Cardano’s Extended UTXO accounting model – built to support multi-assets and smart contracts (part 2)](img/2021-03-12-cardanos-extended-utxo-accounting-model-part-2.007.jpeg)
+![Mô hình kế toán UTXO mở rộng của Cardano - được xây dựng để hỗ trợ đa tài sản và hợp đồng thông minh (phần 2)](img/2021-03-12-cardanos-extended-utxo-accounting-model-part-2.007.jpeg)
 
 Hôm qua, chúng tôi đã cung cấp một [cái nhìn tổng quan về](https://iohk.io/en/blog/posts/2021/03/11/cardanos-extended-utxo-accounting-model/) mô hình UTXO mở rộng mà Cardano sử dụng, giải thích sự khác nhau trong cách tiếp cận so với Bitcoin và Ethereum. Bây giờ chúng ta hãy đi sâu hơn về đầu vào và đầu ra, các bộ phận cấu thành của một giao dịch.
 
