@@ -24,7 +24,7 @@ Trong bài viết này, chúng ta sẽ cùng tìm hiểu:
 - Định danh kỹ thuật số và danh tính phi tập trung (DIDs) là gì.
 - Việc phê duyệt các đặc tả cốt lõi của DID có ý nghĩa như thế nào đối với định danh kỹ thuật số.
 
-## **What is digital identity?**
+## **Định danh kỹ thuật số là gì?**
 
 Để định nghĩa định danh kỹ thuật số, trước tiên chúng ta phải hiểu tất cả những thứ cấu thành nên danh tính.
 
@@ -50,7 +50,7 @@ SSI [ là một tập hợp các nguyên tắc](https://github.com/WebOfTrustInf
 Đặc tả cốt lõi DID của The Working Group giúp định nghĩa một DID, các thành phần và chức năng của nó. Theo đó, các DID có các đặc điểm sau:
 
 - Được kiểm soát bởi các đối tượng nắm giữ chúng.
-- Enable cryptographic authentication of the DID holder.
+- Cho phép xác thực bằng mật mã của chủ sở hữu DID.
 - Mô tả việc khám phá thông tin cần thiết để khởi chạy các phương pháp liên lạc an toàn và bảo vệ quyền riêng tư.
 - Cấp quyền di chuyển dữ liệu cá nhân không phụ thuộc dịch vụ.
 
