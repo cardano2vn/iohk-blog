@@ -2,7 +2,7 @@
 
 ### **The recent DID core specification approval at the World Wide Web Consortium (W3C) provided clearer and stronger foundations for identity platforms building decentralized identifiers.**
 
-![](img/2022-09-08-advancing-digital-identity-through-did-core-specification.002.png) 8 September 2022![](img/2022-09-08-advancing-digital-identity-through-did-core-specification.002.png)[ Ivan Irakoze](/en/blog/authors/ivan-irakoze/page-1/)![](img/2022-09-08-advancing-digital-identity-through-did-core-specification.003.png) 4 mins read
+![](img/2022-09-08-advancing-digital-identity-through-did-core-specification.002.png) 8 tháng 9 năm 2022 ![](img/2022-09-08-advancing-digital-identity-through-did-core-specification.002.png) [Ivan Irakoze](/en/blog/authors/ivan-irakoze/page-1/) ![](img/2022-09-08-advancing-digital-identity-through-did-core-specification.003.png) 4 phút đọc
 
 ![Ivan Irakoze](img/2022-09-08-advancing-digital-identity-through-did-core-specification.004.png)[](/en/blog/authors/ivan-irakoze/page-1/)
 
@@ -58,7 +58,7 @@ The Working Groupâ€™s DID core specification defines a DID, its components,
 
 DID core specification approval by the W3C Director standardizes DIDs, ensuring that DID technology is accepted by all invested parties and can begin moving towards wider adoption.
 
-DespiteÂ [Google, Apple, and Mozilla formally objecting to advancing the DID specification forward](https://www.w3.org/2019/did-wg/faqs/2021-formal-objections/), theÂ [W3C Director stated that](https://www.w3.org/2022/06/DIDRecommendationDecision.html):
+Mặc dù [Google, Apple và Mozilla chính thức phản đối việc cải tiến thông số kỹ thuật DID](https://www.w3.org/2019/did-wg/faqs/2021-formal-objections/) , [Giám đốc W3C tuyên bố rằng](https://www.w3.org/2022/06/DIDRecommendationDecision.html) :
 
 *Nếu đặc tả cốt lõi về DID không chuyển sang giai đoạn Khuyến nghị, điều này sẽ làm giảm động lực cho các nhà thiết kế hệ thống định danh phi tập trung khác, dẫn tới họ có thể tuân theo sự thống nhất của một nhóm người được thuê để tạo ra một sản phẩm trong lĩnh vực này. Người ta có thể dễ dàng thấy trước không cần thiết phải triển khai các kế hoạch [URI](https://www.techtarget.com/whatis/definition/URI-Uniform-Resource-Identifier) khác làm phức tạp hóa khả năng tương tác mà cộng đồng đã và đang làm việc để giải quyết. Và kết luận rằng sự cân bằng nằm ở lợi ích của cộng đồng các nhà phát triển DID, khuyến khích họ tiếp tục công việc của mình và tìm kiếm sự đồng thuận về các phương pháp DID tiêu chuẩn. Các phản đối đã bị bác bỏ. Đặc tả cốt lõi của DID được chấp thuận để chuyển sang giai đoạn Khuyến nghị W3C.*
 
@@ -68,10 +68,10 @@ W3C Recommendation status of the DID core specification, therefore, codifies the
 
 The next step in the process outlined by the W3C Director is for the Working Group toÂ *â€œaddress and deliver proposed standard DID method(s) and demonstrate interoperable implementations.â€*
 
-## **Learn more about Atala PRISM**
+## **Tìm hiểu thêm về Atala PRISM**
 
 Input Output Global, Inc. (IOG) liên tục nghiên cứu và xây dựng các sản phẩm và dịch vụ thông qua công nghệ blockchain. Một trong những sản phẩm này là **Atala PRISM** - một nền tảng định danh kỹ thuật số được xây dựng trên các nguyên tắc SSI và một bộ dịch vụ dành cho dữ liệu có thể xác minh và danh tính kỹ thuật số, được xây dựng trên blockchain Cardano.
 
-Watch the explainer video below to learn more about Atala PRISM.
+Xem video giải thích bên dưới để tìm hiểu thêm về Atala PRISM.
 
 *Tôi muốn gửi lời cảm ơn [Peter Vielhaber](https://iohk.io/en/team/pete-vielhaber) đã đóng góp ý kiến và hỗ trợ cho bài đăng trên blog cộng tác này. Bài này được dịch bởi Vũ Đình Quân, Review bởi Quang Pham, Biên tập bởi .... Bài viết nguồn [tại đây](https://iohk.io/en/blog/posts/2022/09/08/advancing-digital-identity-through-did-core-specification). *Dự án này được tài trợ bởi Catalyst**
