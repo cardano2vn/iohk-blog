@@ -2,7 +2,7 @@
 
 ### **Cardano uses an innovative Extended UTXO accounting model to support multi-assets and smart contracts. In the first of a two-part blog, we look at the different blockchain accounting systems and why EUTXO matters**
 
-![](img/2021-03-11-cardanos-extended-utxo-accounting-model.002.png) 11 March 2021![](img/2021-03-11-cardanos-extended-utxo-accounting-model.002.png)[ Fernando Sanchez](tmp//en/blog/authors/fernando-sanchez/page-1/)![](img/2021-03-11-cardanos-extended-utxo-accounting-model.003.png) 5 mins read
+![](img/2021-03-11-cardanos-extended-utxo-accounting-model.002.png) 11 tháng 3 năm 2021 ![](img/2021-03-11-cardanos-extended-utxo-accounting-model.002.png) [Fernando Sanchez](tmp//en/blog/authors/fernando-sanchez/page-1/) ![](img/2021-03-11-cardanos-extended-utxo-accounting-model.003.png) 5 phút đọc
 
 ![Fernando Sanchez](img/2021-03-11-cardanos-extended-utxo-accounting-model.004.png)[](tmp//en/blog/authors/fernando-sanchez/page-1/)
 
@@ -12,10 +12,10 @@ Technical Writer
 
 Marketing and Communications
 
-- ![](img/2021-03-11-cardanos-extended-utxo-accounting-model.005.png)[](mailto:fernando.sanchez@iohk.io "Email")
+- ![](img/2021-03-11-cardanos-extended-utxo-accounting-model.005.png)[](mailto:fernando.sanchez@iohk.io "E-mail")
 - ![](img/2021-03-11-cardanos-extended-utxo-accounting-model.006.png)[](https://www.linkedin.com/in/linkedinsanchezf/ "LinkedIn")
 
-![Cardano’s Extended UTXO accounting model – built to support multi-assets and smart contracts](img/2021-03-11-cardanos-extended-utxo-accounting-model.007.jpeg)
+![Mô hình kế toán UTXO mở rộng của Cardano - được xây dựng để hỗ trợ đa tài sản và hợp đồng thông minh](img/2021-03-11-cardanos-extended-utxo-accounting-model.007.jpeg)
 
 Blockchain networks are complex data structures. Transactions continuously crisscross the chain, creating digital footprints that require careful tracking and management to maintain the integrity and reliability of the underlying ledger.
 
@@ -47,7 +47,7 @@ UTXO is, in many ways, similar to cash. A good analogy is this: Imagine you have
 
 Much like cash transactions in any store, UTXOs introduce ‘change.’ When you take out say a $50 bill from your wallet, you cannot tear that bill into smaller pieces to pay for something that costs $15, for example. You have to hand over the entire $50 bill and receive your change from the cashier. UTXOs work in the same way. You cannot ‘split’ a UTXO into smaller bits. UTXOs are used whole, and change given back to your wallet’s address in the form of a smaller UTXO.
 
-### **The advantages of UTXO models**
+### **Ưu điểm của mô hình UTXO**
 
 Bằng cách kiểm tra và theo dõi kích thước, thời gian và số lượng UTXO được chuyển đi xung quanh, người ta có thể trích xuất các số liệu chính xác về việc sử dụng Blockchain và hoạt động tài chính của chuỗi.
 
