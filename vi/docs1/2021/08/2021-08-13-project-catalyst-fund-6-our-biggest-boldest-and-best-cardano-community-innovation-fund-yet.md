@@ -16,7 +16,7 @@ Commercial
 - ![](img/2021-08-13-project-catalyst-fund-6-our-biggest-boldest-and-best-cardano-community-innovation-fund-yet.006.png)[](tmp/linkedin.com/in/krissbaird "LinkedIn")
 - ![](img/2021-08-13-project-catalyst-fund-6-our-biggest-boldest-and-best-cardano-community-innovation-fund-yet.007.png)[](https://twitter.com/krissbaird "Twitter")
 
-![Project Catalyst Fund6 – our biggest, boldest & best Cardano community innovation fund yet](img/2021-08-13-project-catalyst-fund-6-our-biggest-boldest-and-best-cardano-community-innovation-fund-yet.008.jpeg)
+![Project Catalyst Fund6 - Nhiều đổi mới: lớn nhất, đột phá nhất và hoàn thiện nhất của cộng đồng Cardano](img/2021-08-13-project-catalyst-fund-6-our-biggest-boldest-and-best-cardano-community-innovation-fund-yet.008.jpeg)
 
 This week, we launched [Project Catalyst Fund6](https://bit.ly/3ACVEEP), with $4m worth of ada available. Proposers can submit proposals for projects that received funding to address real-world challenges and help to build Cardano’s ecosystem.
 
