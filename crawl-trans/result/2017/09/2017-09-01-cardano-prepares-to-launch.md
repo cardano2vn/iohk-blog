@@ -1,0 +1,33 @@
+# Cardano prepares to launch
+### **Development during the past weeks has strengthened the network**
+![](img/2017-09-01-cardano-prepares-to-launch.002.png) 1 September 2017![](img/2017-09-01-cardano-prepares-to-launch.002.png)[ Charles Hoskinson](/en/blog/authors/charles-hoskinson/page-1/)![](img/2017-09-01-cardano-prepares-to-launch.003.png) 4 mins read
+
+![](img/2017-09-01-cardano-prepares-to-launch.004.png)[ Cardano prepares to launch - Input Output](https://ucarecdn.com/5daa0bd0-c0e4-48fe-82b4-aaa703cc40cb/-/inline/yes/ "Cardano prepares to launch - Input Output")
+
+![Charles Hoskinson](img/2017-09-01-cardano-prepares-to-launch.005.png)[](/en/blog/authors/charles-hoskinson/page-1/)
+### [**Charles Hoskinson**](/en/blog/authors/charles-hoskinson/page-1/)
+Chief Executive Officer
+
+Founder
+
+- ![](img/2017-09-01-cardano-prepares-to-launch.006.png)[](mailto:charles.hoskinson@iohk.io "Email")
+- ![](img/2017-09-01-cardano-prepares-to-launch.007.png)[](tmp///www.youtube.com/watch?v=Ja9D0kpksxw "YouTube")
+- ![](img/2017-09-01-cardano-prepares-to-launch.008.png)[](tmp///twitter.com/IOHK_Charles "Twitter")
+
+Developing Cardano is no small feat. There is no other project that has ever been built to these parameters, combining peer reviewed cryptographic research with an implementation in highly secure Haskell code. This is not the copy and paste code seen in so many other blockchains. Instead, Cardano was designed with input from a large global team including leading experts and professors in the fields of computer programming languages, network design and cryptography. We are extremely proud of Cardano, which required a months-long meticulous and painstaking development process by our talented engineers. With that in mind, Iâ€™m pleased to report that we are finally reaching the end of development. The target launch date is September 29 and this is based on all current, known information. We had originally planned to launch by the end of August, so there have been a few additional weeks of development. The extra time was partly due to our team uncovering a few unexpected bugs which delayed testing of the overall network. It also took longer to set up Cardanoâ€™s internal test network than expected. But during those extra weeks, we have also been able to make enhancements to dramatically improve Cardanoâ€™s performance. â€¨â€¨One of the things engineers did to improve Cardanoâ€™s performance was to change the format of messages that are sent between nodes on the network. We upgraded our binary serialisation format from a custom version to one based on an open, common standard that means third parties, such as exchanges, will find it easier to build their own nodes, and our system becomes more transparent.
+
+In recent weeks, engineers also made improvements to the network layer, rewriting code to make it run faster. The system is more stable under load and the number of transactions per second is higher. We are further improving the transaction speeds of the network and in the coming months after release will demonstrate our results. These two improvements took a few weeks to fully implement and test.
+
+We have now added additional protection against DDoS, or distributed denial of service, attacks. The networkâ€™s core nodes have been placed behind firewalls, so they are not accessible from the public internet. This gives us some protection against this type of attack, because potential attackers canâ€™t reach Cardanoâ€™s core nodes. To do this, we surrounded the core nodes with proxies, called relay nodes, which by contrast are visible to the internet. As their name suggests, these nodes relay messages to the core nodes. Even if there was an attack, the blockchain would be protected because the core nodes are not directly exposed.
+
+We have also introduced improvements to Cardanoâ€™s [delegation scheme](https://ucarecdn.com/b5e9a111-93dd-42d8-a873-a2aa5616e78e/-/inline/yes/ "Delegation and State Locking in Cardano, IOHK.io"), which keeps the network running even if its end users are not online, to strengthen it against attacks to its signature scheme. This provides an element of future-proofing by preventing attackers from stealing funds if new attacks against its signature scheme are discovered in the future. Cardano is based on proof of stake, so our solution is that Ada holders will have separate public-private keys for their coins and for their stake and the public key for the coins will not be published. This is the first step of a long term strategy to harden Ouroboros against quantum computers, a process which will require new research.
+
+While all this work was going on during the past few weeks, the team has done a lot more testing, which is always good. We found bugs, which we fixed, and the testing gave us a better assurance of quality.
+
+Recently, IOHK research â€“ our [Ouroboros](https://bitcoinmagazine.com/articles/op-ed-cryptographic-design-perspective-blockchains-bitcoin-ouroboros/ "Ouroboros in Bitcoin Magazine") and [SCRAPE](/en/blog/a-solution-for-scalable-randomness/ "A solution for scalable randomness, IOHK.io") papers â€“ were also accepted to two major conferences, [ACNS](https://cy2sec.comm.eng.osaka-u.ac.jp/acns2017/index.html "ACNS, 2017") in Japan, and [Crypto 2017](https://www.forbes.com/sites/amycastor/2017/08/23/at-crypto-2017-blockchain-presentations-focus-on-proofs-not-concepts/#37ab296b7b70 "At Major Crypto Conference, Blockchain Projects Tighten Security With Math, Forbes") in the US, and we were very proud our work has been recognised by the academic community and has been peer reviewed. A major exchange that has agreed to list Ada at launch has also been integrating with Cardanoâ€™s network. As a result, we have been adding some recommended features and minor changes.
+
+All this development work has meant that Cardanoâ€™s code has changed, sometimes significantly. That means everything has to be retested. You canâ€™t simply update code and assume that everything will be fine. The process of releasing a new version of the software takes a couple of weeks because that is how long it takes to test, and fix bugs and carry out tasks such as preparing new installers.
+
+Development has been a lengthy process but we are now very pleased to share a detailed plan showing the launch countdown. Cardano is a unique and very special product and we look forward to passing it into your hands.
+## **Attachments**
+![](img/2017-09-01-cardano-prepares-to-launch.004.png)[ Cardano prepares to launch - Input Output](https://ucarecdn.com/5daa0bd0-c0e4-48fe-82b4-aaa703cc40cb/-/inline/yes/ "Cardano prepares to launch - Input Output")
