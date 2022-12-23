@@ -23,7 +23,7 @@ Hai biến số cụ thể tiếp tục tạo ra cuộc tranh luận trong cộn
 
 Đầu năm nay, một cuộc khảo sát đã được thực hiện trong cộng đồng SPO Cardano về cách những điều này có thể được điều chỉnh và kết quả của nó có thể được xem [tại đây](https://input-output.typeform.com/report/Row2tnqQ/HSCUwpltfMyJ7yp7) .
 
-The results showed that many in the SPO community were supportive of making a change to *k* and the minimum fee, but there remains some contention. While there is a high degree of flexibility in changing the parameters themselves, the decision process is less clear-cut. So it is important to be clear about the requirements for adjusting either parameter. Altering them is fundamentally a community decision but the overriding concern for all should be the overall health and decentralization of the network.
+Kết quả cho thấy nhiều người trong cộng đồng SPO ủng hộ việc thay đổi  *k* và mức phí tối thiểu, nhưng vẫn còn một số tranh cãi. Mặc dù có mức độ linh hoạt cao trong việc tự thay đổi các tham số, nhưng quá trình ra quyết định lại kém rõ ràng hơn. Vì vậy, điều quan trọng là phải rõ ràng về các yêu cầu để điều chỉnh một trong hai tham số. Việc thay đổi chúng về cơ bản là một quyết định của cộng đồng nhưng mối quan tâm hàng đầu đối với tất cả mọi người phải là sức khỏe tổng thể và sự phi tập trung của mạng lưới.
 
 Để phù hợp với tính minh bạch và khách quan, trước tiên, phần này cố gắng cung cấp tổng quan ngắn gọn về tham số k và phí tối thiểu, phác thảo một số cách khác nhau để điều chỉnh hai tham số này cũng như ưu và nhược điểm của từng phương pháp.
 
@@ -53,7 +53,7 @@ Các pool trong khoảng 10 triệu ada trở lên sẽ có thể đưa ra mức
 
 IOG đã xác định ba kịch bản tiềm năng để cộng đồng xem xét.
 
-**Option 1: Single, immediate increase of *k* to 1,000**
+**Tùy chọn 1: Tăng  ngay lập tức *k* lên 1.000**
 
 ![](img/2022-10-27-staking-parameters-and-network-optimization-where-next-for-k-and-min-fee.008.jpeg)
 
@@ -114,4 +114,4 @@ Một cuộc khảo sát mới phác thảo ba tùy chọn cho số lượng poo
 
 Cộng đồng hiện có cơ hội xem xét các tùy chọn được đưa ra ở đây. Khảo sát/biểu mẫu sẽ được chia sẻ ngay hôm nay với các SPO qua [email](https://mailchi.mp/iohk/spo) và kênh [Thông báo của SPO](https://t.me/SPOannouncements) .
 
-*Thanks to Colin Edwards, Kevin Hammond, Fernando Sanchez, Tim Harrison, and Prof. Aggelos Kiayias for their contribution to this blog.*
+*Cảm ơn Colin Edwards, Kevin Hammond, Fernando Sanchez, Tim Harrison và Giáo sư Aggelos Kiayias vì những đóng góp của họ cho blog này. Bài này được dịch bởi Quang Pham, Review, biên tập bởi Nguyễn Hiệu . Bài viết nguồn [tại đây:](https://iohk.io/en/blog/posts/2022/10/27/staking-parameters-and-network-optimization-where-next-for-k-and-min-fee). Dự án này được tài trợ bởi Catalyst.*
