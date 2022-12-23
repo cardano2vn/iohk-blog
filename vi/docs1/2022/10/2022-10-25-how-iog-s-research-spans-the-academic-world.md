@@ -21,7 +21,7 @@ IOG đã xây dựng danh tiếng, duy trì Cardano và ada – đồng tiền m
 
 Cộng tác với các nhà nghiên cứu và các trường đại học hàng đầu trên toàn cầu, IOG chuyên giải quyết các câu hỏi nghiên cứu khó và thiết lập nền tảng vững chắc cho cơ sở hạ tầng fintech blockchain. Trong bài đăng này, chúng tôi thảo luận về việc thành lập một mạng lưới các tổ chức và phòng thí nghiệm cam kết nghiên cứu công nghệ phân tán.
 
-IOG research is led by Aggelos Kiayias, the chief scientist at IOG and a professor at the University of Edinburgh. The research team includes 26 staff members – professors, scientists, research fellows, and research engineers – all committed to the investigation of a wide area of topics, including:
+Nghiên cứu của IOG được dẫn dắt bởi Aggelos Kiayias, nhà khoa học chính của IOG và là giáo sư tại Đại học Edinburgh. Nhóm nghiên cứu bao gồm 26 giáo sư, nhà khoa học, nghiên cứu sinh và kỹ sư nghiên cứu - tất cả đều cam kết nghiên cứu nhiều lĩnh vực, bao gồm:
 
 - Mật mã
 - Kỹ thuật phần mềm
@@ -34,7 +34,7 @@ IOG research is led by Aggelos Kiayias, the chief scientist at IOG and a profess
 - Kinh tế học
 - Chính sách và quy định liên quan đến chứng khoán, ngoại hối và kinh doanh.
 
-## **The role of chief scientist**
+## **Vai trò của trưởng nhóm các nhà khoa học**
 
 [Giáo sư Kiayias](https://iohk.io/en/team/aggelos-kiayias) [gia nhập IOG vào tháng 10 năm 2016 với tư cách là nhà khoa học trưởng](https://iohk.io/en/blog/posts/2016/10/21/professor-aggelos-kiayias-joins-iohk-as-chief-scientist/) , xây dựng nhóm điều hành lên tới năm thành viên. Ông giữ chức giáo sư về an ninh mạng và quyền riêng tư tại Đại học Edinburgh. Hơn nữa, ông ấy đã đạt được danh tiếng đáng gờm trong lĩnh vực blockchain, đã viết một trong những bài báo được nhắc đến nhiều nhất trong lịch sử công nghệ – ' [Giao](https://link.springer.com/chapter/10.1007/978-3-662-46803-6_10) [thức xương sống ** bitcoin](https://link.springer.com/chapter/10.1007/978-3-662-46803-6_10) [: Phân tích và ứng dụng](https://link.springer.com/chapter/10.1007/978-3-662-46803-6_10) ' cùng với Juan Garay và Nikos Leonardos. Theo Google Scholar, nó có khoảng [1.450 trích dẫn](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=bitcoin+protocol&btnG=) cho đến nay. Ngay từ đầu, Giáo sư Kiayias đã quyết tâm xây dựng Cardano từ đầu trong khi tiếp thu những tư duy và ý tưởng tốt nhất vào thời điểm đó.
 
@@ -120,4 +120,4 @@ Blog IOG:
 - [Quan điểm chung về việc đặt cược trong Cardano](https://iohk.io/en/blog/posts/2020/11/13/the-general-perspective-on-staking-in-cardano/) : đưa ra lời khuyên đặt cược cho các bên liên quan – người ủy quyền và nhà điều hành nhóm cổ phần ( SPO).
 - [Chia sẻ phần thưởng blockchain – hệ thống hóa so sánh từ các nguyên tắc đầu tiên](https://iohk.io/en/blog/posts/2020/11/30/blockchain-reward-sharing-a-comparative-systematization-from-first-principles/) : giải thích các lựa chọn được đưa ra trong thiết kế kế hoạch chia sẻ phần thưởng của Cardano.
 - [Phí Babel – xác định phí giao dịch bằng token gốc](https://iohk.io/en/blog/posts/2021/02/25/babel-fees/) : giới thiệu một cơ chế mới cho phép thanh toán phí giao dịch bằng token do người dùng xác định trên Cardano.
-- [Stablefees and the Decentralized Reserve System](https://iohk.io/en/blog/posts/2021/06/10/stablefees-and-the-decentralized-reserve-system/): explores a new way to help make fees fair, stable, and more predictable over time.
+- [Phí ổn định và Hệ thống dự trữ phi tập trung](https://iohk.io/en/blog/posts/2021/06/10/stablefees-and-the-decentralized-reserve-system/) : khám phá một cách mới giúp tính phí công bằng, ổn định và dễ dự đoán hơn theo thời gian. Bài này được dịch bởi Quang Pham, Review và biên tập bởi Nguyễn Hiệu. Bài viết nguồn [tại đây:](https://iohk.io/en/blog/posts/2022/10/25/how-iog-s-research-spans-the-academic-world). Dự án này được tài trợ bởi Catalyst.
