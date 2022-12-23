@@ -14,7 +14,7 @@ Nghiên cứu học thuật
 
 - ![](img/2022-09-29-systematizing-blockchain-governance.005.png)[](mailto:philip.lazos@iohk.io "Email")
 
-![Systematizing blockchain governance](img/2022-09-29-systematizing-blockchain-governance.006.png)
+![Hệ thống hóa quản trị blockchain](img/2022-09-29-systematizing-blockchain-governance.006.png)
 
 Mục tiêu ban đầu của các hệ thống blockchain là đạt được sự đồng thuận phi tập trung đối với các giao dịch tiền tệ. Cho đến nay, điều này đã thành công, với các nền tảng khác nhau cung cấp nhiều cấp độ phi tập trung khác nhau, một số trong số đó khá mạnh mẽ. Kể từ đó, các blockchain đã được mở rộng để có nhiều khả năng hơn những gì Bitcoin dự định ban đầu.
 
@@ -28,7 +28,7 @@ Nhiều blockchain hiện đại đã chọn chính thức áp dụng một số
 
 Tại IOG, chúng tôi cố gắng chắt lọc phương pháp quản trị bằng **bảy** thuộc tính khác nhau. Như thường xảy ra trong bất kỳ thiết kế phức tạp nào, có sự đánh đổi đáng kể giữa cách tiếp cận như vậy là sự cân bằng phù hợp và mang lại cho mỗi hệ thống quản trị những đặc điểm riêng. Các thuộc tính có thể được nhóm lại thành bốn nhóm, được thể hiện bằng hình ảnh trong hình sau:
 
-![Blockchain governance properties](img/2022-09-29-systematizing-blockchain-governance.007.png)
+![Thuộc tính quản trị blockchain](img/2022-09-29-systematizing-blockchain-governance.007.png)
 
 Hình 1. Thuộc tính quản trị blockchain
 
@@ -62,7 +62,7 @@ Mảnh ghép cuối cùng đến từ tính sống động, đó là khả năng
 
 Trong bảng sau, bạn có thể tìm thấy đánh giá về khía cạnh quản trị của một số blockchain nổi bật, đã được chọn để đại diện cho nhiều cách tiếp cận hiện tại, bao gồm token quản trị, bầu cử hội đồng, kho bạc, v.v.:
 
-![Blockchain governance properties evaluation](img/2022-09-29-systematizing-blockchain-governance.008.jpeg)
+![Đánh giá thuộc tính quản trị blockchain](img/2022-09-29-systematizing-blockchain-governance.008.jpeg)
 
 Cuối cùng, để thiết lập một hệ thống quản trị mạnh mẽ, điều quan trọng là đạt được sự kết hợp tốt giữa các đặc tính được thảo luận ở trên trong khi xem xét từng loại nhưng chủ yếu tập trung vào một loại phù hợp hơn với thiết kế hệ thống cụ thể.
 
