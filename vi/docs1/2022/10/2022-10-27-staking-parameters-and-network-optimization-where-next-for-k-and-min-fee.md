@@ -15,7 +15,7 @@ Marketing and Communications
 - ![](img/2022-10-27-staking-parameters-and-network-optimization-where-next-for-k-and-min-fee.005.png)[](mailto:rebecca.hopwood@iohk.io "Email")
 - ![](img/2022-10-27-staking-parameters-and-network-optimization-where-next-for-k-and-min-fee.006.png)[](tmp/@RebeccaLHopwood "Twitter")
 
-![Staking parameters and network optimization – where next for k and min fee?](img/2022-10-27-staking-parameters-and-network-optimization-where-next-for-k-and-min-fee.007.png)
+![Tham số đặt cược và tối ưu hóa mạng – Tiếp theo cho tham số k và phí tối thiểu?](img/2022-10-27-staking-parameters-and-network-optimization-where-next-for-k-and-min-fee.007.png)
 
 Một tập hợp các tham số được sử dụng để xác định hành vi của giao thức Cardano. Một số tham số ổn định và có thể ít nhiều không thay đổi vô thời hạn. Những yếu tố khác liên quan đến các hoạt động trên chuỗi năng động hơn ( như môi trường đặt cược hoặc giá của ada) và do đó có thể cần điều chỉnh định kỳ cho những thay đổi và biến động của các yếu tố này.
 
