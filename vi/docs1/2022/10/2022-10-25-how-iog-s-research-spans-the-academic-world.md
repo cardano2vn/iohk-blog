@@ -15,7 +15,7 @@ Marketing &amp; Communications
 - ![](img/2022-10-25-how-iog-s-research-spans-the-academic-world.005.png)[](https://www.linkedin.com/in/olga-hryniuk-1094a3160/ "LinkedIn")
 - ![](img/2022-10-25-how-iog-s-research-spans-the-academic-world.006.png)[](https://github.com/olgahryniuk "GitHub")
 
-![How IOG’s research spans the academic world](img/2022-10-25-how-iog-s-research-spans-the-academic-world.007.png)
+![Nghiên cứu của IOG mở rộng thế giới học thuật như thế nào](img/2022-10-25-how-iog-s-research-spans-the-academic-world.007.png)
 
 IOG đã xây dựng danh tiếng, duy trì Cardano và ada – đồng tiền mã hóa gốc đầu tiên của mình. Nghiên cứu học thuật là nền tảng cho một sổ cái an toàn, phi tập trung và có thể mở rộng, dẫn đầu trong các blockchain bằng chứng cổ phần trong 5 năm qua.
 
