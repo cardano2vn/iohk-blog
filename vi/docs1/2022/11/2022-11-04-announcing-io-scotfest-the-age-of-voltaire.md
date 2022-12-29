@@ -17,7 +17,7 @@ Communications
 - ![](img/2022-11-04-announcing-io-scotfest-the-age-of-voltaire.007.png)[](https://twitter.com/timbharrison "Twitter")
 - ![](img/2022-11-04-announcing-io-scotfest-the-age-of-voltaire.008.png)[](https://github.com/timbharrison "GitHub")
 
-![Announcing IO ScotFest: the age of Voltaire](img/2022-11-04-announcing-io-scotfest-the-age-of-voltaire.009.jpeg)
+![Công bố IO ScotFest: Kỷ nguyên Voltaire](img/2022-11-04-announcing-io-scotfest-the-age-of-voltaire.009.jpeg)
 
 Edinburgh – thủ đô của Scotland và là nơi ra đời của giao thức Ouroboros của Cardano – sẽ là nơi tổ chức IO ScotFest: Kỷ nguyên Voltaire trong tháng này. Được tổ chức tại trường đại học nổi tiếng của thành phố vào ngày 18 và 19 tháng 11, nhóm Input Output Global (IOG) sẽ phát trực tiếp các bài phát biểu, thuyết trình, cập nhật dự án và thông báo từ một sự kiện ảo đặc biệt để tôn vinh Cardano, blockchain bằng chứng cổ phần hàng đầu thế giới và đánh dấu hơn 5 năm hoạt động thành công.
 
