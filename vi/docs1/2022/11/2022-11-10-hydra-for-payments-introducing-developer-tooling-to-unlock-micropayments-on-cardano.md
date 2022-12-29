@@ -92,6 +92,7 @@ Khi chúng tôi tiếp tục xác thực các tính năng mới tương tác v�
 
 Cuối cùng, để bộ công cụ phát triển cùng với hệ sinh thái Cardano đang phát triển, điều quan trọng là phải tích lũy phản hồi, thảo luận và *đóng góp* từ cộng đồng.
 
-Nếu bạn muốn tìm hiểu thêm, hãy tham gia kênh Hydra Discord để thảo luận thêm. Bài này được dịch bởi Quang Pham, Review bởi , biên tập bởi . Bài viết nguồn [tại đây:](https://iohk.io/en/blog/posts/2022/11/10/hydra-for-payments-introducing-developer-tooling-to-unlock-micropayments-on-cardano)
+Nếu bạn muốn tìm hiểu thêm, hãy tham gia kênh Hydra Discord để thảo luận thêm. Bài này được dịch bởi Quang Pham, Review v biên tập bởi Nguyễn Hiệu. 
+Bài viết nguồn [tại đây:](https://iohk.io/en/blog/posts/2022/11/10/hydra-for-payments-introducing-developer-tooling-to-unlock-micropayments-on-cardano)
 
 Dự án này được tài trợ bới Catalyst.
