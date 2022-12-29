@@ -15,7 +15,7 @@ Marketing &amp; Communications
 - ![](img/2022-11-01-repositioning-project-catalyst-ahead-of-the-next-funding-round.005.png)[](mailto:tim.richmond@iohk.io "Email")
 - ![](img/2022-11-01-repositioning-project-catalyst-ahead-of-the-next-funding-round.006.png)[](https://www.linkedin.com/in/tim--richmond/ "LinkedIn")
 
-![Repositioning Project Catalyst ahead of the next funding round](img/2022-11-01-repositioning-project-catalyst-ahead-of-the-next-funding-round.007.jpeg)
+![Tái định vị Project Catalyst trước vòng tài trợ tiếp theo](img/2022-11-01-repositioning-project-catalyst-ahead-of-the-next-funding-round.007.jpeg)
 
 Đổi mới và hợp tác là hai nguyên tắc sáng lập của Project Catalyst. Thông qua mỗi vòng tài trợ, Input Output Global, Inc. (IOG) tạo điều kiện cho Catalyst hỗ trợ những người có dự án và ý tưởng có thể tạo ra tác động tích cực trong thế giới thực.
 
