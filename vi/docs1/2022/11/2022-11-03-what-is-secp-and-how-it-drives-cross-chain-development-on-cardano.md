@@ -45,7 +45,7 @@ Các chức năng tích hợp này sẽ trở thành ưu thế của Cardano vì
 
 ## **Nguyên tắc mật mã mới sẽ hoạt động như thế nào?**
 
-![SECP on Cardano](img/2022-11-03-what-is-secp-and-how-it-drives-cross-chain-development-on-cardano.008.png)
+![SECP trên Cardano](img/2022-11-03-what-is-secp-and-how-it-drives-cross-chain-development-on-cardano.008.png)
 
 Fï»¿igure 1. How SECP cryptographic primitives will work on Cardano
 
