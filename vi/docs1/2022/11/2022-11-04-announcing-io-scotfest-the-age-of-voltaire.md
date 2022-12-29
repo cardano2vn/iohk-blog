@@ -53,4 +53,8 @@ Sự kiện này sẽ được phát trực tiếp tới cộng đồng trên c�
 
 Sự kiện chính sẽ chỉ diễn ra dưới dạng kỹ thuật số, nhưng nếu bạn là người địa phương ở Edinburgh, không thể đến Lausanne để tham dự hội nghị thượng đỉnh hoặc chỉ thích một chuyến đi đến bonnie Scotland, bạn có thể tham gia cùng chúng tôi tại một buổi gặp mặt cộng đồng đặc biệt trên vào tối ngày 18 tháng 11. Bạn có thể [đăng ký buổi gặp mặt tại đây](https://www.meetup.com/iohk-meetup/events/289331789/) . Số lượng có hạn và được cung cấp trên cơ sở ai đến trước được phục vụ trước – vì vậy đừng chậm trễ.
 
-Nếu bạn không ở Vương quốc Anh nhưng muốn tham gia một trong những cuộc gặp mặt trực tiếp vào cuối tuần của hội nghị thượng đỉnh Cardano, hãy xem danh sách các sự kiện do cộng đồng tổ chức diễn ra trên khắp thế giới. Bài này được dịch bởi Quang Pham, Review bởi , biên tập bởi . Bài viết nguồn tại đây: https://iohk.io/en/blog/posts/2022/11/04/announcing-io-scotfest-the-age-of-voltaire/<br>Dự án này được tài trợ bởi Catalyst.
+Nếu bạn không ở Vương quốc Anh nhưng muốn tham gia một trong những cuộc gặp mặt trực tiếp vào cuối tuần của hội nghị thượng đỉnh Cardano, hãy xem danh sách các sự kiện do cộng đồng tổ chức diễn ra trên khắp thế giới. Bài này được dịch bởi Quang Pham, Review và biên tập bởi Nguyễn Hiệu. 
+
+Bài viết nguồn [tại đây:](https://iohk.io/en/blog/posts/2022/11/04/announcing-io-scotfest-the-age-of-voltaire)
+
+Dự án này được tài trợ bởi Catalyst.
