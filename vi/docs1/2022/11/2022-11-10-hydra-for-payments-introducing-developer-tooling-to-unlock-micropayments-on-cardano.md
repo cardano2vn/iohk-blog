@@ -12,7 +12,7 @@ Blockchain developer
 
 Guest author
 
-![Hydra for Payments – introducing developer tooling to unlock micropayments on Cardano](img/2022-11-10-hydra-for-payments-introducing-developer-tooling-to-unlock-micropayments-on-cardano.005.png)
+![Hydra for Payments – giới thiệu công cụ dành cho nhà phát triển để mở khóa các khoản thanh toán vi mô trên Cardano](img/2022-11-10-hydra-for-payments-introducing-developer-tooling-to-unlock-micropayments-on-cardano.005.png)
 
 *IOG đang cộng tác với nhóm Obsidian Systems để thúc đẩy sự phát triển của các trường hợp sử dụng dựa trên giao thức Hydra Head. Hydra for Payments là một trong những trường hợp sử dụng như vậy.*
 
@@ -56,7 +56,7 @@ Trong suốt quá trình phát triển bộ công cụ Hydra for Payments, hai q
 - Đầu tiên, các nguyên tắc cơ bản về kỹ thuật được mô tả trong giao thức [Hydra Head](https://hydra.family/head-protocol/) chung sẽ được xác thực liên tục để đảm bảo chúng được lưu giữ trong Hydra for Payments. Điều này đặc biệt quan trọng vì nó liên quan đến các đảm bảo xung quanh sự tin cậy, bảo mật và tính chính xác.
 - Thứ hai, những cân nhắc thực tế của các nhà phát triển ví nhẹ sẽ tham gia vào toàn bộ bộ công cụ. Các tính năng sẽ luôn được thiết kế hợp lý để phát triển, triển khai và bảo trì. Sau khi được tích hợp, Hydra for Payments sẽ cải thiện đáng kể chi phí hoạt động của các nhà phát triển ví nhẹ, khả năng giám sát cơ sở hạ tầng của họ và nâng cao trải nghiệm của người dùng.
 
-![Hydra for Payments Cardano](img/2022-11-10-hydra-for-payments-introducing-developer-tooling-to-unlock-micropayments-on-cardano.006.png)
+![Hydra for Payments của Cardano](img/2022-11-10-hydra-for-payments-introducing-developer-tooling-to-unlock-micropayments-on-cardano.006.png)
 
 Hình 1. Tích hợp ví nhẹ cơ bản với Hydra for Payments và Hydra Heads
 
