@@ -55,4 +55,8 @@ Phản hồi của cộng đồng đã chỉ ra cách bổ sung các nguyên t�
 
 Để theo kịp sự phát triển, vui lòng tham gia [các kênh Discord](https://discord.com/channels/826816523368005654/826816523964383263) dành cho nhà phát triển của IOG.
 
-Tôi muốn cảm ơn Inigo Querejeta Azurmendi, Nigel Hemsley và Mark Irwin vì những đóng góp và hỗ trợ của họ trong việc chuẩn bị bài đăng trên blog này. Bài này được dịch bởi Quang Pham, Review bởi , biên tập bởi . Bài viết nguồn tại đây: https://iohk.io/en/blog/posts/2022/11/03/what-is-secp-and-how-it-drives-cross-chain-development-on-cardano/<br>Dự án này được tài trợ bởi Catalyst.
+Tôi muốn cảm ơn Inigo Querejeta Azurmendi, Nigel Hemsley và Mark Irwin vì những đóng góp và hỗ trợ của họ trong việc chuẩn bị bài đăng trên blog này. Bài này được dịch bởi Quang Pham, Review và biên tập bởi Nguyễn Hiệu. 
+
+Bài viết nguồn [tại đây:](https://iohk.io/en/blog/posts/2022/11/03/what-is-secp-and-how-it-drives-cross-chain-development-on-cardano)
+
+Dự án này được tài trợ bởi Catalyst.
