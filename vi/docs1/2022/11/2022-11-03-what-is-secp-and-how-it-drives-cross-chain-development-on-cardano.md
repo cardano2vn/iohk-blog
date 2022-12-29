@@ -47,7 +47,7 @@ Các chức năng tích hợp này sẽ trở thành ưu thế của Cardano vì
 
 ![SECP trên Cardano](img/2022-11-03-what-is-secp-and-how-it-drives-cross-chain-development-on-cardano.008.png)
 
-Fï»¿igure 1. How SECP cryptographic primitives will work on Cardano
+Figure 1. How SECP cryptographic primitives will work on Cardano
 
 Sau khi triển khai các nguyên tắc mật mã mới, Plutus sẽ có thể dễ dàng xác minh các giao dịch từ các blockchain khác bằng cách sử dụng các tiêu chuẩn ECDSA và Schnorr. Ví dụ: Plutus sẽ có thể xác minh nguyên bản các chữ ký được tạo trong side chain EVM, điều này sẽ cải thiện trải nghiệm của nhà phát triển về mặt đơn giản hóa quy trình, chi phí và nâng cao bảo mật.
 
