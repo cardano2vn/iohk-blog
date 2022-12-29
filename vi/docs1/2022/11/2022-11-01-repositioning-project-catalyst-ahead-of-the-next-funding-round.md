@@ -23,7 +23,7 @@ IOG tin tưởng vào việc trao quyền cho mọi người khám phá và phá
 
 Project Catalyst đã đạt được nhiều điều tuyệt vời. Nó đã nhận và xử lý hơn 6,1 nghìn đề xuất, đạt được hơn 1,7 triệu phiếu bầu và tài trợ cho khoảng 1,2 nghìn dự án (800 dự án vào năm 2022). Những thành tựu này là minh chứng cho niềm đam mê và niềm tin vào Project Catalyst và hệ sinh thái Cardano.
 
-## **Fund9 results**
+## **Kết quả Fund9**
 
 Fund9 có 205 đề xuất được chọn để tài trợ, cùng với 10 thách thức sẽ được thực hiện trong vòng tài trợ tiếp theo và đã nhận được hơn 364 nghìn phiếu bầu, tăng 53% so với Fund8! Và 9 dự án đã được phê duyệt để tham gia Thử thách dành cho người bản xứ của [Cardashift Catalyst](https://iohk.io/en/blog/posts/2022/06/01/fund9-catalyst-natives-cardashift-challenge-demonstrating-and-monetizing-impact/) .
 
