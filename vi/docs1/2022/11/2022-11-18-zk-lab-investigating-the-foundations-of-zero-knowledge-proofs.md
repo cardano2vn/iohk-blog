@@ -43,4 +43,4 @@ ZK-Lab đã vạch ra các mục tiêu và sáng kiến của mình tại IO Sco
 - Vai trò của zero-knowledge trong các ứng dụng phi tập trung
 - Sự tương tác của zero-knowledge, sổ cái phân tán và tính toán đa bên
 
-Join the [IO ScotFest virtual event](https://iohk.io/en/scotfest) to find out more about ZK-Lab, other research initiatives, and hear keynotes and presentations with new IOG announcements and project updates.
+Tham gia [sự kiện ảo IO ScotFest](https://iohk.io/en/scotfest) để tìm hiểu thêm về ZK-Lab, các sáng kiến nghiên cứu khác, đồng thời nghe các bài phát biểu và thuyết trình về các thông báo mới của IOG và cập nhật dự án. Bài này được dịch bởi Quang Pham, Review và biên tập bởi Nguyễn Hiệu. Bài viết nguồn [tại đây:](https://iohk.io/en/blog/posts/2022/11/18/zk-lab-investigating-the-foundations-of-zero-knowledge-proofs) Dự án này được tài trợ bới Catalyst.
