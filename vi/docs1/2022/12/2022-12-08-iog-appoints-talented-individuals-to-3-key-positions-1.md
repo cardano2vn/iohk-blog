@@ -25,7 +25,7 @@ IOG là một công ty kỹ thuật nghiên cứu blockchain nổi tiếng với
 
 Bài viết này đi sâu vào nền tảng học vấn và nghề nghiệp của những cá nhân này, cung cấp cái nhìn sâu sắc về năng lực của các thành viên trong tổ chức và đóng góp quan trọng của họ để đạt được các mục tiêu của IOG.
 
-## **Dr. Vanishree Raoâ€™s cryptography experience**
+## **Vị trí trải nghiệm mật mã của Tiến sĩ Vanishree Rao**
 
 [Tiến sĩ Rao](https://www.linkedin.com/in/vanishree-rao/) có bằng tiến sĩ về mật mã học tại Đại học California, Los Angeles (UCLA). Trong khóa học của mình, Tiến sĩ Rao đã viết [một luận án](https://escholarship.org/uc/item/55g8v0ws) giải quyết vấn đề liên quan đến trao đổi khóa không tương tác của nhiều bên (NIKE). Cô ấy cũng là đồng tác giả của các bài báo cáo [về tính toán nhiều bên](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nkD1ArIAAAAJ&citation_for_view=nkD1ArIAAAAJ:d1gkVwhDpl0C), [zero-knowledge proof](https://eprint.iacr.org/2014/143) , v.v.
 
@@ -39,7 +39,7 @@ Tại IOG, Tiến sĩ Rao làm việc dựa trên ứng dụng thực tế của
 
 “Tại IOG, có rất nhiều nghiên cứu mới nhất được đưa vào quá trình phát triển. Mọi người đều thông minh và tốt bụng một cách đáng kinh ngạc. Phép loại suy luôn xuất hiện trong đầu tôi là tôi đang đắm chìm trong biển kiến thức yêu thích của mình.” – Tiến sĩ Vanishree Rao
 
-## **Sabina Begumâ€™s marketing and strategy acumen**
+## **Vị trí sự nhạy bén về chiến lược và tiếp thị của Sabina Begum**
 
 [Sabina](https://www.linkedin.com/in/sabinabegum09/) tốt nghiệp Đại học Brunel London với bằng cử nhân về thiết kế và công nghệ đa phương tiện. Cô ấy có kỹ năng về nhận diện thương hiệu công ty và tiếp thị truyền thông xã hội và kỹ thuật số, sáng tạo ưu tiên thiết bị di động, chiến lược, kỹ thuật số, UI, UX và đồ họa chuyển động.
 
@@ -49,7 +49,7 @@ Sabina lãnh đạo nhóm Thiết kế của IOG, mang chuyên môn của cô �
 
 “Tôi rất vui khi được mang chuyên môn của mình từ thế giới công nghệ quảng cáo và lãnh đạo nhóm Sáng tạo Marcomms của IOG để phát triển các tác phẩm đột phá. Tôi muốn thu hẹp khoảng cách giữa kỹ thuật, sản phẩm, sáng tạo và tiếp thị để tạo ra sức mạnh tổng hợp và những tác phẩm truyền cảm hứng sâu sắc. Tôi tin rằng IOG có thể dẫn đầu ngành trong việc tạo ra các sản phẩm giúp cải thiện cuộc sống của mọi người.” - Sabina Begum
 
-## **Arnaud Baillyâ€™s developer background**
+## **Vị trí nền tảng nhà phát triển của Arnaud Bailly**
 
 [Arnaud](https://www.linkedin.com/in/arnaudbailly/) đã làm việc tại IOG từ tháng 3 năm 2021 và có bằng Tiến sĩ về khoa học máy tính của Đại học Khoa học và Công nghệ Lille 1. Ông là một kỹ sư và nhà phát triển phần mềm giàu kinh nghiệm có kỹ năng:
 
