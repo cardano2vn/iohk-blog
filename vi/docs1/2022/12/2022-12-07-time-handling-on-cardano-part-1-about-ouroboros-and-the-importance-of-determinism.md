@@ -17,7 +17,7 @@ Engineering
 - ![](img/2022-12-07-time-handling-on-cardano-part-1-about-ouroboros-and-the-importance-of-determinism.007.png)[](https://twitter.com/dr_c0d3 "Twitter")
 - ![](img/2022-12-07-time-handling-on-cardano-part-1-about-ouroboros-and-the-importance-of-determinism.008.png)[](https://github.com/abailly "GitHub")
 
-![Time handling on Cardano, part 1. About Ouroboros and the importance of determinism](img/2022-12-07-time-handling-on-cardano-part-1-about-ouroboros-and-the-importance-of-determinism.009.jpeg)
+![Xử lý thời gian trên Cardano, phần 1. Giới thiệu về Ouroboros và tầm quan trọng của thuyết tất định](img/2022-12-07-time-handling-on-cardano-part-1-about-ouroboros-and-the-importance-of-determinism.009.jpeg)
 
 *Hình ảnh của Noor Younis.*
 
