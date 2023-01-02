@@ -17,7 +17,7 @@ Engineering
 - ![](img/2022-12-08-time-handling-on-cardano-part-2-use-cases.007.png)[](https://twitter.com/dr_c0d3 "Twitter")
 - ![](img/2022-12-08-time-handling-on-cardano-part-2-use-cases.008.png)[](https://github.com/abailly "GitHub")
 
-![Time handling on Cardano, part 2: use cases](img/2022-12-08-time-handling-on-cardano-part-2-use-cases.009.jpeg)
+![Xử lý thời gian trên Cardano, phần 2: Các trường hợp sử dụng](img/2022-12-08-time-handling-on-cardano-part-2-use-cases.009.jpeg)
 
 *Bài đăng trên blog này được viết bởi Arnaud Bailly, Michael Peyton Jones, Sebastian Nagel, Polina Vinogradova và Brian Bush.*
 
