@@ -13,7 +13,7 @@ Marketing and Communications
 - ![](img/2022-11-18-iog-announces-new-blockchain-to-protect-data-and-safeguard-technology-freedoms.005.png)[](mailto:fernando.sanchez@iohk.io "Email")
 - ![](img/2022-11-18-iog-announces-new-blockchain-to-protect-data-and-safeguard-technology-freedoms.006.png)[](https://www.linkedin.com/in/linkedinsanchezf/ "LinkedIn")
 
-![IOG announces new blockchain to protect data and safeguard technology freedoms](img/2022-11-18-iog-announces-new-blockchain-to-protect-data-and-safeguard-technology-freedoms.007.jpeg)
+![IOG công bố blockchainmới để bảo vệ dữ liệu và quyền tự do công nghệ](img/2022-11-18-iog-announces-new-blockchain-to-protect-data-and-safeguard-technology-freedoms.007.jpeg)
 
 - Blockchain dựa trên bảo vệ dữ liệu, Midnight, sẽ bảo vệ dữ liệu cá nhân và thương mại nhạy cảm
 - Nền tảng đầu tiên của ngành nhằm mục đích bảo vệ quyền tự do cơ bản của người dùng để nói, tương tác và chia sẻ thông tin một cách an toàn
