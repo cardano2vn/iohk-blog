@@ -13,7 +13,7 @@ Marketing &amp; Communication
 - ![](img/2022-12-08-iog-appoints-talented-individuals-to-3-key-positions-1.005.png)[](mailto:ivan.irakoze@iohk.io "Email")
 - ![](img/2022-12-08-iog-appoints-talented-individuals-to-3-key-positions-1.006.png)[](https://twitter.com/The_ADA_Poet "Twitter")
 
-![IOG appoints talented individuals to 3 key positions](img/2022-12-08-iog-appoints-talented-individuals-to-3-key-positions-1.007.png)
+![IOG bổ nhiệm nhân tài vào 3 vị trí chủ chốt](img/2022-12-08-iog-appoints-talented-individuals-to-3-key-positions-1.007.png)
 
 [Input Output Global (IOG)](https://iohk.io/en/about/) tự hào chào đón hai thành viên mới và công bố thăng chức một thành viên:
 
