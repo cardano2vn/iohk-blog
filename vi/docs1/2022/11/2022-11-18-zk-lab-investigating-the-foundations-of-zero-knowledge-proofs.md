@@ -15,7 +15,7 @@ Marketing &amp; Communications
 - ![](img/2022-11-18-zk-lab-investigating-the-foundations-of-zero-knowledge-proofs.005.png)[](https://www.linkedin.com/in/olga-hryniuk-1094a3160/ "LinkedIn")
 - ![](img/2022-11-18-zk-lab-investigating-the-foundations-of-zero-knowledge-proofs.006.png)[](https://github.com/olgahryniuk "GitHub")
 
-![ZK-Lab – investigating the foundations of zero-knowledge proofs](img/2022-11-18-zk-lab-investigating-the-foundations-of-zero-knowledge-proofs.007.png)
+![ZK-Lab – Nghiên cứu nền tảng của Zero Knowledge proof](img/2022-11-18-zk-lab-investigating-the-foundations-of-zero-knowledge-proofs.007.png)
 
 Là một công ty nghiên cứu và phát triển blockchain hàng đầu, Input Output Global, Inc. (IOG) hợp tác với các trường đại học và trung tâm nghiên cứu hàng đầu để nghiên cứu công nghệ phân tán và cung cấp các giải pháp blockchain an toàn.
 
