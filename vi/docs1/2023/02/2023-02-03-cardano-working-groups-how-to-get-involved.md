@@ -1,50 +1,50 @@
 # Cardano Working Groups: Tham gia như thế nào?
 
-![](img/2023-02-03-cardano-working-groups-how-to-get-involved.002.png) 3 February 2023![](img/2023-02-03-cardano-working-groups-how-to-get-involved.002.png)[ Ivan Irakoze](/en/blog/authors/ivan-irakoze/page-1/)![](img/2023-02-03-cardano-working-groups-how-to-get-involved.003.png) 3 mins read
+![](img/2023-02-03-cardano-working-groups-how-to-get-involved.002.png) 3 tháng hai 2023 ![](img/2023-02-03-cardano-working-groups-how-to-get-involved.002.png) [Ivan Irakoze](/en/blog/authors/ivan-irakoze/page-1/) ![](img/2023-02-03-cardano-working-groups-how-to-get-involved.003.png) 3 phút đọc
 
 ![Ivan Irakoze](img/2023-02-03-cardano-working-groups-how-to-get-involved.004.png)[](/en/blog/authors/ivan-irakoze/page-1/)
 
 ### [**Ivan Irakoze**](/en/blog/authors/ivan-irakoze/page-1/)
 
-Blog/Feature Writer
+Blog/Người viết truyện
 
-Marketing &amp; Communication
+Truyền thông tiếp thị
 
-- ![](img/2023-02-03-cardano-working-groups-how-to-get-involved.005.png)[](mailto:ivan.irakoze@iohk.io "Email")
+- ![](img/2023-02-03-cardano-working-groups-how-to-get-involved.005.png)[](mailto:ivan.irakoze@iohk.io "E-mail")
 - ![](img/2023-02-03-cardano-working-groups-how-to-get-involved.006.png)[](https://twitter.com/The_ADA_Poet "Twitter")
 
-![Cardano Working Groups: how to get involved](img/2023-02-03-cardano-working-groups-how-to-get-involved.007.png)
+![Nhóm làm việc Cardano: cách tham gia](img/2023-02-03-cardano-working-groups-how-to-get-involved.007.png)
 
-The Cardano ecosystem has seen tremendous growth in the past year. With this growth, there have been areas of development that have needed to expand in parallel. One way to tackle these usability and interoperability domains through community collaboration is the assembly of a number of informal developer Working Groups (WG). Read on to learn about what these are, and how you can get involved.
+Hệ sinh thái Cardano đã chứng kiến sự tăng trưởng vượt bậc trong năm qua. Với sự tăng trưởng này, đã có những lĩnh vực phát triển cần phải mở rộng song song. Một cách để giải quyết các lĩnh vực khả năng sử dụng và khả năng tương tác này thông qua cộng tác cộng đồng là tập hợp một số Nhóm làm việc dành cho nhà phát triển không chính thức (WG). Đọc tiếp để tìm hiểu về những điều này là gì và cách bạn có thể tham gia.
 
 ## **Nhóm làm việc là gì?<br>Cardano Working Groups?**
 
-A Working Group brings together experts and committed community members around one specific topic of discussion. Each group sets its own goals regarding solutions to drive ecosystem success and adoption going forward.
+Nhóm làm việc tập hợp các chuyên gia và các thành viên cộng đồng cam kết xung quanh một chủ đề thảo luận cụ thể. Mỗi nhóm đặt mục tiêu riêng về các giải pháp để thúc đẩy sự thành công của hệ sinh thái và việc áp dụng trong tương lai.
 
-[Input Output Global (IOG)](https://iohk.io/en/about/)Â is currently facilitating the creation and bootstrapping of these groups. The ultimate goal is community empowerment to self-mobilize and collaborate on decision-making processes and solution implementation.
+[Đầu vào Đầu ra Toàn cầu (IOG)](https://iohk.io/en/about/) Â hiện đang tạo điều kiện thuận lợi cho việc tạo và khởi động các nhóm này. Mục tiêu cuối cùng là trao quyền cho cộng đồng để tự huy động và hợp tác trong các quy trình ra quyết định và thực hiện giải pháp.
 
-## **Types of Working Groups**
+## **Các loại nhóm làm việc**
 
-While more WGs can be created based on need and the communityâ€™s willingness to mobilize, IOG is currently encouraging community members to join the following groups:
+Mặc dù có thể tạo thêm nhiều Nhóm công tác dựa trên nhu cầu và sự sẵn sàng huy động của cộng đồng, IOG hiện đang khuyến khích các thành viên cộng đồng tham gia các nhóm sau:
 
-### **Developer experience**
+### **Trải nghiệm của nhà phát triển**
 
-This group seeks to identifyÂ [DApp](https://www.essentialcardano.io/glossary/dapp)Â developersâ€™ problems and pain points. Group participants will be able to help triage and prioritize the improvement areas and feature requests that will serve the ecosystem effectively. By collaborating with other players in the ecosystem, they will be able to participate in building solutions for Cardanoâ€™s DApp development. Participation in this group also includes identifying key stakeholders, creating and contributing toÂ [Cardano Improvement Proposals (CIPs)](https://www.essentialcardano.io/faq/what-is-a-cip), and (if required) assisting in the provision of funds and resources (ie. via Project Catalyst).
+Nhóm này tìm cách xác định các vấn đề và điểm khó khăn của nhà phát triển [DApp](https://www.essentialcardano.io/glossary/dapp) . Những người tham gia nhóm sẽ có thể giúp phân loại và ưu tiên các lĩnh vực cải tiến cũng như các yêu cầu về tính năng sẽ phục vụ hệ sinh thái một cách hiệu quả. Bằng cách cộng tác với những người chơi khác trong hệ sinh thái, họ sẽ có thể tham gia xây dựng các giải pháp để phát triển DApp của Cardano. Việc tham gia vào nhóm này cũng bao gồm việc xác định các bên liên quan chính, tạo và đóng góp cho các [Đề xuất Cải tiến Cardano (CIP)](https://www.essentialcardano.io/faq/what-is-a-cip) và (nếu được yêu cầu) hỗ trợ cung cấp vốn và tài nguyên (tức là thông qua Project Catalyst).
 
-### **Certification**
+### **chứng nhận**
 
-This group aims to promote the benefits of certification across Cardano and the wider industry. The group also seeks to encourage more DApps to go through the certification process, and create best practices and standards in certification and auditing processes.
+Nhóm này nhằm mục đích thúc đẩy lợi ích của chứng nhận trên Cardano và toàn ngành. Nhóm cũng tìm cách khuyến khích nhiều DApps hơn trải qua quy trình chứng nhận, đồng thời tạo ra các tiêu chuẩn và phương pháp thực hành tốt nhất trong quy trình chứng nhận và kiểm toán.
 
-### **Interoperability**
+### **khả năng tương tác**
 
-This WG was created to support the development of cross-chainÂ [decentralized](https://www.essentialcardano.io/infographic/decentralized-v-traditional-finance)Â bridges between Cardano and other chains. The more cross-chain solutions there are, the more diverse the user experience becomes as the community wonâ€™t be siloed within a single ecosystem.
+Nhóm công tác này được tạo ra để hỗ trợ phát triển các cầu nối [phi](https://www.essentialcardano.io/infographic/decentralized-v-traditional-finance) tập trung xuyên chuỗi giữa Cardano và các chuỗi khác. Càng có nhiều giải pháp chuỗi chéo, trải nghiệm người dùng càng trở nên đa dạng hơn vì cộng đồng sẽ không bị cô lập trong một hệ sinh thái duy nhất.
 
-### **Stablecoins**
+### **Đồng tiền ổn định**
 
-[Stablecoins](https://www.essentialcardano.io/glossary/stablecoin)Â are essential in addressing cryptocurrency volatility â€“ one of the obstacles to blockchainâ€™s wider adoption. With several solutions already in the works, this group seeks to combine best practices and expertise to support the implementation of stablecoins on Cardano.
+[Stablecoin](https://www.essentialcardano.io/glossary/stablecoin) Â rất cần thiết trong việc giải quyết sự biến động của tiền điện tử – một trong những trở ngại đối với việc áp dụng rộng rãi hơn blockchain. Với một số giải pháp đã được triển khai, nhóm này tìm cách kết hợp các phương pháp hay nhất và chuyên môn để hỗ trợ triển khai stablecoin trên Cardano.
 
-## **How to get involved?**
+## **Làm sao để tham gia?**
 
-Invitations to WGs are now open! Any community member can apply to become a member of their preferred group. Admission into the WG will depend on approval from its members, and the applicantâ€™s qualifications.
+Lời mời tham gia WGs hiện đang mở! Bất kỳ thành viên cộng đồng nào cũng có thể đăng ký để trở thành thành viên của nhóm ưa thích của họ. Việc được nhận vào WG sẽ phụ thuộc vào sự chấp thuận của các thành viên và trình độ của ứng viên.
 
-If you are interested in joining any of the above WGs and have the relevant expertise to do so, donâ€™t hesitate to apply today via thisÂ [registration form](https://input-output.typeform.com/working-groups).
+Nếu bạn muốn tham gia bất kỳ Nhóm công tác nào ở trên và có chuyên môn phù hợp để làm như vậy, đừng ngần ngại đăng ký ngay hôm nay thông qua [mẫu đăng ký này](https://input-output.typeform.com/working-groups) .
