@@ -17,7 +17,7 @@ Trong phần này, chúng ta sẽ khám phá những điều sau đây:
 
 ## Khóa tài sản trong hợp đồng thông minh
 
-Token locking is a feature where certain assets are reserved on the smart contract. The assets can only be unlocked when certain conditions are met, for example, when making a purchase.
+Khóa token là một tính năng trong đó một số tài sản nhất định được bảo lưu trên hợp đồng thông minh. Chỉ có thể mở khóa nội dung khi đáp ứng một số điều kiện nhất định, chẳng hạn như khi mua hàng.
 
 Để khóa tài sản trong hợp đồng luôn thành công:
 
@@ -51,7 +51,7 @@ const txHash = await wallet.submitTx(signedTx);
 
 ## Mở khóa tài sản từ Hợp đồng thông minh
 
-As we may have locked assets in the contract, you can create transactions to unlock the assets with a redeemer that corresponds to the datum. Define the corresponding code to create the datum, only a transaction with the corrent datum hash is able to unlock the asset. Define the unit of the locked asset to search for the UTXO in the smart contract, which is required for the transaction's input.
+Vì chúng tôi có thể có tài sản bị khóa trong hợp đồng, bạn có thể tạo giao dịch để mở khóa tài sản bằng redeemer tương ứng với datum. Xác định mã tương ứng để tạo dữ liệu, chỉ một giao dịch có hàm băm dữ liệu chính xác mới có thể mở khóa nội dung. Xác định đơn vị của tài sản bị khóa để tìm kiếm UTXO trong hợp đồng thông minh, được yêu cầu cho đầu vào của giao dịch.
 
 ```javascript
 async function _getAssetUtxo({ scriptAddress, asset, datum }) {
@@ -101,7 +101,7 @@ const txHash = await wallet.submitTx(signedTx);
 
 ## Đúc tài sản với hợp đồng thông minh
 
-We can use a Plutus Script to mint tokens. This script is designed to always succeed, meaning that anyone can sign and mint tokens with it, as there are no validation on this script.
+Chúng ta có thể sử dụng Plutus Script để đúc mã thông báo. Tập lệnh này được thiết kế để luôn thành công, nghĩa là bất kỳ ai cũng có thể ký và đúc token bằng tập lệnh này, vì tập lệnh này không có xác thực.
 
 ```javascript
 import {
