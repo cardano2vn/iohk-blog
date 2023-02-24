@@ -1,25 +1,25 @@
 ---
-id: react
-sidebar_position: '8'
-title: React Web App   - Mesh SDK (Open-Source Library for Building Web3 Apps on the Cardano Blockchain)
-sidebar_label: React Web App
-description: Start building web3 applications, interact with your contracts using your wallets.
+id: phản ứng
+sidebar_position: số 8
+title: Ứng dụng web phản ứng   - SDK lưới (Thư viện mã nguồn mở để xây dựng ứng dụng Web3 trên chuỗi khối Cardano)
+sidebar_label: Ứng dụng web phản ứng
+description: Bắt đầu xây dựng các ứng dụng web3, tương tác với các hợp đồng của bạn bằng ví của bạn.
 image: "../img/og/og-getstarted-mesh.png"
 ---
 
 Mesh cung cấp một tập hợp các thành phần giao diện người dùng hữu ích, vì vậy bạn có thể dễ dàng thêm chức năng web3 và các tiện ích thuận tiện cho ứng dụng của mình.
 
-- [MeshProvider](#meshprovider) - Subscribe to wallet changes
-- [UI Components](#ui-components) - React frontend components to speed up your app development.
+- [MeshProvider](#meshprovider) - Đăng ký thay đổi ví
+- [Thành phần giao diện người dùng](#ui-components) - Các thành phần giao diện phản ứng để tăng tốc độ phát triển ứng dụng của bạn.
 - [Wallet hooks](#wallet-hooks) - Hooks phản ứng để tương tác với ví được kết nối
 
-To start, install `mesh-react`:
+Để bắt đầu, hãy cài đặt `mesh-react` :
 
 ```bash
 npm install @meshsdk/react
 ```
 
-Next, let's add `MeshProvider` to the root of the application. [React Context](https://reactjs.org/docs/context.html) allows apps to share data across the app, and MeshProvider allows your app to subscribe to context changes.
+Tiếp theo, hãy thêm `MeshProvider` vào thư mục gốc của ứng dụng. [React Context](https://reactjs.org/docs/context.html) cho phép ứng dụng chia sẻ dữ liệu trên toàn ứng dụng và MeshProvider cho phép ứng dụng của bạn đăng ký thay đổi ngữ cảnh.
 
 ```javascript
 import { MeshProvider } from "@meshsdk/react";
@@ -35,9 +35,9 @@ function MyApp({ Component, pageProps }: AppProps) {
 
 ## Thành phần giao diện người dùng(UI Components)
 
-In order for dApps to communicate with the user's wallet, we need a way to connect to their wallet.
+Để các dApp giao tiếp với ví của người dùng, chúng tôi cần một cách để kết nối với ví của họ.
 
-Add this CardanoWallet to allow the user to select a wallet to connect to your dApp. After the wallet is connected, see Browser Wallet for a list of CIP-30 APIs.
+Thêm CardanoWallet này để cho phép người dùng chọn ví để kết nối với dApp của bạn. Sau khi ví được kết nối, hãy xem Ví trình duyệt để biết danh sách API CIP-30.
 
 ```javascript
 import { CardanoWallet } from '@meshsdk/react';
@@ -51,15 +51,15 @@ export default function Page() {
 }
 ```
 
-Browse all [UI Components](https://meshjs.dev/react/ui-components) provided by Mesh to start building web3 applications, interact with your contracts using your wallets.
+Duyệt qua tất cả [các Thành phần giao diện người dùng](https://meshjs.dev/react/ui-components) do Lưới cung cấp để bắt đầu xây dựng các ứng dụng web3, tương tác với các hợp đồng của bạn bằng ví của bạn.
 
 ## Wallet Hooks
 
-In a React application, Hooks allows you to extract and reuse stateful logic and variables without changing your component hierarchy. This makes it easy to reuse the same Hook among many components. You can try each of these hooks on [Mesh Playground](https://meshjs.dev/react/wallet-hooks).
+Trong một ứng dụng React, Hooks cho phép bạn trích xuất và tái sử dụng các biến và logic có trạng thái mà không thay đổi hệ thống phân cấp thành phần của bạn. Điều này giúp dễ dàng sử dụng lại cùng một Hook giữa nhiều thành phần. Bạn có thể thử từng móc này trên [Sân chơi lưới](https://meshjs.dev/react/wallet-hooks) .
 
 ### useWalletList
 
-Returns a list of wallets installed on user's device.
+Trả về danh sách ví được cài đặt trên thiết bị của người dùng.
 
 ```javascript
 import { useWalletList } from '@meshsdk/react';
@@ -84,7 +84,7 @@ export default function Page() {
 
 ### useAddress
 
-Return address of connected wallet.
+Địa chỉ trả về của ví được kết nối.
 
 ```javascript
 import { useAddress } from '@meshsdk/react';
@@ -100,7 +100,7 @@ export default function Page() {
 
 ### useAssets
 
-Return a list of assets in connected wallet from all UTXOs.
+Trả về danh sách nội dung trong ví được kết nối từ tất cả các UTXO.
 
 ```javascript
 import { useAssets } from '@meshsdk/react';
@@ -125,7 +125,7 @@ export default function Page() {
 
 ### useLovelace
 
-Return amount of lovelace in wallet.
+Trả lại số lượng lovelace trong ví.
 
 ```javascript
 import { useLovelace } from '@meshsdk/react';
@@ -143,7 +143,7 @@ export default function Page() {
 
 ### useNetwork
 
-Return the network of connected wallet.
+Trả lại mạng của ví được kết nối.
 
 ```javascript
 import { useNetwork } from '@meshsdk/react';
@@ -161,7 +161,7 @@ export default function Page() {
 
 ### useWallet
 
-Provide information on the current wallet's state, and functions for connecting and disconnecting user wallet.
+Cung cấp thông tin về trạng thái của ví hiện tại và các chức năng kết nối và ngắt kết nối ví của người dùng.
 
 ```javascript
 import { useWallet } from '@meshsdk/react';
@@ -187,4 +187,4 @@ export default function Page() {
 }
 ```
 
-Check out the [Mesh Playground](https://meshjs.dev/react/wallet-hooks) for live demo and full explanation.
+Kiểm tra [Sân chơi lưới](https://meshjs.dev/react/wallet-hooks) để xem bản trình diễn trực tiếp và giải thích đầy đủ.
