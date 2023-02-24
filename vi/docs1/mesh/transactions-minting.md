@@ -1,7 +1,7 @@
 ---
 id: transactions-minting
 sidebar_position: '6'
-title: Minting Transactions   - Mesh SDK (Open-Source Library for Building Web3 Apps on the Cardano Blockchain)
+title: Giao dịch đúc tiền   - SDK Mesh (Thư viện mã nguồn mở để xây dựng ứng dụng Web3 trên Chuỗi khối Cardano)
 sidebar_label: Giao dịch đúc tiền
 description: Tìm hiểu cách sử dụng ForgeScript để tạo các giao dịch đúc để đúc và ghi nội dung gốc.
 image: "../img/og/og-getstarted-mesh.png"
@@ -11,10 +11,10 @@ Trong phần này, chúng ta sẽ học cách sử dụng ForgeScript để tạ
 
 Trong phần này, chúng ta sẽ khám phá những điều sau đây:
 
-- [Minting Assets](#minting-assets)
-- [Burning Assets](#burning-assets)
+- [Đúc tài sản](#minting-assets)
+- [Đốt tài sản](#burning-assets)
 
-## Minting Assets
+## Đúc tài sản
 
 Chúng ta sẽ xem cách đúc nội dung gốc bằng `ForgeScript` .
 
@@ -74,7 +74,7 @@ const forgingScript = ForgeScript.fromNativeScript(nativeScript);
 
 [thử bản trình diễn](https://meshjs.dev/apis/transaction/minting#minting)
 
-## Burning Assets
+## Đốt tài sản
 
 Giống như đúc nội dung, chúng ta cần xác định `ForgeScript` . Chúng tôi sử dụng địa chỉ ví đầu tiên làm "địa chỉ đúc". Lưu ý rằng, tài sản chỉ có thể bị đốt cháy theo địa chỉ đúc của nó.
 
