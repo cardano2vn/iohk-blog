@@ -9,18 +9,18 @@ image: "../img/og/og-getstarted-mesh.png"
 
 Khi viết, có 4 loại giao dịch chính:
 
-- [Send lovelace and assets](transactions-basic) (this)
+-  [Gửi lovelace và tài sản](transactions-basic) (cái này)
 - [Tương tác với hợp đồng thông minh](transactions-smart-contract)
 - [Đúc và đốt tài sản](transactions-minting)
-- [Interacting with stakepools](transactions-staking)
+- [Tương tác với các stakepool](transactions-staking)
 
 Trong phần này, chúng ta sẽ khám phá những điều sau đây:
 
 - [Gửi ADA đến Địa chỉ](#send-ada-to-addresses)
 - [Gửi nhiều tài sản đến địa chỉ](#send-multiple-assets-to-addresses)
-- [Send Assets to Handler](#send-assets-to-handler)
+- [Gửi tài sản cho Hendler](#send-assets-to-handler)
 
-## Send ADA to Addresses
+## Gửi ADA đến một Địa chỉ
 
 Bạn có thể xâu chuỗi `tx.sendLovelace()` để gửi cho nhiều người nhận. Ví dụ:
 
@@ -70,7 +70,7 @@ const txHash = await wallet.submitTx(signedTx);
 
 [thử bản trình diễn](https://meshjs.dev/apis/transaction#sendAssets)
 
-## Send Assets to Handler
+## Gửi tài sản cho Handler
 
 Chúng tôi có thể lấy địa chỉ của Tay cầm ADA với bất kỳ nhà cung cấp chuỗi khối nào và gọi hàm `fetchHandleAddress()` .
 
