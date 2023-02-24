@@ -72,3 +72,26 @@ Nếu bạn đang muốn sử dụng Lưới vào dự án hiện tại của m�
 [NestJS](https://meshjs.dev/migration-manual-installation#nestjs) | Khung cho các ứng dụng phía máy chủ
 [Gatsby](https://meshjs.dev/migration-manual-installation#gatsby) | Trình tạo trang tĩnh được xây dựng trên Node.js bằng React và GraphQL
 [gói web](https://meshjs.dev/migration-manual-installation#webpack) | Một gói mô-đun cho JavaScript.
+
+## Guides
+
+Whether you are new to web development or a seasoned blockchain full-stack developer, these guides will help you get started.
+
+| [Browse all guides](https://meshjs.dev/guides) | |
+|--|--|
+| [Start a Web3 app on Next.js](https://meshjs.dev/guides/nextjs) | A step-by-step guide to setup a Next.js web application, connect wallet and browse wallet's assets. |
+| [Minting on Node.js](https://meshjs.dev/guides/minting-on-nodejs) | Load a CLI generated key and mint assets on Node.js |
+| [Multi-Signatures Transaction (Minting)](https://meshjs.dev/guides/multisig-minting) | Create a multi-sig transaction and mint NFTs|
+| [Use Smart Contract with Mesh](https://meshjs.dev/guides/smart-contract) | A step-by-step guide to integrate your Cardano Smart Contract to a web application. |
+| [Cryptographically Prove Wallet Ownership](https://meshjs.dev/guides/prove-wallet-ownership) | Cryptographically prove the ownership of a wallet by signing a piece of data using data sign. |
+
+## Migration Manual Installation
+
+If you are looking to use Mesh into your existing project, you can choose the stack and configure them.
+
+| [Browse all stacks](https://meshjs.dev/migration-manual-installation) | |
+|--|--|
+| [Next.js](https://meshjs.dev/migration-manual-installation#nextjs) | Web development framework created by Vercel enabling React-based web applications with server-side rendering |
+| [NestJS](https://meshjs.dev/migration-manual-installation#nestjs) | Framework for server-side applications |
+| [Gatsby](https://meshjs.dev/migration-manual-installation#gatsby) | Static site generator built on top of Node.js using React and GraphQL |
+| [Webpack](https://meshjs.dev/migration-manual-installation#webpack) | A module bundler for JavaScript. |
