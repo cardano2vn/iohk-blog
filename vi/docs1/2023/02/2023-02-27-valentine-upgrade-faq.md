@@ -23,17 +23,17 @@ Tiếp thị và Truyền thông
 
 **Trả lời** - Để cho phép xây dựng các ứng dụng chuỗi chéo hiệu quả, các chức năng tích hợp mới đã được thêm vào để hỗ trợ chữ ký ECDSA và Schnorr cùng với chữ ký gốc của Cardano. Sau khi được triển khai, các chức năng này sẽ trở thành bản địa của Cardano. Một lợi thế bổ sung là kiểm toán bảo mật của các chuyên gia sẽ đảm bảo mức độ bảo mật cao nhất có thể.
 
-**Q** - **What is an intra-era hard fork?**
+**Q** - **Hard fork này thay đổi  gì?**
 
-**A** - A small and focused semantic change to the ledger requiring a hard fork. It doesn't change the ledger era (eg, Babbage) though.
+**A** - Một thay đổi ngữ nghĩa nhỏ và tập trung đối với sổ cái.  Tuy nhiên, nó không thay đổi kỷ nguyên sổ cái (ví dụ: Babbage).
 
-**Q** - **How do DApp developers benefit from the implementation of native ECDSA and Schnorr signatures on Cardano?**
+**Hỏi** - **Các nhà phát triển DApp được hưởng lợi như thế nào từ việc triển khai chữ ký ECDSA và chữ ký gốc Schnorr  trên Cardano?**
 
-**A** - These signatures are commonly used in other chains and are well understood, which means that DApp developers will enjoy a wider choice of multi-signature or threshold signature design and thus enhanced usability of Cardano.
+**Trả lời** - Những chữ ký này thường được sử dụng trong các chuỗi khác và được hiểu rõ, điều đó có nghĩa là các nhà phát triển DApp sẽ có nhiều lựa chọn hơn về thiết kế đa chữ ký hoặc chữ ký ngưỡng. Do đó nâng cao khả năng sử dụng của Cardano.
 
 **H** - **Tại sao lại cần một hard fork để thêm các chức năng tích hợp mới cho chữ ký Schnorr và ECDSA với đường cong SECP256k1 cho các tập lệnh Plutus?**
 
-**A** - This update requires a hard fork because of the changes needed for the Plutus interpreter. Because this is an intra-era hard fork, it does not change the ledger era, which means that this is an upgrade to the Babbage era (Vasil functionality).
+**Trả lời** - Bản cập nhật này yêu cầu hard fork vì những thay đổi cần thiết cho trình thông dịch Plutus. Bởi vì đây là một hard fork nội tại, nó không thay đổi kỷ nguyên sổ cái, điều đó có nghĩa đây là bản nâng cấp của kỷ nguyên Babbage (chức năng Vasil).
 
 **Q** - **Mật mã gốc là gì?**
 
