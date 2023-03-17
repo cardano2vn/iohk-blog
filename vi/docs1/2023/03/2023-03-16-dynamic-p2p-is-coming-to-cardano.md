@@ -25,7 +25,7 @@ P2P động có chức năng tích hợp sẵn với bản phát hành nút v.1.
 
 Dưới đây là thông tin thêm về sự phát triển của mạng Cardano và các tính năng mà Dynamic P2P mang lại.
 
-## **Connectivity**
+## **Kết nối**
 
 [Các giao thức mạng của Cardano](https://iohk.io/en/blog/posts/2021/04/06/boosting-network-decentralization-with-p2p/) kết hợp các nút và tương tác của chúng thành một hệ thống thống nhất sử dụng cơ sở hạ tầng truyền thông tiêu chuẩn. Mạng phân phối thông tin về các giao dịch và khối cho tất cả các nút đang hoạt động.
 
@@ -70,4 +70,4 @@ Cuối cùng, P2P tối ưu hóa việc lựa chọn các đồng nghiệp để
 
 Xem [thông số kỹ thuật](https://input-output-hk.github.io/ouroboros-network/pdfs/network-spec/network-spec.pdf) này để biết thêm chi tiết.
 
-ï»¿*Weâ€™re continuing to share further updates with the SPO community and invite everyone to join the [SPO Telegram group](https://t.me/SPOannouncements) and [Discord channel](https://discord.com/invite/inputoutput) for technical discussions.*
+ *Chúng tôi đang tiếp tục chia sẻ thêm các bản cập nhật với cộng đồng SPO và mời mọi người tham gia [nhóm SPO Telegram](https://t.me/SPOannouncements) và [kênh Discord](https://discord.com/invite/inputoutput) để thảo luận kỹ thuật.*
